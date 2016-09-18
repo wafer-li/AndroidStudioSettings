@@ -1,0 +1,148 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="G:/Programming/WaterCard_RW_forAndroid/app/src/main/java/com/bakabaka/MainActivity.java" timestamp="1467226342221">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
+      <file name="G:/Programming/WaterCard_RW_forAndroid/build.gradle" timestamp="1467225484995">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" timestamp="1464182651709">
+        <mark key="'" line="502" column="0" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/SharedPreferenceSingleton.java" timestamp="1464364694615">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/UserInfoKeys.java" timestamp="1464364442391">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="58" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/UserInfoContract.java" timestamp="1464364096826">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" timestamp="1463653748765">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="83" column="50" />
+        <mark key="]" line="83" column="49" />
+        <mark key="." line="75" column="76" />
+        <mark key="^" line="83" column="49" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" timestamp="1464010718404">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/SharedPreferencesSingleton.java" timestamp="1463718928203">
+        <mark key="[" line="22" column="42" />
+      </file>
+      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" timestamp="1463719419404">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="78" column="21" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="599" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="579" column="34" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="600" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="483" column="23" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="31" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="122" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="42" column="32" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="0" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="81" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="64" column="23" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="120" column="8" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="531" column="50" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="43" column="66" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="438" column="18" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="0" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="519" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="34" column="43" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="369" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="315" column="4" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="502" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="77" column="11" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="61" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" />
+      <jump line="79" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" />
+      <jump line="11" column="0" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" />
+      <jump line="16" column="3" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" />
+      <jump line="17" column="4" filename="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>+</text>
+      </register>
+      <register name="3" type="4">
+        <text>.</text>
+      </register>
+      <register name="4" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBwcmVmZXJlbmNlcyA9IGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoIiIpYGBgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBSZXF1aXJlZCBlbXB0eQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>s</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>+</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>we</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
