@@ -269,7 +269,8 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1474375894339">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1474380677714">
+        <mark key="'" line="0" column="43" />
         <mark key="]" line="22" column="23" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
@@ -576,7 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
       <jump line="38" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
       <jump line="15" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/Api.java" />
@@ -676,6 +676,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" />
       <jump line="6" column="29" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" />
       <jump line="20" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" />
+      <jump line="0" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
