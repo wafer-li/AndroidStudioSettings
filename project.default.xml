@@ -23,6 +23,16 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Programming/AndroidStudioProjects/Akashi-Toolkit" value="4375409087000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -35,10 +45,10 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="E:/programming_tool/AndroidSdk" />
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="E:/programming/AndroidStudioProjects" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Programming/AndroidStudioProjects" />
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -98,7 +108,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />

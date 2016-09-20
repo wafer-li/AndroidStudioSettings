@@ -3,370 +3,716 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1474076058251">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/ResponseHandleHelper.java" timestamp="1461414106025">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/drawable/richpush_btn_selector.xml" timestamp="1462132883595">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkSingleton.java" timestamp="1468376898451">
+        <mark key="[" line="54" column="78" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="41" />
+      </file>
+      <file name="/a.dummy" timestamp="1468464106459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/UpdateMapInfoRequest.java" timestamp="1473716466217">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/include_location_school_input_framwork.xml" timestamp="1465142649359">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/GetMapInfoAndGeoJsonResponse.java" timestamp="1473746041409">
-        <mark key="'" line="13" column="0" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/Api.java" timestamp="1468390363342">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/UploadMapGeoJsonRequest.java" timestamp="1473784522719">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/com/edu/bupt/sse/undergroundnav/application/UndergroundNavApplication.java" timestamp="1469716516615">
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="33" column="43" />
+        <mark key="^" line="33" column="43" />
+        <mark key="." line="33" column="43" />
       </file>
-      <file name="G:/Programming/WaterCard_RW_forAndroid/build.gradle" timestamp="1467225484995">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/FirstLoginActivity.java" timestamp="1461213196851">
+        <mark key="[" line="75" column="37" />
+        <mark key="]" line="77" column="22" />
+        <mark key="." line="77" column="22" />
+        <mark key="^" line="77" column="22" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/UserInfoContract.java" timestamp="1464364096826">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/application/MyApplication.java" timestamp="1462030424467">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/Api.java" timestamp="1465141195346">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
+        <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkWrapper.java" timestamp="1468377712738">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/utils/TextErrorHelper.java" timestamp="1465211089680">
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
+        <mark key="^" line="64" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" timestamp="1468525593267">
+        <mark key="'" line="225" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="211" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/fragment_register_page.xml" timestamp="1465182339580">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="88" column="54" />
+        <mark key="." line="88" column="54" />
+        <mark key="^" line="88" column="54" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
+        <mark key="[" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitSchoolsService.java" timestamp="1465209030916">
+        <mark key="'" line="0" column="32" />
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="31" />
+        <mark key="^" line="73" column="31" />
+        <mark key="." line="73" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
+        <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/db/School.java" timestamp="1465208944996">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/Url.java" timestamp="1468414729805">
+        <mark key="'" line="24" column="67" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_invite_couple.xml" timestamp="1461200488225">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/MainActivity.java" timestamp="1461235938038">
+        <mark key="[" line="2" column="83" />
+        <mark key="]" line="2" column="125" />
+        <mark key="." line="2" column="125" />
+        <mark key="^" line="2" column="125" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_item.xml" timestamp="1460453932378">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/response/BaseResponse.java" timestamp="1464454623706">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
+        <mark key="[" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/UserInfo.java" timestamp="1464456748327">
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="78" column="53" />
+        <mark key="." line="78" column="53" />
+        <mark key="^" line="78" column="54" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="39" column="13" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
+        <mark key="[" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/NetworkContract.java" timestamp="1462042170729">
+        <mark key="[" line="33" column="62" />
+        <mark key="]" line="33" column="62" />
+        <mark key="." line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/school.csv" timestamp="1465071838797">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/arrays.xml" timestamp="1465208800431">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/build.gradle" timestamp="1468379175504">
+        <mark key="[" line="57" column="54" />
+        <mark key="]" line="48" column="67" />
+        <mark key="." line="48" column="67" />
+        <mark key="^" line="48" column="67" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiLayer.java" timestamp="1474375883319">
+        <mark key="[" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/db/Province.java" timestamp="1465061567289">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" timestamp="1465419513175">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="473" column="30" />
+        <mark key="]" line="473" column="30" />
+        <mark key="." line="473" column="30" />
+        <mark key="^" line="473" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/InviteCoupleActivity.java" timestamp="1461212451340">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="41" column="85" />
+        <mark key="." line="41" column="85" />
+        <mark key="^" line="41" column="85" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/LoginMainPageFragment.java" timestamp="1461212797354">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="52" column="48" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/spinner_gender_item.xml" timestamp="1460452488812">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/simple_spinner_item.xml" timestamp="1465181604385">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/Subway.java" timestamp="1468389477084">
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/layout_first_login_mode_item.xml" timestamp="1461163746683">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_toolbar.xml" timestamp="1460226615201">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" timestamp="1468512536264">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="168" column="27" />
+        <mark key="]" line="168" column="45" />
+        <mark key="." line="168" column="45" />
+        <mark key="^" line="168" column="45" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
+        <mark key="[" line="61" column="51" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/JChat/AndroidManifest.xml" timestamp="1462124463033">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_splash.xml" timestamp="1460224470290">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1474375894339">
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/styles.xml" timestamp="1461340733601">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="87" />
+        <mark key="." line="8" column="87" />
+        <mark key="^" line="8" column="87" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/request/RegisterInfo.java" timestamp="1465419495560">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/stub_school_input_text.xml" timestamp="1465142633541">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="34" />
+        <mark key="^" line="4" column="16" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" timestamp="1464010718404">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" timestamp="1464455975791">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" timestamp="1463719419404">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/VolleyErrorHelper.java" timestamp="1462042463868">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" timestamp="1473775402871">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="81" column="34" />
-        <mark key="]" line="81" column="61" />
-        <mark key="." line="81" column="61" />
-        <mark key="^" line="81" column="61" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/AndroidManifest.xml" timestamp="1468377619508">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/requests/UpdateMapInfoRequest.java" timestamp="1473712748535">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
+        <mark key="[" line="6" column="42" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/PermissionUtil.java" timestamp="1472156818056">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" timestamp="1471246008557">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/NetworkStatics.java" timestamp="1473714970097">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/AccountApi.java" timestamp="1468382954724">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/SharedPreferenceSingleton.java" timestamp="1464364694615">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/TicketOrder.java" timestamp="1468390338040">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataServices.java" timestamp="1471898624095">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" timestamp="1465208765393">
+        <mark key="'" line="35" column="9" />
+        <mark key="[" line="67" column="74" />
+        <mark key="]" line="68" column="54" />
+        <mark key="." line="68" column="54" />
+        <mark key="^" line="68" column="54" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/UserInfoKeys.java" timestamp="1464364442391">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="59" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/fragment_login_main_page.xml" timestamp="1465211813028">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+        <mark key="^" line="14" column="55" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preferences/SharedPreferencesSingleton.java" timestamp="1463718928203">
-        <mark key="[" line="22" column="42" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1471986957715">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="77" column="7" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/proguard-rules.pro" timestamp="1473774648706">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1472165453734">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1474076058082">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1474076037986">
-        <mark key="'" line="24" column="50" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="46" />
-        <mark key="." line="44" column="46" />
-        <mark key="^" line="44" column="46" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1473775560637">
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="63" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/CreateMapResult.java" timestamp="1473748591915">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="29" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/BaseResponse.java" timestamp="1473748542809">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/GetMapInfoAndGeoJsonResult.java" timestamp="1473786320623">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/responses/GetMapInfoAndGeoJsonResponse.java" timestamp="1473712869582">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/utils/UserInfoUtils.java" timestamp="1464453712580">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MapUtil.java" timestamp="1472254344338">
-        <mark key="'" line="8" column="21" />
-        <mark key="[" line="32" column="64" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="33" column="55" />
-        <mark key="^" line="33" column="55" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/GsonUtils.java" timestamp="1461555766765">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+        <mark key="^" line="36" column="53" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/CreateMapResponse.java" timestamp="1473748580373">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/activity_add_friend.xml" timestamp="1465415822974">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LogUtil.java" timestamp="1474214495217">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/build.gradle" timestamp="1468380320410">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="8" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/NetworkServices.java" timestamp="1473706448555">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/ApiModel.java" timestamp="1468383207587">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/NetworkSingleton.java" timestamp="1473698974241">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/shared_preferences/UserInfo.java" timestamp="1465225144341">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="117" column="83" />
       </file>
-      <file name="G:/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/LoginMainPageFragment.java" timestamp="1463653748765">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="83" column="50" />
-        <mark key="]" line="83" column="49" />
-        <mark key="." line="75" column="76" />
-        <mark key="^" line="83" column="49" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/include_location_school_input_framework.xml" timestamp="1465149288479">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/responses/CreateMapResponse.java" timestamp="1473712609006">
-        <mark key="[" line="11" column="19" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1471150198312">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/response/UserInfo.java" timestamp="1464455554500">
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="56" column="50" />
+        <mark key="." line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/SplashActivity.java" timestamp="1465210631758">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" timestamp="1468517664024">
+        <mark key="'" line="172" column="57" />
+        <mark key="[" line="245" column="38" />
+        <mark key="]" line="245" column="44" />
+        <mark key="^" line="245" column="44" />
+        <mark key="." line="245" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_dropdown_item.xml" timestamp="1461342957026">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/login_process/LoginActivity.java" timestamp="1462031182659">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/TestModel.java" timestamp="1461369466681">
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
+        <mark key="[" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/Main2Activity.java" timestamp="1461753947609">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_first_login.xml" timestamp="1461163616337">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.xml" timestamp="1465148510336">
+        <mark key="'" line="309" column="26" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" timestamp="1464455685880">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkApi.java" timestamp="1468382380891">
+        <mark key="[" line="11" column="25" />
         <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/requests/UploadMapGeoJsonRequest.java" timestamp="1473712790798">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1469800169097">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/BaseResults.java" timestamp="1473736790655">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/TestModel.java" timestamp="1461594365912">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiLayer.java" timestamp="1473792871169">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="72" />
-        <mark key="." line="35" column="72" />
-        <mark key="^" line="35" column="72" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/adapter/SchoolAutoCompleteAdapter.java" timestamp="1465207476392">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+        <mark key="." line="65" column="26" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" timestamp="1472161014219">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/item_search_friend_button.xml" timestamp="1465418733051">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="43" />
       </file>
-      <file name="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" timestamp="1472224877255">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="77" column="78" />
-        <mark key="]" line="78" column="11" />
-        <mark key="." line="78" column="11" />
-        <mark key="^" line="78" column="11" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/TestModle.java" timestamp="1461156362174">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="53" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="50" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1473746007789">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
+        <mark key="[" line="388" column="1" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/Account.java" timestamp="1468390357515">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
+        <mark key="[" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/menu/login_menu.xml" timestamp="1460110827682">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1468910823422">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+        <mark key="^" line="11" column="70" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/jpush_webview_layout.xml" timestamp="1462132775213">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/school_names.xml" timestamp="1465209927663">
+        <mark key="'" line="2413" column="18" />
+        <mark key="[" line="2557" column="0" />
+        <mark key="]" line="2557" column="0" />
+        <mark key="^" line="2556" column="30" />
+        <mark key="." line="2557" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout-v21/item_search_friend_button.xml" timestamp="1465418728613">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
+        <mark key="[" line="61" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="34" />
+        <mark key="^" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1469714912028">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="27" column="56" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/jpush_style.xml" timestamp="1462132067166">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
+        <mark key="[" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/stub_cities_spinner.xml" timestamp="1465141996367">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1468385620342">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/AddFriendActivity.java" timestamp="1465416278458">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/build.gradle" />
-      <jump line="20" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/build.gradle" />
-      <jump line="0" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/build.gradle" />
-      <jump line="19" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/build.gradle" />
-      <jump line="10" column="42" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BaseActivity.java" />
-      <jump line="51" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BaseActivity.java" />
-      <jump line="59" column="10" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BaseActivity.java" />
-      <jump line="0" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BaseActivity.java" />
-      <jump line="84" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BaseActivity.java" />
-      <jump line="18" column="94" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="19" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="7" column="31" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="19" column="29" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="26" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="74" column="51" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="58" column="24" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="23" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="7" column="28" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="24" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="19" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="43" column="34" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="55" column="23" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="36" column="4" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="111" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="68" column="41" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="64" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="50" column="8" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="28" column="12" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="67" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="80" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="61" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="0" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="26" column="55" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="9" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="45" column="10" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="24" column="4" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="42" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/GpsUtil.java" />
-      <jump line="18" column="19" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MapUtil.java" />
-      <jump line="33" column="8" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MapUtil.java" />
-      <jump line="8" column="21" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MapUtil.java" />
-      <jump line="0" column="6" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="67" column="4" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="9" column="2" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="35" column="33" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="34" column="4" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="25" column="32" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="37" column="19" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="26" column="36" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="33" column="30" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="86" column="28" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="85" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="74" column="30" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="76" column="11" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="32" column="7" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="80" column="38" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="36" column="24" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="79" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="52" column="4" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="58" column="41" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="28" column="60" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="16" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/BaseResponse.java" />
-      <jump line="50" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/BaseResponse.java" />
-      <jump line="11" column="51" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/NetworkStatics.java" />
-      <jump line="17" column="25" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiLayer.java" />
-      <jump line="29" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="89" column="73" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="42" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="90" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="53" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="30" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
-      <jump line="15" column="3" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/GetMapInfoAndGeoJsonResponse.java" />
-      <jump line="84" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/GetMapInfoAndGeoJsonResponse.java" />
-      <jump line="15" column="19" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/BaseResponse.java" />
-      <jump line="64" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/BaseResponse.java" />
-      <jump line="38" column="16" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="2" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="14" column="54" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="71" column="15" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="159" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="178" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="27" column="26" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="230" column="12" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="233" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="0" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="13" column="30" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_main.xml" />
-      <jump line="29" column="26" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="68" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/GetMapInfoAndGeoJsonResult.java" />
-      <jump line="69" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/GetMapInfoAndGeoJsonResult.java" />
-      <jump line="19" column="32" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/responses/results/GetMapInfoAndGeoJsonResult.java" />
-      <jump line="34" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="246" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="4" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="136" column="45" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="196" column="0" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="35" column="12" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="52" column="23" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
-      <jump line="24" column="50" filename="E:/programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
-      <jump line="4" column="0" filename="G:/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LogUtil.java" />
+      <jump line="91" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
+      <jump line="38" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitCitiesService.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/Api.java" />
+      <jump line="180" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="228" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="67" column="19" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/adapter/SchoolAutoCompleteAdapter.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="0" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitSchoolsService.java" />
+      <jump line="2413" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/school_names.xml" />
+      <jump line="137" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="96" column="68" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="70" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="108" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/shared_preferences/UserInfo.java" />
+      <jump line="25" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/ForgetPasswordFragment.java" />
+      <jump line="157" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/MainInterfaceFragment.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
+      <jump line="15" column="27" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkSingleton.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkSingleton.java" />
+      <jump line="11" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkWrapper.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkWrapper.java" />
+      <jump line="15" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/Account.java" />
+      <jump line="12" column="2" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/TicketOrder.java" />
+      <jump line="24" column="67" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/Url.java" />
+      <jump line="26" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="47" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="82" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="86" column="71" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="108" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="102" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="74" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="25" column="58" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="36" column="68" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="58" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="101" column="34" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="42" column="72" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="59" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="94" column="49" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="111" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="107" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="96" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="121" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="55" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="168" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="43" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="191" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
+      <jump line="55" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="56" column="44" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="84" column="62" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="36" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="113" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="144" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="180" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="8" column="68" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="41" column="45" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="34" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="89" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="134" column="24" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="155" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="163" column="80" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="172" column="57" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
+      <jump line="35" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="44" column="58" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="146" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="28" column="62" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="87" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="19" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="226" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" />
+      <jump line="6" column="29" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" />
+      <jump line="20" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>hehe</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYWxsXD4=</text>
+        <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKCJtYXBfYm9keV9zdWNjZXNzIiwgcmVzcG9uc2UubWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBFbmFibGUgaUJlYWNvbiBhdXRvIHBvd2VyIHNhdmUgbW9kZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDQ0OyBpKyspIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBhcmdzW10pIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -376,38 +722,69 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYWxsXD4=</last-search>
+      <last-search encoding="base64">XDxjYXRlZ29yeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYWxsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXRlZ29yeVw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxDYWxsXD4=</last-substitute>
+      <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>cancel</entry>
+        <entry>setattempt</entry>
+        <entry>display</entry>
+        <entry>isField</entry>
+        <entry>get</entry>
+        <entry>getField</entry>
+        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
+        <entry>getText</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxnZXRQaG9uZU51bWJlckVycm9yTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxnZXRUZXh0RXJyb3JGcm9tSGludFw+</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxkaXNwbGF5VGV4dEVycm9yTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry>attempt</entry>
+        <entry encoding="base64">XDxnZXRTdHJpbmdBcnJheVw+</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
+      </history-search>
       <history-cmd>
+        <entry>e</entry>
+        <entry>.w</entry>
+        <entry>/init</entry>
+        <entry>aq</entry>
+        <entry>/object</entry>
+        <entry>s</entry>
+        <entry>ws</entry>
+        <entry>w3</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>a</entry>
+        <entry>sw</entry>
         <entry>we</entry>
+        <entry>w2</entry>
+        <entry>ew</entry>
+        <entry>W</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
