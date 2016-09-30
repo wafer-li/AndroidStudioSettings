@@ -284,6 +284,12 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/JniAccessTest.java" timestamp="1475257630766">
+        <mark key="[" line="18" column="112" />
+        <mark key="]" line="18" column="112" />
+        <mark key="." line="18" column="112" />
+        <mark key="^" line="18" column="112" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -380,11 +386,10 @@
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/proguard-rules.pro" timestamp="1475253718246">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/proguard-rules.pro" timestamp="1475257910180">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" timestamp="1468517664024">
         <mark key="'" line="172" column="57" />
@@ -535,7 +540,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1475256209912">
+      <file name="/fragment.java" timestamp="1475257494610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/AddFriendActivity.java" timestamp="1465416278458">
@@ -648,44 +653,44 @@
       <jump line="2" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/JniAcessTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWtlZXAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="0" type="4">
-        <text>(float) 1.0,</text>
+        <text>(float) 1.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHJlc3VsdCBpbnN0YW5jZW9mIEludGVnZXIpOwo=</text>
+        <text encoding="base64">LWtlZXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuCg==</text>
+        <text encoding="base64">LWtlZXBjbGFzc21lbWJlcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGludGVnZXJDbGFzcywgYWxnby5wdXRWZWN0b3JFdmVudCgwLCAoZmxvYXQpIDEuMCwgKGZsb2F0KSAxLjAsIChmbG9hdCkgMS4wKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczxJbnRlZ2VyPiBpbnRlZ2VyQ2xhc3MgPSBuZXcgQ2xhc3M8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VGhhdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb21wYXRCdXR0b24uCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb21wYXRCdXR0b24uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGdvLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
