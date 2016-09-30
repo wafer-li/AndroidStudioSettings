@@ -546,10 +546,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475232264574">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475233007084">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/jpush_style.xml" timestamp="1462132067166">
         <mark key="[" line="2" column="0" />
@@ -678,11 +679,11 @@
       <jump line="0" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCgiYm9vbGVhbiIsICJERUJVRyIsICJ0cnVlIikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVsZWFzZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text encoding="base64">cmVsZWFzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
