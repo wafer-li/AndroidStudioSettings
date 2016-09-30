@@ -51,6 +51,11 @@
         <mark key="." line="77" column="22" />
         <mark key="^" line="77" column="22" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/application/MyApplication.java" timestamp="1462030424467">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/Api.java" timestamp="1465141195346">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="12" column="0" />
@@ -100,6 +105,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
         <mark key="[" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/db/School.java" timestamp="1465208944996">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="15" />
@@ -131,6 +141,11 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/response/BaseResponse.java" timestamp="1464454623706">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
         <mark key="[" line="11" column="31" />
       </file>
@@ -139,6 +154,11 @@
         <mark key="]" line="78" column="53" />
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475268479488">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
@@ -154,6 +174,16 @@
         <mark key="]" line="33" column="62" />
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="62" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/school.csv" timestamp="1465071838797">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/arrays.xml" timestamp="1465208800431">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/build.gradle" timestamp="1468379175504">
         <mark key="[" line="57" column="54" />
@@ -284,11 +314,26 @@
         <mark key="." line="18" column="112" />
         <mark key="^" line="18" column="112" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/stub_school_input_text.xml" timestamp="1465142633541">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/RegisterInfo.java" timestamp="1464455975791">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/VolleyErrorHelper.java" timestamp="1462042463868">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/AndroidManifest.xml" timestamp="1468377619508">
         <mark key="[" line="6" column="16" />
@@ -331,6 +376,11 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/utils/UserInfoUtils.java" timestamp="1464453712580">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/GsonUtils.java" timestamp="1461555766765">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="39" />
@@ -349,11 +399,16 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Config.mk" timestamp="1475239480502">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/ApiModel.java" timestamp="1468383207587">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Config.mk" timestamp="1475269464952">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/shared_preferences/UserInfo.java" timestamp="1465225144341">
         <mark key="'" line="108" column="4" />
@@ -362,6 +417,11 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="117" column="83" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/include_location_school_input_framework.xml" timestamp="1465149288479">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1471150198312">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="11" column="8" />
@@ -369,10 +429,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/src/interface/java.cc" timestamp="1475254745808">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/src/interface/java.cc" timestamp="1475268677432">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="62" />
+        <mark key="." line="1" column="62" />
+        <mark key="^" line="1" column="62" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/response/UserInfo.java" timestamp="1464455554500">
         <mark key="[" line="56" column="50" />
@@ -384,6 +445,11 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/SplashActivity.java" timestamp="1465210631758">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" timestamp="1468517664024">
         <mark key="'" line="172" column="57" />
@@ -398,6 +464,11 @@
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/login_process/LoginActivity.java" timestamp="1462031182659">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/TestModel.java" timestamp="1461369466681">
         <mark key="[" line="39" column="54" />
@@ -433,6 +504,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/LoginInfo.java" timestamp="1464455685880">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkApi.java" timestamp="1468382380891">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="12" column="3" />
@@ -444,6 +520,11 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1469800169097">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/TestModel.java" timestamp="1461594365912">
         <mark key="[" line="16" column="31" />
@@ -471,6 +552,11 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/Account.java" timestamp="1468390357515">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
@@ -503,6 +589,11 @@
         <mark key="^" line="2556" column="30" />
         <mark key="." line="2557" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout-v21/item_search_friend_button.xml" timestamp="1465418728613">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" timestamp="1475237953452">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -519,11 +610,15 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475266360602">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="25" column="41" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="25" column="41" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475268260487">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/jpush_style.xml" timestamp="1462132067166">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
@@ -648,43 +743,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(float) 1.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIF9fYW5kcm9pZF9sb2dfcHJpbnQoQU5EUk9JRF9MT0dfRVJST1IsIF9fRlVOQ1RJT05fXywgIkVSUk9SIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfX2FuZHJvaWRfbG9nX3ByaW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZGsgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9DQUxfTERMSUJTIDo9IC1sbG9nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxkTGlicyAibG9nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IPCfkY0gMTUg8J+OiSA1IOKdpO+4jyAyICAK</text>
+        <text encoding="base64">ICBfX2FuZHJvaWRfX2xvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgamF2YS5uaW8uZmlsZS4qKiB7ICo7IH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9DQUxfUFJPR1VBUkRfRkxBR1MgOj0gLWluY2x1ZGUgJChQV0QpL3Byb2d1YXJkLXJ1bGVzLnBybwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
