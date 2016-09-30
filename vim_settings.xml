@@ -152,11 +152,11 @@
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475240852309">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475245528348">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
@@ -426,6 +426,7 @@
         <mark key="^" line="245" column="44" />
         <mark key="." line="245" column="44" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/Algo.java" timestamp="1475245737260" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_dropdown_item.xml" timestamp="1461342957026">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -705,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
