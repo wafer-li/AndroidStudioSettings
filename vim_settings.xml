@@ -140,12 +140,6 @@
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475263345825">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="44" />
@@ -525,11 +519,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475260203801">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1475266360602">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
@@ -540,7 +534,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1475261834575">
+      <file name="/fragment.java" timestamp="1475266077316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/AddFriendActivity.java" timestamp="1465416278458">
@@ -551,8 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
-      <jump line="67" column="19" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/adapter/SchoolAutoCompleteAdapter.java" />
       <jump line="131" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
       <jump line="167" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login_activity/RegisterPageFragment.java" />
       <jump line="0" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitSchoolsService.java" />
@@ -651,13 +643,15 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiManager.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/ui/activity/JniMethodTest.java" />
       <jump line="2" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/JniAcessTest.java" />
+      <jump line="24" column="58" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="25" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JNI_ROOT</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>JNI_ROOT</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -666,28 +660,28 @@
         <text>(float) 1.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IPCfkY0gMTUg8J+OiSA1IOKdpO+4jyAyICAK</text>
+        <text encoding="base64">ICAgICAgICBuZGsgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgamF2YS5uaW8uZmlsZS4qKiB7ICo7IH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">TE9DQUxfUFJPR1VBUkRfRkxBR1MgOj0gLWluY2x1ZGUgJChQV0QpL3Byb2d1YXJkLXJ1bGVzLnBybwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IPCfkY0gMTUg8J+OiSA1IOKdpO+4jyAyICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LWtlZXAK</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgamF2YS5uaW8uZmlsZS4qKiB7ICo7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWtlZXBjbGFzc21lbWJlcnMK</text>
+        <text encoding="base64">TE9DQUxfUFJPR1VBUkRfRkxBR1MgOj0gLWluY2x1ZGUgJChQV0QpL3Byb2d1YXJkLXJ1bGVzLnBybwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
