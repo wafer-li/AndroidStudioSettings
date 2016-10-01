@@ -155,11 +155,7 @@
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475269725780">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475291616500" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="44" />
@@ -404,11 +400,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Config.mk" timestamp="1475269464952">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Config.mk" timestamp="1475292307894">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/shared_preferences/UserInfo.java" timestamp="1465225144341">
         <mark key="'" line="108" column="4" />
@@ -743,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>dir</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>dir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -755,31 +751,31 @@
         <text encoding="base64">ICAgIF9fYW5kcm9pZF9sb2dfcHJpbnQoQU5EUk9JRF9MT0dfRVJST1IsIF9fRlVOQ1RJT05fXywgIkVSUk9SIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Sk5JX1JPT1QgPSAkKGNhbGwgbXktZGlyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfX2FuZHJvaWRfbG9nX3ByaW50KCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Sk5JX1JPT1QgPz0gLgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">TE9DQUxfTERMSUJTIDo9IC1sbG9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxkTGlicyAibG9nIgo=</text>
+        <text encoding="base64">ICBfX2FuZHJvaWRfbG9nX3ByaW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfX2FuZHJvaWRfX2xvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">TE9DQUxfTERMSUJTIDo9IC1sbG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxkTGlicyAibG9nIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbgo=</text>
+        <text encoding="base64">ICBfX2FuZHJvaWRfX2xvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
