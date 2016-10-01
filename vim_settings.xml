@@ -355,7 +355,7 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475325625341">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475328082245">
         <mark key="'" line="9" column="38" />
         <mark key="[" line="159" column="57" />
         <mark key="]" line="160" column="53" />
@@ -663,44 +663,44 @@
       <jump line="9" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJiIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG1hcElkLCBub3QoLTEpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXR0aW5ncy5TeXN0ZW0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvZGUsIGlzKDIwMCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXRyb2ZpdDIuUmVzcG9uc2U9Y2FsbC5leGVjdXRlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNCwgMiArIDIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QE1lZGlhQnJvd3NlckNvbXBhdC5NZWRpYUl0ZW0uRmxhZwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZTxDcmVhdGVNYXBSZXN1bHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29kZSA9IGNhbGwuZXhlY3V0ZSgpLmNvZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvZGUsIGlzKDIwMCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdFJlc3BvbnNlLCBub3QobnVsbFZhbHVlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXRyb2ZpdDIuUmVzcG9uc2U9Y2FsbC5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
