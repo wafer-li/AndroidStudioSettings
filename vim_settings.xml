@@ -355,12 +355,11 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475337256939">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475338428194">
         <mark key="'" line="11" column="38" />
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="43" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/build.gradle" timestamp="1468380320410">
         <mark key="[" line="20" column="8" />
@@ -671,7 +670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEZpeE1ldGhvZE9yZGVyKE1ldGhvZFNvcnRlcnMuTkFNRV9BU0NFTkRJTkcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -683,28 +682,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEZpeE1ldGhvZE9yZGVyKE1ldGhvZFNvcnRlcnMuTkFNRV9BU0NFTkRJTkcpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlYXJEb3duKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBZnRlcgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlYXJEb3duKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBZnRlcgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
