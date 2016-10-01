@@ -140,6 +140,12 @@
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475302059689">
+        <mark key="[" line="5" column="79" />
+        <mark key="]" line="5" column="82" />
+        <mark key="^" line="5" column="82" />
+        <mark key="." line="5" column="82" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="44" />
@@ -279,10 +285,10 @@
         <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/JniAccessTest.java" timestamp="1475257630766">
-        <mark key="[" line="18" column="112" />
-        <mark key="]" line="18" column="112" />
-        <mark key="." line="18" column="112" />
-        <mark key="^" line="18" column="112" />
+        <mark key="[" line="16" column="112" />
+        <mark key="]" line="16" column="112" />
+        <mark key="." line="16" column="112" />
+        <mark key="^" line="16" column="112" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
@@ -393,7 +399,6 @@
         <mark key="^" line="245" column="44" />
         <mark key="." line="245" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/Algo.java" timestamp="1475252241005" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_dropdown_item.xml" timestamp="1461342957026">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -646,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dir</text>
+        <text encoding="base64">amludCA=</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text encoding="base64">amludCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -658,31 +663,31 @@
         <text encoding="base64">ICAgIF9fYW5kcm9pZF9sb2dfcHJpbnQoQU5EUk9JRF9MT0dfRVJST1IsIF9fRlVOQ1RJT05fXywgIkVSUk9SIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Sk5JX1JPT1QgPSAkKGNhbGwgbXktZGlyKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Sk5JX1JPT1QgPz0gLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfX2FuZHJvaWRfbG9nX3ByaW50KCkK</text>
+        <text encoding="base64">Sk5JX1JPT1QgPSAkKGNhbGwgbXktZGlyKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TE9DQUxfTERMSUJTIDo9IC1sbG9nCg==</text>
+        <text encoding="base64">Sk5JX1JPT1QgPz0gLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxkTGlicyAibG9nIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBfX2FuZHJvaWRfX2xvZwo=</text>
+        <text encoding="base64">ICBfX2FuZHJvaWRfbG9nX3ByaW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
