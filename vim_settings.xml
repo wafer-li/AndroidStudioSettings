@@ -266,7 +266,7 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1475317531562">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1475322680840">
         <mark key="'" line="0" column="43" />
         <mark key="]" line="22" column="23" />
         <mark key="^" line="22" column="23" />
@@ -355,11 +355,12 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475320544051">
-        <mark key="[" line="148" column="58" />
-        <mark key="]" line="149" column="31" />
-        <mark key="." line="149" column="31" />
-        <mark key="^" line="149" column="31" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475322993214">
+        <mark key="'" line="158" column="31" />
+        <mark key="[" line="160" column="57" />
+        <mark key="]" line="161" column="53" />
+        <mark key="." line="161" column="53" />
+        <mark key="^" line="161" column="53" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/build.gradle" timestamp="1468380320410">
         <mark key="[" line="20" column="8" />
@@ -560,7 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" />
@@ -660,13 +660,14 @@
       <jump line="171" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="0" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="83" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
+      <jump line="158" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Success</text>
       </register>
       <register name="-" type="4">
-        <text>geojson</text>
+        <text>Success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -675,31 +676,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG1hcElkLCBub3QoLTEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvZGUsIGlzKDIwMCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3ModCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXRyb2ZpdDIuUmVzcG9uc2U9Y2FsbC5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25GYWlsdXJlKENhbGw8UmVzcG9uc2U8Q3JlYXRlTWFwUmVzdWx0Pj4gY2FsbCwgVGhyb3dhYmxlIHQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZTxDcmVhdGVNYXBSZXN1bHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY29kZSA9IGNhbGwuZXhlY3V0ZSgpLmNvZGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdFJlc3BvbnNlLCBub3QobnVsbFZhbHVlKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
