@@ -1,7 +1,7 @@
 /**
- * This is the ${NAME} class
- * Please put some info here.
+ * This is ${NAME} class.
+ * Please add more info here.
  *
- * @author Wafer Li
+ * @author wafer
  * @since ${DATE} ${TIME}
  */
