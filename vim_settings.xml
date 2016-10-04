@@ -223,6 +223,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/bar/foo.kt" timestamp="1475600529795">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/RedirectController.java" timestamp="1467544547807">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="21" />
@@ -510,6 +516,12 @@
         <mark key="]" line="7" column="47" />
         <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/foo/base.kt" timestamp="1475600508004">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/resources/META-INF/persistence.xml" timestamp="1467622290786">
         <mark key="[" line="6" column="66" />
@@ -1138,11 +1150,11 @@
       <jump line="156" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBiYXNlICAK</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -1151,31 +1163,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBiYXNlICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGZvby5CYXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2UuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkge2EgPSB2YWx1ZX0K</text>
+        <text encoding="base64">ICAgaW50ZXJuYWwgdmFsIGhlaGUgPSAiaGVoZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldCgpID0gYQo=</text>
+        <text encoding="base64">Y2xhc3MgQmFzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhc2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldCgpCg==</text>
+        <text encoding="base64">ICAgIGJhc2UuaGVoZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhc2UuCg==</text>
+        <text encoding="base64">ICAgIGJhc2UuaGVoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIG0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
