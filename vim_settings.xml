@@ -445,11 +445,11 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475603284074">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475604136171">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1157,7 +1157,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGVoZSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YmFyIA==</text>
@@ -1169,31 +1169,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGVoZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkge2ZpZWxkID0gdmFsdWV9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBoZWhlOkludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCgpID0gZmllbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBiYXI6IEludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3QuYmFyID0gMgo=</text>
+        <text encoding="base64">ICAgIHNldCh2YWx1ZSkge2ZpZWxkID0gdmFsdWV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0gVGVzdCgpCg==</text>
+        <text encoding="base64">ICAgIGdldCgpID0gZmllbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkge2JhciA9IHZhbHVlfQo=</text>
+        <text encoding="base64">ICAgIHZhciBiYXI6IEludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRlc3QK</text>
+        <text encoding="base64">ICAgIHRlc3QuYmFyID0gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
