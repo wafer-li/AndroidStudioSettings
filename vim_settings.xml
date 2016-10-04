@@ -1,0 +1,675 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/redirect.xhtml" timestamp="1468076467473">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="378" />
+        <mark key="^" line="5" column="378" />
+        <mark key="." line="5" column="378" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/.gitignore" timestamp="1459190759585">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-add.xhtml" timestamp="1468410149448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/pom.xml" timestamp="1468128544963">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Classes.java" timestamp="1471242051245">
+        <mark key="'" line="0" column="44" />
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" timestamp="1468417149942">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="86" />
+        <mark key="." line="80" column="86" />
+        <mark key="^" line="80" column="86" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-history.xhtml" timestamp="1468409128026">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" timestamp="1468418384965">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="32" column="102" />
+        <mark key="^" line="32" column="102" />
+        <mark key="." line="32" column="102" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentDelete.java" timestamp="1467988940738">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="70" />
+        <mark key="." line="42" column="70" />
+        <mark key="^" line="42" column="70" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/courses.xhtml" timestamp="1468409184607">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="55" column="49" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-modification.xhtml" timestamp="1468410103993">
+        <mark key="[" line="61" column="16" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload_file.xhtml" timestamp="1468128191006">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/Example.java" timestamp="1459188824244">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/META-INF/persistence.xml" timestamp="1467612427483">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassAdd.java" timestamp="1468072905531">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Person.kt" timestamp="1475584821417">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTreeGenerator.java" timestamp="1458638819005">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" timestamp="1468071476847">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="42" />
+        <mark key="^" line="56" column="38" />
+        <mark key="." line="49" column="42" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload.xhtml" timestamp="1468133030272">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" timestamp="1467699610540">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teachers.xhtml" timestamp="1468418510562">
+        <mark key="[" line="141" column="66" />
+        <mark key="]" line="141" column="67" />
+        <mark key="." line="141" column="67" />
+        <mark key="^" line="141" column="67" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/src/algs4_assignment/Example.java" timestamp="1459189808494">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/NearestNeighborVisualizer.java" timestamp="1458633392244">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+        <mark key="^" line="38" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-import.xhtml" timestamp="1468410159829">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="88" column="21" />
+        <mark key="." line="85" column="16" />
+        <mark key="^" line="85" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/HelloWorldController.java" timestamp="1467543912490">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/register.xhtml" timestamp="1468075178724">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadFile.java" timestamp="1468127783497">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-modification.xhtml" timestamp="1468410132651">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="^" line="84" column="15" />
+        <mark key="." line="84" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentHistory.java" timestamp="1467973882467">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="70" column="89" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTree.java" timestamp="1459188794940">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/checkin.xhtml" timestamp="1467806245810">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" timestamp="1468073516569">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherModification.java" timestamp="1468073070096">
+        <mark key="[" line="66" column="81" />
+        <mark key="]" line="67" column="11" />
+        <mark key="." line="67" column="11" />
+        <mark key="^" line="67" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Upload.java" timestamp="1468132977989">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadHehe.java" timestamp="1468129122822">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Courses.java" timestamp="1467973443335">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/RedirectController.java" timestamp="1467544547807">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Test/src/com/wafer/Main.java" timestamp="1461502093461">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Teachers.java" timestamp="1467990551713">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="38" column="65" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-management.xhtml" timestamp="1468429269754">
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="51" />
+        <mark key="." line="93" column="51" />
+        <mark key="^" line="177" column="107" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" timestamp="1468134814023">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" timestamp="1468409225118">
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+        <mark key="^" line="45" column="53" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" timestamp="1468410121022">
+        <mark key="[" line="89" column="16" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTreeVisualizer.java" timestamp="1458721853587">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/check-localhost.xhtml" timestamp="1468140257984">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-delete.xhtml" timestamp="1467988554927">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/index.xhtml" timestamp="1468410055027">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="78" column="20" />
+        <mark key="." line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-add.xhtml" timestamp="1468410180187">
+        <mark key="'" line="87" column="47" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="71" column="16" />
+        <mark key="^" line="71" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadServlet_WithMultipartConfig_SunExample.java" timestamp="1468126544563">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/login.xhtml" timestamp="1468409310540">
+        <mark key="[" line="74" column="52" />
+        <mark key="]" line="74" column="53" />
+        <mark key="." line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/entities/RecordEntity.java" timestamp="1467636899874">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/classes.xhtml" timestamp="1468410572731">
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="93" />
+        <mark key="." line="71" column="93" />
+        <mark key="^" line="71" column="93" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-history.xhtml" timestamp="1468409369262">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-modification.xhtml" timestamp="1468410171822">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="91" column="21" />
+        <mark key="." line="88" column="16" />
+        <mark key="^" line="88" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/ban.xhtml" timestamp="1467806317268">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="68" />
+        <mark key="." line="4" column="68" />
+        <mark key="^" line="4" column="68" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/BackEnd.java" timestamp="1467697751695">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-add.xhtml" timestamp="1468410058640">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="16" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload_hehe.xhtml" timestamp="1468129040689">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d79298b7-1f4f-46e6-8c15-407a7ef07054/console.sql" timestamp="1468035908630">
+        <mark key="[" line="0" column="76" />
+        <mark key="]" line="0" column="77" />
+        <mark key="." line="0" column="77" />
+        <mark key="^" line="0" column="57" />
+      </file>
+      <file name="/dummy.sql" timestamp="1468429715291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" timestamp="1468153027307">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="44" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1468426598986">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/KdTree.java" timestamp="1458721504892">
+        <mark key="[" line="258" column="45" />
+        <mark key="]" line="258" column="45" />
+        <mark key="^" line="258" column="45" />
+        <mark key="." line="258" column="45" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/webapp/WEB-INF/views/helloworld.jsp" timestamp="1467543869346">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Login.java" timestamp="1467813864133">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseDelete.java" timestamp="1467983178040">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+        <mark key="^" line="23" column="87" />
+      </file>
+      <file name="/a.regexp" timestamp="1468421841223">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/HomeController.java" timestamp="1467516305720">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/Config.java" timestamp="1468426631001">
+        <mark key="[" line="8" column="65" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" timestamp="1468422080918">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="33" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/entities/CourseToClass.java" timestamp="1467611400407">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/README.md" timestamp="1459189365097">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentAdd.java" timestamp="1468418023400">
+        <mark key="^" line="56" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" timestamp="1459188855957">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentManagement.java" timestamp="1467985462452">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/resources/META-INF/persistence.xml" timestamp="1467622290786">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="66" />
+        <mark key="." line="6" column="66" />
+        <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-modification.xhtml" timestamp="1468410184923">
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="128" column="39" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/index.xhtml" />
+      <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/index.xhtml" />
+      <jump line="144" column="4" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="152" column="39" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="66" column="43" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Index.java" />
+      <jump line="2666" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/css/bootstrap.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-modification.xhtml" />
+      <jump line="131" column="6" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" />
+      <jump line="61" column="7" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="36" column="23" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="27" column="50" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="82" column="70" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="41" column="12" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="84" column="4" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="77" column="92" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="0" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d79298b7-1f4f-46e6-8c15-407a7ef07054/console.sql" />
+      <jump line="58" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="130" column="33" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" />
+      <jump line="97" column="108" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" />
+      <jump line="56" column="62" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="50" column="36" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-add.xhtml" />
+      <jump line="101" column="11" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" />
+      <jump line="37" column="26" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentAdd.java" />
+      <jump line="51" column="5" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentAdd.java" />
+      <jump line="100" column="16" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-add.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-add.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-modification.xhtml" />
+      <jump line="96" column="11" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="30" column="86" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="39" column="34" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-add.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-add.xhtml" />
+      <jump line="73" column="47" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-add.xhtml" />
+      <jump line="27" column="26" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" />
+      <jump line="50" column="45" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" />
+      <jump line="82" column="18" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/courses.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/courses.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teachers.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-history.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" />
+      <jump line="135" column="6" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" />
+      <jump line="63" column="12" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" />
+      <jump line="80" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" />
+      <jump line="183" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" />
+      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Register.java" />
+      <jump line="69" column="34" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Register.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Register.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Register.java" />
+      <jump line="113" column="36" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" />
+      <jump line="33" column="12" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassAdd.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" />
+      <jump line="30" column="24" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" />
+      <jump line="119" column="11" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" />
+      <jump line="72" column="40" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" />
+      <jump line="16" column="41" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentImport.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentImport.java" />
+      <jump line="21" column="29" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentImport.java" />
+      <jump line="30" column="54" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentImport.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-modification.xhtml" />
+      <jump line="81" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" />
+      <jump line="0" column="44" filename="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Classes.java" />
+      <jump line="8" column="27" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Person.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxTdHJpbmdcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKREJDX1VSTCA9ICJqZGJjOm15c3FsOi8vMTAuMTI1LjEwMy4xMjM6MzMwNi9zdW55aT91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9VVRGLTgiOyAgLy8g6L+Z5LiA6KGM5b+F6aG75L+d55WZLCDlkKbliJnkvJrkubHnoIEK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGZpcnN0TmFtZTogU3RyaW5nLCBsYXN0TmFtZTogU3RyaW5nLCBtaWRkbGVOYW1lOiBTdHJpbmcpIDogdGhpcyhmaXJzdE5hbWUsIGxhc3ROYW1lKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGZpcnN0TmFtZTogU3RyaW5nLGxhc3ROYW1lOiBTdHJpbmcpIDogdGhpcyhmaXJzdE5hbWUpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxTdHJpbmdcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxTdHJpbmdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxsZXZlbFN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxmbXRcPg==</entry>
+        <entry encoding="base64">XDxFbnRpdHlNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxQZXJzaXN0ZW5jZUNvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eVw+</entry>
+        <entry encoding="base64">XDxiYWNrZW5kX2luZGV4XD4=</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDxGYWNlc1w+</entry>
+        <entry>submit</entry>
+        <entry>student</entry>
+        <entry>success</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>aw</entry>
+        <entry>wa</entry>
+        <entry>we</entry>
+        <entry>2</entry>
+        <entry>bn</entry>
+        <entry>Lw</entry>
+        <entry>wq</entry>
+        <entry>qw</entry>
+        <entry>sw</entry>
+        <entry>ewe</entry>
+        <entry>w3</entry>
+        <entry>a</entry>
+        <entry>ew</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
