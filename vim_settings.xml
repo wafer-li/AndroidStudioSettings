@@ -90,6 +90,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.java" timestamp="1475693516472">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/Example.java" timestamp="1459188824244">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -445,12 +451,12 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475679961553">
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475692703598">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="57" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="18" column="15" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1157,11 +1163,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzdWx0IA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -1170,31 +1176,31 @@
         <text encoding="base64">ICAgIHByaW50bG4obmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8udG9TdHJpbmcoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zdW1lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBDOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQ6UmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWhlUmVzdWx0OkhlaGVSZXN1bHQgPSBIZWhlUmVzdWx0KCJoZWhlIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
