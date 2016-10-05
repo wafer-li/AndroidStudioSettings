@@ -445,11 +445,12 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475670320210">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475672879295">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1054,9 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="107" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="96" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="121" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
@@ -1154,13 +1152,16 @@
       <jump line="113" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="156" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="11" column="16" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="30" column="9" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="37" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="10" column="14" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z2V0KCkgPSB0aGlzLnNpemUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZC5jYWxsZXIoYykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -1169,31 +1170,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2V0KCkgPSB0aGlzLnNpemUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZC5jYWxsZXIoYykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIDxUPiBMaXN0PFQ+LmhlaGU6IEludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgdmFsIHRlc3Q6U3RyaW5nID0gIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgPSAK</text>
+        <text encoding="base64">ICAgIGQuZm9vKCkgLy8gRC5mb28oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciB0ZXN0OkludCA9IDEK</text>
+        <text encoding="base64">ICAgIHZhbCBkID0gRCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCgpIHsK</text>
+        <text encoding="base64">ICAgIEQoKS5DKCkuZm9vQmFyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWhlOlN0cmluZyA9ICIxIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaGVoZSkK</text>
+        <text encoding="base64">ICAgICAgICBDKCkuZm9vQmFyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1238,8 +1239,8 @@
         <entry>ewe</entry>
         <entry>w3</entry>
         <entry>a</entry>
-        <entry>ew</entry>
         <entry>W</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
