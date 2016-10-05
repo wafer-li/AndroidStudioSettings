@@ -445,11 +445,11 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475657788733">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475658526882">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1157,10 +1157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -1169,31 +1169,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgdmFsIHRlc3Q6U3RyaW5nID0gIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgPSAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB0ZXN0OkludCA9IDEK</text>
+        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCgpIHsK</text>
+        <text encoding="base64">ICAgIHZhciB0ZXN0OkludCA9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWhlOlN0cmluZyA9ICIxIgo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdCgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaGVoZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBoZWhlOlN0cmluZyA9ICIxIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGVoZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWhlOkludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBoZWhlOkludAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
