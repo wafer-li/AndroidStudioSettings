@@ -450,12 +450,12 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475698027727">
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475741000415">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="21" column="2" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1162,44 +1162,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>blue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob2JqZWN0LmdldENsYXNzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qgb2JqZWN0ID0gc3RyaW5ncy5nZXQoMCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5ncy5nZXQoMCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDb2xvci5SRUQtPiBwcmludCgicmVkIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDb2xvci5HUkVFTi0+IHByaW50KCJncmVlbiIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdoZW4oYykgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBjOiBDb2xvciA9IGNvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpbnRlZ2VyKTsK</text>
+        <text encoding="base64">ICAgIHZhbCBjOkNvbG9yID0gQ29sb3IuQkxVRQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1231,7 +1231,6 @@
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>aw</entry>
         <entry>wa</entry>
         <entry>we</entry>
@@ -1244,8 +1243,9 @@
         <entry>ewe</entry>
         <entry>w3</entry>
         <entry>a</entry>
-        <entry>W</entry>
         <entry>ew</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
