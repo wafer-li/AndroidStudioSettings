@@ -450,8 +450,12 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475750987352">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475754994778">
+        <mark key="'" line="8" column="34" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1154,18 +1158,18 @@
       <jump line="30" column="9" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
       <jump line="37" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
       <jump line="10" column="14" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
-      <jump line="8" column="41" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="8" column="34" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXRlZ29yeVw+</text>
+        <text encoding="base64">XDx4XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
@@ -1174,37 +1178,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvci5SRUQtPiBwcmludCgicmVkIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvci5HUkVFTi0+IHByaW50KCJncmVlbiIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYykgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmb28oaTogSW50KSB7IH0gIC8vIG5vIGRlZmF1bHQgdmFsdWUgYWxsb3dlZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgQiA6IEEoKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjOiBDb2xvciA9IGNvCg==</text>
+        <text encoding="base64">ICAgIG9wZW4gZnVuIGZvbyhpOiBJbnQgPSAxMCkgeyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjOkNvbG9yID0gQ29sb3IuQkxVRQo=</text>
+        <text encoding="base64">b3BlbiBjbGFzcyBBIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXRlZ29yeVw+</last-search>
+      <last-search encoding="base64">XDx4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXRlZ29yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -1225,6 +1229,7 @@
         <entry>student</entry>
         <entry>success</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>aw</entry>
