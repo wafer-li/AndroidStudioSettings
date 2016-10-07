@@ -450,10 +450,10 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475777035083">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475830195526">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1058,7 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="55" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
       <jump line="168" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
       <jump line="169" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
@@ -1158,13 +1157,14 @@
       <jump line="10" column="14" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
       <jump line="8" column="34" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="9" column="20" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBkb3VibGVkID0gaW50cy5tYXAgeyAqIDIgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJheTJEOkFycmF5PEFycmF5PEludD4+ID0gYXJyYXlPZihhcnJheU9mKDEsMiwzLDMsNCwsNCwsNCw0LCw0LDQsNCw0KSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXQg</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4XD4=</text>
@@ -1173,31 +1173,31 @@
         <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkb3VibGVkID0gaW50cy5tYXAgeyAqIDIgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJheTJEOkFycmF5PEFycmF5PEludD4+ID0gYXJyYXlPZihhcnJheU9mKDEsMiwzLDMsNCwsNCwsNCw0LCw0LDQsNCw0KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJheTJEOkFycmF5PEFycmF5PEFycmF5PEludD4+PiA9IGFycmF5T2YoYXJyYXlPZihhcnJheU9mKDEsMiwzKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFycmF5MkRbMV1bMl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIGEoeDogQW55LCB5OiBBbnkgPSAyLCB6OkFueSA9IDMpOiBVbml0IHsK</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5wb3NpeC5lbGYuRUxGU2VjdGlvbkhlYWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEoMSwyKQo=</text>
+        <text encoding="base64">ICAgIEVMRlNlY3Rpb25IZWFkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEoMSx6ID0gMykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGEoMSwyLDMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oYXJyYXkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1242,9 +1242,9 @@
         <entry>ewe</entry>
         <entry>w3</entry>
         <entry>a</entry>
-        <entry>ew</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
