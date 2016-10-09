@@ -30,14 +30,82 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/pom.xml" timestamp="1468128544963">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Classes.java" timestamp="1471242051245">
+        <mark key="'" line="0" column="44" />
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/test/src/Test.kt" timestamp="1475934161034">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" timestamp="1468417149942">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="86" />
+        <mark key="." line="80" column="86" />
+        <mark key="^" line="80" column="86" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-history.xhtml" timestamp="1468409128026">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" timestamp="1468418384965">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="32" column="102" />
+        <mark key="^" line="32" column="102" />
+        <mark key="." line="32" column="102" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentDelete.java" timestamp="1467988940738">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="70" />
+        <mark key="." line="42" column="70" />
+        <mark key="^" line="42" column="70" />
+      </file>
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/courses.xhtml" timestamp="1468409184607">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="55" column="49" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-modification.xhtml" timestamp="1468410103993">
+        <mark key="[" line="61" column="16" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/Api.java" timestamp="1468390363342">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.java" timestamp="1475696232009">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/Example.java" timestamp="1459188824244">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/com/edu/bupt/sse/undergroundnav/application/UndergroundNavApplication.java" timestamp="1469716516615">
         <mark key="[" line="32" column="46" />
@@ -51,12 +119,31 @@
         <mark key="." line="77" column="22" />
         <mark key="^" line="77" column="22" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseHistory.java" timestamp="1468071476847">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="42" />
+        <mark key="^" line="56" column="38" />
+        <mark key="." line="49" column="42" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/Api.java" timestamp="1465141195346">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload.xhtml" timestamp="1468133030272">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
@@ -68,11 +155,35 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/src/algs4_assignment/Example.java" timestamp="1459189808494">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/utils/TextErrorHelper.java" timestamp="1465211089680">
         <mark key="[" line="64" column="19" />
         <mark key="]" line="64" column="25" />
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadFile.java" timestamp="1468127783497">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Base.kt" timestamp="1475597361627">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-modification.xhtml" timestamp="1468410132651">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="^" line="84" column="15" />
+        <mark key="." line="84" column="16" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/Utils/NetworkUtils.java" timestamp="1468525593267">
         <mark key="'" line="225" column="0" />
@@ -80,6 +191,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="211" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentHistory.java" timestamp="1467973882467">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="70" column="89" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/fragment_register_page.xml" timestamp="1465182339580">
         <mark key="[" line="85" column="0" />
@@ -90,6 +207,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTree.java" timestamp="1459188794940">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/service/InitSchoolsService.java" timestamp="1465209030916">
         <mark key="'" line="0" column="32" />
         <mark key="[" line="73" column="24" />
@@ -97,8 +220,31 @@
         <mark key="^" line="73" column="31" />
         <mark key="." line="73" column="31" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadHehe.java" timestamp="1468129122822">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
         <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/DontCreateMe.kt" timestamp="1475592491128">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/bar/foo.kt" timestamp="1475600529795">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/RedirectController.java" timestamp="1467544547807">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
         <mark key="[" line="9" column="16" />
@@ -125,6 +271,12 @@
         <mark key="." line="2" column="125" />
         <mark key="^" line="2" column="125" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/check-localhost.xhtml" timestamp="1468140257984">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_item.xml" timestamp="1460453932378">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="38" />
@@ -140,7 +292,25 @@
         <mark key="." line="78" column="53" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Android.mk" timestamp="1475426912174" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/index.xhtml" timestamp="1468410055027">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="78" column="20" />
+        <mark key="." line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-add.xhtml" timestamp="1468410180187">
+        <mark key="'" line="87" column="47" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="71" column="16" />
+        <mark key="^" line="71" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadServlet_WithMultipartConfig_SunExample.java" timestamp="1468126544563">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/build.gradle" timestamp="1462012806153">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="44" />
@@ -156,6 +326,18 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="62" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/entities/RecordEntity.java" timestamp="1467636899874">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/classes.xhtml" timestamp="1468410572731">
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="93" />
+        <mark key="." line="71" column="93" />
+        <mark key="^" line="71" column="93" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/build.gradle" timestamp="1468379175504">
         <mark key="[" line="57" column="54" />
         <mark key="]" line="48" column="67" />
@@ -167,6 +349,25 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiLayer.java" timestamp="1474375883319">
         <mark key="[" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/BackEnd.java" timestamp="1467697751695">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/class-add.xhtml" timestamp="1468410058640">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="16" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d79298b7-1f4f-46e6-8c15-407a7ef07054/console.sql" timestamp="1468035908630">
+        <mark key="[" line="0" column="76" />
+        <mark key="]" line="0" column="77" />
+        <mark key="." line="0" column="77" />
+        <mark key="^" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/db/Province.java" timestamp="1465061567289">
         <mark key="[" line="24" column="0" />
@@ -224,6 +425,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Login.java" timestamp="1467813864133">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/layout_first_login_mode_item.xml" timestamp="1461163746683">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="8" column="33" />
@@ -242,6 +449,19 @@
         <mark key="]" line="168" column="45" />
         <mark key="." line="168" column="45" />
         <mark key="^" line="168" column="45" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseDelete.java" timestamp="1467983178040">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+        <mark key="^" line="23" column="87" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" timestamp="1475933411289">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -284,6 +504,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/entities/CourseToClass.java" timestamp="1467611400407">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -297,20 +523,57 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentManagement.java" timestamp="1467985462452">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/AndroidManifest.xml" timestamp="1468377619508">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="7" column="47" />
         <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/foo/base.kt" timestamp="1475600508004">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/resources/META-INF/persistence.xml" timestamp="1467622290786">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="66" />
+        <mark key="." line="6" column="66" />
+        <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teacher-modification.xhtml" timestamp="1468410184923">
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="15" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/ChatFragment/MAChatHintFragment.java" timestamp="1471246008557">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/redirect.xhtml" timestamp="1468076467473">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="378" />
+        <mark key="^" line="5" column="378" />
+        <mark key="." line="5" column="378" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/.gitignore" timestamp="1459190759585">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-add.xhtml" timestamp="1468410149448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/algo/Algo.java" timestamp="1475306762677">
         <mark key="'" line="11" column="0" />
@@ -345,17 +608,54 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload_file.xhtml" timestamp="1468128191006">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/META-INF/persistence.xml" timestamp="1467612427483">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/foo/Base.java" timestamp="1475598757385">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/GsonUtils.java" timestamp="1461555766765">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="39" />
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="53" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassAdd.java" timestamp="1468072905531">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Person.kt" timestamp="1475584821417">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/activity_add_friend.xml" timestamp="1465415822974">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTreeGenerator.java" timestamp="1458638819005">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475338920327">
         <mark key="'" line="11" column="38" />
@@ -370,6 +670,30 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" timestamp="1467699610540">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/teachers.xhtml" timestamp="1468418510562">
+        <mark key="[" line="141" column="66" />
+        <mark key="]" line="141" column="67" />
+        <mark key="." line="141" column="67" />
+        <mark key="^" line="141" column="67" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/NearestNeighborVisualizer.java" timestamp="1458633392244">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+        <mark key="^" line="38" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-import.xhtml" timestamp="1468410159829">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="88" column="21" />
+        <mark key="." line="85" column="16" />
+        <mark key="^" line="85" column="15" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Config.mk" timestamp="1475294025043">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -383,6 +707,18 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="117" column="83" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/HelloWorldController.java" timestamp="1467543912490">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/register.xhtml" timestamp="1468075178724">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1471150198312">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="11" column="8" />
@@ -390,11 +726,42 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/checkin.xhtml" timestamp="1467806245810">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseAdd.java" timestamp="1468073516569">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherModification.java" timestamp="1468073070096">
+        <mark key="[" line="66" column="81" />
+        <mark key="]" line="67" column="11" />
+        <mark key="." line="67" column="11" />
+        <mark key="^" line="67" column="11" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/response/UserInfo.java" timestamp="1464455554500">
         <mark key="[" line="56" column="50" />
         <mark key="]" line="56" column="50" />
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Upload.java" timestamp="1468132977989">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Courses.java" timestamp="1467973443335">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" timestamp="1475336288669">
         <mark key="'" line="200" column="0" />
@@ -407,6 +774,31 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Test/src/com/wafer/Main.java" timestamp="1461502093461">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Teachers.java" timestamp="1467990551713">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="38" column="65" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-management.xhtml" timestamp="1468429269754">
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="51" />
+        <mark key="." line="93" column="51" />
+        <mark key="^" line="177" column="107" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/CheckIn.java" timestamp="1468134814023">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" timestamp="1468517664024">
         <mark key="'" line="172" column="57" />
@@ -421,6 +813,24 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" timestamp="1468409225118">
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+        <mark key="^" line="45" column="53" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-add.xhtml" timestamp="1468410121022">
+        <mark key="[" line="89" column="16" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/KdTreeVisualizer.java" timestamp="1458721853587">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/TestModel.java" timestamp="1461369466681">
         <mark key="[" line="39" column="54" />
         <mark key="]" line="39" column="54" />
@@ -430,12 +840,6 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/ui/activity/JniMethodTest.java" timestamp="1475255869661">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/Main2Activity.java" timestamp="1461753947609">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="46" />
@@ -444,6 +848,12 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-delete.xhtml" timestamp="1467988554927">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="6" column="83" />
+        <mark key="^" line="6" column="83" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_first_login.xml" timestamp="1461163616337">
         <mark key="[" line="13" column="31" />
@@ -458,6 +868,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/login.xhtml" timestamp="1468409310540">
+        <mark key="[" line="74" column="52" />
+        <mark key="]" line="74" column="53" />
+        <mark key="." line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkApi.java" timestamp="1468382380891">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="12" column="3" />
@@ -469,6 +885,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-history.xhtml" timestamp="1468409369262">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="53" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/TestModel.java" timestamp="1461594365912">
         <mark key="[" line="16" column="31" />
@@ -488,6 +910,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-modification.xhtml" timestamp="1468410171822">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="91" column="21" />
+        <mark key="." line="88" column="16" />
+        <mark key="^" line="88" column="15" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/TestModle.java" timestamp="1461156362174">
         <mark key="[" line="50" column="37" />
         <mark key="]" line="50" column="53" />
@@ -497,14 +925,36 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/ban.xhtml" timestamp="1467806317268">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="68" />
+        <mark key="." line="4" column="68" />
+        <mark key="^" line="4" column="68" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload_hehe.xhtml" timestamp="1468129040689">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1468429715291">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/menu/login_menu.xml" timestamp="1460110827682">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/util/NetUtils.java" timestamp="1468153027307">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1475261828782">
         <mark key="[" line="0" column="0" />
@@ -514,6 +964,18 @@
         <mark key="]" line="11" column="70" />
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/KdTree.java" timestamp="1458721504892">
+        <mark key="[" line="258" column="45" />
+        <mark key="]" line="258" column="45" />
+        <mark key="^" line="258" column="45" />
+        <mark key="." line="258" column="45" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/webapp/WEB-INF/views/helloworld.jsp" timestamp="1467543869346">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/jpush_webview_layout.xml" timestamp="1462132775213">
         <mark key="[" line="27" column="32" />
@@ -535,8 +997,17 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1468421841223">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
         <mark key="[" line="61" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystem/src/main/java/edu/bupt/checkinsystem/controller/HomeController.java" timestamp="1467516305720">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/NetworkTest.java" timestamp="1475308917142">
         <mark key="[" line="10" column="26" />
@@ -544,14 +1015,39 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/Config.java" timestamp="1468426631001">
+        <mark key="[" line="8" column="65" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/CourseModification.java" timestamp="1468422080918">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="33" column="24" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
         <mark key="[" line="54" column="29" />
         <mark key="]" line="54" column="34" />
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/README.md" timestamp="1459189365097">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" timestamp="1459188855957">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/stub_cities_spinner.xml" timestamp="1465141996367">
         <mark key="[" line="2" column="0" />
@@ -570,13 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="49" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="111" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="107" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="96" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="121" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="55" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
       <jump line="168" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
       <jump line="169" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/GsonRequest.java" />
@@ -670,55 +1159,62 @@
       <jump line="132" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="113" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="156" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
+      <jump line="11" column="16" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="30" column="9" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="37" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="10" column="14" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="8" column="34" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="9" column="20" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/Test.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXRlZ29yeVw+</text>
+        <text encoding="base64">XDx4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFN1Y2Nlc3MocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xvci5CTFVFIC0+IHByaW50KCJibHVlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBtb3JlIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQocmVzcG9uc2UuY29kZSgpLCBlaXRoZXIoaXMoMjAwKSkub3IoaXMoMzAyKSkpOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBhOkxpc3Q8SW50PiA9ICBsaXN0T2YoMSwyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEZpeE1ldGhvZE9yZGVyKE1ldGhvZFNvcnRlcnMuTkFNRV9BU0NFTkRJTkcpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJhIGlzIG5vdCBsaXN0IG9mIGludCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJhIGlzIGxpc3Qgb2YgaW50IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhIGlzIExpc3Q8SW50Pikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlYXJEb3duKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXRlZ29yeVw+</last-search>
+      <last-search encoding="base64">XDx4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXRlZ29yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -726,46 +1222,37 @@
     </search>
     <history>
       <history-search>
-        <entry>cancel</entry>
-        <entry>setattempt</entry>
-        <entry>display</entry>
-        <entry>isField</entry>
-        <entry>get</entry>
-        <entry>getField</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry>getText</entry>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxnZXRQaG9uZU51bWJlckVycm9yTWVzc2FnZVw+</entry>
-        <entry encoding="base64">XDxnZXRUZXh0RXJyb3JGcm9tSGludFw+</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxkaXNwbGF5VGV4dEVycm9yTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxsZXZlbFN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxmbXRcPg==</entry>
+        <entry encoding="base64">XDxFbnRpdHlNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxQZXJzaXN0ZW5jZUNvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eVw+</entry>
+        <entry encoding="base64">XDxiYWNrZW5kX2luZGV4XD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
-        <entry>attempt</entry>
-        <entry encoding="base64">XDxnZXRTdHJpbmdBcnJheVw+</entry>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
+        <entry encoding="base64">XDxGYWNlc1w+</entry>
+        <entry>submit</entry>
+        <entry>student</entry>
+        <entry>success</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>.w</entry>
-        <entry>/init</entry>
-        <entry>aq</entry>
-        <entry>/object</entry>
-        <entry>s</entry>
-        <entry>ws</entry>
-        <entry>w3</entry>
-        <entry>q</entry>
-        <entry>a</entry>
-        <entry>sw</entry>
+        <entry>aw</entry>
+        <entry>wa</entry>
         <entry>we</entry>
-        <entry>w2</entry>
-        <entry>qw</entry>
-        <entry>WQ</entry>
+        <entry>2</entry>
+        <entry>bn</entry>
+        <entry>Lw</entry>
         <entry>wq</entry>
-        <entry>ew</entry>
+        <entry>qw</entry>
+        <entry>sw</entry>
+        <entry>ewe</entry>
+        <entry>w3</entry>
+        <entry>a</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -773,14 +1260,17 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
