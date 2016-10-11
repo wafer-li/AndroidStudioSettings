@@ -677,7 +677,7 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiServices.kt" timestamp="1476193781513">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiServices.kt" timestamp="1476195256612">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
@@ -875,7 +875,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476193418082">
+      <file name="/Dummy.txt" timestamp="1476195362589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
@@ -1077,8 +1077,8 @@
       <jump line="25" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PROJECT_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PROJECT_NAME</text>
@@ -1089,11 +1089,11 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIHNvdXJjZVNldHMgewogICAgICAgIG1haW4uamF2YS5zcmNEaXJzICs9ICdzcmMvbWFpbi9rb3RsaW4nCiAgICB9</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHByaXZhdGUgdmFsIEhPU1RfSVAgPSAiMTAxLjIwMC4xNDQuMjA0IgogICAgY29uc3QgcHJpdmF0ZSB2YWwgUE9SVCA9ICI4MDAwIgogICAgY29uc3QgcHJpdmF0ZSB2YWwgUFJPSkVDVF9OQU1FID0gInYxIgo=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHByaXZhdGUgdmFsIEhPU1RfSVAgPSAiMTAxLjIwMC4xNDQuMjA0IgogICAgY29uc3QgcHJpdmF0ZSB2YWwgUE9SVCA9ICI4MDAwIgogICAgY29uc3QgcHJpdmF0ZSB2YWwgUFJPSkVDVF9OQU1FID0gInYxIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1104,14 +1104,14 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGFic3RyYWN0IGNsYXNzIENhY2hlU2l6ZSB7CiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgU0laRV9LQiA9IDEwMjQ7CiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgU0laRV9NQiA9IDEwMjQgKiBTSVpFX0tCOwogICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFNJWkVfR0IgPSAxMDI0ICogU0laRV9NQjsKCiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
