@@ -128,6 +128,12 @@
         <mark key="." line="77" column="22" />
         <mark key="^" line="77" column="22" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/build.gradle" timestamp="1476192245092">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -312,6 +318,12 @@
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiManager.java" timestamp="1476191832189">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/proguard-rules.pro" timestamp="1476026364404">
         <mark key="[" line="17" column="0" />
@@ -811,6 +823,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/NetworkContract.java" timestamp="1476191347913" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/ban.xhtml" timestamp="1467806317268">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="68" />
@@ -835,7 +848,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476190484261">
+      <file name="/Dummy.txt" timestamp="1476192273651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
@@ -924,7 +937,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1476094927122">
+      <file name="/fragment.java" timestamp="1476191477231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/AddFriendActivity.java" timestamp="1465416278458">
@@ -1038,10 +1051,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLScK</text>
       </register>
       <register name="-" type="4">
-        <text>bundle</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcGlTZXJ2aWNlc1w+</text>
@@ -1050,31 +1063,31 @@
         <text encoding="base64">ICAgIHNvdXJjZVNldHMgewogICAgICAgIG1haW4uamF2YS5zcmNEaXJzICs9ICdzcmMvbWFpbi9rb3RsaW4nCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBybwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWI6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5mbGFnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
