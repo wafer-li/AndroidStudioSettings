@@ -78,6 +78,12 @@
         <mark key="." line="42" column="70" />
         <mark key="^" line="42" column="70" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/find/FindZoneActivity.java" timestamp="1476192813312">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="111" column="36" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,11 +134,12 @@
         <mark key="." line="77" column="22" />
         <mark key="^" line="77" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/build.gradle" timestamp="1476192245092">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/build.gradle" timestamp="1476193405672">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="55" column="57" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
         <mark key="[" line="54" column="0" />
@@ -772,6 +779,9 @@
         <mark key="." line="74" column="53" />
         <mark key="^" line="74" column="53" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1476193148354">
+        <mark key="^" line="2" column="44" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkApi.java" timestamp="1468382380891">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="12" column="3" />
@@ -783,6 +793,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiManager.kt" timestamp="1476193599672">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-history.xhtml" timestamp="1468409369262">
         <mark key="[" line="54" column="37" />
@@ -848,7 +864,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476192273651">
+      <file name="/Dummy.txt" timestamp="1476193418082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
@@ -948,9 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="134" column="24" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
-      <jump line="155" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="225" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="163" column="80" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
       <jump line="172" column="57" filename="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkMethodWrapper.java" />
@@ -1048,13 +1061,16 @@
       <jump line="29" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/Authentication.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/BaseActivity.kt" />
       <jump line="21" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/BaseActivity.kt" />
+      <jump line="18" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" />
+      <jump line="19" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" />
+      <jump line="14" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLScK</text>
+        <text encoding="base64">ICAgIHZhbCByZXRyb2ZpdDogUmV0cm9maXQgPSBudWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcGlTZXJ2aWNlc1w+</text>
@@ -1063,31 +1079,31 @@
         <text encoding="base64">ICAgIHNvdXJjZVNldHMgewogICAgICAgIG1haW4uamF2YS5zcmNEaXJzICs9ICdzcmMvbWFpbi9rb3RsaW4nCiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLScK</text>
+        <text encoding="base64">ICAgIHZhbCByZXRyb2ZpdDogUmV0cm9maXQgPSBudWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNyZWF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWI6JGtvdGxpbl92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJldHJvZml0OiBSZXRyb2ZpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
