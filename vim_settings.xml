@@ -27,7 +27,7 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1476095392960">
+      <file name="/a.dummy" timestamp="1476371707876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476026103997">
@@ -138,13 +138,6 @@
         <mark key="]" line="77" column="22" />
         <mark key="." line="77" column="22" />
         <mark key="^" line="77" column="22" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/build.gradle" timestamp="1476193405672">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
         <mark key="[" line="54" column="0" />
@@ -404,13 +397,6 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/Authentication.kt" timestamp="1476110715885">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_toolbar.xml" timestamp="1460226615201">
         <mark key="[" line="5" column="47" />
@@ -722,13 +708,6 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/BaseActivity.kt" timestamp="1476200175926">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="43" />
-        <mark key="^" line="38" column="43" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/event-detail.xhtml" timestamp="1468409225118">
         <mark key="[" line="45" column="52" />
         <mark key="]" line="45" column="53" />
@@ -812,13 +791,6 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiManager.kt" timestamp="1476195230328">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="3" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-history.xhtml" timestamp="1468409369262">
         <mark key="[" line="54" column="37" />
         <mark key="]" line="54" column="37" />
@@ -892,7 +864,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476356993299">
+      <file name="/Dummy.txt" timestamp="1476371747687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
