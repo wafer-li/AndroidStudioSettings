@@ -27,7 +27,7 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1476371707876">
+      <file name="/a.dummy" timestamp="1476528000510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476026103997">
@@ -446,10 +446,10 @@
         <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1476461134155">
-        <mark key="[" line="34" column="65" />
-        <mark key="]" line="34" column="89" />
-        <mark key="." line="34" column="89" />
-        <mark key="^" line="34" column="89" />
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="89" />
+        <mark key="." line="4" column="89" />
+        <mark key="^" line="4" column="89" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/styles.xml" timestamp="1461340733601">
         <mark key="[" line="8" column="53" />
@@ -490,13 +490,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" timestamp="1476463112641">
-        <mark key="'" line="43" column="41" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="44" column="37" />
-        <mark key="." line="44" column="37" />
-        <mark key="^" line="44" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentManagement.java" timestamp="1467985462452">
         <mark key="[" line="41" column="0" />
@@ -828,6 +821,7 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/IBNS_Android_Terminal/app/src/main/java/edu/ict/ui/wanttogo/RouteActivity.java" timestamp="1476527437200" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/login.xhtml" timestamp="1468409310540">
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="53" />
@@ -972,9 +966,6 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476460944355">
         <mark key="[" line="66" column="75" />
-        <mark key="]" line="68" column="72" />
-        <mark key="." line="68" column="72" />
-        <mark key="^" line="68" column="72" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
         <mark key="[" line="54" column="29" />
