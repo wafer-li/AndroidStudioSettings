@@ -48,6 +48,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/NavimapEditor/util/FileWorker.class" timestamp="1476535515708" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" timestamp="1468417149942">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="80" column="86" />
@@ -362,6 +363,7 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/IBNS_Android_Terminal/src/edu/ict/ui/mylocation/MyLocationActivity.java" timestamp="1476534337361" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/InviteCoupleActivity.java" timestamp="1461212451340">
         <mark key="[" line="38" column="54" />
         <mark key="]" line="41" column="85" />
@@ -378,7 +380,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="87" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="20" column="84" />
+        <mark key="^" line="6" column="84" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/spinner_gender_item.xml" timestamp="1460452488812">
         <mark key="[" line="1" column="68" />
@@ -525,6 +527,7 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/control/BuildingManager.class" timestamp="1476534944940" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/redirect.xhtml" timestamp="1468076467473">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="378" />
@@ -678,6 +681,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/NavimapEditor/util/DiskTools.class" timestamp="1476535539375" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/checkin.xhtml" timestamp="1467806245810">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="69" />
@@ -899,7 +903,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/IBNS_Android_Terminal/src/edu/ict/ui/wanttogo/RouteActivity.java" timestamp="1476531153265" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/IBNS_Android_Terminal/src/edu/ict/ui/wanttogo/RouteActivity.java" timestamp="1476534848569" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/upload_hehe.xhtml" timestamp="1468129040689">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="44" />
@@ -968,10 +972,6 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476533529580">
         <mark key="'" line="23" column="15" />
-        <mark key="[" line="70" column="18" />
-        <mark key="]" line="70" column="14" />
-        <mark key="." line="70" column="14" />
-        <mark key="^" line="70" column="14" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
         <mark key="[" line="54" column="29" />
