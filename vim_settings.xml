@@ -374,10 +374,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="48" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/build.gradle" timestamp="1476276567660">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/build.gradle" timestamp="1476533513834">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="87" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="20" column="84" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/spinner_gender_item.xml" timestamp="1460452488812">
         <mark key="[" line="1" column="68" />
@@ -965,8 +966,12 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476460944355">
-        <mark key="[" line="66" column="75" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476533529580">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="14" />
+        <mark key="." line="70" column="14" />
+        <mark key="^" line="70" column="14" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
         <mark key="[" line="54" column="29" />
@@ -1006,7 +1011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/algo/Algo.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="23" column="53" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
@@ -1106,10 +1110,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="43" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
+      <jump line="23" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Hex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovLzEwMS4yMDAuMTQ0LjIwNDoxNjA4Mi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcyJ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Hex</text>
@@ -1117,11 +1122,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBBdXRoZW50aWNhdGlvbkluZm9SZXF1ZXN0IHJlcXVlc3QgPSBuZXcgQXV0aGVudGljYXRpb25JbmZvUmVxdWVzdCgpOwoKICAgICAgICByZXF1ZXN0LnNldFVzZXJuYW1lKHVzZXJuYW1lKTsKICAgICAgICByZXF1ZXN0LnNldFBhc3N3b3JkKHBhc3N3b3JkKTsKICAgICAgICByZXF1ZXN0LnNldENhcHRjaGEoY2FwdGNoYSk7Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovLzEwMS4yMDAuMTQ0LjIwNDoxNjA4Mi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcyJ9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsICJodHRwOi8vMTAxLjIwMC4xNDQuMjA0OjE2MDgyL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3JlbGVhc2VzIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1130,22 +1135,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4wLjAtYWxwaGE5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlLmcK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuVGltZXN0YW1wOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lc3RhbXAgdGltZXN0YW1wID0gbmV3IFRpbWVzdGFtcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
