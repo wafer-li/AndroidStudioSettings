@@ -27,7 +27,7 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1476614627863">
+      <file name="/a.dummy" timestamp="1476628454332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476026103997">
@@ -319,6 +319,12 @@
         <mark key="]" line="48" column="67" />
         <mark key="." line="48" column="67" />
         <mark key="^" line="48" column="67" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1476628046852">
+        <mark key="[" line="77" column="49" />
+        <mark key="]" line="77" column="49" />
+        <mark key="." line="77" column="49" />
+        <mark key="^" line="77" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
@@ -753,7 +759,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/floorView/view/FloorView.class" timestamp="1476612111424" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/floorView/view/FloorView.class" timestamp="1476628888179" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-delete.xhtml" timestamp="1467988554927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="6" />
@@ -791,6 +797,7 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="53" column="49" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LogUtil.java" timestamp="1476629065763" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/TestModel.java" timestamp="1461594365912">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="21" column="38" />
@@ -860,7 +867,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476623739086">
+      <file name="/Dummy.txt" timestamp="1476629895902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
@@ -917,10 +924,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476627576283">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476629667735">
         <mark key="[" line="82" column="43" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/README.md" timestamp="1459189365097">
         <mark key="[" line="4" column="44" />
@@ -1056,11 +1064,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
@@ -1069,31 +1077,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvb3JWaWV3LnN0YXJ0UG9zaXRpb25pbmcoNDAwLCA0MDAsIGZsb2F0KSAwLjEpKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
+        <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjIuMC42PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDwvZ3JvdXBJZD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5zdmctYW5kcm9pZDwvYXJ0aWZhY3RJZD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjIuMC42PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDwvZ3JvdXBJZD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5zdmctYW5kcm9pZDwvYXJ0aWZhY3RJZD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
