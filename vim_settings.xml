@@ -163,6 +163,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/s.java" timestamp="1476692282881" />
       <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/src/algs4_assignment/Example.java" timestamp="1459189808494">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="19" />
@@ -241,7 +242,13 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" timestamp="1476686606198" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" timestamp="1476699484609">
+        <mark key="'" line="35" column="35" />
+        <mark key="[" line="83" column="71" />
+        <mark key="]" line="84" column="71" />
+        <mark key="." line="84" column="71" />
+        <mark key="^" line="84" column="71" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="15" />
@@ -446,11 +453,11 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" timestamp="1476686176753">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" timestamp="1476696726316">
+        <mark key="'" line="35" column="8" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/JChat/AndroidManifest.xml" timestamp="1462124463033">
         <mark key="[" line="15" column="35" />
@@ -562,6 +569,12 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/library/src/main/java/com/onlylemi/mapview/library/utils/math/FloydAlgorithm.java" timestamp="1476694721233">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/fragment_login_main_page.xml" timestamp="1465211813028">
         <mark key="[" line="14" column="9" />
@@ -737,6 +750,7 @@
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/library/src/main/java/com/onlylemi/mapview/library/layer/RouteLayer.java" timestamp="1476697686697" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/.gitignore" timestamp="1475998517702">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="4" column="16" />
@@ -974,7 +988,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1476683457108">
+      <file name="/fragment.java" timestamp="1476692270996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/AddFriendActivity.java" timestamp="1465416278458">
@@ -985,9 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="50" column="53" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="164" column="27" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="156" column="68" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="159" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="42" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
@@ -1085,46 +1096,49 @@
       <jump line="55" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
       <jump line="9" column="1" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" />
       <jump line="43" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
+      <jump line="111" column="50" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
+      <jump line="35" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwVXRpbHMuaW5pdChub2Rlcy5zaXplKCksIG5vZGVzQ29udHJhY3Quc2l6ZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBub2RlcyA9IFRlc3REYXRhLmdldE5vZGVzTGlzdCgpOwogICAgICAgIG5vZGVzQ29udHJhY3QgPSBUZXN0RGF0YS5nZXROb2Rlc0NvbnRhY3RMaXN0KCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwVXRpbHMuaW5pdChub2Rlcy5zaXplKCksIG5vZGVzQ29udHJhY3Quc2l6ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIvPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL2RvbWFpbl91c2VyX3NpZ25faW4iPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSI+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXNDb250cmFjdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXMgPSBUZXN0RGF0YS5nZXROb2Rlc0xpc3QoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXNDb250cmFjdCA9IFRlc3REYXRhLmdldE5vZGVzQ29udGFjdExpc3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1164,16 +1178,16 @@
         <entry>2</entry>
         <entry>bn</entry>
         <entry>Lw</entry>
-        <entry>qw</entry>
         <entry>sw</entry>
         <entry>ewe</entry>
-        <entry>w3</entry>
         <entry>a</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry>we</entry>
         <entry>ew</entry>
+        <entry>qw</entry>
+        <entry>we</entry>
+        <entry>w3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
