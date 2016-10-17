@@ -812,10 +812,11 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476721511979">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476722800277">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/BasicAuthencator.kt" timestamp="1476094682585">
         <mark key="[" line="9" column="38" />
@@ -1020,9 +1021,14 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1476721651711">
+        <mark key="[" line="26" column="64" />
+        <mark key="]" line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+        <mark key="." line="26" column="64" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="155" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="81" column="62" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="213" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
@@ -1122,55 +1128,56 @@
       <jump line="35" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
       <jump line="85" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="14" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYXNoTWFwT2YoUGFpcigic29ydCIsICJzdGFycyIpLCBQYWlyKCJvcmRlciIsICJkZXNjIikpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZVw+</text>
+        <text encoding="base64">XDxoYXNoTWFwT2ZcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBub2RlcyA9IFRlc3REYXRhLmdldE5vZGVzTGlzdCgpOwogICAgICAgIG5vZGVzQ29udHJhY3QgPSBUZXN0RGF0YS5nZXROb2Rlc0NvbnRhY3RMaXN0KCk7CiAgICAgICAgbWFya3MgPSBUZXN0RGF0YS5nZXRNYXJrcygpOwogICAgICAgIG1hcmtzTmFtZSA9IFRlc3REYXRhLmdldE1hcmtzTmFtZSgpOwogICAgICAgIE1hcFV0aWxzLmluaXQobm9kZXMuc2l6ZSgpLCBub2Rlc0NvbnRyYWN0LnNpemUoKSk7CgogICAgICAgIG1hcFZpZXcgPSAoTWFwVmlldykgZmluZFZpZXdCeUlkKFIuaWQubWFwdmlldyk7CiAgICAgICAgQml0bWFwIGJpdG1hcCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVTdHJlYW0oZ2V0QXNzZXRzKCkub3BlbigibWFwLnBuZyIpKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIG1hcFZpZXcubG9hZE1hcChiaXRtYXApOwogICAgICAgIG1hcFZpZXcuc2V0TWFwVmlld0xpc3RlbmVyKG5ldyBNYXBWaWV3TGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk1hcExvYWRTdWNjZXNzKCkgewoKICAgICAgICAgICAgICAgIGxvY2F0aW9uTGF5ZXIgPSBuZXcgTG9jYXRpb25MYXllcihtYXBWaWV3LCBtYXJrcy5nZXQoMzkpKTsKICAgICAgICAgICAgICAgIGxvY2F0aW9uTGF5ZXIuc2V0T3BlbkNvbXBhc3ModHJ1ZSk7CiAgICAgICAgICAgICAgICBsb2NhdGlvbkxheWVyLnNldENvbXBhc3NJbmRpY2F0b3JDaXJjbGVSb3RhdGVEZWdyZWUoNjApOwogICAgICAgICAgICAgICAgbG9jYXRpb25MYXllci5zZXRDb21wYXNzSW5kaWNhdG9yQXJyb3dSb3RhdGVEZWdyZWUoLTMwKTsKICAgICAgICAgICAgICAgIG1hcFZpZXcuYWRkTGF5ZXIobG9jYXRpb25MYXllcik7CgogICAgICAgICAgICAgICAgcm91dGVMYXllciA9IG5ldyBSb3V0ZUxheWVyKG1hcFZpZXcpOwogICAgICAgICAgICAgICAgbWFwVmlldy5hZGRMYXllcihyb3V0ZUxheWVyKTsKCiAgICAgICAgICAgICAgICBtYXJrTGF5ZXIgPSBuZXcgTWFya0xheWVyKG1hcFZpZXcsIG1hcmtzLCBtYXJrc05hbWUpOwogICAgICAgICAgICAgICAgbWFwVmlldy5hZGRMYXllcihtYXJrTGF5ZXIpOwogICAgICAgICAgICAgICAgbWFya0xheWVyLnNldE1hcmtJc0NsaWNrTGlzdGVuZXIobmV3IE1hcmtMYXllci5NYXJrSXNDbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG1hcmtJc0NsaWNrKGludCBudW0pIHsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyb3V0ZVBvc2l0aW9uQ2hhbmdlci5pc1J1bm5pbmcoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVQb3NpdGlvbkNoYW5nZXIuc3RvcCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBQb2ludEYgdGFyZ2V0ID0gbmV3IFBvaW50RihtYXJrcy5nZXQobnVtKS54LCBtYXJrcy5nZXQobnVtKS55KTsKICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVMaXN0ID0gTWFwVXRpbHMuZ2V0U2hvcnRlc3REaXN0YW5jZUJldHdlZW5Ud29Qb2ludHMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobG9jYXRpb25MYXllci5nZXRDdXJyZW50UG9zaXRpb24oKSwgdGFyZ2V0LCBub2Rlcywgbm9kZXNDb250cmFjdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJvdXRlTGF5ZXIuc2V0Tm9kZUxpc3Qobm9kZXMpOwogICAgICAgICAgICAgICAgICAgICAgICByb3V0ZUxheWVyLnNldFJvdXRlTGlzdChyb3V0ZUxpc3QpOwogICAgICAgICAgICAgICAgICAgICAgICBtYXBWaWV3LnJlZnJlc2goKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIHJvdXRlTm9kZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA6IHJvdXRlTGlzdCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91dGVOb2Rlcy5hZGQobm9kZXMuZ2V0KGkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgbW92ZUxvY2F0aW9uKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBtYXBWaWV3LnJlZnJlc2goKTsKCiAgICAgICAgICAgIH0KCgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25NYXBMb2FkRmFpbCgpIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYXNoTWFwT2YoUGFpcigic29ydCIsICJzdGFycyIpLCBQYWlyKCJvcmRlciIsICJkZXNjIikpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBzZWFyY2hSZXBvcyhAUXVlcnlNYXAgbWFwOiBNYXA8U3RyaW5nLCBTdHJpbmc+ID0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmVuZGluZ1JlcG9RdWVyeU1hcDogTWFwPFN0cmluZywgU3RyaW5nPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2VkdS5pY3Q6aGVhcDoxLjAuMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5sYXJ2YWxhYnM6c3ZnLWFuZHJvaWQ6MS4xJwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb21tb25zLWlvJywgbmFtZTogJ2NvbW1vbnMtaW8nLCB2ZXJzaW9uOiAnMi41Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2VkdS5pY3QuSUJTTi5tYXA6bWFwLWNvcmU6MS4wLjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qIE1hcCBDb3JlICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHlsZVw+</last-search>
+      <last-search encoding="base64">XDxoYXNoTWFwT2ZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNoTWFwT2ZcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzdHlsZVw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -1194,6 +1201,7 @@
         <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxBcGlTZXJ2aWNlc1w+</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
+        <entry encoding="base64">XDxoYXNoTWFwT2ZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>aw</entry>
