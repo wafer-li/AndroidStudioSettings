@@ -242,12 +242,11 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" timestamp="1476699484609">
-        <mark key="'" line="35" column="35" />
-        <mark key="[" line="83" column="71" />
-        <mark key="]" line="84" column="71" />
-        <mark key="." line="84" column="71" />
-        <mark key="^" line="84" column="71" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" timestamp="1476707490255">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="56" column="48" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
         <mark key="[" line="9" column="16" />
@@ -750,7 +749,12 @@
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/library/src/main/java/com/onlylemi/mapview/library/layer/RouteLayer.java" timestamp="1476697686697" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/library/src/main/java/com/onlylemi/mapview/library/layer/RouteLayer.java" timestamp="1476706756766">
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
+        <mark key="^" line="105" column="11" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/.gitignore" timestamp="1475998517702">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="4" column="16" />
@@ -919,6 +923,7 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/library/src/main/java/com/onlylemi/mapview/library/MapView.java" timestamp="1476706221890" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/jpush_webview_layout.xml" timestamp="1462132775213">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="27" column="32" />
@@ -1102,43 +1107,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwVXRpbHMuaW5pdChub2Rlcy5zaXplKCksIG5vZGVzQ29udHJhY3Quc2l6ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBub2RlcyA9IFRlc3REYXRhLmdldE5vZGVzTGlzdCgpOwogICAgICAgIG5vZGVzQ29udHJhY3QgPSBUZXN0RGF0YS5nZXROb2Rlc0NvbnRhY3RMaXN0KCk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBzaHV0ZG93bkRyYXc6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwVXRpbHMuaW5pdChub2Rlcy5zaXplKCksIG5vZGVzQ29udHJhY3Quc2l6ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlUmVkdW5kYW50Tm9kZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm91dGVQb3NpdGlvbkNoYW5nZXIgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXNDb250cmFjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXMgPSBUZXN0RGF0YS5nZXROb2Rlc0xpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZXNDb250cmFjdCA9IFRlc3REYXRhLmdldE5vZGVzQ29udGFjdExpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
