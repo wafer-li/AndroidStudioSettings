@@ -27,7 +27,7 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1476628454332">
+      <file name="/a.dummy" timestamp="1476674109497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1476026103997">
@@ -48,7 +48,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/NavimapEditor/util/FileWorker.class" timestamp="1476620006071" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/StudentModification.java" timestamp="1468417149942">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="80" column="86" />
@@ -61,6 +60,7 @@
         <mark key="." line="47" column="53" />
         <mark key="^" line="47" column="53" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/LocationLayerTestActivity.java" timestamp="1476672682718" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" timestamp="1468418384965">
         <mark key="[" line="32" column="73" />
         <mark key="]" line="32" column="102" />
@@ -235,7 +235,12 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/floorView/util/PictureCacheTools.class" timestamp="1476625535335" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" timestamp="1476674679756">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="17" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkContract.java" timestamp="1468387470514">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="15" />
@@ -530,7 +535,6 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/control/BuildingManager.class" timestamp="1476619701022" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/redirect.xhtml" timestamp="1468076467473">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="378" />
@@ -759,7 +763,6 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ict.IBSN.map/map-core/1.0.0/8d62eabce186c683f5470dee623e66405315cf23/map-core-1.0.0.jar!/edu/ict/IBSN/map/floorView/view/FloorView.class" timestamp="1476628888179" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/course-delete.xhtml" timestamp="1467988554927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="6" />
@@ -778,7 +781,6 @@
         <mark key="." line="74" column="53" />
         <mark key="^" line="74" column="53" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/ApplicationSettingActivity.java" timestamp="1476615466691" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/NetworkApi.java" timestamp="1468382380891">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="12" column="3" />
@@ -797,7 +799,6 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LogUtil.java" timestamp="1476629065763" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/utils/TestModel.java" timestamp="1461594365912">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="21" column="38" />
@@ -867,7 +868,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476629895902">
+      <file name="/Dummy.txt" timestamp="1476631569044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/AppInfoKeys.java" timestamp="1465057533417">
@@ -956,10 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="118" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="167" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="55" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="160" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="58" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
@@ -1056,13 +1053,17 @@
       <jump line="25" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="55" column="76" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" />
+      <jump line="134" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
+      <jump line="152" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
@@ -1071,31 +1072,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvb3JWaWV3LnN0YXJ0UG9zaXRpb25pbmcoNDAwLCA0MDAsIGZsb2F0KSAwLjEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5Db21waWxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGltZXIuc2NoZWR1bGVBdEZpeGVkUmF0ZShuZXcgTW92ZVRhc2soKSwgMjAwMCwgMjAwMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDpzdmctYW5kcm9pZDoxLjEuMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjIuMC42PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFwVmlldy5yZWZyZXNoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5naXRodWIuamFwZ29sbHkuYW5kcm9pZDwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9jYXRpb25MYXllci5zZXRDdXJyZW50UG9zaXRpb24oY3VycmVudFBvc2l0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5zdmctYW5kcm9pZDwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUG9pbnRGIGN1cnJlbnRQb3NpdGlvbiA9IG5vZGVzLmdldChpbmRleCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpbmRleCA6IHJvdXRlTGlzdCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
