@@ -676,12 +676,12 @@
         <mark key="." line="48" column="67" />
         <mark key="^" line="48" column="67" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1476793995546">
-        <mark key="'" line="263" column="0" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
-        <mark key="^" line="61" column="20" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1476795625259">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1476201170644">
         <mark key="[" line="15" column="19" />
@@ -1048,11 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="171" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="0" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
-      <jump line="158" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="9" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="67" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/test/java/edu/bupt/sse/undergroundnav/network/ApiServicesTest.java" />
@@ -1148,13 +1143,18 @@
       <jump line="14" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
       <jump line="127" column="45" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="263" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="63" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="39" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="291" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50ZXJmYWNlIA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNoTWFwT2ZcPg==</text>
@@ -1162,31 +1162,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25Sb3V0ZURlZ3JlZUNoYW5nZUxpc3RlbmVyLm9uRGVncmVlQ2hhbmdlKG5ld0RlZ3JlZSwgY3VycmVudERlZ3JlZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>public class on {
-
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgT25Sb3V0ZURlZ3JlZUNoYW5nZUxpc3RlbmVyIHsKCiAgICAgICAgdm9pZCBvbkRlZ3JlZUNoYW5nZShpbnQgbmV3RGVncmVlLCBpbnQgY3VycmVudERlZ3JlZSk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50ZXJmYWNlIE9uUm91dGVEZWdyZWVDaGFuZ2VMaXN0ZW5lciB7CgogICAgICAgIHZvaWQgb25EZWdyZWVDaGFuZ2UoaW50IG5ld0RlZ3JlZSwgaW50IGN1cnJlbnREZWdyZWUpOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRpYW8gdG91Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5zZXRBdWRpb1N0cmVhbVR5cGUoQXVkaW9NYW5hZ2VyLlNUUkVBTV9NVVNJQyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBpbnQgZ2V0RGVncmVlRGlmZmVyZW5jZShpbnQgbmV3RGVncmVlLCBpbnQgY3VycmVudERlZ3JlZSkgewoKICAgICAgICBpbnQgZGlmZmVyZW5jZSA9IG5ld0RlZ3JlZSAtIGN1cnJlbnREZWdyZWU7CgogICAgICAgIGlmIChNYXRoLmFicyhkaWZmZXJlbmNlKSA+IDE4MCkgewogICAgICAgICAgICBpZiAobmV3RGVncmVlID4gY3VycmVudERlZ3JlZSkgewogICAgICAgICAgICAgICAgbmV3RGVncmVlIC09IDM2MDsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGN1cnJlbnREZWdyZWUgLT0gMzYwOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gKG5ld0RlZ3JlZSAtIGN1cnJlbnREZWdyZWUpICUgMTgxOwogICAgfQoKCiAgICAvKgogICAgICogUmFuZ2U6IC1QaSB+IFBpCiAgICAgKi8KICAgIHByaXZhdGUgaW50IGNhbGN1bGF0ZURlZ3JlZShQb2ludEYgbGFzdF9wLCBQb2ludEYgY3VycmVudF9wKSB7CgogICAgICAgIGZsb2F0IHggPSBjdXJyZW50X3AueCAtIGxhc3RfcC54OwogICAgICAgIGZsb2F0IHkgPSBjdXJyZW50X3AueSAtIGxhc3RfcC55OwogICAgICAgIHJldHVybiAoaW50KSBNYXRoLnRvRGVncmVlcyhNYXRoLmF0YW4yKHgsIC15KSk7CiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllciA9IG5ldyBNZWRpYVBsYXllcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVkaWFQbGF5ZXIgbWVkaWFQbGF5ZXIgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5zZXREYXRhU291cmNlKGRlc2NyaXB0b3IpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
