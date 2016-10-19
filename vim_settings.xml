@@ -9,11 +9,11 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/stereoview/src/main/AndroidManifest.xml" timestamp="1476690644635">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/stereoview/src/main/AndroidManifest.xml" timestamp="1476883921515">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/drawable/richpush_btn_selector.xml" timestamp="1462132883595">
         <mark key="[" line="7" column="26" />
@@ -87,10 +87,10 @@
         <mark key="." line="266" column="29" />
         <mark key="^" line="266" column="29" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_main_button.xml" timestamp="1476866287624">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_main_button.xml" timestamp="1476885943053">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/com/edu/bupt/sse/undergroundnav/application/UndergroundNavApplication.java" timestamp="1469716516615">
         <mark key="[" line="32" column="46" />
@@ -221,12 +221,12 @@
         <mark key="." line="71" column="93" />
         <mark key="^" line="71" column="93" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/login/LoginActivity.java" timestamp="1476871176299">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/login/LoginActivity.java" timestamp="1476887344485">
         <mark key="'" line="194" column="14" />
-        <mark key="[" line="193" column="36" />
-        <mark key="]" line="204" column="70" />
-        <mark key="." line="204" column="70" />
-        <mark key="^" line="204" column="70" />
+        <mark key="[" line="326" column="7" />
+        <mark key="]" line="326" column="11" />
+        <mark key="." line="326" column="11" />
+        <mark key="^" line="326" column="11" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
@@ -390,7 +390,6 @@
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/strings.xml" timestamp="1476875471342" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MapUtil.java" timestamp="1476881896686">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -498,7 +497,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476878426097">
+      <file name="/Dummy.txt" timestamp="1476886842128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -516,13 +515,19 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/MainButtonUtil.java" timestamp="1476885973188">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="16" column="82" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/Config.java" timestamp="1468426631001">
         <mark key="[" line="8" column="65" />
         <mark key="]" line="8" column="65" />
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476880962921">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476884679220">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="27" />
@@ -547,11 +552,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/application/UndergroundNavApplication.java" timestamp="1476688620513">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="38" column="32" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/application/UndergroundNavApplication.java" timestamp="1476886803935">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/layout/stub_cities_spinner.xml" timestamp="1465141996367">
         <mark key="[" line="2" column="0" />
@@ -699,7 +704,6 @@
         <mark key="." line="48" column="67" />
         <mark key="^" line="48" column="67" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1476854476563" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1476201170644">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="19" />
@@ -757,6 +761,16 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build/intermediates/exploded-aar/UndergroundNav/stereoview/unspecified/AndroidManifest.xml" timestamp="1476883440253">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MainActivity.java" timestamp="1476883266460">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/Login.java" timestamp="1467813864133">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="15" column="3" />
@@ -769,7 +783,7 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/activity_login.xml" timestamp="1476545279156">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/activity_login.xml" timestamp="1476887033491">
         <mark key="[" line="69" column="39" />
         <mark key="]" line="69" column="43" />
         <mark key="." line="69" column="43" />
@@ -930,6 +944,11 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/item_main_button.xml" timestamp="1476884542972">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Test/src/com/wafer/Main.java" timestamp="1461502093461">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="52" />
@@ -1050,8 +1069,20 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_user_setting.xml" timestamp="1476886184747">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_settings.xml" timestamp="1476886194408">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1476723557235">
         <mark key="[" line="26" column="64" />
@@ -1068,7 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="88" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="30" column="75" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="32" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
@@ -1168,13 +1198,14 @@
       <jump line="194" column="14" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/login/LoginActivity.java" />
       <jump line="17" column="14" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_main_button.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
@@ -1183,31 +1214,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRpdGxlPSJAc3RyaW5nL2FwcF9uYW1lIiAvPi0tPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EYXJrLkFjdGlvbkJhciItLT4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ29udGV4dCBnZXRDb250ZXh0KCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbnRleHQgY29udGV4dDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tc3R5bGU9IkBzdHlsZS9BcHBUaGVtZS5BY3Rpb25CYXIiLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyLS0+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbnRleHQgY29udGV4dCA9IFVuZGVyZ3JvdW5kTmF2QXBwbGljYXRpb24uZ2V0Q29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGdldEluc3RhbmNlKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
