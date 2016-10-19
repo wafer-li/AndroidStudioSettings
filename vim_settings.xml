@@ -511,8 +511,12 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476879566378">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476880962921">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/utils/on.java" timestamp="1476793498741">
         <mark key="[" line="10" column="7" />
@@ -1150,10 +1154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
