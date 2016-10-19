@@ -415,11 +415,10 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_main.xml" timestamp="1476355272455">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_main.xml" timestamp="1476861056078">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/app/src/main/java/cn/crepusculo/subway_ticket_android/network/api/Subway.java" timestamp="1468389477084">
         <mark key="[" line="18" column="57" />
@@ -1135,7 +1134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudERvd25UaW1lci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1147,28 +1146,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudERvd25UaW1lci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRpdGxlPSJAc3RyaW5nL2FwcF9uYW1lIiAvPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzVHVyblBsYXlpbmcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EYXJrLkFjdGlvbkJhciItLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tc3R5bGU9IkBzdHlsZS9BcHBUaGVtZS5BY3Rpb25CYXIiLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDwhLS08YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW4K</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JhY2tncm91bmQiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
