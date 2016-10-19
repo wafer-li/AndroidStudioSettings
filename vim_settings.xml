@@ -390,6 +390,7 @@
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/strings.xml" timestamp="1476873440855" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-management.xhtml" timestamp="1468429269754">
         <mark key="[" line="93" column="51" />
         <mark key="]" line="93" column="51" />
@@ -486,7 +487,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476868913985">
+      <file name="/Dummy.txt" timestamp="1476873431487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -591,6 +592,9 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values-zh/array.xml" timestamp="1476873648567">
+        <mark key="[" line="1" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d79298b7-1f4f-46e6-8c15-407a7ef07054/console.sql" timestamp="1468035908630">
         <mark key="[" line="0" column="76" />
@@ -1035,6 +1039,12 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="26" column="64" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" timestamp="1476873722515">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
@@ -1143,7 +1153,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>注销登录</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
@@ -1155,28 +1165,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJkZXByZWNhdGVkIikK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbT7ms6jplIDnmbvlvZU8L2l0ZW0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbT7nu5HlrprotKblj7c8L2l0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci5PcmFuZ2UsIGdldFRoZW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbT7mm7TmlLnlr4bnoIE8L2l0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbT7kuKrkurrkv6Hmga88L2l0ZW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci5PcmFuZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dFN3aXRjaGVyLnNldFRleHQoZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLmxvZ2luX21vZGVfbG9naW4pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0U3dpdGNoZXIuc2V0VGV4dChnZXRSZXNvdXJjZXMoKS5nZXRTdHJpbmcoUi5zdHJpbmcubG9naW5fbW9kZV9sb2dpbikpOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJkZXByZWNhdGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkRhcmsuQWN0aW9uQmFyIgo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1225,11 +1235,11 @@
         <entry>a</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>ew</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>W</entry>
         <entry>w3</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
