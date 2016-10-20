@@ -497,7 +497,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476886842128">
+      <file name="/Dummy.txt" timestamp="1476941145928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -527,12 +527,12 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476884679220">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1476940966724">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/utils/on.java" timestamp="1476793498741">
         <mark key="[" line="10" column="7" />
@@ -1202,10 +1202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text encoding="base64">ICAgIC8vIFN1cHByZXNzIHRoZSBsaW50IHdhcm5pbmc6ICJOb3QgYWxsIGV4Y2VwdGlvbiBwYXRoIHJldHVybiBhIHZhbHVlIgogICAgcmV0dXJuIHZvaWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
@@ -1213,32 +1213,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8vIFN1cHByZXNzIHRoZSBsaW50IHdhcm5pbmc6ICJOb3QgYWxsIGV4Y2VwdGlvbiBwYXRoIHJldHVybiBhIHZhbHVlIgogICAgcmV0dXJuIHZvaWQ=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ29udGV4dCBnZXRDb250ZXh0KCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbnRleHQgY29udGV4dDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCAiLi4vYWxnby9DTWFrZUxpc3RzLnR4dCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjbWFrZSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV4dGVybmFsTmF0aXZlQnVpbGQgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIC8vIEpOSQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGdldEluc3RhbmNlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
