@@ -116,11 +116,11 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/Repo.kt" timestamp="1476980743595">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/Repo.kt" timestamp="1476986956925">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
         <mark key="[" line="54" column="0" />
@@ -223,6 +223,12 @@
         <mark key="]" line="45" column="36" />
         <mark key="." line="45" column="36" />
         <mark key="^" line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/Permissions.kt" timestamp="1476985711051">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+        <mark key="^" line="9" column="78" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/classes.xhtml" timestamp="1468410572731">
         <mark key="[" line="71" column="36" />
@@ -636,12 +642,12 @@
         <mark key="." line="0" column="77" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" timestamp="1476981641041">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="55" />
-        <mark key="." line="35" column="55" />
-        <mark key="^" line="35" column="55" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" timestamp="1476984802216">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadFile.java" timestamp="1468127783497">
         <mark key="[" line="20" column="43" />
@@ -1242,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>forkable</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>forkable</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
@@ -1254,31 +1260,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3BlbiBjbGFzcyBIeXBlck1lZGlhQ29udGFpbmVyKHZhbCBoeXBlck1lZGlhOiBNYXA8U3RyaW5nLCBTdHJpbmc+KSB7Cn0K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnaXN0ZXJQcmVQcm9jZXNzb3IoKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlyZUJ1aWxkZXI6IEdzb25GaXJlQnVpbGRlciA9IEdzb25GaXJlQnVpbGRlcigpLnJlZ2lzdGVyUHJlUHJvY2Vzc29yKGlvLmdzb25maXJlLlByZVByb2Nlc3NvcigpKQo=</text>
+        <text encoding="base64">ICogQHNpbmNlIDE2LzEwLzIxIDAxOjAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIndhZmVyLmNvbS50b3kudG95Z2l0aHViY2xpZW50IiwgYXBwQ29udGV4dC5wYWNrYWdlTmFtZSkK</text>
+        <text encoding="base64">ICogQGF1dGhvciB3YWZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
