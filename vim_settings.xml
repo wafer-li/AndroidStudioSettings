@@ -518,9 +518,6 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477030032908">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.regexp" timestamp="1476615467096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -667,10 +664,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/activity_main.xml" timestamp="1476882185099">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/activity_main.xml" timestamp="1477031203123">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/UploadHehe.java" timestamp="1468129122822">
         <mark key="[" line="16" column="5" />
@@ -1247,8 +1245,8 @@
       <jump line="7" column="2" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>permission</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>permission</text>
@@ -1260,31 +1258,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50RG93blRpbWVyLmNhbmNlbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRpdGxlPSJAc3RyaW5nL2FwcF9uYW1lIiAvPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EYXJrLkFjdGlvbkJhciItLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tc3R5bGU9IkBzdHlsZS9BcHBUaGVtZS5BY3Rpb25CYXIiLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHNpbmNlIDE2LzEwLzIxIDAxOjAzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQGF1dGhvciB3YWZlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYXBwOnRpdGxlPSJAc3RyaW5nL2FwcF9uYW1lIiAvPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
