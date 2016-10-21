@@ -369,6 +369,9 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" timestamp="1477044041941">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" timestamp="1467699610540">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="27" column="5" />
@@ -1148,7 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="60" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="25" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" />
       <jump line="26" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
@@ -1248,6 +1250,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" />
       <jump line="7" column="2" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/item_main_button.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
