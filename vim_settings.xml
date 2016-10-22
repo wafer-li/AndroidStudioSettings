@@ -60,11 +60,11 @@
         <mark key="." line="47" column="53" />
         <mark key="^" line="47" column="53" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Permissions.kt" timestamp="1477120267119">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="66" />
-        <mark key="^" line="12" column="66" />
-        <mark key="." line="12" column="66" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Permissions.kt" timestamp="1477121288754">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/TeacherAdd.java" timestamp="1468418384965">
         <mark key="[" line="32" column="73" />
@@ -1303,8 +1303,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1316,31 +1316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2VmZmVjdCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBJTkZPX0FOTk9UQVRJT04gPSAiLnJvYm9wb2pvZ2VuZXJhdG9yXCIpIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBACg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0TmFtZS4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBJTkZPX0FOTk9UQVRJT04gPSAiLnJvYm9wb2pvZ2VuZXJhdG9yXCIpIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIGNsYXNzTWV0aG9kQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc0JvZHlCdWlsZGVyLmFwcGVuZChjbGFzc01ldGhvZEJ1aWxkZXIpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0TmFtZS4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIGNsYXNzTWV0aG9kQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNyZWF0ZUdldHRlcihvYmplY3ROYW1lLCBjbGFzc0ZpZWxkcy5nZXQob2JqZWN0TmFtZSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc0JvZHlCdWlsZGVyLmFwcGVuZChjbGFzc01ldGhvZEJ1aWxkZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
