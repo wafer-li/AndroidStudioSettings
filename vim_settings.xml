@@ -346,12 +346,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" timestamp="1477123469157">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" timestamp="1477125099689">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="44" column="46" />
-        <mark key="." line="27" column="12" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/models/GenerationModel.java" timestamp="1477112019104">
         <mark key="[" line="60" column="59" />
@@ -572,7 +572,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477123937047">
+      <file name="/Dummy.txt" timestamp="1477125067648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -855,11 +855,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="52" column="48" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassTemplate.java" timestamp="1477121376483">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="52" />
-        <mark key="^" line="35" column="52" />
-        <mark key="." line="35" column="52" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassTemplate.java" timestamp="1477124997843">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+        <mark key="." line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/spinner_gender_item.xml" timestamp="1460452488812">
         <mark key="[" line="1" column="68" />
@@ -1342,10 +1342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</text>
