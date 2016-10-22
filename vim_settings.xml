@@ -358,12 +358,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" timestamp="1477123469157">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" timestamp="1477135635802">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="44" column="46" />
-        <mark key="." line="27" column="12" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/models/GenerationModel.java" timestamp="1477112019104">
         <mark key="[" line="60" column="59" />
@@ -711,11 +711,11 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassType.java" timestamp="1477133432281">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassType.java" timestamp="1477135450601">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" timestamp="1477029819108">
         <mark key="'" line="11" column="2" />
@@ -837,11 +837,11 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/processors/ClassProcessor.java" timestamp="1477134073007">
-        <mark key="[" line="138" column="61" />
-        <mark key="]" line="138" column="65" />
-        <mark key="." line="138" column="65" />
-        <mark key="^" line="138" column="65" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/processors/ClassProcessor.java" timestamp="1477135387944">
+        <mark key="[" line="177" column="59" />
+        <mark key="]" line="177" column="72" />
+        <mark key="^" line="177" column="72" />
+        <mark key="." line="177" column="72" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Data.kt" timestamp="1477126994549">
         <mark key="[" line="2" column="16" />
@@ -964,8 +964,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
-        <mark key="[" line="17" column="5" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477135870853">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/.gitignore" timestamp="1469715107691">
         <mark key="[" line="10" column="0" />
@@ -1386,53 +1389,54 @@
       <jump line="0" column="4" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/ClassTemplateProcessorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</text>
+        <text encoding="base64">XDwrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbm5lckFycmF5TW9kZWwuc2V0TWFqb3JUeXBlKGl0ZW1OYW1lKTsK</text>
+      <register name="0" type="4">
+        <text>innerArrayModel.setMajorType(
+                                classGenerateHelper.upperCaseFirst(classType.getPrimitive()) + &quot;?&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc0dlbmVyYXRlSGVscGVyLnVwcGVyQ2FzZUZpcnN0KGNsYXNzVHlwZS5nZXRQcmltaXRpdmUoKSkgKyAiPyIpOyAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzVHlwZSA9IENsYXNzVHlwZS5BTlk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGUgPSAiQW55IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHR5cGUuZXF1YWxzKCJPYmplY3QiKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NHZW5lcmF0ZUhlbHBlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</last-search>
+      <last-search encoding="base64">XDwrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwrXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>-1</last-dir>
@@ -1440,7 +1444,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbnRpdHlNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
         <entry encoding="base64">XDxQZXJzaXN0ZW5jZUNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxwcm9wZXJ0eVw+</entry>
@@ -1460,6 +1463,7 @@
         <entry>play</entry>
         <entry encoding="base64">XDxnZW5lcmF0aW9uTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</entry>
+        <entry encoding="base64">XDwrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>aw</entry>
