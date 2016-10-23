@@ -455,11 +455,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/listeners/GenerateActionListener.java" timestamp="1477244096700">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/listeners/GenerateActionListener.java" timestamp="1477244794085">
         <mark key="'" line="44" column="7" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="73" column="59" />
+        <mark key="]" line="74" column="49" />
+        <mark key="." line="74" column="49" />
+        <mark key="^" line="74" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-management.xhtml" timestamp="1468429269754">
         <mark key="[" line="93" column="51" />
