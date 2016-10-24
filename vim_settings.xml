@@ -482,12 +482,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/listeners/GenerateActionListener.java" timestamp="1477291868151">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-management.xhtml" timestamp="1468429269754">
         <mark key="[" line="93" column="51" />
         <mark key="]" line="93" column="51" />
@@ -605,6 +599,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1477316047732">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/resolvers/AbsInnerObjectResolver.java" timestamp="1477317069857">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/LanguageItem.java" timestamp="1477234778132">
         <mark key="[" line="9" column="26" />
@@ -732,7 +731,7 @@
         <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/annotations/PojoAnnotations.java" timestamp="1477310869723" />
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassType.java" timestamp="1477135450601">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassType.java" timestamp="1477316569835">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="24" />
@@ -847,10 +846,10 @@
         <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/processors/ClassProcessor.java" timestamp="1477316279719">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Data.kt" timestamp="1477126994549">
         <mark key="[" line="2" column="16" />
@@ -954,6 +953,12 @@
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/resolvers/InnerObjectResolver.java" timestamp="1477317008477">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/fragment/login/ForgetPassword.java" timestamp="1460207339950">
         <mark key="[" line="61" column="51" />
@@ -1264,10 +1269,10 @@
         <mark key="." line="170" column="84" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/processors/KotlinClassProcessor.java" timestamp="1477316287217">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="93" column="4" />
-        <mark key="^" line="93" column="4" />
-        <mark key="." line="93" column="4" />
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="92" column="4" />
+        <mark key="^" line="92" column="4" />
+        <mark key="." line="92" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/res/values/styles.xml" timestamp="1462132127809">
         <mark key="[" line="54" column="29" />
@@ -1405,7 +1410,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc0l0ZW0uYWRkQ2xhc3NJbXBvcnQoSW1wb3J0cy5MSVNUKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1417,31 +1422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBJbmplY3Rvci5nZXRBcHBDb21wb25lbnQoKS5uZXdDbGFzc1Bvc3RQcm9jZXNzb3IoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc0l0ZW0uYWRkQ2xhc3NJbXBvcnQoSW1wb3J0cy5MSVNUKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgYWJzdHJhY3Qgdm9pZCBvbklubmVyT2JqZWN0SWRlbnRpZmllZChDbGFzc1R5cGUgY2xhc3NUeXBlKTsKCiAgICBwdWJsaWMgYWJzdHJhY3Qgdm9pZCBvbkpzb25PYmplY3RJZGVudGlmaWVkKCk7CgogICAgcHVibGljIGFic3RyYWN0IHZvaWQgb25Kc29uQXJyYXlJZGVudGlmaWVkKCk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW5qZWN0b3IuZ2V0QXBwQ29tcG9uZW50KCkubmV3Q2xhc3NQcm9jZXNzb3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc0l0ZW0uYWRkQ2xhc3NJbXBvcnQoSW1wb3J0cy5MSVNUKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW5qZWN0b3IuZ2V0QXBwQ29tcG9uZW50KCkubmV3Q2xhc3NQcm9jZXNzb3IoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBJbmplY3Rvci5nZXRBcHBDb21wb25lbnQoKS5uZXdDbGFzc1Byb2Nlc3NvcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1493,8 +1498,8 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>sw</entry>
-        <entry>ew</entry>
         <entry>we</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
