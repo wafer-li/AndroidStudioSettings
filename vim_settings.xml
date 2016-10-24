@@ -21,11 +21,11 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/test/src/Main.java" timestamp="1477280993035">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/test/src/Main.java" timestamp="1477281248224">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1477279949205">
         <mark key="[" line="0" column="0" />
@@ -581,7 +581,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477278839769">
+      <file name="/Dummy.txt" timestamp="1477281535569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/LanguageItem.java" timestamp="1477234778132">
@@ -1222,12 +1222,11 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/postprocessors/KotlinDataClassPostProcessor.java" timestamp="1477280580887">
-        <mark key="'" line="32" column="11" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/postprocessors/KotlinDataClassPostProcessor.java" timestamp="1477281343319">
+        <mark key="[" line="125" column="57" />
+        <mark key="]" line="125" column="61" />
+        <mark key="." line="125" column="61" />
+        <mark key="^" line="125" column="61" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
         <mark key="[" line="61" column="36" />
@@ -1377,10 +1376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhcmd1bWVudHMgYXJlIHBhc3NlZCB1c2luZyB0aGUgdGV4dCBmaWVsZCBiZWxvdyB0aGlzIGVkaXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>myObject</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
@@ -1389,31 +1388,31 @@
         <text encoding="base64">cHVibGljIFN0cmluZyBjcmVhdGVDbGFzc0l0ZW0oU3RyaW5nIHBhY2thZ2VQYXRoLCBTdHJpbmcgaW1wb3J0cywgU3RyaW5nIGJvZHkpIHsKICAgICAgICBpZiAobnVsbCAhPSBpbXBvcnRzICYmICFpbXBvcnRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdChDbGFzc1RlbXBsYXRlLkNMQVNTX1JPT1RfSU1QT1JUUywKICAgICAgICAgICAgICAgICAgICBwYWNrYWdlUGF0aCwKICAgICAgICAgICAgICAgICAgICBpbXBvcnRzLAogICAgICAgICAgICAgICAgICAgIGJvZHkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KENsYXNzVGVtcGxhdGUuQ0xBU1NfUk9PVCwKICAgICAgICAgICAgICAgICAgICBwYWNrYWdlUGF0aCwKICAgICAgICAgICAgICAgICAgICBib2R5KTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhcmd1bWVudHMgYXJlIHBhc3NlZCB1c2luZyB0aGUgdGV4dCBmaWVsZCBiZWxvdyB0aGlzIGVkaXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZVNlcnZpY2UubG9nRXZlbnRNZXNzYWdlKCJpbm5lclR5cGUgaXMgIiArIGlubmVyVHlwZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSsrKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAiTGlzdDxpbnQ+IjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5QYXR0ZXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZVNlcnZpY2UgbWVzc2FnZVNlcnZpY2UK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5NYXRjaGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhcmd1bWVudHMgYXJlIHBhc3NlZCB1c2luZyB0aGUgdGV4dCBmaWVsZCBiZWxvdyB0aGlzIGVkaXRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
