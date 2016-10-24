@@ -574,7 +574,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477276189436">
+      <file name="/Dummy.txt" timestamp="1477278839769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/LanguageItem.java" timestamp="1477234778132">
@@ -1215,10 +1215,11 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/postprocessors/KotlinDataClassPostProcessor.java" timestamp="1477277184933">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/postprocessors/KotlinDataClassPostProcessor.java" timestamp="1477278891844">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="102" column="23" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
         <mark key="[" line="61" column="36" />
@@ -1368,10 +1369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmdyb3VwCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
@@ -1380,16 +1381,16 @@
         <text encoding="base64">cHVibGljIFN0cmluZyBjcmVhdGVDbGFzc0l0ZW0oU3RyaW5nIHBhY2thZ2VQYXRoLCBTdHJpbmcgaW1wb3J0cywgU3RyaW5nIGJvZHkpIHsKICAgICAgICBpZiAobnVsbCAhPSBpbXBvcnRzICYmICFpbXBvcnRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdChDbGFzc1RlbXBsYXRlLkNMQVNTX1JPT1RfSU1QT1JUUywKICAgICAgICAgICAgICAgICAgICBwYWNrYWdlUGF0aCwKICAgICAgICAgICAgICAgICAgICBpbXBvcnRzLAogICAgICAgICAgICAgICAgICAgIGJvZHkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KENsYXNzVGVtcGxhdGUuQ0xBU1NfUk9PVCwKICAgICAgICAgICAgICAgICAgICBwYWNrYWdlUGF0aCwKICAgICAgICAgICAgICAgICAgICBib2R5KTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmdyb3VwCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1398,13 +1399,13 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGROYW1lID0gZ2VuZXJhdGVIZWxwZXIubG93ZXJDYXNlRmlyc3QoZmllbGROYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZENvdW50ICsrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAobWF0Y2hlci5maW5kKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTG93ZXIgdGhlIHVwcAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZmluZENvdW50ID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
