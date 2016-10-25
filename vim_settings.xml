@@ -427,7 +427,6 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/Authenticator.java" timestamp="1477401376497" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/register.xhtml" timestamp="1468075178724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="6" />
@@ -992,11 +991,11 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1477404070448">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" timestamp="1477406457385">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/BasicAuthencator.kt" timestamp="1476094682585">
         <mark key="[" line="9" column="38" />
@@ -1270,7 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/java/com/wafer/toy/github_client/GsonConverterTest.kt" />
       <jump line="36" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
@@ -1370,13 +1368,14 @@
       <jump line="31" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="36" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
       <jump line="36" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1461,9 +1460,9 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>a</entry>
-        <entry>w]</entry>
         <entry>qw</entry>
         <entry>ew</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1484,6 +1483,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
