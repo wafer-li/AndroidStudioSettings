@@ -302,12 +302,12 @@
         <mark key="." line="71" column="93" />
         <mark key="^" line="71" column="93" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelperTest.java" timestamp="1477357922988">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="30" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="98" column="40" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelperTest.java" timestamp="1477360093340">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="102" column="57" />
+        <mark key="]" line="102" column="59" />
+        <mark key="^" line="102" column="59" />
+        <mark key="." line="102" column="59" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/login/LoginActivity.java" timestamp="1476887344485">
         <mark key="'" line="194" column="14" />
@@ -523,6 +523,12 @@
         <mark key="." line="93" column="51" />
         <mark key="^" line="177" column="107" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelper.java" timestamp="1477359449122">
+        <mark key="[" line="121" column="39" />
+        <mark key="]" line="121" column="39" />
+        <mark key="." line="121" column="39" />
+        <mark key="^" line="121" column="39" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_dropdown_item.xml" timestamp="1461342957026">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -638,7 +644,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477316047732">
+      <file name="/Dummy.txt" timestamp="1477360154909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/resolvers/AbsInnerObjectResolver.java" timestamp="1477317669902">
@@ -1517,11 +1523,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelperTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGV4Y2VwdGlvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
@@ -1530,31 +1536,31 @@
         <text encoding="base64">TGlzdDw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmICh0eXBlLmVxdWFscygpKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZSgiPiIsICI/PiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgSVRFTV9OQU1FID0gIiVzSXRlbSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZSgiPiIsICI/PiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
