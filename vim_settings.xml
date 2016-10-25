@@ -302,6 +302,12 @@
         <mark key="." line="71" column="93" />
         <mark key="^" line="71" column="93" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelperTest.java" timestamp="1477365767565">
+        <mark key="[" line="118" column="113" />
+        <mark key="]" line="119" column="111" />
+        <mark key="^" line="119" column="111" />
+        <mark key="." line="119" column="111" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/login/LoginActivity.java" timestamp="1476887344485">
         <mark key="'" line="194" column="14" />
         <mark key="[" line="326" column="7" />
@@ -473,7 +479,6 @@
         <mark key="^" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/postprocessors/AbsPostProcessor.java" timestamp="1477311001379" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-import.xhtml" timestamp="1468410159829">
         <mark key="[" line="85" column="16" />
         <mark key="]" line="88" column="21" />
@@ -492,7 +497,6 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/class_types/ClassType.java" timestamp="1477319345395" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/checkin.xhtml" timestamp="1467806245810">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="69" />
@@ -516,11 +520,11 @@
         <mark key="." line="93" column="51" />
         <mark key="^" line="177" column="107" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelper.java" timestamp="1477359449122">
-        <mark key="[" line="114" column="39" />
-        <mark key="]" line="114" column="39" />
-        <mark key="." line="114" column="39" />
-        <mark key="^" line="114" column="39" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/ClassGenerateHelper.java" timestamp="1477365587743">
+        <mark key="[" line="115" column="79" />
+        <mark key="]" line="115" column="79" />
+        <mark key="." line="115" column="79" />
+        <mark key="^" line="115" column="79" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/simple_spinner_dropdown_item.xml" timestamp="1461342957026">
         <mark key="[" line="6" column="27" />
@@ -621,7 +625,6 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/test/src/Test.java" timestamp="1477280997424" />
       <file name="/dummy.sql" timestamp="1468429715291">
         <mark key="[" line="0" column="0" />
       </file>
@@ -636,9 +639,6 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1477360154909">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/utils/resolvers/AbsInnerObjectResolver.java" timestamp="1477317669902">
         <mark key="[" line="9" column="0" />
@@ -789,7 +789,6 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/annotations/PojoAnnotations.java" timestamp="1477310869723" />
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/ClassType.java" timestamp="1477316569835">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
@@ -1517,10 +1516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>nete</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>nete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cFw+</text>
