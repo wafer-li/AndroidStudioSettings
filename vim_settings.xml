@@ -33,7 +33,7 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1476979981362">
+      <file name="/a.dummy" timestamp="1477402443354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/Test.java" timestamp="1477119487354">
@@ -427,7 +427,7 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/Authenticator.java" timestamp="1477400107137" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/Authenticator.java" timestamp="1477401376497" />
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/register.xhtml" timestamp="1468075178724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="6" />
@@ -572,7 +572,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477396008027">
+      <file name="/Dummy.txt" timestamp="1477402769378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -774,10 +774,12 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" timestamp="1477399764538">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" timestamp="1477402493344">
+        <mark key="'" line="36" column="28" />
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="28" />
+        <mark key="." line="35" column="28" />
+        <mark key="^" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_invite_couple.xml" timestamp="1461200488225">
         <mark key="[" line="21" column="29" />
@@ -1258,12 +1260,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1477400194384">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1477402466327">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="48" column="92" />
-        <mark key="]" line="48" column="99" />
-        <mark key="." line="48" column="99" />
-        <mark key="^" line="48" column="99" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" timestamp="1476875533244">
         <mark key="'" line="20" column="0" />
@@ -1274,7 +1276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="33" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/java/com/wafer/toy/github_client/GsonConverterTest.kt" />
       <jump line="68" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/java/com/wafer/toy/github_client/GsonConverterTest.kt" />
       <jump line="36" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
@@ -1374,13 +1375,14 @@
       <jump line="87" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="56" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="31" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
+      <jump line="36" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1389,31 +1391,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZUhlbHBlci5zZXRBbm5vdGF0aW9ucyhjbGFzc0l0ZW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUG9qb0Fubm90YXRpb25zLkpBQ0tTT04uQ0xBU1NfQU5OT1RBVElPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQb2pvQW5ub3RhdGlvbnMuSkFDS1NPTi5BTk5PVEFUSU9OLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEltcG9ydHMuSkFDS1NPTi5JTVBPUlRTKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwaU1hbmFnZXIuY2xpZW50ID0gYnVpbGRlci5idWlsZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBBcGlNYW5hZ2VyLnJldHJvZml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgY3JlZGVudGlhbCkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgIEFwaU1hbmFnZXIuY2xpZW50ID0gYnVpbGRlci5idWlsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuQGF1dGhlbnRpY2F0b3IgcmVzcG9uc2UucmVxdWVzdCgpLm5ld0J1aWxkZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga290bGluLnRleHQuU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQK</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubmV3QnVpbGRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1466,8 +1468,8 @@
         <entry>W</entry>
         <entry>a</entry>
         <entry>w]</entry>
-        <entry>ew</entry>
         <entry>qw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
