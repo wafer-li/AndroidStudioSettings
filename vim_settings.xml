@@ -402,12 +402,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" timestamp="1477138616132">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" timestamp="1477471848010">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="53" column="84" />
+        <mark key="]" line="54" column="22" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" timestamp="1467699610540">
         <mark key="[" line="0" column="3" />
@@ -571,7 +571,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477468412060">
+      <file name="/Dummy.txt" timestamp="1477471881651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -1062,6 +1062,12 @@
         <mark key="." line="67" column="11" />
         <mark key="^" line="67" column="11" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" timestamp="1477471865183">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/Upload.java" timestamp="1468132977989">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="34" />
@@ -1269,12 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/network/requests/AuthenticationInfoRequest.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="42" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="181" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="111" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
@@ -1369,46 +1369,52 @@
       <jump line="36" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
       <jump line="36" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
+      <jump line="7" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
+      <jump line="116" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
+      <jump line="43" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
+      <jump line="72" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogTwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZUhlbHBlci5zZXRBbm5vdGF0aW9ucyhjbGFzc0l0ZW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUG9qb0Fubm90YXRpb25zLkpBQ0tTT04uQ0xBU1NfQU5OT1RBVElPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQb2pvQW5ub3RhdGlvbnMuSkFDS1NPTi5BTk5PVEFUSU9OLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEltcG9ydHMuSkFDS1NPTi5JTVBPUlRTKTs=</text>
+        <text encoding="base64">Ci8qKgogKiBUaGUgcmVwbyBkYXRhIGNsYXNzIGZvciBnc29uIGNvbnZlcnRlcgogKgogKiBAYXV0aG9yIHdhZmVyCiAqCiAqIEBwYXJhbSBpZCBUaGUgaWQgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBvd25lciBUaGUgb3duZXIgb2YgdGhpcyByZXBvLCBjYW4gYmUgVXNlciBvciBPcmcKICoKICogQHBhcmFtIG5hbWUgVGhlIG5hbWUgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBmdWxsTmFtZSBUaGUgZnVsbCBuYW1lIG9mIHRoaXMgcmVwbywgc2ltcGx5IGAvOm93bmVyLzpuYW1lYAogKgogKiBAcGFyYW0gZGVzY3JpcHRpb24gVGhlIGRlc2NyaXB0aW9uIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gcHJpdmF0ZSBJcyB0aGUgcmVwbyBwcml2YXRlPwogKgogKiBAcGFyYW0gZm9yayBJcyB0aGUgcmVwbyBoYXMgZm9yaz8KICoKICogQHBhcmFtIGhvbWVwYWdlIEhvbWUgcGFnZSBvZiB0aGlzIHJlcG8KICoKICogQHBhcmFtIGxhbmd1YWdlIExhbmd1YWdlcyB3aGljaCB0aGlzIHJlcG8gdXNlcwogKgogKiBAcGFyYW0gZm9ya3NDb3VudCBUaGUgY291bnQgb2YgZm9ya3MKICoKICogQHBhcmFtIHN0YXJnYXplcnNDb3VudCBUaGUgY291bnQgb2Ygc3RhcnMKICoKICogQHBhcmFtIHdhdGNoZXJzQ291bnQgVGhlIGNvdW50IG9mIHdhdGNoZXJzCiAqCiAqIEBwYXJhbSBzaXplIFRoZSBzaXplIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZGVmYXVsdEJyYW5jaCBEZWZhdWx0IGJyYW5jaCBvZiB0aGlzIHJlcG8gKE5vcm1hbGx5IGlzIG1hc3RlcikKICoKICogQHBhcmFtIG9wZW5Jc3N1ZXNDb3VudCBUaGUgY291bnQgb2YgdGhlIG9wZW4gaXNzdWUKICoKICogQHBhcmFtIGhhc0lzc3VlcyBJcyB0aGlzIHJlcG8gaGFzIGlzc3VlPwogKgogKiBAcGFyYW0gaGFzV2lraSBJcyB0aGlzIHJlcG8gaGFzIHdpa2k/CiAqCiAqIEBwYXJhbSBoYXNQYWdlcyBJcyB0aGlzIHJlcG8gaGFzIHBhZ2VzPwogKgogKiBAcGFyYW0gaGFzRG93bmxvYWRzIElzIHRoaXMgcmVwbyBoYXMgZG93bmxvYWRzPwogKgogKiBAcGFyYW0gcHVzaGVkQXQgRGF0ZSBUaW1lIG9mIHRoZSBsYXN0IHB1c2guIFVwZGF0ZSB3aGVuIGFueSAqKmNvbW1pdCoqIHdhcyBwdXNoZWQgYXQgYW55ICoqYnJhbmNoZXMqKgogKgogKiBAcGFyYW0gdXBkYXRlZEF0IERhdGUgVGltZSBvZiB0aGUgKipyZXBvIG9iamVjdCBpdHNlbGYqKiB3YXMgdXBkYXRlLgogKiBTdWNoIGFzIGRlc2NyaXB0aW9uIG9yIHRoZSBwcmltYXJ5IGxhbmd1YWdlIHdhcyB1cGRhdGVkCiAqCiAqIEBwYXJhbSBjcmVhdGVkQXQgRGF0ZSBUaW1lIHdoZW4gdGhlIHJlcG8gd2FzIGNyZWF0ZWQKICoKICogQHBhcmFtIHBlcm1pc3Npb25zIFRoZSBwZXJtaXNzaW9uIG9mIGEgb3JnIHJlcG8KICoKICogQHBhcmFtIGh0bWxVcmwgSHlwZXJtZWRpYSwgdG8gZ2FpbiB0aGUgaHRtbCBwYWdlIG9mIHJlcG8KICoKICogQHBhcmFtIGNsb25lVXJsIEh5cGVybWVkaWEsIFRoZSB1cmwgdG8gY2xvbmUgdGhlIHJlcG8KICoKICogQHBhcmFtIGJyYW5jaGVzVXJsIEh5cGVybWVkaWEsIHRoZSB1cmwgdG8gZ2V0IGJyYW5jaGVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29tbWl0c1VybCBIeXBlcm1lZGlhLCB0aGUgdXJsIHRvIGdldCBjb21taXRzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29udGVudHNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlICoqUk9PVCoqIGNvbnRlbnQgb2YgdGhpcyByZXBvLiBZb3UgbmVlZCB0byBzcGVjaWZ5CiAqIHRoZSBwYXRoIGluIHRoZSB0ZW1wbGF0ZSB0byBnZXQgdGhlIHN1Yi1jb250ZW50CiAqCiAqIEBwYXJhbSBjb250cmlidXRvcnNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlIGNvbnRyaWJ1dG9ycyBvZiB0aGlzIHJlcG8uIEEgY29udHJpYnV0b3IgaXMKICogd2hvIHB1c2ggY29tbWl0cyB0byB0aGUgZGVmYXVsdCBicmFuY2ggb3Igd2hvc2UgY29tbWl0cyB3YXMgYWNjZXB0IGluIHRoZSBkZWZhdWx0IGJyYW5jaC4KICoKICogQHBhcmFtIGRvd25sb2Fkc1VybCBIeXBlcm1lZGlhLCB0aGUgcmVsZWFzZSBvZiB0aGUgcmVwbz8gKE5lZWQgdG8gYmUgaWRlbnRpZmllZCkKICoKICogQHBhcmFtIGlzc3Vlc1VybCBIeXBlcm1lZGlhLCB0aGUgaXNzdWVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZm9ya3NVcmwgSHlwZXJtZWRpYSwgdGhlIGZvcmtzIG9mIHRoaXMgcmVwbwogKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogTwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzZXQK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGZvCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgY29udGV4dDogQ29udGV4dAogICAgICAgIHByaXZhdGUgc2V0Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGZvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2YWx1ZT0iMTEwN2JkN2U5ZTQxYWZkNDE4NzFkODUwMjQ5N2YwOGYyMGY3MmRlZiIvPgo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJDTElFTlRfU0VDUkVUIgo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGF2YXRhclVybCBUaGUgYXZhdGFyIHVybCBvZiB0aGUgdXNlcihsb2dvIGljb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
