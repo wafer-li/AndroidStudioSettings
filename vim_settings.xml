@@ -402,12 +402,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" timestamp="1477471848010">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="53" column="84" />
-        <mark key="]" line="54" column="22" />
-        <mark key="." line="54" column="22" />
-        <mark key="^" line="54" column="22" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" timestamp="1477471978809">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="58" column="81" />
+        <mark key="]" line="58" column="81" />
+        <mark key="." line="58" column="81" />
+        <mark key="^" line="58" column="81" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" timestamp="1467699610540">
         <mark key="[" line="0" column="3" />
@@ -1275,8 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="111" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="246" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
@@ -1375,6 +1373,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
       <jump line="72" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
+      <jump line="18" column="1" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
+      <jump line="86" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
