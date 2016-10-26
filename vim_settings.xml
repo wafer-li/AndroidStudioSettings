@@ -600,7 +600,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477502247593">
+      <file name="/Dummy.txt" timestamp="1477502684557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -1311,11 +1311,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1477501474949">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" timestamp="1477502680232">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="144" column="50" />
+        <mark key="]" line="144" column="50" />
+        <mark key="." line="144" column="50" />
+        <mark key="^" line="144" column="50" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" timestamp="1476875533244">
         <mark key="'" line="20" column="0" />
@@ -1326,7 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" />
       <jump line="43" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RoutePositionChanger.java" />
       <jump line="87" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
       <jump line="111" column="50" filename="$USER_HOME$/Programming/AndroidStudioProjects/MapView/demo/src/main/java/com/onlylemi/mapview/RouteLayerTestActivity.java" />
@@ -1426,13 +1426,14 @@
       <jump line="38" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="153" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="151" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
+      <jump line="41" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldCgpID0gaWYgKGZpZWxkID09IG51bGwpIHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
