@@ -15,11 +15,11 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/constants/SharedPreferenceKey.kt" timestamp="1477396618257">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/constants/SharedPreferenceKey.kt" timestamp="1477480181909">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/services/FileWriterService.java" timestamp="1477117695722">
         <mark key="[" line="38" column="57" />
@@ -338,6 +338,12 @@
         <mark key="." line="8" column="87" />
         <mark key="^" line="8" column="87" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/SharedPreferenceHelper.kt" timestamp="1477480425164">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" timestamp="1477475475077">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -594,7 +600,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477479211844">
+      <file name="/Dummy.txt" timestamp="1477480469590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -1311,8 +1317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="75" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
-      <jump line="557" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/IBNS_Android_Terminal/src/edu/ict/ui/mylocation/MyLocationActivity.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="15" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
@@ -1411,13 +1415,15 @@
       <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
       <jump line="79" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
+      <jump line="21" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/SharedPreferenceHelper.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/SharedPreferenceHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBtb3JlIGluZm8gaGVyZS4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1426,31 +1432,31 @@
         <text encoding="base64">Ci8qKgogKiBUaGUgcmVwbyBkYXRhIGNsYXNzIGZvciBnc29uIGNvbnZlcnRlcgogKgogKiBAYXV0aG9yIHdhZmVyCiAqCiAqIEBwYXJhbSBpZCBUaGUgaWQgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBvd25lciBUaGUgb3duZXIgb2YgdGhpcyByZXBvLCBjYW4gYmUgVXNlciBvciBPcmcKICoKICogQHBhcmFtIG5hbWUgVGhlIG5hbWUgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBmdWxsTmFtZSBUaGUgZnVsbCBuYW1lIG9mIHRoaXMgcmVwbywgc2ltcGx5IGAvOm93bmVyLzpuYW1lYAogKgogKiBAcGFyYW0gZGVzY3JpcHRpb24gVGhlIGRlc2NyaXB0aW9uIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gcHJpdmF0ZSBJcyB0aGUgcmVwbyBwcml2YXRlPwogKgogKiBAcGFyYW0gZm9yayBJcyB0aGUgcmVwbyBoYXMgZm9yaz8KICoKICogQHBhcmFtIGhvbWVwYWdlIEhvbWUgcGFnZSBvZiB0aGlzIHJlcG8KICoKICogQHBhcmFtIGxhbmd1YWdlIExhbmd1YWdlcyB3aGljaCB0aGlzIHJlcG8gdXNlcwogKgogKiBAcGFyYW0gZm9ya3NDb3VudCBUaGUgY291bnQgb2YgZm9ya3MKICoKICogQHBhcmFtIHN0YXJnYXplcnNDb3VudCBUaGUgY291bnQgb2Ygc3RhcnMKICoKICogQHBhcmFtIHdhdGNoZXJzQ291bnQgVGhlIGNvdW50IG9mIHdhdGNoZXJzCiAqCiAqIEBwYXJhbSBzaXplIFRoZSBzaXplIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZGVmYXVsdEJyYW5jaCBEZWZhdWx0IGJyYW5jaCBvZiB0aGlzIHJlcG8gKE5vcm1hbGx5IGlzIG1hc3RlcikKICoKICogQHBhcmFtIG9wZW5Jc3N1ZXNDb3VudCBUaGUgY291bnQgb2YgdGhlIG9wZW4gaXNzdWUKICoKICogQHBhcmFtIGhhc0lzc3VlcyBJcyB0aGlzIHJlcG8gaGFzIGlzc3VlPwogKgogKiBAcGFyYW0gaGFzV2lraSBJcyB0aGlzIHJlcG8gaGFzIHdpa2k/CiAqCiAqIEBwYXJhbSBoYXNQYWdlcyBJcyB0aGlzIHJlcG8gaGFzIHBhZ2VzPwogKgogKiBAcGFyYW0gaGFzRG93bmxvYWRzIElzIHRoaXMgcmVwbyBoYXMgZG93bmxvYWRzPwogKgogKiBAcGFyYW0gcHVzaGVkQXQgRGF0ZSBUaW1lIG9mIHRoZSBsYXN0IHB1c2guIFVwZGF0ZSB3aGVuIGFueSAqKmNvbW1pdCoqIHdhcyBwdXNoZWQgYXQgYW55ICoqYnJhbmNoZXMqKgogKgogKiBAcGFyYW0gdXBkYXRlZEF0IERhdGUgVGltZSBvZiB0aGUgKipyZXBvIG9iamVjdCBpdHNlbGYqKiB3YXMgdXBkYXRlLgogKiBTdWNoIGFzIGRlc2NyaXB0aW9uIG9yIHRoZSBwcmltYXJ5IGxhbmd1YWdlIHdhcyB1cGRhdGVkCiAqCiAqIEBwYXJhbSBjcmVhdGVkQXQgRGF0ZSBUaW1lIHdoZW4gdGhlIHJlcG8gd2FzIGNyZWF0ZWQKICoKICogQHBhcmFtIHBlcm1pc3Npb25zIFRoZSBwZXJtaXNzaW9uIG9mIGEgb3JnIHJlcG8KICoKICogQHBhcmFtIGh0bWxVcmwgSHlwZXJtZWRpYSwgdG8gZ2FpbiB0aGUgaHRtbCBwYWdlIG9mIHJlcG8KICoKICogQHBhcmFtIGNsb25lVXJsIEh5cGVybWVkaWEsIFRoZSB1cmwgdG8gY2xvbmUgdGhlIHJlcG8KICoKICogQHBhcmFtIGJyYW5jaGVzVXJsIEh5cGVybWVkaWEsIHRoZSB1cmwgdG8gZ2V0IGJyYW5jaGVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29tbWl0c1VybCBIeXBlcm1lZGlhLCB0aGUgdXJsIHRvIGdldCBjb21taXRzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29udGVudHNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlICoqUk9PVCoqIGNvbnRlbnQgb2YgdGhpcyByZXBvLiBZb3UgbmVlZCB0byBzcGVjaWZ5CiAqIHRoZSBwYXRoIGluIHRoZSB0ZW1wbGF0ZSB0byBnZXQgdGhlIHN1Yi1jb250ZW50CiAqCiAqIEBwYXJhbSBjb250cmlidXRvcnNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlIGNvbnRyaWJ1dG9ycyBvZiB0aGlzIHJlcG8uIEEgY29udHJpYnV0b3IgaXMKICogd2hvIHB1c2ggY29tbWl0cyB0byB0aGUgZGVmYXVsdCBicmFuY2ggb3Igd2hvc2UgY29tbWl0cyB3YXMgYWNjZXB0IGluIHRoZSBkZWZhdWx0IGJyYW5jaC4KICoKICogQHBhcmFtIGRvd25sb2Fkc1VybCBIeXBlcm1lZGlhLCB0aGUgcmVsZWFzZSBvZiB0aGUgcmVwbz8gKE5lZWQgdG8gYmUgaWRlbnRpZmllZCkKICoKICogQHBhcmFtIGlzc3Vlc1VybCBIeXBlcm1lZGlhLCB0aGUgaXNzdWVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZm9ya3NVcmwgSHlwZXJtZWRpYSwgdGhlIGZvcmtzIG9mIHRoaXMgcmVwbwogKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBtb3JlIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">CmZ1biAuZ2V0RWRpdG9yKGNvbnRleHQ6IENvbnRleHQpOiBTaGFyZWRQcmVmZXJlbmNlcy5FZGl0b3Igewo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCBlZGl0b3I6IFNoYXJlZFByZWZlcmVuY2VzLkVkaXRvciA9IGdldEVkaXRvcihjb250ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0T0F1dGhLZXkoY29udGV4dDogQ29udGV4dCk6IFN0cmluZz8gewogICAgICAgIHZhbCBwcmVmZXJlbmNlOiBTaGFyZWRQcmVmZXJlbmNlcyA9CiAgICAgICAgICAgICAgICBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKFNIQVJFRF9QUkVGRVJFTkNFX0tFWSwgQ29udGV4dC5NT0RFX1BSSVZBVEUpCgogICAgICAgIHJldHVybiBwcmVmZXJlbmNlLmdldFN0cmluZyhPQVVUSF9LRVksIG51bGwpCiAgICB9CgoKICAgIGZ1biBhZGRCYXNpY0F1dGhlbnRpY2F0aW9uKHVzZXJuYW1lOiBTdHJpbmcsIHBhc3N3b3JkOiBTdHJpbmcpOiBSZXRyb2ZpdCB7CiAgICAgICAgdmFsIGNsaWVudDogT2tIdHRwQ2xpZW50ID0gQXBpTWFuYWdlci5jbGllbnQKICAgICAgICB2YWwgYnVpbGRlcjogT2tIdHRwQ2xpZW50LkJ1aWxkZXIgPSBjbGllbnQubmV3QnVpbGRlcigpCgogICAgICAgIGJ1aWxkZXIuYXV0aGVudGljYXRvciB7IHJvdXRlLCByZXNwb25zZSAtPgogICAgICAgICAgICB2YWwgY3JlZGVudGlhbDogU3RyaW5nID0gQ3JlZGVudGlhbHMuYmFzaWModXNlcm5hbWUsIHBhc3N3b3JkKQogICAgICAgICAgICByZXNwb25zZS5yZXF1ZXN0KCkubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLnJlbW92ZUhlYWRlcigiQXV0aG9yaXphdGlvbiIpCiAgICAgICAgICAgICAgICAgICAgLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsIGNyZWRlbnRpYWwpLmJ1aWxkKCkKICAgICAgICB9CgogICAgICAgIEFwaU1hbmFnZXIuY2hhbmdlQ2xpZW50KGNsaWVudCkKICAgICAgICByZXR1cm4gQXBpTWFuYWdlci5yZXRyb2ZpdAogICAgfQoKCiAgICBmdW4gYWRkT0F1dGhBdXRoZW50aWNhdG9yKG9BdXRoVG9rZW46IFN0cmluZyk6IFJldHJvZml0IHsKICAgICAgICB2YWwgY2xpZW50OiBPa0h0dHBDbGllbnQgPSBBcGlNYW5hZ2VyLmNsaWVudAogICAgICAgIHZhbCBidWlsZGVyOiBPa0h0dHBDbGllbnQuQnVpbGRlciA9IGNsaWVudC5uZXdCdWlsZGVyKCkKCiAgICAgICAgYnVpbGRlci5hdXRoZW50aWNhdG9yIHsgcm91dGUsIHJlc3BvbnNlIC0+CiAgICAgICAgICAgIHJlc3BvbnNlLnJlcXVlc3QoKS5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAucmVtb3ZlSGVhZGVyKCJBdXRob3JpemF0aW9uIikKICAgICAgICAgICAgICAgICAgICAuYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgInRva2VuIiArIG9BdXRoVG9rZW4pCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICB9CgogICAgICAgIEFwaU1hbmFnZXIuY2hhbmdlQ2xpZW50KGNsaWVudCkKICAgICAgICByZXR1cm4gQXBpTWFuYWdlci5yZXRyb2ZpdAogICAgfQoKICAgIGZ1biBsb2dpbih1c2VybmFtZTogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nLAogICAgICAgICAgICAgIHR3b0ZhY3RvckF1dGhvcml6YXRpb25Db2RlOiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICAgICAgICBjYWxsYmFjazogKHJlc3BvbnNlOiBSZXNwb25zZTxPQXV0aFRva2VuUmVzcG9uc2U+PywKICAgICAgICAgICAgICAgICAgICAgICAgIHQ6IFRocm93YWJsZT8pIC0+IFVuaXQpIHsKCiAgICAgICAgYWRkQmFzaWNBdXRoZW50aWNhdGlvbih1c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgICAgQXBpTWFuYWdlci5zZXJ2aWNlcy5sb2dpbih1c2VybmFtZSwgcGFzc3dvcmQsIHR3b0ZhY3RvckF1dGhvcml6YXRpb25Db2RlLCBBVVRIX1JFUVVFU1QpCiAgICAgICAgICAgICAgICAuZW5xdWV1ZShvYmplY3QgOiBDYWxsYmFjazxPQXV0aFRva2VuUmVzcG9uc2U+IHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25SZXNwb25zZShjYWxsOiBDYWxsPE9BdXRoVG9rZW5SZXNwb25zZT4/LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlOiBSZXNwb25zZTxPQXV0aFRva2VuUmVzcG9uc2U+PykgewogICAgICAgICAgICAgICAgICAgICAgICBjYWxsYmFjayhyZXNwb25zZSwgbnVsbCkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkZhaWx1cmUoY2FsbDogQ2FsbDxPQXV0aFRva2VuUmVzcG9uc2U+PywgdDogVGhyb3dhYmxlPykgewogICAgICAgICAgICAgICAgICAgICAgICBjYWxsYmFjayhudWxsLCB0KQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IE5ldHdvcmtIZWxwZXIgewo=</text>
+        <text encoding="base64">ZnVuIGFwcGx5RWRpdChlZGkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGw6IENhbGw8T0F1dGhUb2tlblJlc3BvbnNlPj8sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
