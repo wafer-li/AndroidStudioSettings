@@ -594,7 +594,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477473382299">
+      <file name="/Dummy.txt" timestamp="1477478653864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -796,11 +796,12 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" timestamp="1477477128818">
-        <mark key="[" line="69" column="1" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" timestamp="1477478548678">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="73" column="77" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/activity_invite_couple.xml" timestamp="1461200488225">
         <mark key="[" line="21" column="29" />
@@ -1310,7 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
       <jump line="23" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
       <jump line="60" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" />
       <jump line="64" column="75" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" />
@@ -1410,13 +1410,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
       <jump line="33" column="101" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
+      <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1425,31 +1426,31 @@
         <text encoding="base64">Ci8qKgogKiBUaGUgcmVwbyBkYXRhIGNsYXNzIGZvciBnc29uIGNvbnZlcnRlcgogKgogKiBAYXV0aG9yIHdhZmVyCiAqCiAqIEBwYXJhbSBpZCBUaGUgaWQgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBvd25lciBUaGUgb3duZXIgb2YgdGhpcyByZXBvLCBjYW4gYmUgVXNlciBvciBPcmcKICoKICogQHBhcmFtIG5hbWUgVGhlIG5hbWUgb2YgdGhpcyByZXBvCiAqCiAqIEBwYXJhbSBmdWxsTmFtZSBUaGUgZnVsbCBuYW1lIG9mIHRoaXMgcmVwbywgc2ltcGx5IGAvOm93bmVyLzpuYW1lYAogKgogKiBAcGFyYW0gZGVzY3JpcHRpb24gVGhlIGRlc2NyaXB0aW9uIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gcHJpdmF0ZSBJcyB0aGUgcmVwbyBwcml2YXRlPwogKgogKiBAcGFyYW0gZm9yayBJcyB0aGUgcmVwbyBoYXMgZm9yaz8KICoKICogQHBhcmFtIGhvbWVwYWdlIEhvbWUgcGFnZSBvZiB0aGlzIHJlcG8KICoKICogQHBhcmFtIGxhbmd1YWdlIExhbmd1YWdlcyB3aGljaCB0aGlzIHJlcG8gdXNlcwogKgogKiBAcGFyYW0gZm9ya3NDb3VudCBUaGUgY291bnQgb2YgZm9ya3MKICoKICogQHBhcmFtIHN0YXJnYXplcnNDb3VudCBUaGUgY291bnQgb2Ygc3RhcnMKICoKICogQHBhcmFtIHdhdGNoZXJzQ291bnQgVGhlIGNvdW50IG9mIHdhdGNoZXJzCiAqCiAqIEBwYXJhbSBzaXplIFRoZSBzaXplIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZGVmYXVsdEJyYW5jaCBEZWZhdWx0IGJyYW5jaCBvZiB0aGlzIHJlcG8gKE5vcm1hbGx5IGlzIG1hc3RlcikKICoKICogQHBhcmFtIG9wZW5Jc3N1ZXNDb3VudCBUaGUgY291bnQgb2YgdGhlIG9wZW4gaXNzdWUKICoKICogQHBhcmFtIGhhc0lzc3VlcyBJcyB0aGlzIHJlcG8gaGFzIGlzc3VlPwogKgogKiBAcGFyYW0gaGFzV2lraSBJcyB0aGlzIHJlcG8gaGFzIHdpa2k/CiAqCiAqIEBwYXJhbSBoYXNQYWdlcyBJcyB0aGlzIHJlcG8gaGFzIHBhZ2VzPwogKgogKiBAcGFyYW0gaGFzRG93bmxvYWRzIElzIHRoaXMgcmVwbyBoYXMgZG93bmxvYWRzPwogKgogKiBAcGFyYW0gcHVzaGVkQXQgRGF0ZSBUaW1lIG9mIHRoZSBsYXN0IHB1c2guIFVwZGF0ZSB3aGVuIGFueSAqKmNvbW1pdCoqIHdhcyBwdXNoZWQgYXQgYW55ICoqYnJhbmNoZXMqKgogKgogKiBAcGFyYW0gdXBkYXRlZEF0IERhdGUgVGltZSBvZiB0aGUgKipyZXBvIG9iamVjdCBpdHNlbGYqKiB3YXMgdXBkYXRlLgogKiBTdWNoIGFzIGRlc2NyaXB0aW9uIG9yIHRoZSBwcmltYXJ5IGxhbmd1YWdlIHdhcyB1cGRhdGVkCiAqCiAqIEBwYXJhbSBjcmVhdGVkQXQgRGF0ZSBUaW1lIHdoZW4gdGhlIHJlcG8gd2FzIGNyZWF0ZWQKICoKICogQHBhcmFtIHBlcm1pc3Npb25zIFRoZSBwZXJtaXNzaW9uIG9mIGEgb3JnIHJlcG8KICoKICogQHBhcmFtIGh0bWxVcmwgSHlwZXJtZWRpYSwgdG8gZ2FpbiB0aGUgaHRtbCBwYWdlIG9mIHJlcG8KICoKICogQHBhcmFtIGNsb25lVXJsIEh5cGVybWVkaWEsIFRoZSB1cmwgdG8gY2xvbmUgdGhlIHJlcG8KICoKICogQHBhcmFtIGJyYW5jaGVzVXJsIEh5cGVybWVkaWEsIHRoZSB1cmwgdG8gZ2V0IGJyYW5jaGVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29tbWl0c1VybCBIeXBlcm1lZGlhLCB0aGUgdXJsIHRvIGdldCBjb21taXRzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gY29udGVudHNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlICoqUk9PVCoqIGNvbnRlbnQgb2YgdGhpcyByZXBvLiBZb3UgbmVlZCB0byBzcGVjaWZ5CiAqIHRoZSBwYXRoIGluIHRoZSB0ZW1wbGF0ZSB0byBnZXQgdGhlIHN1Yi1jb250ZW50CiAqCiAqIEBwYXJhbSBjb250cmlidXRvcnNVcmwgSHlwZXJtZWRpYSwgdGhlIHVybCB0byBnZXQgdGhlIGNvbnRyaWJ1dG9ycyBvZiB0aGlzIHJlcG8uIEEgY29udHJpYnV0b3IgaXMKICogd2hvIHB1c2ggY29tbWl0cyB0byB0aGUgZGVmYXVsdCBicmFuY2ggb3Igd2hvc2UgY29tbWl0cyB3YXMgYWNjZXB0IGluIHRoZSBkZWZhdWx0IGJyYW5jaC4KICoKICogQHBhcmFtIGRvd25sb2Fkc1VybCBIeXBlcm1lZGlhLCB0aGUgcmVsZWFzZSBvZiB0aGUgcmVwbz8gKE5lZWQgdG8gYmUgaWRlbnRpZmllZCkKICoKICogQHBhcmFtIGlzc3Vlc1VybCBIeXBlcm1lZGlhLCB0aGUgaXNzdWVzIG9mIHRoaXMgcmVwbwogKgogKiBAcGFyYW0gZm9ya3NVcmwgSHlwZXJtZWRpYSwgdGhlIGZvcmtzIG9mIHRoaXMgcmVwbwogKi8=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FsbC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGw6IENhbGw8T0F1dGhUb2tlblJlc3BvbnNlPj8sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIGxvZ2luV2l0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjbGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1460,7 +1461,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx1cGRhdGVkQXRcPg==</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>play</last-substitute>
+      <last-substitute encoding="base64">XDx1cGRhdGVkQXRcPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1501,9 +1502,9 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>a</entry>
-        <entry>qw</entry>
         <entry>w]</entry>
         <entry>ew</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
