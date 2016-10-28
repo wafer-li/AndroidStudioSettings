@@ -33,7 +33,7 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1477579859098">
+      <file name="/a.dummy" timestamp="1477627703877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/test/java/Test.java" timestamp="1477119487354">
@@ -353,12 +353,11 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" timestamp="1477627138750">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" timestamp="1477630224663">
         <mark key="'" line="17" column="60" />
-        <mark key="[" line="50" column="41" />
-        <mark key="]" line="51" column="52" />
-        <mark key="." line="51" column="52" />
-        <mark key="^" line="51" column="52" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinTest/src/foo/base.kt" timestamp="1475600508004">
         <mark key="[" line="10" column="0" />
@@ -623,7 +622,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477584316410">
+      <file name="/Dummy.txt" timestamp="1477628036243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -677,6 +676,12 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/default_user_icon.xml" timestamp="1477627997686">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/WordNet/README.md" timestamp="1459189365097">
         <mark key="[" line="4" column="44" />
@@ -1455,10 +1460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="-" type="4">
-        <text>account_header_background</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1467,31 +1472,31 @@
         <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoSGVhZGVyQmFja2dyb3VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aGhlaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoTmFtZVR5cGVmYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1543,10 +1548,10 @@
         <entry>we</entry>
         <entry>a</entry>
         <entry>w]</entry>
-        <entry>ew</entry>
         <entry>qw</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>ew</entry>
       </history-cmd>
       <history-expr />
       <history-input />
