@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1477650850102">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1477653950775">
         <mark key="'" line="5" column="23" />
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="45" />
+        <mark key="[" line="81" column="72" />
+        <mark key="]" line="81" column="72" />
+        <mark key="." line="81" column="72" />
+        <mark key="^" line="81" column="73" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build/intermediates/res/merged/debug/layout-v21/activity_login.xml" timestamp="1476545297164">
         <mark key="[" line="69" column="39" />
@@ -369,11 +369,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" timestamp="1477638812521">
-        <mark key="'" line="108" column="21" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" timestamp="1477654217817">
+        <mark key="'" line="109" column="21" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" timestamp="1477123469157">
         <mark key="'" line="21" column="0" />
@@ -624,7 +624,7 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477653536723">
+      <file name="/Dummy.txt" timestamp="1477653852528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1476615467096">
@@ -1464,10 +1464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfc2Nyb2xsRmxhZ3M9InNjcm9sbHxleGl0VW50aWxDb2xsYXBzZWR8ZW50ZXJBbHdheXN8ZW50ZXJBbHdheXNDb2xsYXBzZWQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1476,31 +1476,31 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuVGFiSXRlbQogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMSIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfc2Nyb2xsRmxhZ3M9InNjcm9sbHxleGl0VW50aWxDb2xsYXBzZWR8ZW50ZXJBbHdheXN8ZW50ZXJBbHdheXNDb2xsYXBzZWQiPgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcAo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6dGhlbWU9Ij9hdHRyL2FjdGlvbkJhclRoZW1lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhY3Rpb25CYXJUaGVtZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAc3R5bGUvQXBwVGhlbWUiCg==</text>
+        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
