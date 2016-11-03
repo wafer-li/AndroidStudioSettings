@@ -129,6 +129,11 @@
         <mark key="." line="52" column="49" />
         <mark key="^" line="52" column="49" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Knaspack/src/com/wafer/algo/knaspack/BruteForce.java" timestamp="1478135072703">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/java/edu/bupt/checkinsystem/beans/backend/ClassModification.java" timestamp="1468072922481">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -170,6 +175,12 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Knapsack/src/com/wafer/algo/knapsack/BruteForce.java" timestamp="1478136864366">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1476958744253">
         <mark key="[" line="48" column="43" />
@@ -848,6 +859,13 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Knaspack/src/com/wafer/algo/knapsack/BruteForce.java" timestamp="1478136565053">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/models/db/Province.java" timestamp="1465061567289">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="3" />
@@ -1237,7 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/network/ApiManager.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_main.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_main.xml" />
       <jump line="17" column="5" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/styles.xml" />
@@ -1337,13 +1354,14 @@
       <jump line="101" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
       <jump line="105" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
+      <jump line="76" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Knaspack/src/com/wafer/algo/knapsack/BruteForce.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGVzdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text encoding="base64">dGVzdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
@@ -1355,28 +1373,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVoZTpWYWxpZGF0aW9uRXJyb3IgPSBWYWxpZGF0aW9uRXJyb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL+iAg+iZkeeJqeWTgSBpIOWMheWQq+WcqOW9k+WJjeaWueahiOS4reeahOWPr+iDveaApwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInggPSAiICsgamF2YS51dGlsLkFycmF5cy50b1N0cmluZyh4KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVoZTogVmFsaWRhdGlvbkVycm9yID0gVmFsaWRhdGlvbkVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1heFZhbHVlID0gIiArIG1heFZhbHVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEF1dG9WYWx1ZV9Gb28uR3NvblR5cGVBZGFwdGVyKGdzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdHlwZUFkYXB0ZXIoZ3NvbjogR3Nvbik6IFR5cGVBZGFwdGVyPEZvbz4gewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaGVoZTpWYWxpZGF0aW9uRXJyb3IgPSBWYWxpZGF0aW9uRXJyb3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3R7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1431,6 +1449,7 @@
         <entry>ew</entry>
         <entry>a</entry>
         <entry>w]</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
