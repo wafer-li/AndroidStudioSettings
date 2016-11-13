@@ -231,10 +231,10 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Test.kt" timestamp="1479011411072">
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Test.kt" timestamp="1479012354127">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
         <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
@@ -620,11 +620,12 @@
         <mark key="^" line="33" column="65" />
         <mark key="." line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" timestamp="1479011196612">
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" timestamp="1479012336899">
         <mark key="'" line="30" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-modification.xhtml" timestamp="1468410171822">
         <mark key="[" line="88" column="16" />
@@ -1511,17 +1512,17 @@
       <jump line="30" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5QmVoYXZpb3IgPSBGbHlXaXRoUm9ja2V0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>flyBehavior</text>
       </register>
       <register name="-" type="4">
-        <text>Again</text>
+        <text>flyBehavior</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludGxuXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
+      <register name="0" type="4">
+        <text>var quackBehavior: QuackBehavior)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5QmVoYXZpb3IgPSBGbHlXaXRoUm9ja2V0KCkK</text>
