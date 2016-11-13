@@ -214,6 +214,11 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Behavior.kt" timestamp="1479008500144">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/mapview/src/main/java/com/onlylemi/mapview/library/layer/RouteLayer.java" timestamp="1476792594785">
         <mark key="[" line="106" column="68" />
         <mark key="]" line="107" column="15" />
@@ -225,6 +230,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Test.kt" timestamp="1479011411072">
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
         <mark key="[" line="11" column="31" />
@@ -308,6 +319,12 @@
         <mark key="]" line="0" column="77" />
         <mark key="." line="0" column="77" />
         <mark key="^" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/FlyBehaviors.kt" timestamp="1479010889931">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+        <mark key="^" line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/build.gradle" timestamp="1476721481676">
         <mark key="[" line="6" column="0" />
@@ -603,6 +620,12 @@
         <mark key="^" line="33" column="65" />
         <mark key="." line="33" column="65" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" timestamp="1479011196612">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/CheckInSystemJSF/src/main/webapp/backend/student-modification.xhtml" timestamp="1468410171822">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="91" column="21" />
@@ -772,6 +795,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/QuackBehaviors.kt" timestamp="1479010595005">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/src/algs4_assignment/Example.java" timestamp="1459188824244">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -783,6 +812,12 @@
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/.gitignore" timestamp="1479007434881">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" timestamp="1477029819108">
         <mark key="'" line="11" column="2" />
@@ -1262,6 +1297,12 @@
         <mark key="." line="87" column="39" />
         <mark key="^" line="87" column="39" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Ducks.kt" timestamp="1479008179775">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
@@ -1368,9 +1409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="32" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
-      <jump line="256" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
-      <jump line="263" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="264" column="13" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="265" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="41" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
@@ -1468,55 +1506,58 @@
       <jump line="64" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
+      <jump line="6" column="4" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" />
+      <jump line="21" column="27" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" />
+      <jump line="30" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5QmVoYXZpb3IgPSBGbHlXaXRoUm9ja2V0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>Again</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVkQXRcPg==</text>
+        <text encoding="base64">XDxwcmludGxuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iNGRwIgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5QmVoYXZpb3IgPSBGbHlXaXRoUm9ja2V0KCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnRsbigpCg==</text>
+        <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1ha2VSdWJiZXJGbHlhYmxlKHJ1YmJlckR1Y2spCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1YmJlckR1Y2suZmx5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIG1haW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVkQXRcPg==</last-search>
+      <last-search encoding="base64">XDxwcmludGxuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVkQXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludGxuXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVkQXRcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -1524,8 +1565,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc1w+</entry>
-        <entry encoding="base64">XDxQZXJzaXN0ZW5jZUNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxwcm9wZXJ0eVw+</entry>
         <entry encoding="base64">XDxiYWNrZW5kX2luZGV4XD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
@@ -1544,6 +1583,8 @@
         <entry encoding="base64">XDxnZW5lcmF0aW9uTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxjbGFzc0JvZHlCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVkQXRcPg==</entry>
+        <entry encoding="base64">XDxwcm90ZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDxwcmludGxuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>aw</entry>
@@ -1557,11 +1598,11 @@
         <entry>wq</entry>
         <entry>w3</entry>
         <entry>a</entry>
-        <entry>qw</entry>
         <entry>W</entry>
         <entry>w]</entry>
         <entry>ew</entry>
         <entry>we</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
