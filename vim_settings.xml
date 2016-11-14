@@ -39,11 +39,10 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
         <mark key="[" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479129552176">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="95" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479131591852">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
         <mark key="[" line="9" column="43" />
@@ -250,43 +249,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbGQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VW5pdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeXN0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRlbXBlcmF0dXJlID0gdGVtcGVyYXR1cmUK</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBtYXg6IEZsb2F0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVtcGVyYXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biB0cmlnZ2VyQ2FsY3VsYXRlQXZnKHByb3A6IEtQcm9wZXJ0eTwqPiwgb2xkOiBGbG9hdCwgbmV3OiBGbG9hdCkgIFVuaXQgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBtYXg6IEZsb2F0IGJ5IERlbGVnYXRlcy5vYnNlcnZhYmxlKEZsb2F0Lk5hTikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsY3VsYXRlQXZnKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -336,11 +335,11 @@
         <entry>wq</entry>
         <entry>w3</entry>
         <entry>a</entry>
-        <entry>W</entry>
         <entry>w]</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>ew</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
