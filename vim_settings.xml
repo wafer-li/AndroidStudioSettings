@@ -39,10 +39,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
         <mark key="[" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479131591852">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479133008626">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="102" column="59" />
+        <mark key="]" line="102" column="65" />
+        <mark key="." line="102" column="65" />
+        <mark key="^" line="102" column="65" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
         <mark key="[" line="9" column="43" />
@@ -146,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/values/array.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/item_main_button.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" />
       <jump line="7" column="2" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/entity/User.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/item_main_button.xml" />
@@ -246,55 +246,57 @@
       <jump line="4" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/language_java.xml" />
       <jump line="51" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" />
       <jump line="22" column="27" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Subjects.kt" />
+      <jump line="48" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" />
+      <jump line="41" column="16" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VW5pdCA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTeXN0ZW1cPg==</text>
+        <text encoding="base64">XDxtYXhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBtYXg6IEZsb2F0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheU1zZyA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biB0cmlnZ2VyQ2FsY3VsYXRlQXZnKHByb3A6IEtQcm9wZXJ0eTwqPiwgb2xkOiBGbG9hdCwgbmV3OiBGbG9hdCkgIFVuaXQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXg6IEZsb2F0IGJ5IERlbGVnYXRlcy5vYnNlcnZhYmxlKEZsb2F0Lk5hTikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsY3VsYXRlQXZnKCkK</text>
+        <text encoding="base64">ICAgICAgICBGSVJTVCwgTk9UX0NIQU5HRQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTeXN0ZW1cPg==</last-search>
+      <last-search encoding="base64">XDxtYXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTeXN0ZW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVkQXRcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -302,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWNrZW5kX2luZGV4XD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxGYWNlc1w+</entry>
         <entry>submit</entry>
@@ -322,6 +323,7 @@
         <entry encoding="base64">XDxwcm90ZWN0ZWRcPg==</entry>
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
+        <entry encoding="base64">XDxtYXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>aw</entry>
@@ -338,8 +340,8 @@
         <entry>w]</entry>
         <entry>we</entry>
         <entry>qw</entry>
-        <entry>ew</entry>
         <entry>W</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
