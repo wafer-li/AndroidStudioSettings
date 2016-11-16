@@ -3,33 +3,90 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1479014107890">
+      <file name="/a.dummy" timestamp="1479306127031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/programming_langurage_c.xml" timestamp="1478795721195">
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/hehe.java" timestamp="1479314669020">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/README.md" timestamp="1479018550830">
+        <mark key="[" line="6" column="76" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="79" />
+        <mark key="." line="9" column="79" />
+        <mark key="^" line="9" column="79" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServer.java" timestamp="1479315913039">
+        <mark key="[" line="76" column="55" />
+        <mark key="]" line="76" column="68" />
+        <mark key="." line="76" column="68" />
+        <mark key="^" line="76" column="68" />
+      </file>
+      <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" timestamp="1479017279520">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
+        <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClientThread.java" timestamp="1479313717382">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
+        <mark key="[" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastChat.java" timestamp="1479303275301">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Client.java" timestamp="1479306175108">
+        <mark key="[" line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
+        <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479315709579">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="74" column="41" />
+        <mark key="." line="74" column="41" />
+        <mark key="^" line="74" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/.gitignore" timestamp="1479316198444">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1479014107890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServerThread.java" timestamp="1479309312346">
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServerThread.java" timestamp="1479310925779">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1479306127031">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
         <mark key="[" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values-zh/strings.xml" timestamp="1478514009151">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
@@ -39,14 +96,6 @@
         <mark key="]" line="154" column="41" />
         <mark key="^" line="154" column="41" />
         <mark key="." line="154" column="41" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_splash.xml" timestamp="1478514483243">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/README.md" timestamp="1479018550830">
-        <mark key="[" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
         <mark key="[" line="13" column="5" />
@@ -64,26 +113,6 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="79" />
-        <mark key="." line="9" column="79" />
-        <mark key="^" line="9" column="79" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServer.java" timestamp="1479309414413">
-        <mark key="[" line="76" column="42" />
-        <mark key="]" line="76" column="55" />
-        <mark key="." line="76" column="55" />
-        <mark key="^" line="76" column="55" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Duck.java" timestamp="1479015925427">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1475315867706">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
       </file>
@@ -93,11 +122,6 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/java/strategy/ducks/Duck.java" timestamp="1479018117198">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
@@ -120,26 +144,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/behaviors/Squeak.java" timestamp="1479016449262">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-      </file>
       <file name="/dummy.sql" timestamp="1468429715291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" timestamp="1479017279520">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="50" column="31" />
-        <mark key="." line="50" column="31" />
-        <mark key="^" line="50" column="31" />
-      </file>
       <file name="/Dummy.txt" timestamp="1479136427003">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
-        <mark key="[" line="2" column="51" />
       </file>
       <file name="/a.regexp" timestamp="1479018161900">
         <mark key="[" line="0" column="0" />
@@ -147,45 +156,14 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
         <mark key="[" line="61" column="36" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClientThread.java" timestamp="1479309774456" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
-        <mark key="[" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/programming_language_cpp.xml" timestamp="1478795754294">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastChat.java" timestamp="1479303275301">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
         <mark key="[" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Client.java" timestamp="1479306175108">
-        <mark key="[" line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
-        <mark key="[" line="2" column="51" />
-      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServer.java" timestamp="1479316577066" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Behavior.kt" timestamp="1479008500144">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479309656105">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="61" />
-        <mark key="." line="51" column="61" />
-        <mark key="^" line="51" column="61" />
-      </file>
-      <file name="/fragment.java" timestamp="1479306712205">
+      <file name="/fragment.java" timestamp="1479316587245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
@@ -193,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout-v21/item_main_button.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/build.gradle" />
       <jump line="12" column="2" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/view/GeneratorViewBinder.java" />
       <jump line="41" column="78" filename="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/listeners/GenerateActionListener.java" />
@@ -293,46 +269,48 @@
       <jump line="41" column="16" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" />
       <jump line="81" column="31" filename="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" />
       <jump line="35" column="14" filename="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" />
+      <jump line="108" column="35" filename="$USER_HOME$/Programming/IdeaProjects/chat/src/hehe.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>chat</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>chat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBzb2NrZXQgPSBuZXcgU29ja2V0KHNlcnZlck5hbWUsIHNlcnZlclBvcnQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbm5lY3RlZDogIiArIHNvY2tldCk7CiAgICAgICAgICAgIHN0YXJ0KCk7CiAgICAgICAgfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gdWhlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSG9zdCB1bmtub3duOiAiICsgdWhlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gaW9lKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVW5leHBlY3RlZCBleGNlcHRpb246ICIgKyBpb2UuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RyZWFtT3V0LndyaXRlVVRGKGlucHV0RmllbGQuZ2V0VGV4dCgpKTsKICAgICAgICAgICAgc3RyZWFtT3V0LmZsdXNoKCk7CiAgICAgICAgICAgIGlucHV0RmllbGQuc2V0VGV4dCgiIik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gaW9lKSB7CiAgICAgICAgICAgIGFwcGVuZENoYXRNc2coIlNlbmRpbmcgZXJyb3I6ICIgKyBpb2UuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgY2xvc2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZmFicmljLnByb3BlcnRpZXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y3Jhc2hseXRpY3MtYnVpbGQucHJvcGVydGllcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y3Jhc2hseXRpY3MucHJvcGVydGllcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZ2V0Cg==</text>
+        <text encoding="base64">IyBDcmFzaGx5dGljcyBwbHVnaW4gKGZvciBBbmRyb2lkIFN0dWRpbyBhbmQgSW50ZWxsaUopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZ2V0Cg==</text>
+        <text encoding="base64">YXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuCg==</text>
+        <text encoding="base64">IyBKSVJBIHBsdWdpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
