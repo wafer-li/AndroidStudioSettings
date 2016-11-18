@@ -6,11 +6,11 @@
       <file name="vim_settings.xml" timestamp="1479014107890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479362092941">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="37" column="15" />
-        <mark key="^" line="37" column="15" />
-        <mark key="." line="37" column="15" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479363796421">
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="53" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -116,11 +116,11 @@
       <file name="/dummy.sql" timestamp="1468429715291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" timestamp="1479362208512">
-        <mark key="[" line="80" column="31" />
-        <mark key="]" line="81" column="11" />
-        <mark key="." line="81" column="11" />
-        <mark key="^" line="81" column="11" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" timestamp="1479363738437">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" timestamp="1479017279520">
         <mark key="'" line="54" column="8" />
@@ -304,11 +304,11 @@
       <jump line="100" column="12" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Quc2V0RW5hYmxlZCh0cnVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
