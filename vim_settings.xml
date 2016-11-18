@@ -78,7 +78,6 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1479357957501" />
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +151,11 @@
         <mark key="]" line="47" column="30" />
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/stategy/Duck.kt" timestamp="1479467439555">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
@@ -304,8 +308,8 @@
       <jump line="100" column="12" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -317,31 +321,31 @@
         <text>&quot;Error closing input stream: &quot; + ioe)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Quc2V0RW5hYmxlZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbHlCZWhhdmlvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Quc2V0RW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuZGlzcGxheSgpO3ByaW50bG4oIlNlcnZlciBUaHJlYWQgIiArIElEICsgIiBydW5uaW5nLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
