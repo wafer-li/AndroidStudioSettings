@@ -95,6 +95,13 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" timestamp="1480253972317">
+        <mark key="'" line="86" column="9" />
+        <mark key="[" line="127" column="36" />
+        <mark key="]" line="127" column="37" />
+        <mark key="." line="127" column="37" />
+        <mark key="^" line="127" column="13" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClientThread.java" timestamp="1479313717382">
         <mark key="[" line="47" column="23" />
         <mark key="]" line="47" column="30" />
@@ -133,6 +140,13 @@
         <mark key="]" line="74" column="41" />
         <mark key="." line="74" column="41" />
         <mark key="^" line="74" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" timestamp="1480254030654">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/.gitignore" timestamp="1479316198444">
         <mark key="[" line="2" column="5" />
@@ -259,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="24" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="11" column="73" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="6" column="46" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="51" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
@@ -359,46 +370,49 @@
       <jump line="22" column="8" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
+      <jump line="85" column="9" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" />
+      <jump line="30" column="20" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
+      <jump line="7" column="10" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Error closing input stream: &quot; + ioe)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGEgPiBiKSA/IGEgOiBiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYiA9IHRlc3QoaW5kZXggKyAxLCBjYXBhY2l0eSAtIHdlaWdodHNbaW5kZXhdLCB3ZWlnaHRzLCB2YWx1ZXMpICsgdmFsdWVzW2luZGV4XTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHRlc3QoaW5kZXggKyAxLCBjYXBhY2l0eSwgd2VpZ2h0cywgdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoeHMoaSkgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
