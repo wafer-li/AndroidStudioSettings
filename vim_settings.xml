@@ -23,12 +23,12 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file1.txt" timestamp="1479652235768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480243650203">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480244261654">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="129" column="69" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
         <mark key="[" line="9" column="43" />
@@ -42,8 +42,16 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" timestamp="1480245644666" />
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" timestamp="1480244776470">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="123" column="32" />
+        <mark key="]" line="123" column="35" />
+        <mark key="^" line="123" column="35" />
+        <mark key="." line="123" column="35" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
         <mark key="[" line="0" column="0" />
@@ -63,6 +71,11 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
+        <mark key="]" line="129" column="26" />
+        <mark key="^" line="129" column="26" />
+        <mark key="." line="129" column="26" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
@@ -95,6 +108,12 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
         <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/HeapNode.java" timestamp="1480244452151">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479315709579">
         <mark key="'" line="110" column="0" />
@@ -225,32 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
-      <jump line="22" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/Authentication.kt" />
-      <jump line="87" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
-      <jump line="56" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
-      <jump line="31" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
-      <jump line="36" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="36" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
-      <jump line="7" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
-      <jump line="116" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/Repo.kt" />
-      <jump line="43" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="72" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="18" column="1" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="86" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/model/github_entity/User.kt" />
-      <jump line="32" column="47" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="33" column="101" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiServices.kt" />
-      <jump line="23" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="22" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="79" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/NetworkHelper.kt" />
-      <jump line="21" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/SharedPreferenceHelper.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/utils/SharedPreferenceHelper.kt" />
-      <jump line="24" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="114" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="121" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/network/ApiManager.kt" />
@@ -325,13 +318,39 @@
       <jump line="41" column="25" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="91" column="22" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="89" column="33" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="125" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
+      <jump line="105" column="27" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="74" column="30" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="118" column="30" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="5" column="1" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="111" column="19" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -342,17 +361,17 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQgPSBuZXcgaW50W117MTUsIDE2LCAxNSwgMH07CiAgICAgICAgdmFsdWUgPSBuZXcgaW50W117MjUsIDQ1LCAyNSwgMH07CiAgICAgICAgbWF4ID0gMzA7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHJldHUgbmV3IEJCX0tuYXBzYWNrMDEoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,7 +380,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBLbmFwc2Fja0JyYW5jaEJvdW5kKCkgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -416,9 +435,9 @@
         <entry>a</entry>
         <entry>w]</entry>
         <entry>we</entry>
-        <entry>qw</entry>
         <entry>W</entry>
         <entry>w2</entry>
+        <entry>qw</entry>
         <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
