@@ -206,6 +206,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/Telegram Desktop/project1/XML11/src/DOM4JParserDemo.java" timestamp="1480844275213">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="33" column="11" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
       </file>
@@ -407,11 +413,11 @@
       <jump line="7" column="10" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">fSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSA=</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -420,28 +426,28 @@
         <text>SAXParserDemo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChPYmplY3QgaWdub3JlZCA6IG5vZGVzKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudCByb290ID0gZG9jdW1lbnQuZ2V0Um9vdEVsZW1lbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudCByb290ID0gZG9jdW1lbnQuZ2V0Um9vdEVsZW1lbnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoeHMoaSkgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9Vc2luZyBYUGF0aAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
