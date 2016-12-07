@@ -87,12 +87,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" timestamp="1481036666419">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="19" column="21" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" timestamp="1481083007945">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
         <mark key="]" line="129" column="26" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
       <jump line="114" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
       <jump line="6" column="70" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_main.xml" />
@@ -425,13 +424,14 @@
       <jump line="28" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="26" column="24" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
