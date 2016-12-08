@@ -26,6 +26,12 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file1.txt" timestamp="1479652235768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorators.kt" timestamp="1481169962498">
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="40" />
+        <mark key="^" line="44" column="40" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480244261654">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="129" column="16" />
@@ -57,6 +63,12 @@
         <mark key="]" line="69" column="7" />
         <mark key="." line="69" column="7" />
         <mark key="^" line="69" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" timestamp="1481169615278">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="8" />
       </file>
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
@@ -92,11 +104,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
-        <mark key="]" line="129" column="26" />
-        <mark key="^" line="129" column="26" />
-        <mark key="." line="129" column="26" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
@@ -228,6 +235,13 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Test.kt" timestamp="1481169678128">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
@@ -284,6 +298,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorator.kt" timestamp="1481169487656">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="36" />
+        <mark key="." line="47" column="36" />
+        <mark key="^" line="47" column="35" />
+      </file>
       <file name="/a.regexp" timestamp="1479361365118">
         <mark key="[" line="0" column="0" />
       </file>
@@ -296,6 +316,12 @@
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componet.kt" timestamp="1481168816082">
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="45" column="44" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
         <mark key="[" line="17" column="5" />
@@ -324,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="70" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_main.xml" />
       <jump line="10" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="60" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
@@ -424,13 +449,14 @@
       <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="94" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Test.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -442,28 +468,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogJCQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogJCQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ZnVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -502,7 +528,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>aw</entry>
         <entry>wa</entry>
         <entry>2</entry>
         <entry>bn</entry>
@@ -513,11 +538,12 @@
         <entry>w3</entry>
         <entry>a</entry>
         <entry>w]</entry>
-        <entry>we</entry>
         <entry>W</entry>
         <entry>w2</entry>
-        <entry>qw</entry>
         <entry>sw</entry>
+        <entry>qw</entry>
+        <entry>aw</entry>
+        <entry>we</entry>
         <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
