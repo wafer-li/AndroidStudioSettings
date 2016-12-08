@@ -105,6 +105,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
+        <mark key="]" line="129" column="26" />
+        <mark key="^" line="129" column="26" />
+        <mark key="." line="129" column="26" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="1" />
@@ -137,6 +142,13 @@
         <mark key="]" line="12" column="44" />
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/fenzhi.java" timestamp="1481180455360">
+        <mark key="'" line="76" column="12" />
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="75" column="44" />
+        <mark key="." line="75" column="44" />
+        <mark key="^" line="75" column="44" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Client.java" timestamp="1479306175108">
         <mark key="[" line="19" column="34" />
@@ -225,6 +237,9 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="33" column="11" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/divided_and_conquer/SF_XianxingXuanze.java" timestamp="1481180766954">
+        <mark key="[" line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
       </file>
@@ -283,6 +298,12 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" timestamp="1481180701427">
+        <mark key="'" line="65" column="7" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1481085881581">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,6 +324,11 @@
         <mark key="]" line="47" column="36" />
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/divided_and_conquer/FindK.java" timestamp="1481180776438">
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="/a.regexp" timestamp="1479361365118">
         <mark key="[" line="0" column="0" />
@@ -350,12 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="60" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="80" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="5" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
@@ -450,13 +470,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="94" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Test.kt" />
+      <jump line="101" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/fenzhi.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/fenzhi.java" />
+      <jump line="67" column="14" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
+      <jump line="66" column="4" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
+      <jump line="49" column="44" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
+      <jump line="65" column="7" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -465,31 +491,31 @@
         <text encoding="base64">ICAgIHByaW50KCIlLjZmICIuZm9ybWF0KGRlc3RpbmF0aW9uWCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIioqKioqKuaOkuW6j+WJjeeahOS9jee9rioqKioqKiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIioqKioqKuaOkuW6j+WQjueahOS9jee9rioqKioqKiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIioqKioqKuaOkuW6j+WQjueahOS9jee9rioqKioqKiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
