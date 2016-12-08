@@ -207,6 +207,13 @@
         <mark key="^" line="102" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481186171727">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
@@ -403,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
-      <jump line="5" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="51" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout-v21/activity_main.xml" />
@@ -503,63 +507,65 @@
       <jump line="66" column="4" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
       <jump line="49" column="44" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
       <jump line="65" column="7" filename="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/SF_XianxingXuanze.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="11" column="8" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="15" column="30" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxmaWxwYWxiZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIlLjZmICIuZm9ybWF0KGRlc3RpbmF0aW9uWCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIlaCIuZm9ybWF0KGZsaXAobikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIweDAwMTBERUFEIi50b0xvbmcoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKuaxguino+W5tuaJk+WNsOino+WQkemHjwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5wb3NpeC5lbGYuRUxGU2VjdGlvbkhlYWRlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKuWIneWni+WMluino+WQkemHj3hbbl0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICBwcmludE4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdjFbaV0gPSB2W2luZGV4W2ldXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxmaWxwYWxiZVw+</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxwYWxiZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVkQXRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGYWNlc1w+</entry>
         <entry>submit</entry>
         <entry>student</entry>
         <entry>success</entry>
@@ -579,6 +585,7 @@
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxtYXhcPg==</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxmaWxwYWxiZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -598,6 +605,7 @@
         <entry>aw</entry>
         <entry>we</entry>
         <entry>ew</entry>
+        <entry>q2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
