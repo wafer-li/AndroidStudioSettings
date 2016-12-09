@@ -207,12 +207,12 @@
         <mark key="^" line="102" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481186171727">
-        <mark key="'" line="22" column="30" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="56" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481254292955">
+        <mark key="'" line="25" column="30" />
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -332,7 +332,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481085881581">
+      <file name="/Dummy.txt" timestamp="1481254301299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Telegram Desktop/project1/XML1/src/NameHandler.java" timestamp="1480843816304">
@@ -512,8 +512,8 @@
       <jump line="15" column="30" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -525,28 +525,28 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCIlaCIuZm9ybWF0KGZsaXAobikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIweDAwMTBERUFEIi50b0xvbmcoKQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5wb3NpeC5lbGYuRUxGU2VjdGlvbkhlYWRlcgo=</text>
+        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIweDAwMTBERUFEIi50b0xvbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5wb3NpeC5lbGYuRUxGU2VjdGlvbkhlYWRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludE4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
