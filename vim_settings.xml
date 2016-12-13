@@ -223,8 +223,8 @@
         <mark key="^" line="102" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481622299232">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481625287891">
+        <mark key="'" line="6" column="1" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -428,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/constants/ActivityMode.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/constants/ActivityMode.kt" />
       <jump line="67" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
@@ -528,10 +527,11 @@
       <jump line="19" column="32" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
+      <jump line="6" column="1" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -543,31 +543,31 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDg5Cg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDgsCg==</text>
+        <text encoding="base64">ICAgIDg5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDcsCg==</text>
+        <text encoding="base64">ICAgIDgsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDYsCg==</text>
+        <text encoding="base64">ICAgIDcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDUsCg==</text>
+        <text encoding="base64">ICAgIDYsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDQsCg==</text>
+        <text encoding="base64">ICAgIDUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDMsCg==</text>
+        <text encoding="base64">ICAgIDQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
