@@ -238,6 +238,12 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/knapsack.java" timestamp="1480245742700">
         <mark key="[" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/test.kt" timestamp="1481609562553">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
         <mark key="[" line="13" column="5" />
       </file>
@@ -254,6 +260,7 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/io/Console.kt" timestamp="1481610109407" />
       <file name="$USER_HOME$/Downloads/Telegram Desktop/project1/XML11/src/DOM4JParserDemo.java" timestamp="1480844275213">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -513,10 +520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxwYWxiZVw+</text>
@@ -525,31 +532,31 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCIlaCIuZm9ybWF0KGZsaXAobikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxpbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIweDAwMTBERUFEIi50b0xvbmcoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbnB1dCA9IHJlYWRlci4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5wb3NpeC5lbGYuRUxGU2VjdGlvbkhlYWRlcgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAobGluZSBpbiApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
