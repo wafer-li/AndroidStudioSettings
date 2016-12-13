@@ -31,7 +31,8 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file1.txt" timestamp="1479652235768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorators.kt" timestamp="1481169962498">
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorators.kt" timestamp="1481622513289">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="44" column="40" />
         <mark key="]" line="44" column="40" />
         <mark key="." line="44" column="40" />
@@ -215,12 +216,11 @@
         <mark key="^" line="102" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481620731657">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="21" column="19" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481622299232">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -346,9 +346,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479136427003">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/Telegram Desktop/project1/XML1/src/NameHandler.java" timestamp="1480843816304">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="25" />
@@ -424,16 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
-      <jump line="114" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/drawer_header.xml" />
-      <jump line="6" column="70" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_main.xml" />
-      <jump line="10" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="60" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="80" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="5" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
@@ -520,10 +507,20 @@
       <jump line="7" column="10" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
       <jump line="9" column="2" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
       <jump line="12" column="30" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="0" column="2" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="35" column="4" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="32" column="4" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="34" column="8" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="37" column="8" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="17" column="8" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" />
+      <jump line="4" column="28" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorators.kt" />
+      <jump line="43" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Decorators.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -542,28 +539,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gbGkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVtcGxhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsaXBwYWJsZSgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCB0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -629,7 +626,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -638,7 +635,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -647,11 +644,41 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
