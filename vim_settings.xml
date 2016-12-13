@@ -133,11 +133,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
-        <mark key="]" line="129" column="26" />
-        <mark key="^" line="129" column="26" />
-        <mark key="." line="129" column="26" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="1" />
@@ -234,11 +229,17 @@
         <mark key="^" line="102" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481635148288">
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/A20.kt" timestamp="1481636400206">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/java_example/strategy/Test.java" timestamp="1481636801915">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -388,11 +389,6 @@
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Algorithm/src/divided_and_conquer/FindK.java" timestamp="1481180776438">
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
       <file name="/a.regexp" timestamp="1479361365118">
         <mark key="[" line="0" column="0" />
       </file>
@@ -445,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values-zh/array.xml" />
-      <jump line="4" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/language_java.xml" />
       <jump line="51" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" />
       <jump line="22" column="27" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Subjects.kt" />
       <jump line="48" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" />
@@ -545,10 +539,12 @@
       <jump line="20" column="41" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" />
+      <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/java_example/strategy/Test.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/java_example/strategy/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
@@ -560,31 +556,31 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzMSA9IHMK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyaW5nICA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gImFiYyBkZWYgJG4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBuID0gMTAK</text>
+        <text encoding="base64">ICAgIHZhbCBzMSA9IHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWhlID0gcwo=</text>
+        <text encoding="base64">ICAgIHZhbCBzID0gImFiYyBkZWYgJG4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gczEK</text>
+        <text encoding="base64">ICAgIHZhbCBuID0gMTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBoZWhlID0gcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzID0gczEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
