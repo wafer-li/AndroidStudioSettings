@@ -17,12 +17,10 @@
         <root url="jar:///usr/local/opt/scala/idea/lib/scala-parser-combinators_2.12-1.0.4.jar!/" />
         <root url="jar:///usr/local/opt/scala/idea/lib/scala-reflect.jar!/" />
         <root url="jar:///usr/local/opt/scala/idea/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
-        <root url="jar:///usr/local/opt/scala/idea/lib/scala-xml_2.12-1.0.5.jar!/" />
         <root url="jar:///usr/local/opt/scala/libexec/lib/scala-library.jar!/" />
         <root url="jar:///usr/local/opt/scala/libexec/lib/scala-parser-combinators_2.12-1.0.4.jar!/" />
         <root url="jar:///usr/local/opt/scala/libexec/lib/scala-reflect.jar!/" />
         <root url="jar:///usr/local/opt/scala/libexec/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
-        <root url="jar:///usr/local/opt/scala/libexec/lib/scala-xml_2.12-1.0.5.jar!/" />
       </CLASSES>
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.12.0/" />
