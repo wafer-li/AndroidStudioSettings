@@ -124,15 +124,17 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1481691635872">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" timestamp="1481688890765">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Rotate3dPoint.kt" timestamp="1481693061313">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
@@ -167,10 +169,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Test.kt" timestamp="1481688274695">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Test.kt" timestamp="1481693276716">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
       </file>
       <file name="/JSON Fragment (A20.kt:508).json" timestamp="1481619954246">
         <mark key="[" line="0" column="0" />
@@ -550,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5mb3JFYWNoTGluZSB7ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>line</text>
@@ -562,31 +565,31 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5mb3JFYWNoTGluZSB7ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5mb3JFYWNoTGluZSg6OnByaW50bG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5saW5lcygpLmZvckVhY2ggeyB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gcmVhZExpbmUoKQo=</text>
+        <text encoding="base64">ICAgIHJlYWRMaW5lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChsaW5lICE9IG51bGwgJiYgbGluZSAhPSAiIikgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBsaW5lID0gcmVhZExpbmUoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
