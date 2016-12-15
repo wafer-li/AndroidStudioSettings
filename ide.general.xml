@@ -7,5 +7,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="editor.zero.latency.typing" value="true" />
   </component>
 </application>
