@@ -62,6 +62,12 @@
         <mark key="." line="69" column="7" />
         <mark key="^" line="69" column="7" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struct2WebApp/build.gradle" timestamp="1482242084844">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -432,10 +438,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -444,13 +450,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZExpbmUoKTsK</text>
+        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZExpbmUoKTsK</text>
@@ -504,11 +510,11 @@
         <entry>w3</entry>
         <entry>a</entry>
         <entry>w]</entry>
-        <entry>we</entry>
         <entry>W</entry>
         <entry>w2</entry>
         <entry>qw</entry>
         <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
