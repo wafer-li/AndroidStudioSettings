@@ -111,6 +111,19 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" timestamp="1482245854368">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/web.xml" timestamp="1482246210712">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnaspackBranchBound.java" timestamp="1480244281056">
         <mark key="]" line="129" column="26" />
         <mark key="^" line="129" column="26" />
@@ -301,6 +314,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
         <mark key="[" line="61" column="36" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/build.gradle" timestamp="1482245994176">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
         <mark key="[" line="17" column="5" />
       </file>
@@ -326,6 +345,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/index.jsp" timestamp="1482246499517">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1480245656348">
         <mark key="[" line="0" column="0" />
       </file>
@@ -334,7 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
@@ -434,10 +457,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/.gitignore" />
       <jump line="14" column="6" filename="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/src/main/webapp/index.jsp" />
+      <jump line="33" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -449,31 +473,31 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iL3N0cnV0cy10YWdzIiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8czphY3Rpb24gbmFtZT0iIgo=</text>
+        <text encoding="base64">PHM6cHJvcGVydHk+PC9zOnByb3BlcnR5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZmlsdGVyPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsdGVyLW5hbWU+PC9maWx0ZXItbmFtZT4K</text>
+        <text encoding="base64">LmlkZWEvbGlicmFyaWVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxmaWx0ZXI+Cg==</text>
+        <text encoding="base64">LmlkZWEvZ3JhZGxlLnhtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iL3N0cnV0cy10YWdzIiAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8czphY3Rpb24gbmFtZT0iIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZmlsdGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVyLW5hbWU+PC9maWx0ZXItbmFtZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
