@@ -176,10 +176,10 @@
         <mark key="." line="60" column="31" />
         <mark key="^" line="60" column="31" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/build.gradle" timestamp="1482243343906">
-        <mark key="[" line="21" column="14" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/build.gradle" timestamp="1482244236602">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+        <mark key="^" line="22" column="3" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/.gitignore" timestamp="1479316198444">
@@ -445,10 +445,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -457,13 +457,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZExpbmUoKTsK</text>
+        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
