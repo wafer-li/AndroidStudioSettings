@@ -72,6 +72,12 @@
         <mark key="^" line="123" column="35" />
         <mark key="." line="123" column="35" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/pom.xml" timestamp="1482241663893">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -411,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">SU9FeGNlcHRpb24g</text>
@@ -423,10 +429,10 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9InMiIHVyaT0iIiAlPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,13 +441,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZExpbmUoKTsK</text>
+        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZWFkZXIucmVhZExpbmUoKTsK</text>
@@ -501,8 +507,8 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>w2</entry>
-        <entry>ew</entry>
         <entry>qw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
