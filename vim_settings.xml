@@ -49,6 +49,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/AgenderInterface.java" timestamp="1482407446501">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="73" />
+        <mark key="." line="28" column="73" />
+        <mark key="^" line="28" column="73" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Data.kt" timestamp="1479129212836">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="79" />
@@ -84,11 +90,21 @@
         <mark key="^" line="123" column="35" />
         <mark key="." line="123" column="35" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteServices.java" timestamp="1482407482730">
+        <mark key="[" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/pom.xml" timestamp="1482241663893">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Meeting.java" timestamp="1482409075221">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
         <mark key="[" line="0" column="0" />
@@ -108,11 +124,21 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/package-info.java" timestamp="1482406382003">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/hehe.java" timestamp="1480243456648">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteService.java" timestamp="1482409654281">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
@@ -236,6 +262,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/AgendaInterface.java" timestamp="1482408490888">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Main.java" timestamp="1479303188283">
         <mark key="[" line="154" column="34" />
         <mark key="]" line="154" column="41" />
@@ -282,7 +314,6 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.git/info/exclude" timestamp="1482247733281" />
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Subjects.kt" timestamp="1479134973238">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="11" />
@@ -330,6 +361,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Constants.java" timestamp="1482408195586">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+        <mark key="^" line="10" column="71" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
         <mark key="[" line="17" column="5" />
       </file>
@@ -368,10 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="10" column="27" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/constants/ActivityMode.kt" />
-      <jump line="12" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/constants/ActivityMode.kt" />
-      <jump line="13" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/constants/ActivityMode.kt" />
       <jump line="67" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/java/com/wafer/toy/github_client/ui/activity/MainActivity.kt" />
       <jump line="12" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values-zh/array.xml" />
@@ -468,10 +501,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
       <jump line="72" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
       <jump line="5" column="11" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.idea/artifacts/Gradle___edu_bupt_struts2___Struts2WebApp_1_0_SNAPSHOT_war.xml" />
+      <jump line="22" column="23" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Meeting.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Meeting.java" />
+      <jump line="37" column="19" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteService.java" />
+      <jump line="79" column="7" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -483,31 +520,31 @@
         <text encoding="base64">ICAgIGFzc2VydChtYXgoTGlzdCgzLCA3LCAyKSkgPT09IDcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKG1lZXRpbmcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmFwZGlzawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGVtcG9yYXJ5IEl0ZW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -551,7 +588,6 @@
         <entry>2</entry>
         <entry>bn</entry>
         <entry>Lw</entry>
-        <entry>sw</entry>
         <entry>ewe</entry>
         <entry>q</entry>
         <entry>wq</entry>
@@ -561,8 +597,9 @@
         <entry>W</entry>
         <entry>w2</entry>
         <entry>qw</entry>
-        <entry>ew</entry>
         <entry>we</entry>
+        <entry>sw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
