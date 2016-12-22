@@ -61,6 +61,9 @@
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/build.sh" timestamp="1482426813219">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServer.java" timestamp="1479315913039">
         <mark key="[" line="76" column="55" />
         <mark key="]" line="76" column="68" />
@@ -135,12 +138,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" timestamp="1482424701109">
-        <mark key="'" line="128" column="8" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="129" column="48" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" timestamp="1482426650148">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="98" column="8" />
+        <mark key="]" line="98" column="8" />
+        <mark key="^" line="98" column="7" />
+        <mark key="." line="98" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/hehe.java" timestamp="1480243456648">
         <mark key="[" line="15" column="0" />
@@ -204,11 +207,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/RemoteService.java" timestamp="1482425809822">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="79" column="19" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/RemoteService.java" timestamp="1482425863445">
+        <mark key="[" line="95" column="63" />
+        <mark key="]" line="96" column="35" />
+        <mark key="." line="96" column="35" />
+        <mark key="^" line="96" column="35" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastChat.java" timestamp="1479303275301">
         <mark key="[" line="12" column="36" />
@@ -284,11 +287,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Meeting.java" timestamp="1482425247394">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Meeting.java" timestamp="1482426304100">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/AgendaInterface.java" timestamp="1482410012293">
         <mark key="[" line="34" column="0" />
@@ -345,11 +348,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
         <mark key="[" line="388" column="1" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/README.md" timestamp="1482423166324">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/README.md" timestamp="1482426770971">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Subjects.kt" timestamp="1479134973238">
         <mark key="[" line="18" column="4" />
@@ -440,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="125" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
@@ -540,46 +542,47 @@
       <jump line="126" column="8" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Client.java" />
       <jump line="20" column="50" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Server.java" />
       <jump line="130" column="8" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVycm9yTXNnMSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIHByb2NlZWRRdWVyeSgpOwogICAgICAgIH0gY2F0Y2ggKFBhcnNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0LmFkZChtZWV0aW5nKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVldGluZy5nZXRFbmRUaW1lKCkuZXF1YWxzKGVuZFRpbWUpKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZWV0aW5nLmdldFN0YXJ0VGltZSgpLmVxdWFscyhzdGFydFRpbWUpICYmCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0LmFkZChtZWV0aW5nKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVldGluZy5nZXRFbmRUaW1lKCkuZXF1YWxzKGVuZFRpbWUpKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZWV0aW5nLmdldFN0YXJ0VGltZSgpLmVxdWFscyhzdGFydFRpbWUpICYmCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0LmFkZChtZWV0aW5nKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVldGluZy5nZXRFbmRUaW1lKCkuZXF1YWxzKGVuZFRpbWUpKSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZWV0aW5nLmdldFN0YXJ0VGltZSgpLmVxdWFscyhzdGFydFRpbWUpICYmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
