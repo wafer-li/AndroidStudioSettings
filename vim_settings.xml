@@ -158,12 +158,15 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" timestamp="1482248197435">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1483112019360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" timestamp="1483112290070">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/web.xml" timestamp="1482246210712">
         <mark key="[" line="7" column="21" />
@@ -285,6 +288,9 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/create_table.sql" timestamp="1483112186371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
@@ -337,7 +343,7 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="/a.sql" timestamp="1483110472605">
+      <file name="/a.sql" timestamp="1483111562744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/AgendaInterface.java" timestamp="1482427345114">
@@ -385,10 +391,10 @@
       <file name="/Plain text Fragment (Meeting.java:407).txt" timestamp="1482424892182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1483110507894">
+      <file name="/dummy.sql" timestamp="1483112144323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483111446445">
+      <file name="/Dummy.txt" timestamp="1483112372507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1481983127521">
