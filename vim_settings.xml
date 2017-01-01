@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483278972923">
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483284649164">
         <mark key="[" line="12" column="6" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="5" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1482245009631">
         <mark key="[" line="0" column="0" />
@@ -139,11 +138,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483281661385">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="41" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483284702766">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/util/SqlUtil.java" timestamp="1483279926069">
         <mark key="[" line="15" column="4" />
@@ -199,6 +198,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/SearchAction.java" timestamp="1483284894476">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479363796421">
         <mark key="[" line="12" column="56" />
@@ -348,11 +353,16 @@
         <mark key="^" line="46" column="5" />
         <mark key="." line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/LoginAction.java" timestamp="1483281545407">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="35" column="32" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/LoginAction.java" timestamp="1483284596534">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/register.jsp" timestamp="1483283387097">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
         <mark key="[" line="89" column="0" />
@@ -360,6 +370,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="92" column="40" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/sql/PreparedStatement.java" timestamp="1483283885242" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480244261654">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="129" column="16" />
@@ -373,11 +384,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/index.jsp" timestamp="1483281416122">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="13" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/index.jsp" timestamp="1483284134949">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" timestamp="1480247532704">
         <mark key="'" line="0" column="0" />
@@ -394,6 +405,12 @@
       </file>
       <file name="/JSON Fragment (Meeting.java:407).json" timestamp="1482424972457">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/RegisterAction.java" timestamp="1483283499733">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" timestamp="1480244776470">
         <mark key="'" line="0" column="0" />
@@ -415,7 +432,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1482243485159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.regexp" timestamp="1482424948412">
+      <file name="/Dummy.regexp" timestamp="1483283639425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/register.sh" timestamp="1482427031847">
@@ -501,6 +518,12 @@
       <file name="vim_settings.xml" timestamp="1479014107890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search_result.jsp" timestamp="1483284860796">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
@@ -542,7 +565,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1483279398985">
+      <file name="/dummy.sql" timestamp="1483284358578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1483280120874">
@@ -569,7 +592,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1482424948407">
+      <file name="/fragment.java" timestamp="1483283639419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/error.jsp" timestamp="1483274989675">
@@ -580,7 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="105" column="27" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="131" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -680,55 +702,56 @@
       <jump line="130" column="8" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
       <jump line="180" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
       <jump line="103" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts/struts2-core/2.5.5/569206308c9778c0e7a1f19629c9fb29c4644174/struts2-core-2.5.5-sources.jar!/com/opensymphony/xwork2/ActionSupport.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/RegisterAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRlXD4=</text>
+        <text encoding="base64">XDxDb25uZWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgc3RhdGVtZW50LmNsb3NlKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBpZCBGUk9NIFVzZXIiOwoKICAgICAgICBDb25uZWN0aW9uIGNvbm5lY3Rpb24gPSBDb25maWcuZ2V0Q29ubmVjdGlvbigpOwoKICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gY29ubmVjdGlvbi5jcmVhdGVTdGF0ZW1lbnQoKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoc3FsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzOnRleHRmaWVsZCBuYW1lPSJpZCIgbGFiZWw9IklkIiB0eXBlPSJudW1iZXIiIC8+CiAgICA8czpwYXNzd29yZCBsYWJlbD0icGFzc3dvcmRsIi8+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHN0dWRlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzOnRleHRhcmVhIGxhYmVsPSJpZCI+PC9zOnRleHRhcmVhPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkVSUk9SIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmV0dXJuICJTVUNDRVNTIjsK</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBuYW1lPSIiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBuYW1lPSJFUlJPUiI+ZXJyb3IuanNwPC9yZXN1bHQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0cj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxDb25uZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb25uZWN0aW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>query</last-substitute>
       <last-dir>-1</last-dir>
@@ -736,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxBcGlTZXJ2aWNlc1w+</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxoYXNoTWFwT2ZcPg==</entry>
@@ -756,6 +778,7 @@
         <entry encoding="base64">XDxib29raW5nXD4=</entry>
         <entry>query</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
+        <entry encoding="base64">XDxDb25uZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -770,11 +793,11 @@
         <entry>W</entry>
         <entry>w2</entry>
         <entry>aw</entry>
-        <entry>sw</entry>
-        <entry>qw</entry>
         <entry>wq</entry>
-        <entry>ew</entry>
         <entry>we</entry>
+        <entry>qw</entry>
+        <entry>sw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
