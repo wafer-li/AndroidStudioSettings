@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/.gitignore" timestamp="1482245352960">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="46" column="5" />
-        <mark key="^" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-      </file>
       <file name="/a.dummy" timestamp="1482245009631">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,12 +15,6 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/README.md" timestamp="1479018550830">
         <mark key="[" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="41" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="92" column="40" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file1.txt" timestamp="1479652235768">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,13 +23,6 @@
         <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480244261654">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="129" column="16" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="129" column="69" />
-        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/TestKnapsack.java" timestamp="1480248023117">
         <mark key="[" line="8" column="2" />
@@ -62,43 +42,14 @@
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/build.sh" timestamp="1482427824217">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServer.java" timestamp="1479315913039">
         <mark key="[" line="76" column="55" />
         <mark key="]" line="76" column="68" />
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" timestamp="1480247532704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="69" column="7" />
-        <mark key="." line="69" column="7" />
-        <mark key="^" line="69" column="7" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Struct2WebApp/build.gradle" timestamp="1482242084844">
-        <mark key="[" line="23" column="78" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-      </file>
       <file name="/LLDB" timestamp="1475315867706">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JSON Fragment (Meeting.java:407).json" timestamp="1482424972457">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" timestamp="1480244776470">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="123" column="32" />
-        <mark key="]" line="123" column="35" />
-        <mark key="^" line="123" column="35" />
-        <mark key="." line="123" column="35" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteServices.java" timestamp="1482407482730">
         <mark key="[" line="9" column="27" />
@@ -115,22 +66,6 @@
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" timestamp="1479017279520">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="50" column="31" />
-        <mark key="." line="50" column="31" />
-        <mark key="^" line="50" column="31" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1482243485159">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.regexp" timestamp="1482424948412">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" timestamp="1482427141469">
         <mark key="'" line="183" column="0" />
@@ -152,14 +87,8 @@
         <mark key="^" line="96" column="35" />
         <mark key="." line="96" column="35" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/register.sh" timestamp="1482427031847">
-        <mark key="[" line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1483112019360">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" timestamp="1483112912193">
         <mark key="'" line="76" column="0" />
@@ -168,30 +97,23 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/web.xml" timestamp="1482246210712">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/web.xml" timestamp="1483277461838">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/classes/structs.xml" timestamp="1483275405182">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/.idea/copyright/profiles_settings.xml" timestamp="1479317391833">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" timestamp="1480253972317">
-        <mark key="'" line="86" column="9" />
-        <mark key="[" line="127" column="36" />
-        <mark key="]" line="127" column="37" />
-        <mark key="." line="127" column="37" />
-        <mark key="^" line="127" column="13" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClientThread.java" timestamp="1479313717382">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="30" />
-        <mark key="." line="47" column="30" />
-        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DP/src/01knaspack.kt" timestamp="1482672930243">
         <mark key="[" line="8" column="48" />
@@ -201,12 +123,6 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/subway-ticket-android/.gitignore" timestamp="1468463841487">
         <mark key="[" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/RemoteService.java" timestamp="1482427574532">
-        <mark key="[" line="167" column="30" />
-        <mark key="]" line="167" column="50" />
-        <mark key="." line="167" column="50" />
-        <mark key="^" line="167" column="50" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/clear.sh" timestamp="1482427278992">
         <mark key="[" line="2" column="16" />
@@ -220,29 +136,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Test.kt" timestamp="1481905499418">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Client.java" timestamp="1479306175108">
         <mark key="[" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/remove.sh" timestamp="1482427230552">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
         <mark key="[" line="2" column="51" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/HeapNode.java" timestamp="1480244452151">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/query.sh" timestamp="1482427154412">
         <mark key="[" line="0" column="19" />
@@ -252,13 +150,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479315709579">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="74" column="41" />
-        <mark key="." line="74" column="41" />
-        <mark key="^" line="74" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" timestamp="1480254030654">
         <mark key="'" line="9" column="10" />
@@ -273,15 +164,6 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/.gitignore" timestamp="1479316198444">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1479014107890">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479363796421">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="12" column="53" />
@@ -291,20 +173,20 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/create_table.sql" timestamp="1483112186371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
-        <mark key="[" line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatServerThread.java" timestamp="1479310925779">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/search.jsp" timestamp="1483274977051">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/storage/shared_preference/UserInfoConstract.java" timestamp="1464450782310">
         <mark key="[" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
-        <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Meeting.java" timestamp="1482426304100">
         <mark key="[" line="12" column="44" />
@@ -312,30 +194,8 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/AgendaInterface.java" timestamp="1482410012293">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Main.java" timestamp="1479303188283">
-        <mark key="[" line="154" column="34" />
-        <mark key="]" line="154" column="41" />
-        <mark key="^" line="154" column="41" />
-        <mark key="." line="154" column="41" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/knapsack.java" timestamp="1480245742700">
-        <mark key="[" line="2" column="15" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/test/java/com/mdzz/loveandroid/ExampleUnitTest.java" timestamp="1461594103596">
         <mark key="[" line="13" column="5" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479136411130">
-        <mark key="'" line="49" column="16" />
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastProtocol.java" timestamp="1479304053573">
         <mark key="[" line="3" column="13" />
@@ -346,23 +206,14 @@
       <file name="/a.sql" timestamp="1483111562744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/AgendaInterface.java" timestamp="1482427345114">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" timestamp="1479013924590">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
-        <mark key="[" line="388" column="1" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/java/LoginAction.java" timestamp="1483274326012">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/README.md" timestamp="1482427770355">
         <mark key="[" line="22" column="108" />
@@ -385,29 +236,8 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiLayer.java" timestamp="1474375883319">
         <mark key="[" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
-        <mark key="[" line="13" column="54" />
-      </file>
       <file name="/Plain text Fragment (Meeting.java:407).txt" timestamp="1482424892182">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1483112144323">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1483112372507">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1481983127521">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
-        <mark key="[" line="61" column="36" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/build.gradle" timestamp="1482245994176">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/build.gradle" timestamp="1482422389378">
         <mark key="[" line="5" column="24" />
@@ -427,6 +257,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/resources/structs.xml" timestamp="1483277030953">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RoboPOJOGenerator/src/main/java/com/robohorse/robopojogenerator/generator/consts/GenerateClassType.java" timestamp="1477111670555">
         <mark key="[" line="17" column="5" />
       </file>
@@ -443,24 +279,245 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
-        <mark key="[" line="15" column="52" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Server.java" timestamp="1482420786571">
         <mark key="[" line="25" column="48" />
         <mark key="]" line="25" column="51" />
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1482424948407">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/layout/include_personal_toolbar.xml" timestamp="1460808108147">
         <mark key="[" line="6" column="42" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/.gitignore" timestamp="1482245352960">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="46" column="5" />
+        <mark key="." line="46" column="5" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="41" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="92" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" timestamp="1480244261654">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="129" column="69" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/build.sh" timestamp="1482427824217">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" timestamp="1480247532704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="7" />
+        <mark key="^" line="69" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struct2WebApp/build.gradle" timestamp="1482242084844">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
+      <file name="/JSON Fragment (Meeting.java:407).json" timestamp="1482424972457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" timestamp="1480244776470">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="123" column="32" />
+        <mark key="]" line="123" column="35" />
+        <mark key="^" line="123" column="35" />
+        <mark key="." line="123" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Java/src/strategy/Test.java" timestamp="1479017279520">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1482243485159">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.regexp" timestamp="1482424948412">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/register.sh" timestamp="1482427031847">
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1483112019360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/java/Global.java" timestamp="1483274069520">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/resources/struts.xml" timestamp="1483276395243">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" timestamp="1480253972317">
+        <mark key="'" line="86" column="9" />
+        <mark key="[" line="127" column="36" />
+        <mark key="]" line="127" column="37" />
+        <mark key="." line="127" column="37" />
+        <mark key="^" line="127" column="13" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClientThread.java" timestamp="1479313717382">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/RemoteService.java" timestamp="1482427574532">
+        <mark key="[" line="167" column="30" />
+        <mark key="]" line="167" column="50" />
+        <mark key="." line="167" column="50" />
+        <mark key="^" line="167" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/structs.xml" timestamp="1483275668228">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/Test.kt" timestamp="1481905499418">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/remove.sh" timestamp="1482427230552">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/HeapNode.java" timestamp="1480244452151">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/WEB-INF/classes/struts.xml" timestamp="1483275930903">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479315709579">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="74" column="41" />
+        <mark key="." line="74" column="41" />
+        <mark key="^" line="74" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/.gitignore" timestamp="1479316198444">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1479014107890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
+        <mark key="[" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/jni/Makefile" timestamp="1475293069374">
+        <mark key="[" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/AgendaInterface.java" timestamp="1482410012293">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/Main.java" timestamp="1479303188283">
+        <mark key="[" line="154" column="34" />
+        <mark key="]" line="154" column="41" />
+        <mark key="^" line="154" column="41" />
+        <mark key="." line="154" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/knapsack.java" timestamp="1480245742700">
+        <mark key="[" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479136411130">
+        <mark key="'" line="49" column="16" />
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/Kotlin/src/stategy/Duck.kt" timestamp="1479013924590">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts/struts2-core/2.5.5/569206308c9778c0e7a1f19629c9fb29c4644174/struts2-core-2.5.5-sources.jar!/com/opensymphony/xwork2/ActionSupport.java" timestamp="1483273946809">
+        <mark key="'" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/cities.csv" timestamp="1465073858953">
+        <mark key="[" line="388" column="1" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
+        <mark key="[" line="13" column="54" />
+      </file>
+      <file name="/dummy.sql" timestamp="1483112144323">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483112372507">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1481983127521">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/friend/add/SearchFriendActivity.java" timestamp="1465417510086">
+        <mark key="[" line="61" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/build.gradle" timestamp="1482245994176">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
+        <mark key="[" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/index.jsp" timestamp="1483277015797">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1482424948407">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/error.jsp" timestamp="1483274989675">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="125" column="10" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="105" column="27" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -560,13 +617,14 @@
       <jump line="20" column="50" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Server.java" />
       <jump line="130" column="8" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
       <jump line="180" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts/struts2-core/2.5.5/569206308c9778c0e7a1f19629c9fb29c4644174/struts2-core-2.5.5-sources.jar!/com/opensymphony/xwork2/ActionSupport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">R1JBTlQgQUxMIFBSSVZJTEVHRVMgT04gKi4qIFRPICdyb290J0AnCg==</text>
+      <register name="&quot;" type="4">
+        <text>FilterDispatcher</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>FilterDispatcher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRlXD4=</text>
@@ -575,31 +633,31 @@
         <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIHByb2NlZWRRdWVyeSgpOwogICAgICAgIH0gY2F0Y2ggKFBhcnNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1JBTlQgQUxMIFBSSVZJTEVHRVMgT04gKi4qIFRPICdyb290J0AnCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2ZpbHRlci1jbGFzcz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVyLWNsYXNzPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBuYW1lPSJlcnJvciI+L2Vycm9yLmpzcDwvcmVzdWx0Pgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkIGEgYWdlbmRhCiAgICAgKiBAcGFyYW0gdXNlck5hbWUgVGhlIHVzZXJuYW1lCiAgICAgKiBAcGFyYW0gcGFzc3dvcmQgVGhlIHBhc3N3b3JkCiAgICAgKiBAcGFyYW0gYm9va1VzZXIgVGhlIHVzZXIgeW91IHdhbnQgdG8gbWVldAogICAgICogQHBhcmFtIGRlc2NyaXB0aW9uIFRoZSBhZ2VuZGEgZGVzY3JpcHRpb24KICAgICAqIEBwYXJhbSBzdGFydFRpbWUgVGhlIHN0YXJ0IHRpbWUKICAgICAqIEBwYXJhbSBlbmRUaW1lIFRoZSBlbmQgdGltZQogICAgICogQHJldHVybiBUaGUgZXJyb3IgbWVzc2FnZS4gTnVsbAogICAgICogQHRocm93cyBSZW1vdGVFeGNlcHRpb24KICAgICAqLw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVnaXN0ZXIKICAgICAqIEBwYXJhbSB1c2VybmFtZSBUaGUgdXNlcm5hbWUKICAgICAqIEBwYXJhbSBwYXNzd29yZCBUaGUgcGFzc3dvcmQKICAgICAqIEByZXR1cm4gVGhlIGVycm9yIG1lc3NhZ2UuIE51bGwgaWYgY29ycmVjdCEKICAgICAqIEB0aHJvd3MgUmVtb3RlRXhjZXB0aW9uIFRoZSByZW1vdGUgZXhjZXB0aW9uCiAgICAgKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTG9naW4gaW50byBhZ2VuZGEgc3lzdGVtCiAgICAgKgogICAgICogQHBhcmFtIHVzZXJuYW1lIFRoZSB1c2VybmFtZQogICAgICogQHBhcmFtIHBhc3N3b3JkIFRoZSBwYXNzd29yZAogICAgICogQHJldHVybiBUaGUgPGI+RVJST1I8L2I+IG1lc3NhZ2UuIE51bGwgaWYgY29ycmVjdCEKICAgICAqIEB0aHJvd3MgUmVtb3RlRXhjZXB0aW9uIFRoZSBybWkgZXhjZXB0aW9uCiAgICAgKi8=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxjb25zdGFudCBuYW1lPSJzdHJ1dHMuYWN0aW9uLmV4dGVuc2lvbiIgdmFsdWU9ImRvLCAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjIpIGxvZ2luIik7Cg==</text>
+        <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9IiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -652,9 +710,9 @@
         <entry>aw</entry>
         <entry>sw</entry>
         <entry>qw</entry>
-        <entry>ew</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
