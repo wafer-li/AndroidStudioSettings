@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483284649164">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483348771861">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1482245009631">
         <mark key="[" line="0" column="0" />
@@ -138,11 +139,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483284702766">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483348549709">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/util/SqlUtil.java" timestamp="1483279926069">
         <mark key="[" line="15" column="4" />
@@ -199,11 +200,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/SearchAction.java" timestamp="1483347444802">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/SearchAction.java" timestamp="1483349601349">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="36" column="71" />
+        <mark key="]" line="36" column="76" />
+        <mark key="." line="36" column="76" />
+        <mark key="^" line="36" column="76" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479363796421">
         <mark key="[" line="12" column="56" />
@@ -452,6 +454,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search_not_found.jsp" timestamp="1483349250021">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" timestamp="1480253972317">
         <mark key="'" line="86" column="9" />
         <mark key="[" line="127" column="36" />
@@ -517,11 +525,11 @@
       <file name="vim_settings.xml" timestamp="1479014107890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search_result.jsp" timestamp="1483284860796">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="15" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search_result.jsp" timestamp="1483349630607">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="43" />
+        <mark key="^" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -564,7 +572,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/receivers/NetworkChecker.java" timestamp="1461544083785">
         <mark key="[" line="13" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1483284358578">
+      <file name="/dummy.sql" timestamp="1483349330406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1483280120874">
@@ -602,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/BB_Knapsack01.java" />
       <jump line="105" column="27" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="131" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -702,46 +709,47 @@
       <jump line="180" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" />
       <jump line="103" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts/struts2-core/2.5.5/569206308c9778c0e7a1f19629c9fb29c4644174/struts2-core-2.5.5-sources.jar!/com/opensymphony/xwork2/ActionSupport.java" />
       <jump line="17" column="8" filename="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/RegisterAction.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/SearchAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Id</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25uZWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlNFTEVDVCBpZCBGUk9NIFVzZXIiOwoKICAgICAgICBDb25uZWN0aW9uIGNvbm5lY3Rpb24gPSBDb25maWcuZ2V0Q29ubmVjdGlvbigpOwoKICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gY29ubmVjdGlvbi5jcmVhdGVTdGF0ZW1lbnQoKTsKCiAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoc3FsKTsK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9InN0dWRlbnRJZCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9IiNzZWFyY2hSZXN1bHQuc3R1ZGVudElkIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20ud2FmZXIuc3RydXRzMi5hcHAuU2VhcmNoQWN0aW9uIiB2YXI9InNlYXJjaFJlc3VsdCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHN0dWRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9IiNzZWFyY2hSZXN1bHQuc3R1ZGVudE51bWJlciIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20ud2FmZXIuc3RydXRzMi5hcHAuU2VhcmNoQWN0aW9uIiB2YXI9InNlYXJjaFJlc3VsdCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20uIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+cHJvcGVydHkgdmFsdWU9IiIgPC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx0cj4K</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PHM6cHJvcGVydHkgdmE+PC9zOnByb3BlcnR5PjwvdGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
