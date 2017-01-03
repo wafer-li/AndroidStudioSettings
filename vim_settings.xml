@@ -18,6 +18,11 @@
         <mark key="." line="44" column="1" />
         <mark key="^" line="44" column="1" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/input/test.txt" timestamp="1483436621313">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/README.md" timestamp="1479018550830">
         <mark key="[" line="6" column="76" />
       </file>
@@ -420,6 +425,7 @@
         <mark key="^" line="123" column="35" />
         <mark key="." line="123" column="35" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/src/main/java/GraphTriangleCount.java" timestamp="1483436210000" />
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -599,7 +605,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1483283639419">
+      <file name="/fragment.java" timestamp="1483436436759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/error.jsp" timestamp="1483274989675">
@@ -712,8 +718,8 @@
       <jump line="36" column="12" filename="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/SearchAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MTQ5MjcyMDUgNTM4MDY3Mgo=</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
@@ -725,31 +731,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9InN0dWRlbnRJZCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9IiNzZWFyY2hSZXN1bHQuc3R1ZGVudElkIi8+Cg==</text>
+        <text encoding="base64">MTQ5MjcyMDUgNTM4MDY3Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20ud2FmZXIuc3RydXRzMi5hcHAuU2VhcmNoQWN0aW9uIiB2YXI9InNlYXJjaFJlc3VsdCIvPgo=</text>
+        <text encoding="base64">MTU5Mjk0MjYyIDIzMDc2NjA5NQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9IiNzZWFyY2hSZXN1bHQuc3R1ZGVudE51bWJlciIvPgo=</text>
+        <text encoding="base64">MzQ4MjgxNjE3IDI1NTgxMDk0OAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20ud2FmZXIuc3RydXRzMi5hcHAuU2VhcmNoQWN0aW9uIiB2YXI9InNlYXJjaFJlc3VsdCIvPgo=</text>
+        <text encoding="base64">MjQ3NTgzNjc0IDIzMDQ5ODU3NAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NTI0NjIwNzExIDI3MDIzMTk4MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20uIgo=</text>
+        <text encoding="base64">MTc4MDk1ODEgMzU2NjQ3OTkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+cHJvcGVydHkgdmFsdWU9IiIgPC90ZD4K</text>
+        <text encoding="base64">ODc5ODI5MDYgMTc5NzU4OTgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PHM6cHJvcGVydHkgdmE+PC9zOnByb3BlcnR5PjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9IiNzZWFyY2hSZXN1bHQuc3R1ZGVudElkIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHM6YmVhbiBuYW1lPSJjb20ud2FmZXIuc3RydXRzMi5hcHAuU2VhcmNoQWN0aW9uIiB2YXI9InNlYXJjaFJlc3VsdCIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
