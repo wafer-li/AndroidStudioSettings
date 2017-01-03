@@ -425,6 +425,12 @@
         <mark key="^" line="123" column="35" />
         <mark key="." line="123" column="35" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/src/main/java/GraphTriangleCount.java" timestamp="1483441102662">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-InvertedIndex/input/file2.txt" timestamp="1479652280446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -583,6 +589,9 @@
       <file name="/Dummy.txt" timestamp="1483280120874">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/.gitignore" timestamp="1483442062874">
+        <mark key="[" line="7" column="15" />
+      </file>
       <file name="/a.regexp" timestamp="1481983127521">
         <mark key="[" line="0" column="0" />
       </file>
@@ -718,7 +727,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">NCAzCg==</text>
+        <text encoding="base64">CQkgKi8K</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
@@ -730,31 +739,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHM6cHJvcGVydHkgdmFsdWU9InN0dWRlbnRJZCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NCAzCg==</text>
+        <text encoding="base64">CQkgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NCAyCg==</text>
+        <text encoding="base64">CQkgKiBvdXRwdXTljbNqb2Iz6L6T5Ye65paH5Lu26Lev5b6E77yM5Y2z5oC755qE5LiJ6KeS5b2i5Liq5pWwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTQ5MjcyMDUgNTM4MDY3Mgo=</text>
+        <text encoding="base64">CQkgKiB0bXAx5Y2zam9iMei+k+WHuuaWh+S7tui3r+W+hO+8jOWNs+eCueWSjOWFtuS4tOaOpeeCuSB0bXAy5Y2zamliMui+k+WHuuaWh+S7tui3r+W+hO+8jOWNs+avj+S4qnJlZHVjZXLnu5/orqHliLDnmoTkuInop5LlvaLkuKrmlbAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTU5Mjk0MjYyIDIzMDc2NjA5NQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiDmiafooYzml7bmnIk05Liq5ZG95Luk6KGM5Y+C5pWwIGlucHV0IHRtcDEgdG1wMiBvdXRwdXQgaW5wdXTljbPovpPlhaXmlofku7bot6/lvoTvvIzlnKjov5nph4zmmK/mnInlkJHovrnlhbPns7sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MzQ4MjgxNjE3IDI1NTgxMDk0OAo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MjQ3NTgzNjc0IDIzMDQ5ODU3NAo=</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NTI0NjIwNzExIDI3MDIzMTk4MAo=</text>
+        <text encoding="base64">ICAgICAgICAgKiDmnIDlkI7ovpPlh7rmgLvnmoTkuInop5LlvaLkuKrmlbAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTc4MDk1ODEgMzU2NjQ3OTkK</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ODc5ODI5MDYgMTc5NzU4OTgK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
