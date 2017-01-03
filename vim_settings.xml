@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483348771861">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/search.jsp" timestamp="1483429486767">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1482245009631">
         <mark key="[" line="0" column="0" />
@@ -139,11 +139,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483422163093">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="20" column="56" />
-        <mark key="." line="20" column="57" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/struts.xml" timestamp="1483429756967">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/util/SqlUtil.java" timestamp="1483279926069">
         <mark key="[" line="15" column="4" />
@@ -360,11 +360,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/register.jsp" timestamp="1483283387097">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/register.jsp" timestamp="1483429476104">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
         <mark key="[" line="89" column="0" />
@@ -385,11 +385,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/index.jsp" timestamp="1483284134949">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/index.jsp" timestamp="1483429456926">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" timestamp="1480247532704">
         <mark key="'" line="0" column="0" />
@@ -713,10 +713,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsp</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>jsp</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25uZWN0aW9uXD4=</text>
