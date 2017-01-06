@@ -331,6 +331,11 @@
       <file name="/Plain text Fragment (Meeting.java:407).txt" timestamp="1482424892182">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/sdlfsd.java" timestamp="1483720288419">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/Config.java" timestamp="1483280251967">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="71" />
@@ -487,6 +492,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1483112019360">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" timestamp="1483720496307">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/java/Global.java" timestamp="1483274069520">
         <mark key="[" line="8" column="18" />
@@ -713,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="5" column="1" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="111" column="19" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -813,55 +822,56 @@
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" />
       <jump line="19" column="41" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>example</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0Mik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>sayTitle</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaXN0XD4=</text>
+        <text encoding="base64">XDxTdHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2Qgb3V0L3Byb2R1Y3Rpb24vSmF2YUlkbAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3ZyUmVzdWx0ID0gd2ViQ2xpZW50LkNhbGxNZXRob2QodXJsLCBtZXRob2QsIHBhcm1zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0Mik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2UgZXhhbXBsZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwYXJtczIgPSBuZXcgU3RyaW5nW117ImFiYyIsICJhYmMifTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWV0aG9kMiA9ICJhZGRTdHJpbmciOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3ZyUmVzdWx0MiA9IHdlYkNsaWVudC5DYWxsTWV0aG9kKHVybCwgbWV0aG9kMiwgcGFybXMyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB6aGFuZ3FxIG9uIDIwMTYvOC8yOS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4LnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoamF2YS5ybWkuUmVtb3RlRXhjZXB0aW9uIGV4KSB7Cg==</text>
+        <text encoding="base64">cGFja2FnZSB0ZXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4LnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxTdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTdHJpbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>query</last-substitute>
       <last-dir>-1</last-dir>
@@ -869,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxoYXNoTWFwT2ZcPg==</entry>
         <entry>playtask</entry>
         <entry>playsound</entry>
@@ -889,6 +898,7 @@
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
