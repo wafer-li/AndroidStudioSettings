@@ -178,6 +178,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseGameActivity.java" timestamp="1460843540296">
         <mark key="[" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/vote.idl" timestamp="1483708431965">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/query.sh" timestamp="1482427154412">
         <mark key="[" line="0" column="19" />
       </file>
@@ -245,6 +251,12 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Candidate.java" timestamp="1483709077026">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastProtocol.java" timestamp="1479304053573">
         <mark key="[" line="3" column="13" />
@@ -365,6 +377,11 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/.gitignore" timestamp="1483709643305">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
         <mark key="[" line="89" column="0" />
@@ -559,6 +576,13 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/knapsack.java" timestamp="1480245742700">
         <mark key="[" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" timestamp="1483710278476">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="43" column="56" />
+        <mark key="." line="43" column="56" />
+        <mark key="^" line="43" column="56" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479136411130">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="18" column="1" />
@@ -582,7 +606,7 @@
       <file name="/dummy.sql" timestamp="1483349330406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483280120874">
+      <file name="/Dummy.txt" timestamp="1483710381038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/.gitignore" timestamp="1483442062874">
@@ -599,6 +623,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" timestamp="1483708416059">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/network/VolleyErrorListener.java" timestamp="1460835067272">
         <mark key="[" line="15" column="52" />
@@ -620,9 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="30" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="118" column="30" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="126" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -720,55 +748,58 @@
       <jump line="88" column="15" filename="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/src/main/java/GraphTriangleCount.java" />
       <jump line="69" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/src/main/java/GraphTriangleCount.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/src/main/java/GraphTriangleCount.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" />
+      <jump line="14" column="12" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25uZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MSAzCg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzLnN0cmVhbSgpLmFueU1hdGNoKGNhbmRpZGF0ZSAtPiBjYW5kaWRhdGUuZ2V0TmFtZSgpLmVxdWFscyhuYW1lKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MSAzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NSA2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MyA2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MyA1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NCA2Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MiA2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MiA0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzLmZvckVhY2goY2FuZGlkYXRlIC0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25uZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25uZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMaXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>query</last-substitute>
       <last-dir>-1</last-dir>
@@ -776,7 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcGlTZXJ2aWNlc1w+</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxoYXNoTWFwT2ZcPg==</entry>
         <entry>playtask</entry>
@@ -796,6 +826,7 @@
         <entry>query</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxDb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -813,8 +844,8 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry>ew</entry>
-        <entry>qw</entry>
         <entry>sw</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
