@@ -9,6 +9,12 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/HelloWorld.java" timestamp="1483717806377">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="22" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1483711497779">
         <mark key="[" line="0" column="0" />
       </file>
@@ -232,6 +238,7 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/HelloWorld.wsdl" timestamp="1483717392232" />
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/create_table.sql" timestamp="1483112186371">
         <mark key="[" line="0" column="0" />
       </file>
@@ -570,6 +577,12 @@
         <mark key="." line="33" column="43" />
         <mark key="^" line="33" column="43" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/web/WEB-INF/server-config.wsdd" timestamp="1483717952361">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="49" column="1" />
+        <mark key="^" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
       </file>
@@ -673,7 +686,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1483452873843">
+      <file name="/fragment.java" timestamp="1483718236203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/error.jsp" timestamp="1483274989675">
@@ -787,10 +800,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFdlYlNlcnZpY2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2QgIA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
@@ -799,28 +812,28 @@
         <text encoding="base64">Y2Qgb3V0L3Byb2R1Y3Rpb24vSmF2YUlkbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFdlYlNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGEuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm90ZS5jYXN0Vm90ZSgiY2FuZGlkYXRlNCIpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm90ZS5jYXN0Vm90ZSgiY2FuZGlkYXRlMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGEgPT0gbnVsbCAmJiBiID09IG51bGwpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVm90ZSB2b3RlCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGEuZXF1YWxzKGIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
