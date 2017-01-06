@@ -73,6 +73,13 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" timestamp="1483711378815">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="56" column="31" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Client.java" timestamp="1482427141469">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="34" column="0" />
@@ -424,12 +431,6 @@
       <file name="/JSON Fragment (Meeting.java:407).json" timestamp="1482424972457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/hehe/src/com/wafer/struts2/app/RegisterAction.java" timestamp="1483283499733">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" timestamp="1480244776470">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="123" column="32" />
@@ -576,12 +577,12 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/knapsack.java" timestamp="1480245742700">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" timestamp="1483710278476">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="43" column="56" />
-        <mark key="." line="43" column="56" />
-        <mark key="^" line="43" column="56" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" timestamp="1483710416966">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479136411130">
         <mark key="'" line="49" column="16" />
@@ -606,7 +607,7 @@
       <file name="/dummy.sql" timestamp="1483349330406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483710381038">
+      <file name="/Dummy.txt" timestamp="1483711399824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Hadoop-GraphTriangleCount/.gitignore" timestamp="1483442062874">
@@ -651,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="126" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="5" column="1" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
@@ -751,13 +750,15 @@
       <jump line="37" column="24" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" />
       <jump line="14" column="12" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Server.java" />
+      <jump line="19" column="41" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
@@ -766,31 +767,31 @@
         <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzLnN0cmVhbSgpLmFueU1hdGNoKGNhbmRpZGF0ZSAtPiBjYW5kaWRhdGUuZ2V0TmFtZSgpLmVxdWFscyhuYW1lKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm90Rm91bmQsIENhbm5vdFByb2NlZWQsIElPRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JnLm9tZy5Db3NOYW1pbmcuTmFtaW5nQ29udGV4dFBhY2thZ2UuSW52YWxpZE5hbWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3dzIEludmFsaWROYW1lLCBBZGFwdGVySW5hY3RpdmUsIFNlcnZhbnROb3RBY3RpdmUsIFdyb25nUG9saWN5LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVzLmZvckVhY2goY2FuZGlkYXRlIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB2b3RlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -842,10 +843,10 @@
         <entry>w2</entry>
         <entry>aw</entry>
         <entry>wq</entry>
-        <entry>we</entry>
         <entry>ew</entry>
         <entry>sw</entry>
         <entry>qw</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
