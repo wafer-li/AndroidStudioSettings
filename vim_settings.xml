@@ -292,11 +292,11 @@
       <file name="/a.sql" timestamp="1483111562744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/lab2client/src/example/HelloWorldClient.java" timestamp="1483718678330">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="16" column="46" />
-        <mark key="." line="16" column="46" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2client/src/example/HelloWorldClient.java" timestamp="1483719369646">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/mdzz-android/app/src/main/assets/provinces.csv" timestamp="1465072928448">
         <mark key="[" line="0" column="15" />
@@ -588,6 +588,11 @@
         <mark key="." line="33" column="43" />
         <mark key="^" line="33" column="43" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2client/src/mypackage/HelloWorldSoapBindingStub.java" timestamp="1483719687275">
+        <mark key="[" line="27" column="100" />
+        <mark key="]" line="27" column="100" />
+        <mark key="." line="27" column="100" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/lab2/web/WEB-INF/server-config.wsdd" timestamp="1483717952361">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="49" column="1" />
@@ -697,7 +702,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1483718501890">
+      <file name="/fragment.java" timestamp="1483719223925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/webapp/error.jsp" timestamp="1483274989675">
@@ -810,11 +815,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text>sayHelloWorldFrom</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
