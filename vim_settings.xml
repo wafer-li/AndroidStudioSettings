@@ -9,12 +9,12 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/HelloWorld.java" timestamp="1483721620168">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/HelloWorld.java" timestamp="1483723211093">
+        <mark key="'" line="23" column="25" />
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1483711497779">
         <mark key="[" line="0" column="0" />
@@ -91,6 +91,12 @@
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/lab2/src/example/WebSvrClient.java" timestamp="1483724842321">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" timestamp="1483711378815">
         <mark key="'" line="11" column="0" />
@@ -517,11 +523,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1483112019360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" timestamp="1483720853999">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" timestamp="1483723947346">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/src/main/java/Global.java" timestamp="1483274069520">
         <mark key="[" line="8" column="18" />
@@ -628,11 +634,11 @@
         <mark key="]" line="27" column="100" />
         <mark key="." line="27" column="100" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/web/WEB-INF/server-config.wsdd" timestamp="1483717952361">
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="49" column="1" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/lab2/web/WEB-INF/server-config.wsdd" timestamp="1483723887477">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="51" />
         <mark key="^" line="49" column="1" />
-        <mark key="." line="49" column="1" />
+        <mark key="." line="42" column="51" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/res/values/arrays.xml" timestamp="1461744659120">
         <mark key="[" line="8" column="22" />
@@ -851,43 +857,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>sayHelloWorldFrom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBzYXlBbGwoU3RyaW5nIHRpdGxlLFN0cmluZyBib2R5KSB7CiAgICBTdHJpbmcgcmVzdWx0ID0iLS0tLS0tLS10aXRsZToiK3RpdGxlKyAiLS0tLS0tLS0tLS0tLS0tLS9yL25ib2R5Oi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAiICsgYm9keTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/miafooYx3ZWJzZXJ2aWNl5pa55rOVCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lrp7kvot3ZWJzZXZpY2XosIPnlKjlrp7kvosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB6aGFuZ3FxIG9uIDIwMTYvOC8yOS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZXN1bHQgPSItLS0tLS0tLXRpdGxlOiIrYSsgIi0tLS0tLS0tLS0tLS0tLS0vci9uYm9keTotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIiArIGI7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vbG9jYWxob3N0OjgwODAvc2VydmljZXMvSGVsbG9Xb3JsZFNlcnZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
