@@ -112,6 +112,11 @@
         <mark key="^" line="97" column="7" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/.gitignore" timestamp="1485441565363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/hehe.java" timestamp="1480243456648">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -133,6 +138,11 @@
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/love-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/BaseChatActivity.java" timestamp="1460843528425">
         <mark key="[" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/.gitignore" timestamp="1485441702719">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" timestamp="1483282459457">
         <mark key="'" line="151" column="0" />
@@ -244,6 +254,11 @@
         <mark key="]" line="36" column="76" />
         <mark key="." line="36" column="76" />
         <mark key="^" line="36" column="76" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Queue/.gitignore" timestamp="1485441789368">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClientThread.java" timestamp="1479363796421">
         <mark key="[" line="12" column="56" />
@@ -445,6 +460,11 @@
         <mark key="]" line="36" column="18" />
         <mark key="^" line="36" column="18" />
         <mark key="." line="36" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/.gitignore" timestamp="1485441769333">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatClient.java" timestamp="1479363216055">
         <mark key="[" line="89" column="0" />
@@ -674,6 +694,11 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/8-puzzle/.gitignore" timestamp="1485441683801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/observer/Observers.kt" timestamp="1479136411130">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="18" column="1" />
@@ -743,6 +768,12 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" timestamp="1485441752392">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1483719223925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -754,10 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="19" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/KnapsackBranchBound.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="129" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
@@ -854,10 +881,14 @@
       <jump line="20" column="8" filename="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" />
       <jump line="32" column="55" filename="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/TestHelloService.java" />
       <jump line="13" column="25" filename="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/HelloWorld.java" />
+      <jump line="7" column="2" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/8-puzzle/.gitignore" />
+      <jump line="14" column="23" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" />
+      <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Kd-Tree/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
+        <text encoding="base64">CiMjIyBKZXRCcmFpbnMgdGVtcGxhdGUKIyBDb3ZlcnMgSmV0QnJhaW5zIElERXM6IEludGVsbGlKLCBSdWJ5TWluZSwgUGhwU3Rvcm0sIEFwcENvZGUsIFB5Q2hhcm0sIENMaW9uLCBBbmRyb2lkIFN0dWRpbyBhbmQgV2Vic3Rvcm0KIyBSZWZlcmVuY2U6IGh0dHBzOi8vaW50ZWxsaWotc3VwcG9ydC5qZXRicmFpbnMuY29tL2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NDgzOQoKIyBVc2VyLXNwZWNpZmljIHN0dWZmOgouaWRlYS93b3Jrc3BhY2UueG1sCi5pZGVhL3Rhc2tzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMvCi5pZGVhL2RhdGFTb3VyY2VzLmlkcwouaWRlYS9kYXRhU291cmNlcy54bWwKLmlkZWEvZGF0YVNvdXJjZXMubG9jYWwueG1sCi5pZGVhL3NxbERhdGFTb3VyY2VzLnhtbAouaWRlYS9keW5hbWljLnhtbAouaWRlYS91aURlc2lnbmVyLnhtbAoKIyBHcmFkbGU6Ci5pZGVhL2dyYWRsZS54bWwKLmlkZWEvbGlicmFyaWVzCgojIE1vbmdvIEV4cGxvcmVyIHBsdWdpbjoKLmlkZWEvbW9uZ29TZXR0aW5ncy54bWwKCiMjIEZpbGUtYmFzZWQgcHJvamVjdCBmb3JtYXQ6CiouaXdzCgojIyBQbHVnaW4tc3BlY2lmaWMgZmlsZXM6CgojIEludGVsbGlKCi9vdXQvCgojIG1wZWx0b25lbi9zYnQtaWRlYSBwbHVnaW4KLmlkZWFfbW9kdWxlcy8KCiMgSklSQSBwbHVnaW4KYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCgojIENyYXNobHl0aWNzIHBsdWdpbiAoZm9yIEFuZHJvaWQgU3R1ZGlvIGFuZCBJbnRlbGxpSikKY29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbApjcmFzaGx5dGljcy5wcm9wZXJ0aWVzCmNyYXNobHl0aWNzLWJ1aWxkLnByb3BlcnRpZXMKZmFicmljLnByb3BlcnRpZXMK</text>
       </register>
       <register name="-" type="4">
         <text>sayHelloWorldFrom</text>
@@ -869,31 +900,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXQo=</text>
+        <text encoding="base64">CiMjIyBKZXRCcmFpbnMgdGVtcGxhdGUKIyBDb3ZlcnMgSmV0QnJhaW5zIElERXM6IEludGVsbGlKLCBSdWJ5TWluZSwgUGhwU3Rvcm0sIEFwcENvZGUsIFB5Q2hhcm0sIENMaW9uLCBBbmRyb2lkIFN0dWRpbyBhbmQgV2Vic3Rvcm0KIyBSZWZlcmVuY2U6IGh0dHBzOi8vaW50ZWxsaWotc3VwcG9ydC5qZXRicmFpbnMuY29tL2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NDgzOQoKIyBVc2VyLXNwZWNpZmljIHN0dWZmOgouaWRlYS93b3Jrc3BhY2UueG1sCi5pZGVhL3Rhc2tzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMvCi5pZGVhL2RhdGFTb3VyY2VzLmlkcwouaWRlYS9kYXRhU291cmNlcy54bWwKLmlkZWEvZGF0YVNvdXJjZXMubG9jYWwueG1sCi5pZGVhL3NxbERhdGFTb3VyY2VzLnhtbAouaWRlYS9keW5hbWljLnhtbAouaWRlYS91aURlc2lnbmVyLnhtbAoKIyBHcmFkbGU6Ci5pZGVhL2dyYWRsZS54bWwKLmlkZWEvbGlicmFyaWVzCgojIE1vbmdvIEV4cGxvcmVyIHBsdWdpbjoKLmlkZWEvbW9uZ29TZXR0aW5ncy54bWwKCiMjIEZpbGUtYmFzZWQgcHJvamVjdCBmb3JtYXQ6CiouaXdzCgojIyBQbHVnaW4tc3BlY2lmaWMgZmlsZXM6CgojIEludGVsbGlKCi9vdXQvCgojIG1wZWx0b25lbi9zYnQtaWRlYSBwbHVnaW4KLmlkZWFfbW9kdWxlcy8KCiMgSklSQSBwbHVnaW4KYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCgojIENyYXNobHl0aWNzIHBsdWdpbiAoZm9yIEFuZHJvaWQgU3R1ZGlvIGFuZCBJbnRlbGxpSikKY29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbApjcmFzaGx5dGljcy5wcm9wZXJ0aWVzCmNyYXNobHl0aWNzLWJ1aWxkLnByb3BlcnRpZXMKZmFicmljLnByb3BlcnRpZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/miafooYx3ZWJzZXJ2aWNl5pa55rOVCg==</text>
+        <text encoding="base64">IyBPUyBYIGZpbGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lrp7kvot3ZWJzZXZpY2XosIPnlKjlrp7kvosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Z2VuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB6aGFuZ3FxIG9uIDIwMTYvOC8yOS4K</text>
+        <text encoding="base64">b3V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Ki5pbWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vbG9jYWxob3N0OjgwODAvc2VydmljZXMvSGVsbG9Xb3JsZFNlcnZpY2UK</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyBJbnRlbGxpSiBwcm9qZWN0IGZpbGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
