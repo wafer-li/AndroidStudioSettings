@@ -663,12 +663,11 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1486128201887">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="46" column="52" />
-        <mark key="." line="46" column="52" />
-        <mark key="^" line="46" column="52" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1486130982467">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="73" column="4" />
+        <mark key="^" line="73" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" timestamp="1483708416059">
         <mark key="'" line="37" column="24" />
@@ -697,9 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="36" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
-      <jump line="22" column="8" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="85" column="9" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" />
@@ -797,13 +793,16 @@
       <jump line="29" column="32" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/src/Percolation.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/src/Percolation.java" />
       <jump line="20" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="14" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="3" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="107" column="49" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIC8qIEFuZHJvaWQgc3VwcG9ydCBsaWJzICovCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNS4xLjEnCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0KICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6Y2FyZHZpZXctdjc6MjUuMS4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjUuMS4xJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
@@ -811,29 +810,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qIEFuZHJvaWQgc3VwcG9ydCBsaWJzICovCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNS4xLjEnCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0KICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6Y2FyZHZpZXctdjc6MjUuMS4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjUuMS4xJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluLmphdmEK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvcmNlU2V0cyB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvcmNlU2V0cyB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
