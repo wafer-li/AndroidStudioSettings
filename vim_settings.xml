@@ -83,6 +83,7 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/algo/src/interface/org/unav/algo/Locator.java" timestamp="1486126564302" />
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" timestamp="1483711378815">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="31" column="0" />
@@ -198,12 +199,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4033b1d0-9ef5-46c4-98f5-92c6b988d3be/console.sql" timestamp="1483110570743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" timestamp="1480254030654">
         <mark key="'" line="9" column="10" />
@@ -475,6 +470,12 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="50" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4033b1d0-9ef5-46c4-98f5-92c6b988d3be/console.sql" timestamp="1483110570743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/WebSvrClient.java" timestamp="1483723947346">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="15" column="48" />
@@ -563,6 +564,12 @@
         <mark key="]" line="9" column="50" />
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/proguard-rules.pro" timestamp="1486126711574">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/ChatClient.java" timestamp="1479315709579">
         <mark key="'" line="110" column="0" />
@@ -656,6 +663,13 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1486128201887">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="46" column="52" />
+        <mark key="." line="46" column="52" />
+        <mark key="^" line="46" column="52" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" timestamp="1483708416059">
         <mark key="'" line="37" column="24" />
         <mark key="[" line="11" column="12" />
@@ -683,7 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="52" column="36" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
       <jump line="22" column="8" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
@@ -783,13 +796,14 @@
       <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/src/Percolation.java" />
       <jump line="29" column="32" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/src/Percolation.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Percolation/src/Percolation.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
@@ -798,31 +812,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgIHNvcmNlU2V0cyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIyBKZXRCcmFpbnMgdGVtcGxhdGUKIyBDb3ZlcnMgSmV0QnJhaW5zIElERXM6IEludGVsbGlKLCBSdWJ5TWluZSwgUGhwU3Rvcm0sIEFwcENvZGUsIFB5Q2hhcm0sIENMaW9uLCBBbmRyb2lkIFN0dWRpbyBhbmQgV2Vic3Rvcm0KIyBSZWZlcmVuY2U6IGh0dHBzOi8vaW50ZWxsaWotc3VwcG9ydC5qZXRicmFpbnMuY29tL2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NDgzOQoKIyBVc2VyLXNwZWNpZmljIHN0dWZmOgouaWRlYS93b3Jrc3BhY2UueG1sCi5pZGVhL3Rhc2tzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMvCi5pZGVhL2RhdGFTb3VyY2VzLmlkcwouaWRlYS9kYXRhU291cmNlcy54bWwKLmlkZWEvZGF0YVNvdXJjZXMubG9jYWwueG1sCi5pZGVhL3NxbERhdGFTb3VyY2VzLnhtbAouaWRlYS9keW5hbWljLnhtbAouaWRlYS91aURlc2lnbmVyLnhtbAoKIyBHcmFkbGU6Ci5pZGVhL2dyYWRsZS54bWwKLmlkZWEvbGlicmFyaWVzCgojIE1vbmdvIEV4cGxvcmVyIHBsdWdpbjoKLmlkZWEvbW9uZ29TZXR0aW5ncy54bWwKCiMjIEZpbGUtYmFzZWQgcHJvamVjdCBmb3JtYXQ6CiouaXdzCgojIyBQbHVnaW4tc3BlY2lmaWMgZmlsZXM6CgojIEludGVsbGlKCi9vdXQvCgojIG1wZWx0b25lbi9zYnQtaWRlYSBwbHVnaW4KLmlkZWFfbW9kdWxlcy8KCiMgSklSQSBwbHVnaW4KYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCgojIENyYXNobHl0aWNzIHBsdWdpbiAoZm9yIEFuZHJvaWQgU3R1ZGlvIGFuZCBJbnRlbGxpSikKY29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbApjcmFzaGx5dGljcy5wcm9wZXJ0aWVzCmNyYXNobHl0aWNzLWJ1aWxkLnByb3BlcnRpZXMKZmFicmljLnByb3BlcnRpZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBPUyBYIGZpbGVzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
