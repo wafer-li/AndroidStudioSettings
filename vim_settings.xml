@@ -339,6 +339,12 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1486227921130">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/lab2/src/example/sdlfsd.java" timestamp="1483720288419">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -722,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="96" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
@@ -822,13 +827,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/ConvexHull/src/GrahamScanSolution.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/ConvexHull/src/Point2D.java" />
       <jump line="16" column="4" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/ConvexHull/src/Point2D.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/Queue/src/Deque.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>POLAR_ANGLE_ORDER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>POLAR_ANGLE_ORDER</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
@@ -837,31 +843,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludDJkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBZT3JkZXJDb21wYXJhdG9yIFlfT1JERVIgPSBuZXcgWU9yZGVyQ29tcGFyYXRvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdyYWhhbVNjYW4gPSAiICsgZ3JhaGFtU2Nhbi5odWxsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBncmFoYW1TY2FuLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFRBRz0iQ2Fubm90IGludm9rZSBtZXRob2QgbGVuZ3RoKCkgb24gbnVsbCBvYmplY3QiOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KQogICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQb2ludDJELmNjdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQb2ludDJkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
