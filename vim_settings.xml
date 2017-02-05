@@ -200,7 +200,6 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/lib/algs4.jar!/edu/princeton/cs/algs4/GrahamScan.java" timestamp="1486228691148" />
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/vote.idl" timestamp="1483708431965">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="10" />
@@ -469,6 +468,9 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/Point.java" timestamp="1486303141590">
+        <mark key="'" line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/hehe/web/index.jsp" timestamp="1483429456926">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="23" column="32" />
@@ -532,6 +534,13 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/BruteCollinearPoints.java" timestamp="1486303724331">
+        <mark key="'" line="89" column="29" />
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+        <mark key="^" line="91" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" timestamp="1480253972317">
         <mark key="'" line="86" column="9" />
@@ -678,7 +687,6 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Comparator.java" timestamp="1486220381152" />
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/runServer.sh" timestamp="1483712905022">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="25" />
@@ -702,6 +710,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/FastCollinearPoints.java" timestamp="1486303846321">
+        <mark key="'" line="42" column="1" />
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="108" column="39" />
+        <mark key="." line="108" column="39" />
+        <mark key="^" line="108" column="39" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/Vote/VotePOA.java" timestamp="1483708416059">
         <mark key="'" line="37" column="24" />
@@ -730,11 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/src/main/webapp/index.jsp" />
-      <jump line="33" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
-      <jump line="6" column="7" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
-      <jump line="63" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
-      <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
       <jump line="13" column="19" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
       <jump line="10" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
       <jump line="74" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Struts2WebApp/.gitignore" />
@@ -830,10 +840,15 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/Point.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/Point.java" />
+      <jump line="22" column="8" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/FastCollinearPoints.java" />
+      <jump line="89" column="29" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/BruteCollinearPoints.java" />
+      <jump line="42" column="1" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/FastCollinearPoints.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdGREcmF3LnNob3coMCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -845,31 +860,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YS51dGlsLmphci5wYWNrLlBhY2thZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGREcmF3LnNob3coMCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICAgICAgLy8gcmVhZCB0aGUgTiBwb2ludHMgZnJvbSBhIGZpbGUKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBpbnQgTiA9IGluLnJlYWRJbnQoKTsKICAgICAgICBQb2ludFtdIHBvaW50cyA9IG5ldyBQb2ludFtOXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE47IGkrKykgewogICAgICAgICAgICBpbnQgeCA9IGluLnJlYWRJbnQoKTsKICAgICAgICAgICAgaW50IHkgPSBpbi5yZWFkSW50KCk7CiAgICAgICAgICAgIHBvaW50c1tpXSA9IG5ldyBQb2ludCh4LCB5KTsKICAgICAgICB9CgogICAgICAgIC8vIGRyYXcgdGhlIHBvaW50cwogICAgICAgIFN0ZERyYXcuc2hvdygwKTsKICAgICAgICBTdGREcmF3LnNldFhzY2FsZSgwLCAzMjc2OCk7CiAgICAgICAgU3RkRHJhdy5zZXRZc2NhbGUoMCwgMzI3NjgpOwogICAgICAgIGZvciAoUG9pbnQgcCA6IHBvaW50cykgewogICAgICAgICAgICBwLmRyYXcoKTsKICAgICAgICB9CiAgICAgICAgU3RkRHJhdy5zaG93KCk7CgogICAgICAgIC8vIHByaW50IGFuZCBkcmF3IHRoZSBsaW5lIHNlZ21lbnRzCiAgICAgICAgRmFzdENvbGxpbmVhclBvaW50cyBjb2xsaW5lYXIgPSBuZXcgRmFzdENvbGxpbmVhclBvaW50cyhwb2ludHMpOwogICAgICAgIGZvciAoTGluZVNlZ21lbnQgc2VnbWVudCA6IGNvbGxpbmVhci5zZWdtZW50cygpKSB7CiAgICAgICAgICAgIFN0ZE91dC5wcmludGxuKHNlZ21lbnQpOwogICAgICAgICAgICBzZWdtZW50LmRyYXcoKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VnbWVudC5kcmF3KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RkT3V0LnByaW50bG4oc2VnbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXRob2QgbWV0aG9kID0gYy5nZXREZWNsYXJlZE1ldGhvZCgiaXNDb252ZXgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKExpbmVTZWdtZW50IHNlZ21lbnQgOiBjb2xsaW5lYXIuc2VnbWVudHMoKSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCcnV0ZUNvbGxpbmVhclBvaW50cyBjb2xsaW5lYXIgPSBuZXcgQnJ1dGVDb2xsaW5lYXJQb2ludHMocG9pbnRzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcmludCBhbmQgZHJhdyB0aGUgbGluZSBzZWdtZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
