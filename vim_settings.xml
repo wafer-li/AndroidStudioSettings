@@ -265,6 +265,9 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/8-puzzle/src/Board.java" timestamp="1487048906663">
+        <mark key="'" line="180" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/AgendaProgram/src/main/java/rmi/Meeting.java" timestamp="1482426304100">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="43" />
@@ -748,8 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="28" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Client.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Client.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Client.java" />
       <jump line="91" column="76" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/Client.java" />
       <jump line="22" column="34" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/rmi/RemoteService.java" />
@@ -848,6 +849,8 @@
       <jump line="1908" column="1" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/lib/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/Point.java" />
       <jump line="148" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/CollinearPoints/src/Point.java" />
+      <jump line="20" column="25" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/8-puzzle/src/Board.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Algs4Assignment/8-puzzle/src/Board.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
