@@ -83,7 +83,6 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/algo/src/interface/org/unav/algo/Locator.java" timestamp="1486126564302" />
       <file name="$USER_HOME$/Programming/IdeaProjects/JavaIdl/src/ServerTest.java" timestamp="1483711378815">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="31" column="0" />
@@ -276,6 +275,13 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1487484489421">
+        <mark key="'" line="48" column="36" />
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="127" column="32" />
+        <mark key="." line="127" column="32" />
+        <mark key="^" line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/chat/src/MulticastProtocol.java" timestamp="1479304053573">
         <mark key="[" line="3" column="13" />
@@ -656,6 +662,9 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" timestamp="1487483137705">
+        <mark key="'" line="103" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1486131322692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -711,18 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KnaspackBB/src/knapsack_branch_bound/KnapsackBranchBound.java" />
-      <jump line="85" column="9" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/test/scala/example/ListsSuite.scala" />
-      <jump line="30" column="20" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
-      <jump line="7" column="10" filename="$USER_HOME$/Programming/IdeaProjects/ScalaExample/src/main/scala/example/Lists.scala" />
-      <jump line="11" column="25" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServer.java" />
-      <jump line="64" column="57" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="20" column="28" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="95" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DistributedClassLab/src/multicast_chat_room/ChatServerThread.java" />
       <jump line="46" column="0" filename="$USER_HOME$/Programming/IdeaProjects/Structs2WebApp/.gitignore" />
@@ -811,46 +808,58 @@
       <jump line="3" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
       <jump line="107" column="49" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
       <jump line="46" column="14" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" />
+      <jump line="103" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="36" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="122" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="53" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="82" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="48" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIk9SSUVOVEFUSU9OIFgiLCBTdHJpbmcudmFsdWVPZihkYXRhLmdldFZhbHVlMCgpWzBdKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZyUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIk9SSUVOVEFUSU9OIFgiLCBTdHJpbmcudmFsdWVPZihkYXRhLmdldFZhbHVlMCgpWzBdKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiQVAgaWQiLCBkYSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIC8qIEFuZHJvaWQgc3VwcG9ydCBsaWJzICovCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNS4xLjEnCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0KICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6Y2FyZHZpZXctdjc6MjUuMS4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjUuMS4xJwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8qIEFuZHJvaWQgc3VwcG9ydCBsaWJzICovCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNS4xLjEnCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0KICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6Y2FyZHZpZXctdjc6MjUuMS4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjUuMS4xJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluLmphdmEK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvcmNlU2V0cyB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -861,7 +870,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxiXD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>query</last-substitute>
+      <last-substitute encoding="base64">XDxiXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -894,7 +903,6 @@
         <entry>bn</entry>
         <entry>Lw</entry>
         <entry>ewe</entry>
-        <entry>q</entry>
         <entry>w3</entry>
         <entry>a</entry>
         <entry>w]</entry>
@@ -907,6 +915,7 @@
         <entry>qw</entry>
         <entry>e</entry>
         <entry>ew</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
