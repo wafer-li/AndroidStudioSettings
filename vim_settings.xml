@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/LLDB" timestamp="1488862392281">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/stereoview/build.gradle" timestamp="1488855387942">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="23" column="50" />
@@ -14,12 +17,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1488860200256">
-        <mark key="'" line="159" column="28" />
-        <mark key="[" line="145" column="59" />
-        <mark key="]" line="148" column="23" />
-        <mark key="." line="148" column="23" />
-        <mark key="^" line="148" column="23" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1488862565331">
+        <mark key="'" line="179" column="28" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
+        <mark key="^" line="235" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -49,40 +52,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoLCApOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoLCApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmxvaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZUJlYWNvbkV2ZW50RGF0YSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlID0gbmV3IExpbmtlZExpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>String.valueOf(rssis[i])</text>
       </register>
     </registers>
     <search>
