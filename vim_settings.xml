@@ -12,6 +12,12 @@
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="47" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/java_example/singleton/Singleton.java" timestamp="1489311290351">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/mapview/build.gradle" timestamp="1488855329305">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
@@ -52,40 +58,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoLCApOwo=</text>
+        <text encoding="base64">ICAgIElOU1RBTkNFKCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoLCApOwo=</text>
+        <text encoding="base64">ICAgIElOU1RBTkNFKCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZUJlYWNvbkV2ZW50RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgIFNpbmdsZXRvbigpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoLCApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>String.valueOf(rssis[i])</text>
+        <text>hehe</text>
       </register>
     </registers>
     <search>
