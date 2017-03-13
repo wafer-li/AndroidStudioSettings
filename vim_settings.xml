@@ -6,7 +6,7 @@
       <file name="vim_settings.xml" timestamp="1489397644773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489399351436">
+      <file name="/Dummy.txt" timestamp="1489413498964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.android/build-cache/07e7cdf431dece69ec12bb3a22aa8fb7d4496feb/output/jars/classes.jar!/org/altbeacon/beacon/BeaconManager.class" timestamp="1489398810216" />
@@ -18,12 +18,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489412618899">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489413231333">
         <mark key="'" line="189" column="47" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="237" column="40" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="224" column="73" />
+        <mark key="]" line="224" column="73" />
+        <mark key="^" line="224" column="73" />
+        <mark key="." line="224" column="73" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1489410706522">
         <mark key="[" line="30" column="18" />
@@ -31,11 +31,12 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1489412656389">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1489412863763">
+        <mark key="'" line="433" column="0" />
+        <mark key="[" line="168" column="44" />
+        <mark key="]" line="168" column="59" />
+        <mark key="." line="168" column="59" />
+        <mark key="^" line="168" column="59" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489397770199">
         <mark key="[" line="7" column="70" />
@@ -46,7 +47,7 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1489398668498">
+      <file name="/LLDB" timestamp="1489413110045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/stereoview/build.gradle" timestamp="1488855387942">
@@ -58,10 +59,10 @@
       <file name="/fragment.java" timestamp="1489409041244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1489412470915">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1489413246719">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -121,13 +122,18 @@
       <jump line="313" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="44" column="35" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="197" column="47" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="166" column="47" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="143" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="449" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
+      <jump line="433" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaUJpbmRlci4K</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>offer</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -136,31 +142,31 @@
         <text encoding="base64">ICAgICAgICBiaW5kU2VydmljZShpbnRlbnQsIGNvbm5lY3Rpb24sQklORF9BVVRPX0NSRUFURSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaUJpbmRlci4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCBiZWFjb25Mb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCB2ZWN0b3JMb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaUJpbmRlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVjdG9yTG9jay5ub3RpZnkoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCBiZWFjb25Mb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCB2ZWN0b3JMb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHZlY3RvckxvY2spIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVjdG9yTG9jay5ub3RpZnkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
