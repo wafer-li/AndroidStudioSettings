@@ -30,8 +30,12 @@
           <option name="url" value="git@github.com:wafer-li/Algs4Assignment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:wafer-li/kcanotify.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Programming/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Programming/AndroidStudioProjects" />
   </component>
 </application>
