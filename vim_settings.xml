@@ -6,10 +6,10 @@
       <file name="vim_settings.xml" timestamp="1489397644773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489497473466">
+      <file name="/Dummy.txt" timestamp="1489637290142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1489461849428">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1489637318151">
         <mark key="'" line="320" column="0" />
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="30" />
@@ -21,7 +21,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="340" column="11" />
       </file>
-      <file name="/a.regexp" timestamp="1489467027419">
+      <file name="/a.regexp" timestamp="1489637192263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1489410706522">
@@ -46,6 +46,12 @@
         <mark key="]" line="7" column="70" />
         <mark key="^" line="7" column="70" />
         <mark key="." line="7" column="70" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rHK/strings.xml" timestamp="1489637330774">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
@@ -129,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Kcanotify</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Kcanotify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
