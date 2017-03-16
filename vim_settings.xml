@@ -29,6 +29,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489645225453">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/xml/pref_settings.xml" timestamp="1489648399594">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh/strings.xml" timestamp="1489645177530">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -183,11 +189,11 @@
       <jump line="299" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>language_ko</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>language_ko</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
