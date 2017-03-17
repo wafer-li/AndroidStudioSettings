@@ -19,6 +19,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489646413045">
         <mark key="[" line="151" column="84" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1489460324223">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
         <mark key="'" line="296" column="57" />
         <mark key="[" line="9" column="45" />
@@ -67,12 +73,6 @@
         <mark key="." line="38" column="15" />
         <mark key="^" line="38" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1489460324223">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489502452939">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="70" />
@@ -104,6 +104,7 @@
         <mark key="^" line="286" column="75" />
         <mark key="." line="287" column="60" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/build.sbt" timestamp="1489724591034" />
       <file name="/fragment.java" timestamp="1489409041244">
         <mark key="[" line="0" column="0" />
       </file>
