@@ -50,11 +50,11 @@
         <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489827055773" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489644877123">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="16" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489840563913">
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="33" column="78" />
+        <mark key="." line="33" column="78" />
+        <mark key="^" line="33" column="78" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489502452939">
         <mark key="[" line="7" column="70" />
@@ -68,10 +68,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/array.xml" timestamp="1489839035165">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/array.xml" timestamp="1489840575978">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="/LLDB" timestamp="1489644903184">
         <mark key="[" line="0" column="0" />
@@ -84,8 +85,11 @@
       <file name="/Dummy.txt" timestamp="1489815191877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489646413045">
-        <mark key="[" line="151" column="84" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489840672575">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="161" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1489815113359">
         <mark key="[" line="8" column="20" />
@@ -134,6 +138,11 @@
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489840533540">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1489409041244">
         <mark key="[" line="0" column="0" />
@@ -223,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbT48L2l0ZW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -235,31 +244,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbT48L2l0ZW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJhd2VyID0gZmluZFZpZXdCeUlkKFIuaWQuZHJhd2VyX2xheW91dCkgYXMgRHJhd2VyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJhd2VyID0gZmluZFZpZXdCeUlkKFIuaWQuZHJhd2VyX2xheW91dCkgYXMgRHJhd2VyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJhd2VyID0gZmluZFZpZXdCeUlkKFIuaWQuZHJhd2VyX2xheW91dCkgYXMgRHJhd2VyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFBSRUZfS0NBX0xBTkdVQUdFOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHJhd2VyID0gZmluZFZpZXdCeUlkKFIuaWQuZHJhd2VyX2xheW91dCkgYXMgRHJhd2VyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWRpdG9yLnB1dFN0cmluZyhwcmVmS2V5LCBsb2NhbGVjb2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
