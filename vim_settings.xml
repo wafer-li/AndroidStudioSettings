@@ -36,6 +36,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra/4.9.0/6cb6e06f08d27436b80917212856b4e5a3eb18fb/acra-4.9.0-sources.jar!/org/acra/ACRA.java" timestamp="1489844824630" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/layout/activity_vpn_main.xml" timestamp="1489838486556">
         <mark key="[" line="39" column="49" />
         <mark key="]" line="40" column="44" />
@@ -50,7 +51,7 @@
         <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489827055773" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489842408214">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489846005806">
         <mark key="[" line="40" column="25" />
         <mark key="]" line="40" column="83" />
         <mark key="." line="40" column="83" />
@@ -74,7 +75,7 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="/LLDB" timestamp="1489644903184">
+      <file name="/LLDB" timestamp="1489846025706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1489413246719">
@@ -85,11 +86,11 @@
       <file name="/Dummy.txt" timestamp="1489815191877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489841593824">
-        <mark key="[" line="158" column="63" />
-        <mark key="]" line="158" column="84" />
-        <mark key="." line="158" column="84" />
-        <mark key="^" line="158" column="84" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489845226929">
+        <mark key="[" line="161" column="50" />
+        <mark key="]" line="161" column="63" />
+        <mark key="." line="161" column="63" />
+        <mark key="^" line="161" column="63" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1489815113359">
         <mark key="[" line="8" column="20" />
@@ -120,7 +121,7 @@
         <mark key="]" line="250" column="81" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1489838998719">
+      <file name="/a.regexp" timestamp="1489844403567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/layout/activity_main.xml" timestamp="1489821423754">
@@ -144,12 +145,12 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/LocaleUtils.java" timestamp="1489843992515" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489841857774">
-        <mark key="[" line="289" column="50" />
-        <mark key="]" line="289" column="80" />
-        <mark key="." line="289" column="80" />
-        <mark key="^" line="289" column="80" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/LocaleUtils.java" timestamp="1489844510646" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489845366902">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="288" column="0" />
+        <mark key="^" line="354" column="102" />
+        <mark key="." line="288" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1489409041244">
         <mark key="[" line="0" column="0" />
@@ -239,11 +240,11 @@
       <jump line="77" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PREF_KCA_LANGUAGE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PREF_KCA_LANGUAGE</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -252,31 +253,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+6Lef6ZqP57O757ufPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFBSRUZfS0NBX0xBTkdVQUdFOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+6Lef6ZqP57O757ufPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWRpdG9yLnB1dFN0cmluZyhwcmVmS2V5LCBQUkVGX0tDQV9MQU5HVUFHRV9GT0xMT1dfU1lTVEVNKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxvY2FsZWNvZGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxlX2NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2NhbGVVdGlscy51cGRhdGVDb25maWcoZ2V0QWN0aXZpdHkoKS5nZXRBcHBsaWNhdGlvbigpLCBnZXRDb250ZXh0V2l0aExvY2FsZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWRpdG9yLnB1dFN0cmluZyhwcmVmS2V5LCBsb2NhbGVjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFN0cmluZ1ByZWZlcmVuY2VzKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBQUkVGX0tDQV9MQU5HVUFHRSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxvY2FsZWNvZGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxlX2NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFN0cmluZ1ByZWZlcmVuY2VzKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBQUkVGX0tDQV9MQU5HVUFHRSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZi5lZGl0KCkucmVtb3ZlKFBSRUZfS0NBX0xBTkdVQUdFKS5hcHBseSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRUZfS0NBX0xBTkdVQUdFX0ZPTExPV19TWVNURU0gPSAiZm9sbG93X3N5c3RlbSI7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+6Lef6ZqP57O757ufPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+6Lef6ZqP57O757ufPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
