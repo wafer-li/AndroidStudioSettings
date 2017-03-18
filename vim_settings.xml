@@ -30,11 +30,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" timestamp="1489644333441">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" timestamp="1489850346726">
         <mark key="'" line="293" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra/4.9.0/6cb6e06f08d27436b80917212856b4e5a3eb18fb/acra-4.9.0-sources.jar!/org/acra/ACRA.java" timestamp="1489844824630" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/layout/activity_vpn_main.xml" timestamp="1489838486556">
@@ -51,11 +51,11 @@
         <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489827055773" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489846005806">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="83" />
-        <mark key="." line="40" column="83" />
-        <mark key="^" line="40" column="83" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489849847095">
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="34" column="95" />
+        <mark key="." line="34" column="95" />
+        <mark key="^" line="34" column="95" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489502452939">
         <mark key="[" line="7" column="70" />
@@ -75,7 +75,7 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="/LLDB" timestamp="1489847948873">
+      <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1489413246719">
@@ -146,11 +146,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/LocaleUtils.java" timestamp="1489844510646" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489847937087">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="^" line="354" column="102" />
-        <mark key="." line="288" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489850982369">
+        <mark key="[" line="395" column="75" />
+        <mark key="]" line="395" column="75" />
+        <mark key="." line="395" column="75" />
+        <mark key="^" line="395" column="75" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/values/strings.xml" timestamp="1489846910908">
         <mark key="[" line="6" column="28" />
@@ -244,13 +244,17 @@
       <jump line="21" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/java/com/wafer/scpviewer/MainActivity.kt" />
       <jump line="84" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/java/com/wafer/scpviewer/MainActivity.kt" />
       <jump line="77" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
+      <jump line="391" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
+      <jump line="394" column="62" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
+      <jump line="395" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>&quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -259,31 +263,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxvY2FsZWNvZGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxlX2NvZGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFBSRUZfS0NBX0xBTkdVQUdFOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWRpdG9yLnB1dFN0cmluZyhwcmVmS2V5LCBQUkVGX0tDQV9MQU5HVUFHRV9GT0xMT1dfU1lTVEVNKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2NhbGVVdGlscy51cGRhdGVDb25maWcoZ2V0QWN0aXZpdHkoKS5nZXRBcHBsaWNhdGlvbigpLCBnZXRDb250ZXh0V2l0aExvY2FsZSgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFN0cmluZ1ByZWZlcmVuY2VzKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBQUkVGX0tDQV9MQU5HVUFHRSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFN0cmluZ1ByZWZlcmVuY2VzKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBQUkVGX0tDQV9MQU5HVUFHRSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCBSLnN0cmluZy5zYV9sYW5ndWFnZV9jaGFuZ2VkLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJlZnMuZ2V0U3RyaW5nKFBSRUZfS0NBX0xBTkdVQUdFLCApKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2FfbGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+PC9zdHJpbmc+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGFuZ3VhZ2VfZm9sbG93X3N5c3RlbSI+6Lef6ZqP57O757ufPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKG5ld0NvbmZpZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
