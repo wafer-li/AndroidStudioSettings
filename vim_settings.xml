@@ -26,6 +26,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1489815113359">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489645225453">
         <mark key="'" line="13" column="0" />
       </file>
@@ -104,7 +110,6 @@
         <mark key="^" line="286" column="75" />
         <mark key="." line="287" column="60" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/mapview/src/main/java/com/onlylemi/mapview/library/utils/MapUtils.java" timestamp="1489744696543" />
       <file name="/fragment.java" timestamp="1489409041244">
         <mark key="[" line="0" column="0" />
       </file>
