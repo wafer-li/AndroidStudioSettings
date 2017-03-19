@@ -93,6 +93,12 @@
       <file name="/a.regexp" timestamp="1489728184187">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/project/buildSettings.sbt" timestamp="1489731112051">
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointUtil.java" timestamp="1489410706522">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="35" />
@@ -201,11 +207,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFzdHlsZSIgJSUgInNjYWxhc3R5bGUtc2J0LXBsdWdpbiIgJSAiMC44LjAiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>language_ko</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
