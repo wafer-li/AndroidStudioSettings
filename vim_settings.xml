@@ -6,11 +6,11 @@
       <file name="vim_settings.xml" timestamp="1489916880779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/main/kotlin/Hello.kt" timestamp="1489921941983">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/main/kotlin/Hello.kt" timestamp="1489925475386">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/.gitignore" timestamp="1489924094780">
         <mark key="[" line="8" column="18" />
@@ -57,12 +57,18 @@
       <file name="/LLDB" timestamp="1489644903184">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/main/kotlin/DoubleSymbolSpanReader.kt" timestamp="1489926141739">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1489413246719">
         <mark key="[" line="32" column="28" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489923474378">
+      <file name="/Dummy.txt" timestamp="1489925683966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489646413045">
@@ -74,14 +80,12 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" timestamp="1489923647875">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489645225453">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" timestamp="1489925594749">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/xml/pref_settings.xml" timestamp="1489648399594">
         <mark key="[" line="5" column="34" />
@@ -94,11 +98,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/test/kotlin/HelloKtTest.kt" timestamp="1489923370044">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/test/kotlin/HelloKtTest.kt" timestamp="1489925557602">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1489728184187">
         <mark key="[" line="0" column="0" />
@@ -132,7 +136,12 @@
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1489921944798">
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/test/kotlin/HelloTest.kt" timestamp="1489925169890">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1489925183631">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -211,13 +220,14 @@
       <jump line="11" column="33" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
       <jump line="299" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>VERSION_1_7</text>
+        <text>twoPlusTwo()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -229,28 +239,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB0d29QbHVzVHdvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0d29QbHVzVHdvKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5ndWFnZVZlcnNpb24gPSAiMS4xIgo=</text>
+        <text encoding="base64">ICAgICAgICB0d28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlWZXJzaW9uID0gIjEuMSIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqdm1UYXJnZXQgPSAiMS43Igo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuVGVzdE9ubHkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBUZXN0T25seQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcmdldENvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNwo=</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
