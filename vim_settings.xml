@@ -50,11 +50,12 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489889510192">
-        <mark key="[" line="274" column="52" />
-        <mark key="]" line="274" column="52" />
-        <mark key="." line="274" column="52" />
-        <mark key="^" line="274" column="52" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489889938146">
+        <mark key="'" line="283" column="10" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="55" />
+        <mark key="." line="106" column="55" />
+        <mark key="^" line="106" column="55" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489849847095">
         <mark key="[" line="34" column="65" />
@@ -93,11 +94,6 @@
         <mark key="[" line="32" column="28" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1489889581887">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489845226929">
         <mark key="[" line="161" column="50" />
@@ -212,16 +208,13 @@
       <jump line="8" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="13" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" />
       <jump line="319" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="283" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="309" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="278" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="246" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="264" column="56" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="43" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="262" column="52" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="320" column="11" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="52" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="289" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="138" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -259,17 +252,20 @@
       <jump line="110" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
       <jump line="394" column="62" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
       <jump line="395" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" />
+      <jump line="271" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="72" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="106" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="216" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="260" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="315" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="283" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branch 'master' into test_map
-
-# Conflicts:
-#	app/build.gradle
-#	app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java
-#	app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java
-#	mapview/build.gradle
-#	stereoview</text>
+        <text encoding="base64">IGxpc3RlbmVyID0gbmV3IFNlbnNvckV2ZW50TGlzdGVuZXIoKSB7CgogICAgICAgIGZsb2F0W10gYWNjZWxlcm9tZXRlclZhbHVlcyA9IG5ldyBmbG9hdFszXTsKICAgICAgICBmbG9hdFtdIG1hZ25ldGljVmFsdWVzID0gbmV3IGZsb2F0WzNdOwoKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25TZW5zb3JDaGFuZ2VkKFNlbnNvckV2ZW50IHNlbnNvckV2ZW50KSB7CgogICAgICAgICAgICBpZiAoc2Vuc29yRXZlbnQuc2Vuc29yLmdldFR5cGUoKSA9PSBTZW5zb3IuVFlQRV9BQ0NFTEVST01FVEVSKSB7CiAgICAgICAgICAgICAgICBhY2NlbGVyb21ldGVyVmFsdWVzID0gc2Vuc29yRXZlbnQudmFsdWVzLmNsb25lKCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoc2Vuc29yRXZlbnQuc2Vuc29yLmdldFR5cGUoKSA9PSBTZW5zb3IuVFlQRV9NQUdORVRJQ19GSUVMRCkgewogICAgICAgICAgICAgICAgbWFnbmV0aWNWYWx1ZXMgPSBzZW5zb3JFdmVudC52YWx1ZXMuY2xvbmUoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgVHJpcGxldDxmbG9hdFtdLCBJbnRlZ2VyLCBMb25nPiBkYXRhVHJpcGxldCA9IFNlbnNvclV0aWwuZ2V0RGF0YVRyaXBsZXQoc2Vuc29yRXZlbnQpOwoKICAgICAgICAgICAgZmxvYXRbXSBvcmllbnRhdGlvblZhbHVlcyA9CiAgICAgICAgICAgICAgICAgICAgU2Vuc29yVXRpbC5nZXRPcmllbnRhdGlvblZhbHVlcyhhY2NlbGVyb21ldGVyVmFsdWVzLCBtYWduZXRpY1ZhbHVlcyk7CgogICAgICAgICAgICBUcmlwbGV0PGZsb2F0W10sIEludGVnZXIsIExvbmc+IG9yaWVudGF0aW9uRGF0YVRyaXBsZXQgPQogICAgICAgICAgICAgICAgICAgIFNlbnNvclV0aWwuZ2V0T3JpZW50YXRpb25WYWx1ZXNUcmlwbGV0KG9yaWVudGF0aW9uVmFsdWVzLCBzZW5zb3JFdmVudCk7CgogICAgICAgICAgICBhZGREYXRhVG9RdWV1ZShkYXRhVHJpcGxldCwgb3JpZW50YXRpb25EYXRhVHJpcGxldCk7CiAgICAgICAgfQoKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25BY2N1cmFjeUNoYW5nZWQoU2Vuc29yIHNlbnNvciwgaW50IGkpIHsKCiAgICAgICAgfQogICAgfTsK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -281,6 +277,15 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGxpc3RlbmVyID0gbmV3IFNlbnNvckV2ZW50TGlzdGVuZXIoKSB7CgogICAgICAgIGZsb2F0W10gYWNjZWxlcm9tZXRlclZhbHVlcyA9IG5ldyBmbG9hdFszXTsKICAgICAgICBmbG9hdFtdIG1hZ25ldGljVmFsdWVzID0gbmV3IGZsb2F0WzNdOwoKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25TZW5zb3JDaGFuZ2VkKFNlbnNvckV2ZW50IHNlbnNvckV2ZW50KSB7CgogICAgICAgICAgICBpZiAoc2Vuc29yRXZlbnQuc2Vuc29yLmdldFR5cGUoKSA9PSBTZW5zb3IuVFlQRV9BQ0NFTEVST01FVEVSKSB7CiAgICAgICAgICAgICAgICBhY2NlbGVyb21ldGVyVmFsdWVzID0gc2Vuc29yRXZlbnQudmFsdWVzLmNsb25lKCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoc2Vuc29yRXZlbnQuc2Vuc29yLmdldFR5cGUoKSA9PSBTZW5zb3IuVFlQRV9NQUdORVRJQ19GSUVMRCkgewogICAgICAgICAgICAgICAgbWFnbmV0aWNWYWx1ZXMgPSBzZW5zb3JFdmVudC52YWx1ZXMuY2xvbmUoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgVHJpcGxldDxmbG9hdFtdLCBJbnRlZ2VyLCBMb25nPiBkYXRhVHJpcGxldCA9IFNlbnNvclV0aWwuZ2V0RGF0YVRyaXBsZXQoc2Vuc29yRXZlbnQpOwoKICAgICAgICAgICAgZmxvYXRbXSBvcmllbnRhdGlvblZhbHVlcyA9CiAgICAgICAgICAgICAgICAgICAgU2Vuc29yVXRpbC5nZXRPcmllbnRhdGlvblZhbHVlcyhhY2NlbGVyb21ldGVyVmFsdWVzLCBtYWduZXRpY1ZhbHVlcyk7CgogICAgICAgICAgICBUcmlwbGV0PGZsb2F0W10sIEludGVnZXIsIExvbmc+IG9yaWVudGF0aW9uRGF0YVRyaXBsZXQgPQogICAgICAgICAgICAgICAgICAgIFNlbnNvclV0aWwuZ2V0T3JpZW50YXRpb25WYWx1ZXNUcmlwbGV0KG9yaWVudGF0aW9uVmFsdWVzLCBzZW5zb3JFdmVudCk7CgogICAgICAgICAgICBhZGREYXRhVG9RdWV1ZShkYXRhVHJpcGxldCwgb3JpZW50YXRpb25EYXRhVHJpcGxldCk7CiAgICAgICAgfQoKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25BY2N1cmFjeUNoYW5nZWQoU2Vuc29yIHNlbnNvciwgaW50IGkpIHsKCiAgICAgICAgfQogICAgfTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1BvaW50U21vb3RoZXIgYWNjZXNzUG9pbnRTbW9vdGhlciA9IG5ldyBBY2Nlc3NQb2ludFNtb290aGVyKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1BvaW50U21vb3RoZXIgYWNjZXNzUG9pbnRTbW9vdGhlciA9IG5ldyBBY2Nlc3NQb2ludFNtb290aGVyKCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>Merge branch 'master' into test_map
 
 # Conflicts:
@@ -290,29 +295,20 @@
 #	mapview/build.gradle
 #	stereoview</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2b2lkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc1BvaW50cy5hZGRBbGwoQWNjZXNzUG9pbnRVdGlsLmdldEFjY2Vzc1BvaW50cyh3aWZpTWFuYWdlcikpOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3NQb2ludHMub2ZmZXIobmV3IEFjY2Vzc1BvaW50KGlkLCByc3NpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB2b2lkCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc1BvaW50cy5hZGRBbGwoQWNjZXNzUG9pbnRVdGlsLmdldEFjY2Vzc1BvaW50cyh3aWZpTWFuYWdlcikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3NQb2ludHMub2ZmZXIobmV3IEFjY2Vzc1BvaW50KGlkLCByc3NpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKG5ld0NvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
