@@ -6,19 +6,17 @@
       <file name="vim_settings.xml" timestamp="1489916880779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1489644349698">
-        <mark key="'" line="301" column="0" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/main/kotlin/Hello.kt" timestamp="1489921941983">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
-        <mark key="'" line="296" column="57" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/.gitignore" timestamp="1489924094780">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" timestamp="1489644333441">
         <mark key="'" line="293" column="0" />
@@ -64,7 +62,7 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489917852414">
+      <file name="/Dummy.txt" timestamp="1489923474378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489646413045">
@@ -76,10 +74,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" timestamp="1489917975072">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" timestamp="1489923647875">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489645225453">
         <mark key="'" line="13" column="0" />
@@ -94,6 +93,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/test/kotlin/HelloKtTest.kt" timestamp="1489923370044">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="/a.regexp" timestamp="1489728184187">
         <mark key="[" line="0" column="0" />
@@ -121,20 +126,13 @@
       <file name="vcs.xml" timestamp="1489916810185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489644719768">
-        <mark key="'" line="183" column="20" />
-        <mark key="[" line="287" column="60" />
-        <mark key="]" line="287" column="60" />
-        <mark key="^" line="286" column="75" />
-        <mark key="." line="287" column="60" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/build.sbt" timestamp="1489729405375">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1489409041244">
+      <file name="/fragment.java" timestamp="1489921944798">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -219,7 +217,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>VERSION_1_7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -234,25 +232,25 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWI6JGtvdGxpbl92ZXJzaW9uIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsYW5ndWFnZVZlcnNpb24gPSAiMS4xIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcGlWZXJzaW9uID0gIjEuMSIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgICAgICBqdm1UYXJnZXQgPSAiMS43Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjAuNS0zJwo=</text>
+        <text encoding="base64">ICAgIHRhcmdldENvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
