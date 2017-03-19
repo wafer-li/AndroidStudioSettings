@@ -12,13 +12,6 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
-        <mark key="'" line="296" column="57" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/build.gradle" timestamp="1489821865782">
         <mark key="'" line="28" column="8" />
         <mark key="[" line="3" column="0" />
@@ -43,6 +36,7 @@
         <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra/4.9.0/6cb6e06f08d27436b80917212856b4e5a3eb18fb/acra-4.9.0-sources.jar!/org/acra/ACRA.java" timestamp="1489844824630" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPointSmoother.java" timestamp="1489889457501" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/layout/activity_vpn_main.xml" timestamp="1489838486556">
         <mark key="[" line="39" column="49" />
         <mark key="]" line="40" column="44" />
@@ -56,7 +50,12 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489853023223" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1489889510192">
+        <mark key="[" line="274" column="52" />
+        <mark key="]" line="274" column="52" />
+        <mark key="." line="274" column="52" />
+        <mark key="^" line="274" column="52" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489849847095">
         <mark key="[" line="34" column="65" />
         <mark key="]" line="34" column="95" />
@@ -95,8 +94,10 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489853976878">
+      <file name="/Dummy.txt" timestamp="1489889581887">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489845226929">
         <mark key="[" line="161" column="50" />
@@ -109,13 +110,6 @@
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="55" column="68" />
-        <mark key="]" line="56" column="49" />
-        <mark key="^" line="56" column="49" />
-        <mark key="." line="56" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/xml/pref_settings.xml" timestamp="1489648399594">
         <mark key="[" line="5" column="34" />
@@ -158,6 +152,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/LocaleUtils.java" timestamp="1489844510646" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1489889298549">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489852034717">
         <mark key="[" line="393" column="20" />
         <mark key="]" line="393" column="18" />
@@ -263,10 +262,17 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>Merge branch 'master' into test_map
+
+# Conflicts:
+#	app/build.gradle
+#	app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java
+#	app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java
+#	mapview/build.gradle
+#	stereoview</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -274,32 +280,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Merge branch 'master' into test_map
+
+# Conflicts:
+#	app/build.gradle
+#	app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java
+#	app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java
+#	mapview/build.gradle
+#	stereoview</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKG5ld0NvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB2b2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc1BvaW50cy5hZGRBbGwoQWNjZXNzUG9pbnRVdGlsLmdldEFjY2Vzc1BvaW50cyh3aWZpTWFuYWdlcikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3NQb2ludHMub2ZmZXIobmV3IEFjY2Vzc1BvaW50KGlkLCByc3NpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGUgbG9jYWxlID0gbmV3IExvY2FsZShnZXRTdHJpbmdQcmVmZXJlbmNlcyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgUFJFRl9LQ0FfTEFOR1VBR0UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNvbmZpZ3VyYXRpb25DaGFuZ2VkKG5ld0NvbmZpZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
