@@ -19,11 +19,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/build.gradle" timestamp="1489821865782">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/build.gradle" timestamp="1490020850919">
         <mark key="'" line="28" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/build.gradle" timestamp="1489820207773">
         <mark key="[" line="23" column="0" />
@@ -42,8 +42,6 @@
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.acra/acra/4.9.0/6cb6e06f08d27436b80917212856b4e5a3eb18fb/acra-4.9.0-sources.jar!/org/acra/ACRA.java" timestamp="1489844824630" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPointSmoother.java" timestamp="1489889457501" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/layout/activity_vpn_main.xml" timestamp="1489838486556">
         <mark key="[" line="39" column="49" />
         <mark key="]" line="40" column="44" />
@@ -141,6 +139,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/test/kotlin/com/wafer/scpviewer/ExampleUnitTest.kt" timestamp="1490021044778" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaConstants.java" timestamp="1489841502770">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="81" />
@@ -177,7 +176,6 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/LocaleUtils.java" timestamp="1489844510646" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1489889298549">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -312,40 +310,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEuc3JjRGlycyA9IFsnc3JjL21haW4va290bGluJ10KICAgICAgICBhbmRyb2lkVGVzdC5qYXZhLnNyY0RpcnMgPSBbJ3NyYy9hbmRyb2lkVGVzdC9rb3RsaW4nXQogICAgICAgIHRlc3QuamF2YS5zcmNEaXJzID0gWydzcmMvdGVzdC9rb3RsaW4nXQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmtvdGxpbi5zcmNEaXJzID0gWydzcmMvdGVzdC9rb3RsaW4nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrc05hbWUgPSBUZXN0RGF0YS5nZXRNYXJrc05hbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkVGVzdC5rb3RsaW4uc3JjRGlycyA9IFsnc3JjL2FuZHJvaWRUZXN0L2tvdGxpbiddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluLmtvdGxpbi5zcmNEaXJzID0gWydzcmMvbWFpbi9rb3RsaW4nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmphdmEuc3JjRGlycyA9IFsnc3JjL3Rlc3Qva290bGluJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkVGVzdC5qYXZhLnNyY0RpcnMgPSBbJ3NyYy9hbmRyb2lkVGVzdC9rb3RsaW4nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrc05hbWUgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEuc3JjRGlycyA9IFsnc3JjL21haW4va290bGluJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrcyA9IFRlc3REYXRhLmdldE1hcmtzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBub2RlcyA9IFRlc3REYXRhLmdldE5vZGVzTGlzdCgpOwogICAgICAgIG5vZGVzQ29udHJhY3QgPSBUZXN0RGF0YS5nZXROb2Rlc0NvbnRhY3RMaXN0KCk7CiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmtvdGxpbi5zcmNEaXJzID0gWydzcmMvbWFpbi9rb3RsaW4nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
