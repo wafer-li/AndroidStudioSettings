@@ -121,11 +121,11 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490088482252">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490117051622">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1490109963413">
         <mark key="[" line="0" column="0" />
@@ -338,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRTZXJ2aWNlKGludGVudCwgY29ubmVjdGlvbiwgQklORF9BVVRPX0NSRUFURSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -350,31 +350,31 @@
         <text encoding="base64">CiAgICAgICAgcm91dGVMaXN0ID0gTWFwVXRpbHMuZ2V0U2hvcnRlc3REaXN0YW5jZUJldHdlZW5Ud29Qb2ludHMKICAgICAgICAgICAgICAgIChsb2NhdGlvbkxheWVyLmdldEN1cnJlbnRQb3NpdGlvbigpLCBjdXJyZW50VGFyZ2V0LCBub2Rlcywgbm9kZXNDb250cmFjdCk7CgogICAgICAgIHJvdXRlTGF5ZXIuc2V0Tm9kZUxpc3Qobm9kZXMpOwogICAgICAgIHJvdXRlTGF5ZXIuc2V0Um91dGVMaXN0KHJvdXRlTGlzdCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRTZXJ2aWNlKGludGVudCwgY29ubmVjdGlvbiwgQklORF9BVVRPX0NSRUFURSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KE1hcEFjdGl2aXR5LnRoaXMsIERhdGFTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFpcigiIiIoKSIiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZFNlcnZpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/moIfpopgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTWFwQWN0aXZpdHkudGhpcywgRGF0YVNlcnZpY2UuY2xhc3MpOwogICAgICAgICAgICBiaW5kU2VydmljZShpbnRlbnQsIGNvbm5lY3Rpb24sIEJJTkRfQVVUT19DUkVBVEUpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRTZXJ2aWNlKGludGVudCwgY29ubmVjdGlvbiwgQklORF9BVVRPX0NSRUFURSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KE1hcEFjdGl2aXR5LnRoaXMsIERhdGFTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZFNlcnZpY2UoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTWFwQWN0aXZpdHkudGhpcywgRGF0YVNlcnZpY2UuY2xhc3MpOwogICAgICAgICAgICBiaW5kU2VydmljZShpbnRlbnQsIGNvbm5lY3Rpb24sIEJJTkRfQVVUT19DUkVBVEUpOw==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTWFwQWN0aXZpdHkudGhpcywgRGF0YVNlcnZpY2UuY2xhc3MpOwogICAgICAgICAgICBiaW5kU2VydmljZShpbnRlbnQsIGNvbm5lY3Rpb24sIEJJTkRfQVVUT19DUkVBVEUpOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
