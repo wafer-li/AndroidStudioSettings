@@ -69,12 +69,11 @@
         <mark key="." line="34" column="95" />
         <mark key="^" line="34" column="95" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490100533721">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490101772026">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="243" column="9" />
-        <mark key="]" line="243" column="9" />
-        <mark key="." line="243" column="9" />
-        <mark key="^" line="243" column="9" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489502452939">
         <mark key="[" line="7" column="70" />
@@ -228,6 +227,11 @@
       <file name="/fragment.java" timestamp="1490090364870">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/mapview/src/main/java/com/onlylemi/mapview/library/layer/RouteLayer.java" timestamp="1490101438813">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="289" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -333,10 +337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZUxpc3QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getShortestDistanceBetweenTwoPoints</text>
+        <text>getShortestPathBetweenTwoPoints</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -345,31 +349,31 @@
         <text encoding="base64">ICAgICAvKiBCaW5kIFNlcnZpY2UgKi8KICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KE1hcEFjdGl2aXR5LnRoaXMsIERhdGFTZXJ2aWNlLmNsYXNzKTsKICAgICAgICAgICAgICAgIGJpbmRTZXJ2aWNlKGludGVudCwgY29ubmVjdGlvbiwgQklORF9BVVRPX0NSRUFURSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZUxpc3QuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbkxheWVyLmdldEN1cnJlbnRQb3NpdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzQ29udHJhY3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzLCBub2Rlc0NvbnRyYWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzLmluZGV4T2YoY3VycmVudFRhcmdldCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uTGF5ZXIuZ2V0Q3VycmVudFBvc2l0aW9uKCksIGN1cnJlbnRUYXJnZXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVzLmluZGV4T2YobG9jYXRpb25MYXllci5nZXRDdXJyZW50UG9zaXRpb24oKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZUxpc3QgPSBNYXBVdGlscy5nZXRTaG9ydGVzdFBhdGhCZXR3ZWVuVHdvUG9pbnRzKAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhayBkcmF3aW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
