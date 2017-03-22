@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1489842302673">
-        <mark key="'" line="76" column="16" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="/RegExp Fragment (WikidotParser.kt:2662).regexp" timestamp="1490162034135">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML Fragment (WikidotParser.kt:1841).html" timestamp="1490120447149">
         <mark key="[" line="0" column="0" />
@@ -45,6 +42,9 @@
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/HTML Fragment (WikidotParser.kt:1631).html" timestamp="1490160364164">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,12 +53,11 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490160272429">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="52" column="55" />
-        <mark key="]" line="52" column="54" />
-        <mark key="." line="52" column="54" />
-        <mark key="^" line="52" column="54" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490162432581">
+        <mark key="'" line="48" column="56" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489845226929">
         <mark key="[" line="161" column="50" />
@@ -66,11 +65,12 @@
         <mark key="." line="161" column="63" />
         <mark key="^" line="161" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1490021571490">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="21" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1490161424234">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="15" />
         <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/xml/pref_settings.xml" timestamp="1489648399594">
         <mark key="[" line="5" column="34" />
@@ -85,6 +85,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaConstants.java" timestamp="1489841502770">
         <mark key="[" line="250" column="0" />
@@ -104,6 +107,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/RegExp Fragment (WikidotParser.kt:2690).regexp" timestamp="1490162130635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/MainActivity.java" timestamp="1489852034717">
@@ -145,12 +151,6 @@
         <mark key="]" line="1989" column="0" />
         <mark key="^" line="1989" column="58" />
         <mark key="." line="1989" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" timestamp="1489850346726">
-        <mark key="'" line="293" column="0" />
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="0" />
-        <mark key="." line="294" column="0" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1422).regexp" timestamp="1490160202453">
         <mark key="[" line="0" column="0" />
@@ -197,7 +197,10 @@
         <mark key="." line="61" column="86" />
         <mark key="^" line="61" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490109963413">
+      <file name="/RegExp Fragment (WikidotParser.kt:1818).regexp" timestamp="1490160644984">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490161679177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -221,12 +224,6 @@
       <file name="/a.regexp" timestamp="1490089312028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/layout/activity_main.xml" timestamp="1489821423754">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-      </file>
       <file name="/HTML Fragment (WikidotParser.kt:2003).html" timestamp="1490121701759">
         <mark key="[" line="0" column="0" />
       </file>
@@ -243,18 +240,6 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490090026127">
-        <mark key="'" line="87" column="16" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/androidTest/java/edu/bupt/sse/undergroundnav/network/ApiServicesConnectivityTest.java" timestamp="1489893313560">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/values/strings.xml" timestamp="1489846910908">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="43" />
@@ -266,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" />
-      <jump line="10" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" />
-      <jump line="296" column="57" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" />
       <jump line="89" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" />
       <jump line="291" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-ko/strings.xml" />
       <jump line="11" column="33" filename="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-zh-rCN/strings.xml" />
@@ -366,46 +348,49 @@
       <jump line="42" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" />
+      <jump line="51" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" />
+      <jump line="49" column="56" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgcm91dGVMaXN0ID0gTWFwVXRpbHMuZ2V0U2hvcnRlc3REaXN0YW5jZUJldHdlZW5Ud29Qb2ludHMKICAgICAgICAgICAgICAgIChsb2NhdGlvbkxheWVyLmdldEN1cnJlbnRQb3NpdGlvbigpLCBjdXJyZW50VGFyZ2V0LCBub2Rlcywgbm9kZXNDb250cmFjdCk7CgogICAgICAgIHJvdXRlTGF5ZXIuc2V0Tm9kZUxpc3Qobm9kZXMpOwogICAgICAgIHJvdXRlTGF5ZXIuc2V0Um91dGVMaXN0KHJvdXRlTGlzdCk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIjxhIGhyZWY9JyR7aXQuZ3JvdXBWYWx1ZXNbMV19Jz4ke2l0Lmdyb3VwVmFsdWVzWzJdfTwvYT4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oImNhcHRpb24gbmVlZCB0byBiZSBwYXJzZWQgYXMgdGV4dCBzdHJpbmciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBMYW5ndWFnZSgiUmVnRXhwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0aHJlZUJsb2NrUnVsZSA9ICIiIlxbXFtcWyguKj8pXF1cXVxdIiIiLnRvUmVnZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJbW2luY2x1ZGUgY29tcG9uZW50OmltYWdlLWJsb2NrIG5hbWU95Zu+5rqQIHxjYXB0aW9uPeaPj+i/sF1dIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaFJlc3VsdC52YWx1ZS5yZXBsYWNlKCIuKiIsIHBhcnNlVXJsc1dpdGhOb05hbWUoKVtpbmRleF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbGFuZ3VhZ2U9UmVnRXhwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -426,6 +411,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
