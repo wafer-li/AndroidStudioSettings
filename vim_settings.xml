@@ -169,12 +169,11 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="110" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490195279812">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="102" column="8" />
-        <mark key="]" line="102" column="14" />
-        <mark key="." line="102" column="14" />
-        <mark key="^" line="102" column="14" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490247629486">
+        <mark key="'" line="74" column="97" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:2690).regexp" timestamp="1490162130635">
         <mark key="[" line="0" column="0" />
@@ -190,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
-      <jump line="316" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="312" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
       <jump line="23" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" />
@@ -290,10 +287,12 @@
       <jump line="113" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
+      <jump line="66" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
+      <jump line="74" column="97" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoUm91dGVXaXRoQ3VycmVudFBvc2l0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -305,31 +304,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPGEgaHJlZj0nJHdpa2lkb3RSb290TGluay8ke2l0Lmdyb3VwVmFsdWVzWzFdfSc+JHtpdC5ncm91cFZhbHVlc1syXX08L2E+Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoUm91dGVXaXRoQ3VycmVudFBvc2l0aW9uKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBiYXllc0xvY2F0b3IuYWRkKCk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXllc0xvY2F0b3IuYWRkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtbS5nZXRQb2ludCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkJheWVzaWFuIERhdGEiLCBhcC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1tLmdldE1hcF9pZCgpID09IGlkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcE1hcmsgbW0gOiBtYXJrcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
