@@ -51,19 +51,19 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490278367160">
-        <mark key="'" line="81" column="61" />
-        <mark key="[" line="81" column="79" />
-        <mark key="]" line="81" column="79" />
-        <mark key="." line="81" column="79" />
-        <mark key="^" line="81" column="79" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490278629606">
+        <mark key="'" line="83" column="61" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+        <mark key="^" line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LocatorFileUtil.java" timestamp="1490273017295">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LocatorFileUtil.java" timestamp="1490279392436">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="21" />
-        <mark key="^" line="36" column="55" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="41" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490255203116">
         <mark key="'" line="309" column="0" />
@@ -116,11 +116,11 @@
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" timestamp="1490278530694">
-        <mark key="[" line="34" column="67" />
-        <mark key="]" line="34" column="91" />
-        <mark key="." line="34" column="91" />
-        <mark key="^" line="34" column="91" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" timestamp="1490278567496">
+        <mark key="[" line="34" column="72" />
+        <mark key="]" line="34" column="86" />
+        <mark key="." line="34" column="86" />
+        <mark key="^" line="34" column="86" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490164737553">
         <mark key="'" line="3" column="0" />
@@ -136,7 +136,7 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490278287224">
+      <file name="/Dummy.txt" timestamp="1490279459149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1490161424234">
@@ -314,16 +314,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TYPE_ROTATION_VECTOR</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>TYPE_ROTATION_VECTOR</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbGRaXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5zb3JNYW5hZ2VyLnJlZ2lzdGVyTGlzdGVuZXIoc2Vuc29yRXZlbnRMaXN0ZW5lciwgZ2VvbWFnbmV0aWNGaWVsZCwgZGVsYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJPbGQgWiIsIFN0cmluZy52YWx1ZU9mKHNlbnNvckV2ZW50LnZhbHVlc1syXSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
