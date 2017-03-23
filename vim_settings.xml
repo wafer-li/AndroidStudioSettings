@@ -50,13 +50,14 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490250274456">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490252484862">
         <mark key="'" line="118" column="18" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="107" column="68" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+        <mark key="^" line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490196249532">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490252269356">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="305" column="55" />
         <mark key="]" line="306" column="39" />
@@ -137,11 +138,11 @@
       <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490251562525">
-        <mark key="[" line="167" column="77" />
-        <mark key="]" line="167" column="73" />
-        <mark key="." line="167" column="73" />
-        <mark key="^" line="167" column="77" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490251651951">
+        <mark key="[" line="178" column="54" />
+        <mark key="]" line="179" column="7" />
+        <mark key="^" line="179" column="7" />
+        <mark key="." line="179" column="7" />
       </file>
       <file name="/a.regexp" timestamp="1490089312028">
         <mark key="[" line="0" column="0" />
@@ -174,7 +175,7 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="110" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490251049281">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490252325680">
         <mark key="'" line="72" column="50" />
         <mark key="[" line="104" column="63" />
         <mark key="]" line="104" column="77" />
@@ -187,7 +188,7 @@
       <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490191217323">
+      <file name="/fragment.java" timestamp="1490252031451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
@@ -298,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFjb25FdmVudERhdGFDYWNoZVF1ZXVlXD4=</text>
@@ -310,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoQmF5ZXNpYW5BY3Rpdml0eS50aGlzLCAiSU8gRXhjZXB0aW9uIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwLmFwcyA9IG5ldyBBY2Nlc3NQb2ludFtzYW1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF5ZXNMb2NhdG9yLnNhdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwLmFwcyA9IChBY2Nlc3NQb2ludFtdKSBzYW1wbGVzLmdldChzYW1wbGVJbmRleCsrKS50b0FycmF5KG5ldyBBY2Nlc3NQb2ludFtzYW1wbGVzXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwLmFwcyA9IG5ldyBBY2Nlc3NQb2ludFtzYW1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
