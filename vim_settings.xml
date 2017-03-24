@@ -51,8 +51,12 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490289040933">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490318469035">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="70" column="46" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LocatorFileUtil.java" timestamp="1490279392436">
         <mark key="'" line="32" column="8" />
@@ -148,12 +152,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490290937885">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490316810911">
         <mark key="'" line="230" column="0" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
+        <mark key="[" line="123" column="36" />
+        <mark key="]" line="134" column="49" />
+        <mark key="." line="134" column="49" />
+        <mark key="^" line="134" column="49" />
       </file>
       <file name="/a.regexp" timestamp="1490089312028">
         <mark key="[" line="0" column="0" />
@@ -186,9 +190,9 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="110" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490284929593">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="197" column="43" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490318067581">
+        <mark key="'" line="162" column="29" />
+        <mark key="[" line="145" column="41" />
         <mark key="]" line="197" column="43" />
         <mark key="^" line="197" column="43" />
         <mark key="." line="197" column="43" />
@@ -208,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="225" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="109" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/application/TestData.java" />
@@ -308,10 +311,11 @@
       <jump line="140" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="224" column="54" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="228" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
+      <jump line="162" column="29" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIExvZyB0aGUgaWQgYW5kIGJlc3QgcnNzaQo=</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -323,31 +327,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImhpZ2hwcm9iIiwgU3RyaW5nLnZhbHVlT2YobWF0Y2hpbmdzW2ldLnNpbWlsYXJpdHkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIExvZyB0aGUgaWQgYW5kIGJlc3QgcnNzaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIkN1cnJlbnQgUG9zaXRpb24iLCBjdXJyZW50UG9zaXRpb24udG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJpc1N0YXJ0QmF5ZXNpYW4iLCBTdHJpbmcudmFsdWVPZihpc1N0YXJ0QmF5ZXNpYW4pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZyhhY2Nlc3NQb2ludHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpbWlsYXJpdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIkN1cnJlbnQgUG9zaXRpb24iLCBjdXJyZW50UG9zaXRpb24udG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImhpZ2hwcm9iIiwgU3RyaW5nLnZhbHVlT2YobWF0Y2hpbmdzW2ldLnNpbWlsYXJpdHkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmZTcXVhcmUgKz0gZGlmZiAqIGRpZmY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBkaWZmID0gTUlTU0lOR19BUF9SU1NJIC0gc2Nhblt5XS5nZXRSc3NpKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpbWlsYXJpdHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
