@@ -16,6 +16,11 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/parser/HtmlParser.kt" timestamp="1490423839564">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/java/com/wafer/scpviewer/MainActivity.kt" timestamp="1489853871728">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="19" column="40" />
@@ -83,6 +88,12 @@
         <mark key="]" line="18" column="15" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/ui/activity/MainActivity.kt" timestamp="1490423743826">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/a.java" timestamp="1490324711241">
         <mark key="[" line="4" column="0" />
@@ -177,7 +188,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490349046397">
+      <file name="/Dummy.txt" timestamp="1490423821402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -223,12 +234,10 @@
         <mark key="." line="128" column="48" />
         <mark key="^" line="128" column="48" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/mapview/src/main/java/com/onlylemi/mapview/library/utils/MapUtils.java" timestamp="1490281887678" />
       <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/Timer.java" timestamp="1490325641859" />
-      <file name="/fragment.java" timestamp="1490324698154">
+      <file name="/fragment.java" timestamp="1490423687743">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -335,8 +344,8 @@
       <jump line="189" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEFsZXJ0RGlhbG9nLkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBBbGVydERpYWxvZy5CdWlsZGVyKE1hcEFjdGl2aXR5LnRoaXMpOwogICAgICAgICAgICAgICAgLy8gQWRkIHRoZSBidXR0b25zCiAgICAgICAgICAgICAgICBidWlsZGVyLnNldFBvc2l0aXZlQnV0dG9uKCLnoa7lrpoiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKERpYWxvZ0ludGVyZmFjZSBkaWFsb2csIGludCBpZCkgewogICAgICAgICAgICAgICAgICAgICAgICBwYXJrQ2FyID0gbmV3IFBvaW50Rihsb2NhdGlvbkxheWVyLmdldEN1cnJlbnRQb3NpdGlvbigpLngsIGxvY2F0aW9uTGF5ZXIuZ2V0Q3VycmVudFBvc2l0aW9uKCkueSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpYWxvZ1BsdXMuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICBzZW5zb3JNYW5hZ2VyLnVucmVnaXN0ZXJMaXN0ZW5lcihzZW5zb3JFdmVudExpc3RlbmVyKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVXNlciBjbGlja2VkIE9LIGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgYnVpbGRlci5zZXROZWdhdGl2ZUJ1dHRvbigi5Y+W5raIIiwgbmV3IERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nLCBpbnQgaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVXNlciBjYW5jZWxsZWQgdGhlIGRpYWxvZ1BsdXMKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAvLyBDcmVhdGUgdGhlIEFsZXJ0RGlhbG9nCiAgICAgICAgICAgICAgICBBbGVydERpYWxvZyBhZGlhbG9nID0gYnVpbGRlci5jcmVhdGUoKTsKICAgICAgICAgICAgICAgIGFkaWFsb2cuc2hvdygpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>110</text>
@@ -347,32 +356,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImhpZ2hwcm9iIiwgU3RyaW5nLnZhbHVlT2YobWF0Y2hpbmdzW2ldLnNpbWlsYXJpdHkpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IEFsZXJ0RGlhbG9nLkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBBbGVydERpYWxvZy5CdWlsZGVyKE1hcEFjdGl2aXR5LnRoaXMpOwogICAgICAgICAgICAgICAgLy8gQWRkIHRoZSBidXR0b25zCiAgICAgICAgICAgICAgICBidWlsZGVyLnNldFBvc2l0aXZlQnV0dG9uKCLnoa7lrpoiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKERpYWxvZ0ludGVyZmFjZSBkaWFsb2csIGludCBpZCkgewogICAgICAgICAgICAgICAgICAgICAgICBwYXJrQ2FyID0gbmV3IFBvaW50Rihsb2NhdGlvbkxheWVyLmdldEN1cnJlbnRQb3NpdGlvbigpLngsIGxvY2F0aW9uTGF5ZXIuZ2V0Q3VycmVudFBvc2l0aW9uKCkueSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpYWxvZ1BsdXMuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICBzZW5zb3JNYW5hZ2VyLnVucmVnaXN0ZXJMaXN0ZW5lcihzZW5zb3JFdmVudExpc3RlbmVyKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVXNlciBjbGlja2VkIE9LIGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgYnVpbGRlci5zZXROZWdhdGl2ZUJ1dHRvbigi5Y+W5raIIiwgbmV3IERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nLCBpbnQgaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVXNlciBjYW5jZWxsZWQgdGhlIGRpYWxvZ1BsdXMKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAvLyBDcmVhdGUgdGhlIEFsZXJ0RGlhbG9nCiAgICAgICAgICAgICAgICBBbGVydERpYWxvZyBhZGlhbG9nID0gYnVpbGRlci5jcmVhdGUoKTsKICAgICAgICAgICAgICAgIGFkaWFsb2cuc2hvdygpOw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRUYXJnZXQgPSBuZXcgUG9pbnRGKG1hcmtzLmdldCgwKS5nZXRQb2ludCgpLngsIG1hcmtzLmdldCgwKS5nZXRQb2ludCgpLnkpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0Um91dGVXaXRoQ3VycmVudFBvc2l0aW9uKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbnNvck1hbmFnZXIudW5yZWdpc3Rlckxpc3RlbmVyKHNlbnNvckV2ZW50TGlzdGVuZXIpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
