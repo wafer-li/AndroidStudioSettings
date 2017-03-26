@@ -143,12 +143,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:2082).html" timestamp="1490121745860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" timestamp="1490465673431">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="54" column="7" />
-        <mark key="." line="54" column="7" />
-        <mark key="^" line="54" column="7" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" timestamp="1490466102672">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="57" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/build.gradle" timestamp="1490461980445">
         <mark key="'" line="0" column="5" />
@@ -269,9 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
-      <jump line="222" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
-      <jump line="125" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="258" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="186" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
       <jump line="22" column="56" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
@@ -368,14 +365,17 @@
       <jump line="0" column="5" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/build.gradle" />
       <jump line="14" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
       <jump line="63" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
-      <jump line="33" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
+      <jump line="60" column="45" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
+      <jump line="33" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwQ29udGV4dCwgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>appContext</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -384,31 +384,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGl0LnJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxfY29kZSkKICAgICAgICB2YWwgYmFzZVVybCA9IGdldEJhc2VVcmwobG9jYWxlQ29kZSkKCiAgICAgICAgUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlVXJsKQogICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwQ29udGV4dCwgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRTY3BBcGlTZXJ2aWNlKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGNvbnRleHQucmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5sb2NhbF9jb2RlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBsb2NhbGVDb2RlID0gY29udGV4dC5yZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmxvY2FsX2NvZGUpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHJldHJvZml0OiBSZXRyb2ZpdCBieSAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
