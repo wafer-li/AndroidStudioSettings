@@ -46,7 +46,6 @@
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/project/buildSettings.sbt" timestamp="1490866121580" />
       <file name="/HTML Fragment (WikidotParser.kt:1631).html" timestamp="1490160364164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,6 +234,13 @@
       <file name="/HTML Fragment (WikidotParser.kt:2003).html" timestamp="1490121701759">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
+        <mark key="'" line="138" column="2" />
+        <mark key="[" line="136" column="35" />
+        <mark key="]" line="136" column="54" />
+        <mark key="." line="136" column="54" />
+        <mark key="^" line="136" column="54" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1489893442490">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="60" column="18" />
@@ -242,11 +248,11 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490871936027">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="74" column="41" />
-        <mark key="]" line="74" column="41" />
-        <mark key="." line="74" column="41" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490876804170">
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="74" column="67" />
+        <mark key="^" line="57" column="12" />
+        <mark key="." line="74" column="67" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:2278).regexp" timestamp="1490164038793">
         <mark key="[" line="0" column="0" />
@@ -278,10 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="69" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="299" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="308" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -378,13 +380,17 @@
       <jump line="90" column="0" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="0" column="14" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="66" column="24" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
+      <jump line="34" column="5" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
+      <jump line="124" column="18" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="126" column="2" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>))</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -393,31 +399,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGl0LnJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxfY29kZSkKICAgICAgICB2YWwgYmFzZVVybCA9IGdldEJhc2VVcmwobG9jYWxlQ29kZSkKCiAgICAgICAgUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlVXJsKQogICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IChleGlzdHMocywgZih4KSA9PiApKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIDEsIDMsIDQsIDUsIDcsIDEwMDAgPT4gdHIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHMgPSAoeDpJbnQpID0+IGlmKHggPCAxMDAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IHggPT4gcywgKSkK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KCFmb3JhbGwocywgeSA9PiBpZiAoeSA8IDk5OSkgdHJ1ZSBlbHNlIGZhbHNlKSwgIk5vdCBhbGwgOTk5IGluIDEwMDEiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IHggPT4gZXhpc3RzKHMsICkpKQo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZvcmFsbChzMSwgcyksICIxIHNob3VsZCBpbiBzIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgZXhpc3RzKHM6IFNldCwgcDogSW50ID0+IEJvb2xlYW4pOiBCb29sZWFuID0gcmFsbChzLCBwKQo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZvcmFsbChzLCB5ID0+IGlmKHkgPCAyMDAwKSB0cnVlIGVsc2UgZmFsc2UpLCAiRm9yYWxsIGlzIHdyb25nIikK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
