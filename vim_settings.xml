@@ -242,12 +242,12 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490868447814">
-        <mark key="'" line="0" column="14" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490870126938">
+        <mark key="'" line="66" column="24" />
         <mark key="[" line="69" column="51" />
-        <mark key="]" line="69" column="64" />
-        <mark key="^" line="69" column="64" />
-        <mark key="." line="69" column="64" />
+        <mark key="]" line="69" column="51" />
+        <mark key="^" line="69" column="51" />
+        <mark key="." line="69" column="51" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:2278).regexp" timestamp="1490164038793">
         <mark key="[" line="0" column="0" />
@@ -279,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
       <jump line="69" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -379,6 +378,7 @@
       <jump line="21" column="41" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="90" column="0" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="0" column="14" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
+      <jump line="66" column="24" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
