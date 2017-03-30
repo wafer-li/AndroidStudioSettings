@@ -264,12 +264,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:2003).html" timestamp="1490121701759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490895523002">
-        <mark key="'" line="43" column="63" />
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="62" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490896622661">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="127" column="57" />
+        <mark key="]" line="127" column="66" />
+        <mark key="." line="127" column="66" />
+        <mark key="^" line="127" column="66" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
@@ -321,9 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="89" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="63" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
-      <jump line="94" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
       <jump line="151" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -413,54 +410,57 @@
       <jump line="105" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="166" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="44" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="125" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="163" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="40" column="42" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="129" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="43" column="63" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="126" column="8" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="122" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="199" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="60" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBob3VzZUJsZW5kID0gV2hpcChNb2NoYShTb3koTWlsayhNaWxrKEhvdXNlQmxlbmQoKSkpKSkpCg==</text>
+        <text encoding="base64">ICAgIGlmIChwKGVsZW0pKSBsZWZ0LmZpbHRlckFjYyhwLCByaWdodC5maWx0ZXJBY2MocCwgYWNjKSkuaW5jbChlbGVtKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgZmlsdGVyKHA6IFR3ZWV0ID0+IEJvb2xlYW4pOiBUd2VldFNldCA9IGZpbHRlckFjYyhwLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgIGVsc2UgbGVmdC5maWx0ZXJBY2MocCwgcmlnaHQuZmlsdGVyQWNjKHAsIGFjYykpY2woZWxlbSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwKGVsZW0pKSBsZWZ0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgIGVsc2UgYWNjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIGVsc2UgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogYW5kIGJlIGltcGxlbWVudGVkIGluIHRoZSBzdWJjbGFzc2VzPwo=</text>
+        <text encoding="base64">ICAgIGlmIChwKGVsZW0pKSBhY2MuaW5jbChlbGVtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogUXVlc3Rpb246IENhbiB3ZSBpbXBsbWVudCB0aGlzIG1ldGhvZCBoZXJlLCBvciBzaG91bGQgaXQgcmVtYWluIGFic3RyYWN0Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UgaWYgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgIGVsc2UgaWYgKGxlZnQuZmlsdGVyQWNjKHAsICkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogaW4gdGhlIG9yaWdpbmFsIHNldCBmb3Igd2hpY2ggdGhlIHByZWRpY2F0ZSBpcyB0cnVlLgo=</text>
+        <text encoding="base64">ICBkZWYgZmlsdGVyKHA6IFR3ZWV0ID0+IEJvb2xlYW4pOiBUd2VldFNldCA9IGZpbHRlckFjYyhwLCB0aGlzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
