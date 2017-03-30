@@ -43,6 +43,12 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
@@ -399,7 +405,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">Qm9vbGVhbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -411,28 +417,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmKHggPT4geCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZihmdW46IEludCA9PiBJbnQpID0gZnVuCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmKHggPT4geCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgZihmdW46IEludCA9PiBJbnQpID0gZnVuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDEsIDMsIDQsIDUsIDcsIDEwMDAgPT4gdHIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHMgPSAoeDpJbnQpID0+IGlmKHggPCAxMDAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIDEsIDMsIDQsIDUsIDcsIDEwMDAgPT4gdHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KCFmb3JhbGwocywgeSA9PiBpZiAoeSA8IDk5OSkgdHJ1ZSBlbHNlIGZhbHNlKSwgIk5vdCBhbGwgOTk5IGluIDEwMDEiKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHMgPSAoeDpJbnQpID0+IGlmKHggPCAxMDAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
