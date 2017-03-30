@@ -242,12 +242,11 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490870126938">
+      <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490871936027">
         <mark key="'" line="66" column="24" />
-        <mark key="[" line="69" column="51" />
-        <mark key="]" line="69" column="51" />
-        <mark key="^" line="69" column="51" />
-        <mark key="." line="69" column="51" />
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="74" column="41" />
+        <mark key="." line="74" column="41" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:2278).regexp" timestamp="1490164038793">
         <mark key="[" line="0" column="0" />
@@ -382,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>))</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -394,31 +393,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGl0LnJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxfY29kZSkKICAgICAgICB2YWwgYmFzZVVybCA9IGdldEJhc2VVcmwobG9jYWxlQ29kZSkKCiAgICAgICAgUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlVXJsKQogICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgZXhpc3RzKHM6IFNldCwgcDogSW50ID0+IEJvb2xlYW4pOiBCb29sZWFuID0gcmFsbChzLCBwKQo=</text>
+        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IChleGlzdHMocywgZih4KSA9PiApKQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IHggPT4gcywgKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pz8/CiAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgbWFwKHM6IFNldCwgZjogSW50ID0+IEludCk6IFNldCA9IHggPT4gZXhpc3RzKHMsICkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwQ29udGV4dCwgCg==</text>
+        <text encoding="base64">ICBkZWYgZXhpc3RzKHM6IFNldCwgcDogSW50ID0+IEJvb2xlYW4pOiBCb29sZWFuID0gcmFsbChzLCBwKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Pz8/CiAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Pz8/CiAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Pz8/CiAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
