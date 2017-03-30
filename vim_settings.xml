@@ -37,6 +37,9 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="/Kotlin Console" timestamp="1490885123574">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
@@ -48,6 +51,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" timestamp="1490885770763">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
@@ -211,6 +220,12 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Test.kt" timestamp="1490885753650">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1818).regexp" timestamp="1490160644984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,7 +238,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490462620781">
+      <file name="/Dummy.txt" timestamp="1490885809187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1490882751171">
@@ -299,10 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="308" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="311" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="307" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -399,46 +410,50 @@
       <jump line="75" column="0" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="124" column="18" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" />
       <jump line="126" column="2" filename="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="16" column="30" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Qm9vbGVhbiA=</text>
+        <text encoding="base64">aG91c2VCbGVuZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGl0LnJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxfY29kZSkKICAgICAgICB2YWwgYmFzZVVybCA9IGdldEJhc2VVcmwobG9jYWxlQ29kZSkKCiAgICAgICAgUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlVXJsKQogICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBob3VzZUJsZW5kID0gV2hpcChNb2NoYShTb3koTWlsayhNaWxrKEhvdXNlQmxlbmQoKSkpKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZWNhZiA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGVzcHJlc3NvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmKHggPT4geCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiUuMmYiLmZvcm1hdChkYXJrUm9hc3QuY29zdCgpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgZihmdW46IEludCA9PiBJbnQpID0gZnVuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZGFya1JvYXN0LmRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDEsIDMsIDQsIDUsIDcsIDEwMDAgPT4gdHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHMgPSAoeDpJbnQpID0+IGlmKHggPCAxMDAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
