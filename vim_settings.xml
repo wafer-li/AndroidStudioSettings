@@ -134,6 +134,13 @@
       <file name="/RegExp Fragment (WikidotParser.kt:2690).regexp" timestamp="1490162130635">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490973388581">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="246" column="43" />
+        <mark key="]" line="246" column="43" />
+        <mark key="." line="246" column="43" />
+        <mark key="^" line="246" column="43" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -232,7 +239,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490885809187">
+      <file name="/Dummy.txt" timestamp="1490973399881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1490956687096">
@@ -322,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="29" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" />
       <jump line="82" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="49" column="68" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/A.java" />
       <jump line="70" column="46" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -422,13 +428,14 @@
       <jump line="146" column="28" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="202" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="107" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="34" column="15" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VHdlZXRTZXQg</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VHdlZXRTZXQg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -437,31 +444,31 @@
         <text encoding="base64">ICBkZWYgZmlsdGVyQWNjKHA6IFR3ZWV0ID0+IEJvb2xlYW4sIGFjYzogVHdlZXRTZXQpOiBUd2VldFNldCA9CiAgICBpZiAocChlbGVtKSkgbGVmdC5maWx0ZXJBY2MocCwgcmlnaHQuZmlsdGVyQWNjKHAsIGFjYy5pbmNsKGVsZW0pKSkKICAgIGVsc2UgbGVmdC5maWx0ZXJBY2MocCwgcmlnaHQuZmlsdGVyQWNjKHAsIGFjYykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBHb29nbGVWc0FwcGxlLnRyZW5kaW5nLmZvcmVhY2gocHJpbnRsbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBHb29nbGVWc0FwcGxlLnRyZW5kaW5nIGZvcmVhY2ggcHJpbnRsbgo=</text>
+        <text encoding="base64">ICBHb29nbGVWc0FwcGxlIHRyZW5kaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBQcmludCB0aGUgdHJlbmRpbmcgdHdlZXRzCg==</text>
+        <text encoding="base64">ICBwcmludGxuICgoc2V0IHVuaW9uIGVtcHR5U2V0KSB0b1N0cmluZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHMyIGluY2wgZWxlbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzMiA9IHMxIHVuaW9uIHRoYXQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzMSA9IGxlZnQgdW5pb24gcmlnaHQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YWwgc2V0ID0gbmV3IE5vbkVtcHR5KG5ldyBUd2VldCgiYSIsICJiIiwgMCksIG5ldyBOb25FbXB0eShuZXcgVHdlZXQoImMiLCAiZCIsIDApLCBuZXcgRW1wdHksIG5ldyBFbXB0eSksIG5ldyBFbXB0eSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgZW1wdHlTZXQ6IFR3ZWV0U2V0ID0gbmV3IEVtcHR5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHMyIGluY2wgZWxlbQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgobGVmdCB1bmlvbiByaWdodCkgdW5pb24gdGhhdCkgaW5jbCBlbGVtCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzMiA9IHMxIHVuaW9uIHRoYXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIHVuaW9uKHRoYXQ6IFR3ZWV0U2V0KTogVHdlZXRTZXQgPSAK</text>
+        <text encoding="base64">ICAgIHZhbCBzMSA9IGxlZnQgdW5pb24gcmlnaHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
