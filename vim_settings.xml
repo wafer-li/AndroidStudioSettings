@@ -157,10 +157,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491223586374">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491232788017">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/proguard-rules.pro" timestamp="1490461751304">
         <mark key="[" line="25" column="0" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgobiAtIFN1Y2MoKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -449,31 +449,31 @@
         <text encoding="base64">ICBkZWYgZmlsdGVyQWNjKHA6IFR3ZWV0ID0+IEJvb2xlYW4sIGFjYzogVHdlZXRTZXQpOiBUd2VldFNldCA9CiAgICBpZiAocChlbGVtKSkgbGVmdC5maWx0ZXJBY2MocCwgcmlnaHQuZmlsdGVyQWNjKHAsIGFjYy5pbmNsKGVsZW0pKSkKICAgIGVsc2UgbGVmdC5maWx0ZXJBY2MocCwgcmlnaHQuZmlsdGVyQWNjKHAsIGFjYykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgobiAtIFN1Y2MoKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbml0IHsK</text>
+        <text encoding="base64">ICBpZiAobi5pc1plcm8pIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgUGVyc29uKHZhbCBuYW1lOiBTdHJpbmcpIHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhY2MK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgYTogSW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQSB7Cg==</text>
+        <text encoding="base64">ICBpbml0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
