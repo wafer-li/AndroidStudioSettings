@@ -226,7 +226,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491383304435">
+      <file name="/Dummy.txt" timestamp="1491385681427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -401,10 +401,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DrawerLayout</text>
+        <text>344dp</text>
       </register>
       <register name="-" type="4">
-        <text>DrawerLayout</text>
+        <text>344dp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
