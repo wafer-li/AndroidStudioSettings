@@ -117,6 +117,12 @@
       <file name="/RegExp Fragment (WikidotParser.kt:1368).regexp" timestamp="1490118165818">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/styles.xml" timestamp="1491380379503">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1749).regexp" timestamp="1490121184985">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +137,13 @@
       </file>
       <file name="vim_settings.xml" timestamp="1489397644773">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1491380973529">
+        <mark key="'" line="2" column="39" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
         <mark key="'" line="296" column="57" />
@@ -214,7 +227,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491371051891">
+      <file name="/Dummy.txt" timestamp="1491380773573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -269,12 +282,11 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1490423687743">
+      <file name="/fragment.java" timestamp="1491380853484">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" />
       <jump line="16" column="51" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/MagneticData.java" />
       <jump line="128" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="25" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LocatorFileUtil.java" />
@@ -374,13 +386,14 @@
       <jump line="350" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
       <jump line="209" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="2" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtRW1haWxWaWV3LnNlZXIK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>appContext</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
