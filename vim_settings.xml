@@ -6,6 +6,9 @@
       <file name="/RegExp Fragment (WikidotParser.kt:2662).regexp" timestamp="1490162034135">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/provider/ContactsContract.java" timestamp="1491370667769">
+        <mark key="'" line="118" column="0" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1841).html" timestamp="1490120447149">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,6 +39,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" timestamp="1491370677673">
+        <mark key="'" line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
@@ -265,21 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="186" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" />
-      <jump line="22" column="56" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="7" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="1" column="9" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" />
-      <jump line="69" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="299" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="308" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="311" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="307" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
       <jump line="313" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
@@ -365,6 +356,21 @@
       <jump line="60" column="45" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
       <jump line="33" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" />
+      <jump line="244" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="329" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="26" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="345" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="348" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="322" column="14" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="320" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/java/com/wafer/moral/LoginActivity.java" />
+      <jump line="6224" column="39" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/provider/ContactsContract.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/provider/ContactsContract.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
