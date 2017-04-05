@@ -22,6 +22,11 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/build.gradle" timestamp="1490461685559">
         <mark key="'" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/parser/HtmlParser.kt" timestamp="1490461394511">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/java/com/wafer/scpviewer/MainActivity.kt" timestamp="1489853871728">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="19" column="40" />
@@ -104,6 +109,11 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/a.java" timestamp="1490324711241">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,6 +138,12 @@
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:2690).regexp" timestamp="1490162130635">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1491386174593">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
         <mark key="[" line="0" column="0" />
@@ -171,6 +187,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BLEPeakDetectionProvider.java" timestamp="1490175008795">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1422).regexp" timestamp="1490160202453">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,11 +215,16 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491383293773">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="1" column="43" />
-        <mark key="." line="1" column="43" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491386546326">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/ids.xml" timestamp="1491386742497">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
@@ -226,7 +252,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491385681427">
+      <file name="/Dummy.txt" timestamp="1491386763803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -243,13 +269,12 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" timestamp="1491382265941">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="73" />
-        <mark key="." line="17" column="73" />
-        <mark key="^" line="17" column="73" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" timestamp="1491386180067">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1490089312028">
+      <file name="/a.regexp" timestamp="1491386137186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML Fragment (WikidotParser.kt:2003).html" timestamp="1490121701759">
@@ -295,6 +320,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/values/ids.xml" timestamp="1491386729866">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -400,11 +431,11 @@
       <jump line="2" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>344dp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="-" type="4">
-        <text>344dp</text>
+        <text>title_activity_login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -413,25 +444,25 @@
         <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlQ29kZSA9IGl0LnJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcubG9jYWxfY29kZSkKICAgICAgICB2YWwgYmFzZVVybCA9IGdldEJhc2VVcmwobG9jYWxlQ29kZSkKCiAgICAgICAgUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlVXJsKQogICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Qb3B1cE92ZXJsYXkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGFiZWw9IkBzdHJpbmcvYXBwX25hbWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0idGl0bGVfYWN0aXZpdHlfbG9naW4iPk1vcmFsPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
