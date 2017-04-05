@@ -135,12 +135,12 @@
       <file name="vim_settings.xml" timestamp="1489397644773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1491380973529">
-        <mark key="'" line="2" column="39" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1491383064479">
+        <mark key="'" line="3" column="39" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
         <mark key="'" line="296" column="57" />
@@ -194,11 +194,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491382023621">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491383293773">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
@@ -226,7 +226,7 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491382803880">
+      <file name="/Dummy.txt" timestamp="1491383304435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
@@ -287,7 +287,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1491380853484">
+      <file name="/fragment.java" timestamp="1491383341661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/appbar_login.xml" timestamp="1491382765452">
@@ -400,11 +400,11 @@
       <jump line="2" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DrawerLayout</text>
       </register>
       <register name="-" type="4">
-        <text>content_main</text>
+        <text>DrawerLayout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -416,28 +416,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGFuZHJvaWQ6ZHJhd2FibGUvaWNfZGlhbG9nX2VtYWlsIiAvPgo=</text>
+        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSJAZGltZW4vZmFiX21hcmdpbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iYm90dG9tfGVuZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mYWIiCg==</text>
+        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5GbG9hdGluZ0FjdGlvbkJ1dHRvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
