@@ -302,7 +302,6 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/content_login.xml" timestamp="1491542761957" />
       <file name="/RegExp Fragment (WikidotParser.kt:1818).regexp" timestamp="1490160644984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -409,12 +408,12 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="110" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1490337104192">
-        <mark key="'" line="198" column="17" />
-        <mark key="[" line="128" column="46" />
-        <mark key="]" line="128" column="48" />
-        <mark key="." line="128" column="48" />
-        <mark key="^" line="128" column="48" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/BayesianActivity.java" timestamp="1491818225083">
+        <mark key="'" line="203" column="17" />
+        <mark key="[" line="137" column="46" />
+        <mark key="]" line="137" column="48" />
+        <mark key="." line="137" column="48" />
+        <mark key="^" line="137" column="48" />
       </file>
       <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
         <mark key="[" line="0" column="0" />
@@ -546,11 +545,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/androidTest/kotlin/com/wafer/moral/ExampleInstrumentedTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>400</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>400</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
