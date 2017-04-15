@@ -23,12 +23,6 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/Nat.scala" timestamp="1492278454830" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/ActivitiesResponse.kt" timestamp="1492252223733">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-      </file>
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
@@ -468,7 +462,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492278626479">
+      <file name="/Dummy.txt" timestamp="1492279074397">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -508,6 +502,9 @@
         <mark key="." line="222" column="38" />
         <mark key="^" line="222" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" timestamp="1492278995057">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" timestamp="1492275761316">
         <mark key="'" line="8" column="52" />
         <mark key="[" line="34" column="41" />
@@ -539,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="108" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="73" column="2" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -639,6 +635,7 @@
       <jump line="44" column="18" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="45" column="19" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
+      <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
