@@ -62,12 +62,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/EventAdapter.kt" timestamp="1492254881057">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/EventAdapter.kt" timestamp="1492255379840">
         <mark key="'" line="17" column="3" />
-        <mark key="[" line="29" column="84" />
-        <mark key="]" line="29" column="84" />
-        <mark key="^" line="29" column="83" />
-        <mark key="." line="29" column="84" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="24" column="79" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
         <mark key="[" line="0" column="0" />
@@ -119,11 +119,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492254449007">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="22" column="38" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492255324065">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
         <mark key="[" line="0" column="0" />
@@ -133,11 +133,11 @@
         <mark key="]" line="38" column="51" />
         <mark key="." line="38" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492254913240">
-        <mark key="[" line="33" column="81" />
-        <mark key="]" line="33" column="81" />
-        <mark key="." line="33" column="81" />
-        <mark key="^" line="33" column="99" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492255459701">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="75" />
+        <mark key="." line="20" column="75" />
+        <mark key="^" line="20" column="75" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
@@ -199,12 +199,11 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="49" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1491550027754">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="39" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492256863079">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
@@ -232,12 +231,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" timestamp="1492253996856">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" timestamp="1492257008363">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="64" />
-        <mark key="." line="38" column="64" />
-        <mark key="^" line="38" column="62" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="46" />
+        <mark key="." line="42" column="46" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490963662131">
         <mark key="'" line="107" column="0" />
@@ -255,6 +254,12 @@
         <mark key="]" line="11" column="43" />
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/BaseResponse.kt" timestamp="1492256506946">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="/Kotlin Console" timestamp="1490885123574">
         <mark key="[" line="0" column="0" />
@@ -439,18 +444,18 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492254955969">
+      <file name="/Dummy.txt" timestamp="1492257208206">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1490956687096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492251224703">
-        <mark key="[" line="22" column="120" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490334896205">
         <mark key="'" line="230" column="0" />
@@ -597,7 +602,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="27" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
       <jump line="9" column="55" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
@@ -610,13 +614,14 @@
       <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/ActivitiesResponse.kt" />
       <jump line="4" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>404</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>404</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
@@ -625,31 +630,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgZXZlbnROYW1lVmlldyA9IHJvb3RWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmV2ZW50X25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLlNUVURFTlRfSUQsIHN0dWRlbnRJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRhID0gcmVzcG9uc2UhIS5ib2R5KCkuYWN0aXZpdHlMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KHRoaXMsIE1vcmFsTG9va2luZ0FjdGl2aXR5OjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb29rX3N0dWRlbnRfaWQuZXJyb3IgPSBnZXRTdHJpbmcoUi5zdHJpbmcubm9fc3R1ZGVudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJHUkFERSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdHVkZW50ID09IG51bGwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibm9fc3R1ZGVudCI+Tm8gc3VjaCBzdHVkZW50IElkPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdHVkZW50ID0gVGVzdERhdGEudXNlck1vcmFsRGF0YS5maW5kIHsgIWl0LmlzVGVhY2hlciAmJiBpdC5pZCA9PSBzdHVkZW50SWQgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
