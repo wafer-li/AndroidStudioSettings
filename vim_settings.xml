@@ -485,12 +485,12 @@
         <mark key="." line="222" column="38" />
         <mark key="^" line="222" column="38" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" timestamp="1492274476007">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" timestamp="1492275761316">
         <mark key="'" line="8" column="52" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
@@ -619,43 +619,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Prod</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>Prod</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U3VtKE51bWJlcigxKSwgTnVtYmVyKDIpKS5ldmFsCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBsID0+IGwuc2hvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwcmludCgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgaGVoZSA9ICJoZWhlIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGxlZnQgbWF0Y2ggewogICAgICBjYXNlIFN1bShsLCByKSA9PiAiKCIgKyBsLnNob3cgKyAiKyIgKyByLnNob3cgKyAiKSIKICAgICAgY2FzZSBsID0+IGwuc2hvdwogICAgfQogICAgICByaWdodCBtYXRjaCB7CiAgICAgICAgY2FzZSBTdW0obCwgcikgPT4gIigiICsgbC5zaG93ICsgIisiICsgci5zaG93ICsgIikiCiAgICAgICAgY2FzZSByID0+IHIuc2hvdwogICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFN1bShsLCByKSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdG9TdHJpbmc6IFN0cmluZyA9IHN1cGVyLnRvU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIGVsc2UgbGVmZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IGxlZnQuc2hvdwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB0b1N0cmluZwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0b1N0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
