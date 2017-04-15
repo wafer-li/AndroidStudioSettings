@@ -22,11 +22,7 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Response.kt" timestamp="1492250793201">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/Nat.scala" timestamp="1492278454830" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/ActivitiesResponse.kt" timestamp="1492252223733">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="23" column="4" />
@@ -48,11 +44,6 @@
         <mark key="]" line="195" column="84" />
         <mark key="." line="195" column="84" />
         <mark key="^" line="195" column="87" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ActivityListItem.kt" timestamp="1492250785753">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
@@ -130,11 +121,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1490866471153">
         <mark key="'" line="502" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1492246516665">
-        <mark key="[" line="38" column="50" />
-        <mark key="]" line="38" column="51" />
-        <mark key="." line="38" column="51" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="2" column="24" />
@@ -154,11 +140,6 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/WebStormProjects/hexo-tag-plantuml/.gitignore" timestamp="1491626786838">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490333096171">
         <mark key="'" line="66" column="16" />
         <mark key="[" line="83" column="46" />
@@ -177,6 +158,13 @@
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/PeanoNumber.sc" timestamp="1492278158203">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
@@ -199,11 +187,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" timestamp="1492277916802">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" timestamp="1492278544966">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
         <mark key="'" line="13" column="0" />
@@ -479,7 +468,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492276998534">
+      <file name="/Dummy.txt" timestamp="1492278626479">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -550,11 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="43" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="203" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="56" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="67" column="26" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="214" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="108" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -649,44 +633,49 @@
       <jump line="31" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
-      <jump line="0" column="17" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
+      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
+      <jump line="2" column="13" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/PeanoNumber.sc" />
+      <jump line="37" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/PeanoNumber.sc" />
+      <jump line="44" column="18" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
+      <jump line="45" column="19" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U3VjYygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3NpdGlvblw+</text>
+        <text encoding="base64">XDxTdWNjXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBsID0+IGwuc2hvdwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">U3VjYygpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Uwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWVrNAo=</text>
+        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSB3ZWVrNAphYnN0cmFjdCBjbGFzcyBOYXQgewogIGRlZiBpc1plcm86IEJvb2xlYW4KCiAgZGVmIHByZWRlY2Vzc29yOiBOYXQKICBkZWYgc3VjY2Vzc29yID0gbmV3IFN1Y2ModGhpcykKICBkZWYgKyh0aGF0OiBOYXQpOiBOYXQKICBkZWYgLSh0aGF0OiBOYXQpOiBOYXQKICBkZWYgbGVuZ3RoOiBJbnQKfQoKb2JqZWN0IFplcm8gZXh0ZW5kcyBOYXQgewogIGRlZiBpc1plcm86IEJvb2xlYW4gPSB0cnVlCgogIGRlZiBwcmVkZWNlc3NvcjogTmF0ID0KICAgIHRocm93IG5ldyBFeGNlcHRpb24oIlplcm8gZG9lc24ndCBoYXZlIGEgcHJlZGVjZXNzb3IiKQoKICBkZWYgKyh0aGF0OiBOYXQpOiBOYXQgPSB0aGF0CgogIGRlZiAtKHRoYXQ6IE5hdCk6IE5hdCA9CiAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJBIG5hdCBjYW4ndCBiZSBuZWdhdGl2ZSIpCgogIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIwIgoKICBkZWYgbGVuZ3RoOiBJbnQgPSAwCn0KCmNsYXNzIFN1Y2MobjogTmF0KSBleHRlbmRzIE5hdCB7CiAgZGVmIGlzWmVybzogQm9vbGVhbiA9IGZhbHNlCgogIGRlZiBwcmVkZWNlc3NvcjogTmF0ID0gbgoKICBkZWYgKyh0aGF0OiBOYXQpOiBOYXQgPQogICAgaWYgKHRoYXQuaXNaZXJvKSB0aGlzIGVsc2UgbiArIHRoYXQuc3VjY2Vzc29yCgogIGRlZiAtKHRoYXQ6IE5hdCk6IE5hdCA9CiAgICBpZiAodGhhdC5pc1plcm8pIHRoaXMgZWxzZSBuIC0gdGhhdC5wcmVkZWNlc3NvcgoKICBkZWYgbGVuZ3RoOiBJbnQgPQogICAgbi5sZW5ndGggKyAxCgogIG92ZXJyaWRlIGRlZiB0b1N0cmluZzogU3RyaW5nID0gdGhpcy5sZW5ndGgudG9TdHJpbmcKfQoK</text>
+        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IAo=</text>
+        <text encoding="base64">U3VjYygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IFN1Y2MoWmVybykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSB3Cg==</text>
+        <text encoding="base64">U3VjYygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -696,9 +685,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3NpdGlvblw+</last-search>
+      <last-search encoding="base64">XDxTdWNjXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3NpdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdWNjXD4=</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDxpaXNaZXJvXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -714,6 +703,7 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxTdWNjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
