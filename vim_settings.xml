@@ -54,11 +54,6 @@
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginResponse.kt" timestamp="1492250601023">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -445,7 +440,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492259394429">
+      <file name="/Dummy.txt" timestamp="1492260157779">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -465,12 +460,12 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" timestamp="1492254083709">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" timestamp="1492260082887">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="63" />
-        <mark key="." line="4" column="63" />
-        <mark key="^" line="4" column="63" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+        <mark key="^" line="23" column="68" />
       </file>
       <file name="/a.regexp" timestamp="1490089312028">
         <mark key="[" line="0" column="0" />
@@ -511,7 +506,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1492250887515">
+      <file name="/fragment.java" timestamp="1492259977978">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -618,11 +613,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>LookStudentMoralActivity</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>LookStudentMoralActivity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
