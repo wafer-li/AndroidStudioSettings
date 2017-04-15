@@ -165,11 +165,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/content_event.xml" timestamp="1492254497558">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="22" column="41" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/content_event.xml" timestamp="1492258404643">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
@@ -199,11 +199,12 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="49" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492256863079">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492257754334">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
@@ -231,12 +232,12 @@
       <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" timestamp="1492257008363">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" timestamp="1492257847890">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="89" column="15" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490963662131">
         <mark key="'" line="107" column="0" />
@@ -444,7 +445,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492257208206">
+      <file name="/Dummy.txt" timestamp="1492258523773">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -515,9 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
-      <jump line="15" column="0" filename="$USER_HOME$/Programming/IdeaProjects/DesignPatternExample/src/kotlin_example/decorator/Componets.kt" />
-      <jump line="13" column="2" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="105" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="166" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -615,13 +613,16 @@
       <jump line="4" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/AndroidManifest.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
+      <jump line="41" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
+      <jump line="17" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>404</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>404</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
@@ -630,31 +631,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgZXZlbnROYW1lVmlldyA9IHJvb3RWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmV2ZW50X25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLlNUVURFTlRfSUQsIHN0dWRlbnRJZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KHRoaXMsIE1vcmFsTG9va2luZ0FjdGl2aXR5OjpjbGFzcy5qYXZhKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2Ugewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb29rX3N0dWRlbnRfaWQuZXJyb3IgPSBnZXRTdHJpbmcoUi5zdHJpbmcubm9fc3R1ZGVudCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdHVkZW50ID09IG51bGwpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhhc0ZvY3VzICYmIHN0dWRlbnRfcGFzc3dvcmQuaXNFcnJvckVuYWJsZWQpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdHVkZW50X3Bhc3N3b3JkLmVkaXRUZXh0Py5zZXRPbkZvY3VzQ2hhbmdlTGlzdGVuZXIgeyBfLCBoYXNGb2N1cyAtPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdHVkZW50ID0gVGVzdERhdGEudXNlck1vcmFsRGF0YS5maW5kIHsgIWl0LmlzVGVhY2hlciAmJiBpdC5pZCA9PSBzdHVkZW50SWQgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
