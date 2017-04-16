@@ -134,12 +134,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492357150531">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492360038435">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="154" column="39" />
-        <mark key="]" line="155" column="38" />
-        <mark key="." line="155" column="38" />
-        <mark key="^" line="155" column="38" />
+        <mark key="[" line="198" column="5" />
+        <mark key="]" line="200" column="31" />
+        <mark key="." line="200" column="31" />
+        <mark key="^" line="200" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -673,11 +673,11 @@
       <jump line="149" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChiaXRzLmhlYWQgPT0gMCkgCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>de</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -686,31 +686,31 @@
         <text encoding="base64">ICAgIHVudGlsKCkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChiaXRzLmhlYWQgPT0gMCkgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGJpdHMuaGVhZCA9PSAwKSAK</text>
+        <text encoding="base64">ICAgIGRlZiBlbmNvZGVIZWxwZXIodHJlZTogQ29kZVRyZWUsIGNoYXI6IENoYXIpID0gdHJlZSBtYXRjaCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBMZWFmKGMsIF8pID0+IGlmIGMgPT0gY2hhciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBlbmNvZGVIZWxwZXIodHJlZTogQ29kZVRyZWUpID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
