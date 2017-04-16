@@ -6,7 +6,8 @@
       <file name="/HTML Fragment (WikidotParser.kt:1841).html" timestamp="1490120447149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" timestamp="1492283538138">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" timestamp="1492315667718">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="7" />
@@ -468,7 +469,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492279074397">
+      <file name="/Dummy.txt" timestamp="1492315670251">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -542,11 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="108" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="73" column="2" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="149" column="3" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="69" column="41" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="197" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="150" column="38" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="62" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -642,6 +638,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="45" column="19" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" />
+      <jump line="28" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
+      <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
+      <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
