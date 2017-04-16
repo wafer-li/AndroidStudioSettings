@@ -29,7 +29,6 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/Nat.scala" timestamp="1492278454830" />
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
@@ -369,6 +368,12 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/List.sc" timestamp="1492318023848">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
       <file name="vim_settings.xml" timestamp="1489397644773">
         <mark key="[" line="0" column="0" />
       </file>
@@ -646,52 +651,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sum</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>Sum</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdWNjXD4=</text>
+        <text encoding="base64">XDx5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UHJvZChTdW0oTnVtYmVyKDEpLCBOdW1iZXIoMikpLCBWYXIoIngiKSkuc2hvdwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
+        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3VjYygpCg==</text>
+        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">U3VjYygpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">U3VjYygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdWNjXD4=</last-search>
+      <last-search encoding="base64">XDx5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdWNjXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx5XD4=</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDxpaXNaZXJvXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -708,6 +713,7 @@
         <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
+        <entry encoding="base64">XDx5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
