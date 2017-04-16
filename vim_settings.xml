@@ -127,6 +127,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1490866471153">
         <mark key="'" line="502" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="2" column="24" />
@@ -134,12 +140,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492360038435">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492364042374">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="198" column="5" />
-        <mark key="]" line="200" column="31" />
-        <mark key="." line="200" column="31" />
-        <mark key="^" line="200" column="31" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="109" column="40" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -153,12 +159,12 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492341165693">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492364330847">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="52" column="106" />
-        <mark key="]" line="52" column="106" />
-        <mark key="." line="52" column="106" />
-        <mark key="^" line="52" column="89" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490333096171">
         <mark key="'" line="66" column="16" />
@@ -497,7 +503,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492341239720">
+      <file name="/Dummy.txt" timestamp="1492364341493">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -674,43 +680,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>singleton</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>singleton</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVudGlsKCkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICB0ZXN0KCJjb21iaW5lIG9mIHNpbmdsZXRvbiIpIHsKICAgIHZhbCBzaW5nbGV0b24gPSBMaXN0KExlYWYoJ2EnLCAxKSkKICAgIGFzc2VydChjb21iaW5lKHNpbmdsZXRvbikgPT09IHNpbmdsZXRvbikKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBzaW5nbGV0b24gPSBOaWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbmNvZGVIZWxwZXIodHJlZTogQ29kZVRyZWUsIGNoYXI6IENoYXIpID0gdHJlZSBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChjb21iaW5lKHNpbmdsZXRvbikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBMZWFmKGMsIF8pID0+IGlmIGMgPT0gY2hhciAK</text>
+        <text encoding="base64">ICAgIGNvbWJpbmUoc2luZ2xldG9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbmNvZGVIZWxwZXIodHJlZTogQ29kZVRyZWUpID0gewo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRlY29kZShGb3JrKExlYWYoJ2EnLCAyKSwgTGVhZignYicsIDMpLCBMaXN0KCdhJywgJ2InKSwgNSksIExpc3QoMCwgMSkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB0ZXN0KCJkZWNvZGUgYW5kIGVuY29kZSBhIHZlcnkgc2hvcnQgdGV4dCBzaG91bGQgYmUgaWRlbnRpdHkiKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -749,8 +755,8 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q!</entry>
-        <entry>ew</entry>
         <entry>w3</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
