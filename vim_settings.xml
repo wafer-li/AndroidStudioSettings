@@ -13,6 +13,13 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" timestamp="1492353746747">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="80" />
+        <mark key="]" line="31" column="84" />
+        <mark key="." line="31" column="84" />
+        <mark key="^" line="31" column="84" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/build.gradle" timestamp="1490461685559">
         <mark key="'" line="15" column="21" />
       </file>
@@ -32,6 +39,12 @@
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" timestamp="1490956501311">
         <mark key="'" line="69" column="7" />
       </file>
@@ -47,6 +60,12 @@
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/MoralLookingActivity.kt" timestamp="1492353763958">
+        <mark key="[" line="29" column="76" />
+        <mark key="]" line="29" column="80" />
+        <mark key="." line="29" column="80" />
+        <mark key="^" line="29" column="80" />
       </file>
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
@@ -89,12 +108,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/.gitignore" timestamp="1492334392823">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1491065322308">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="246" column="43" />
@@ -108,11 +121,17 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492259024686">
-        <mark key="[" line="16" column="57" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
         <mark key="[" line="0" column="0" />
@@ -127,25 +146,8 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1490866471153">
         <mark key="'" line="502" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492364042374">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="109" column="40" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1492353293566">
+        <mark key="'" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -159,12 +161,12 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492364330847">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="30" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="56" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490333096171">
         <mark key="'" line="66" column="16" />
@@ -305,26 +307,8 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1631).html" timestamp="1490160364164">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
@@ -388,6 +372,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LoginActivity.kt" timestamp="1492353759468">
+        <mark key="[" line="42" column="80" />
+        <mark key="]" line="42" column="84" />
+        <mark key="." line="42" column="84" />
+        <mark key="^" line="42" column="84" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/List.java" timestamp="1491283216583">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="44" />
@@ -438,9 +428,6 @@
         <mark key="^" line="9" column="107" />
         <mark key="." line="9" column="107" />
       </file>
-      <file name="/Plain text Fragment (HuffmanSuite.scala:777).txt" timestamp="1492337150755">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1422).regexp" timestamp="1490160202453">
         <mark key="[" line="0" column="0" />
       </file>
@@ -457,7 +444,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="/sbtShell" timestamp="1492334243160">
+      <file name="/sbtShell" timestamp="1490966713792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -497,13 +484,19 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/User.kt" timestamp="1491545870799">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="51" />
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492364341493">
+      <file name="/Dummy.txt" timestamp="1492353808662">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -577,6 +570,24 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="230" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="154" column="1" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="158" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="160" column="50" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="223" column="38" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="124" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="35" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="163" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="228" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="153" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="222" column="35" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="69" column="7" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" />
+      <jump line="113" column="43" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/build.sbt" />
       <jump line="7" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="146" column="28" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -655,77 +666,59 @@
       <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
-      <jump line="193" column="4" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="49" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="65" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="200" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="50" column="8" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
-      <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
-      <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="199" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="216" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="16" column="12" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="144" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="214" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="212" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="209" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="208" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="211" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="149" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="17" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" />
+      <jump line="60" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>singleton</text>
+        <text>LONG</text>
       </register>
       <register name="-" type="4">
-        <text>singleton</text>
+        <text>LONG</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw9XD4=</text>
+        <text encoding="base64">XDx5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0ZXN0KCJjb21iaW5lIG9mIHNpbmdsZXRvbiIpIHsKICAgIHZhbCBzaW5nbGV0b24gPSBMaXN0KExlYWYoJ2EnLCAxKSkKICAgIGFzc2VydChjb21iaW5lKHNpbmdsZXRvbikgPT09IHNpbmdsZXRvbikKICB9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgUi5zdHJpbmcubm9faW50ZXJuZXQsIFNuYWNrYmFyLkxFTkdUSF9MT05HKS5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW5nbGV0b24gPSBOaWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChjb21iaW5lKHNpbmdsZXRvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm5ldHdvcmsgVGhyb3dhYmxlIiwgdC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmUoc2luZ2xldG9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZhaWwiLCAidHJ1ZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0KCkK</text>
+        <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRlY29kZShGb3JrKExlYWYoJ2EnLCAyKSwgTGVhZignYicsIDMpLCBMaXN0KCdhJywgJ2InKSwgNSksIExpc3QoMCwgMSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0KCJkZWNvZGUgYW5kIGVuY29kZSBhIHZlcnkgc2hvcnQgdGV4dCBzaG91bGQgYmUgaWRlbnRpdHkiKSB7Cg==</text>
+        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw9XD4=</last-search>
+      <last-search encoding="base64">XDx5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw9XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx5XD4=</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDxpaXNaZXJvXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -743,7 +736,6 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
         <entry encoding="base64">XDx5XD4=</entry>
-        <entry encoding="base64">XDw9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -755,7 +747,6 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q!</entry>
-        <entry>w3</entry>
         <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
