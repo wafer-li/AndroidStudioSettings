@@ -134,12 +134,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492340516735">
-        <mark key="'" line="204" column="0" />
-        <mark key="[" line="133" column="34" />
-        <mark key="]" line="133" column="47" />
-        <mark key="." line="133" column="47" />
-        <mark key="^" line="133" column="47" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492341436596">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="140" column="10" />
+        <mark key="]" line="140" column="27" />
+        <mark key="." line="140" column="27" />
+        <mark key="^" line="140" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -153,11 +153,12 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492338586138">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="63" />
-        <mark key="." line="36" column="63" />
-        <mark key="^" line="36" column="63" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492341165693">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="52" column="106" />
+        <mark key="]" line="52" column="106" />
+        <mark key="." line="52" column="106" />
+        <mark key="^" line="52" column="89" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490333096171">
         <mark key="'" line="66" column="16" />
@@ -496,7 +497,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492334412448">
+      <file name="/Dummy.txt" timestamp="1492341239720">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -570,24 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="154" column="1" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="158" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="160" column="50" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="223" column="38" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="124" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="35" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="163" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="228" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="153" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="222" column="35" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="69" column="7" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" />
-      <jump line="113" column="43" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/build.sbt" />
       <jump line="7" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="146" column="28" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -670,46 +653,64 @@
       <jump line="49" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="65" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="200" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="50" column="8" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
+      <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="199" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="216" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="16" column="12" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="144" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="149" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="208" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="214" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="212" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="209" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="211" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zzz</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>zzz</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UHJvZChTdW0oTnVtYmVyKDEpLCBOdW1iZXIoMikpLCBWYXIoIngiKSkuc2hvdwo=</text>
+        <text encoding="base64">ICAgIHVudGlsKCkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgbWFrZU9yZGVyZWRMZWFmTGlzdChmcmVxczogTGlzdFsoQ2hhciwgSW50KV0pOiBMaXN0W0xlYWZdID0gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
