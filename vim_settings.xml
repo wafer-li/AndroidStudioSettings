@@ -89,6 +89,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/.gitignore" timestamp="1492334392823">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1491065322308">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="246" column="43" />
@@ -127,6 +133,13 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492335899357">
+        <mark key="'" line="200" column="4" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -428,7 +441,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="/sbtShell" timestamp="1490966713792">
+      <file name="/sbtShell" timestamp="1492334243160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -474,7 +487,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492322115702">
+      <file name="/Dummy.txt" timestamp="1492334412448">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -548,7 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="150" column="38" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="62" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="86" column="5" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -648,13 +660,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
+      <jump line="193" column="4" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>??? // tree match ...</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>??? // tree match ...</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
@@ -663,31 +676,31 @@
         <text encoding="base64">UHJvZChTdW0oTnVtYmVyKDEpLCBOdW1iZXIoMikpLCBWYXIoIngiKSkuc2hvdwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBMZWFmCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">U3VjYygpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">U3VjYygpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
