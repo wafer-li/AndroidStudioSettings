@@ -134,12 +134,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492351686025">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492357150531">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="178" column="43" />
-        <mark key="]" line="186" column="28" />
-        <mark key="." line="186" column="28" />
-        <mark key="^" line="186" column="28" />
+        <mark key="[" line="154" column="39" />
+        <mark key="]" line="155" column="38" />
+        <mark key="." line="155" column="38" />
+        <mark key="^" line="155" column="38" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -673,53 +673,53 @@
       <jump line="149" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChiaXRzLmhlYWQgPT0gMCkgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>de</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5XD4=</text>
+        <text encoding="base64">XDw9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVudGlsKCkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChiaXRzLmhlYWQgPT0gMCkgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmKGJpdHMuaGVhZCA9PSAwKSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXQK</text>
+        <text encoding="base64">ICAgIGZyZXFzLnNvcnRXaXRoKCh0MSwgdDIpID0+IHQxLl8yIDwgdDIuXzIpLm1hcCgodCkgPT4gTGVhZih0Ll8xLCB0Ll8yKSkKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5XD4=</last-search>
+      <last-search encoding="base64">XDw9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDw9XD4=</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDxpaXNaZXJvXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -737,6 +737,7 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
         <entry encoding="base64">XDx5XD4=</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
