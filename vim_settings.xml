@@ -39,12 +39,6 @@
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" timestamp="1490956501311">
         <mark key="'" line="69" column="7" />
       </file>
@@ -108,6 +102,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/.gitignore" timestamp="1492334392823">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1491065322308">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="246" column="43" />
@@ -120,12 +120,6 @@
         <mark key="]" line="8" column="59" />
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -146,20 +140,14 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1490866471153">
         <mark key="'" line="502" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1492353293566">
         <mark key="'" line="17" column="30" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="43" column="43" />
-        <mark key="." line="43" column="43" />
-        <mark key="^" line="43" column="43" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
         <mark key="'" line="0" column="2" />
@@ -167,6 +155,38 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1492364042374">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="109" column="40" />
+        <mark key="." line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="43" />
+        <mark key="^" line="43" column="43" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1492409126838">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="9" column="63" />
+        <mark key="." line="9" column="63" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1492364330847">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1490333096171">
         <mark key="'" line="66" column="16" />
@@ -307,8 +327,26 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1631).html" timestamp="1490160364164">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
@@ -428,6 +466,9 @@
         <mark key="^" line="9" column="107" />
         <mark key="." line="9" column="107" />
       </file>
+      <file name="/Plain text Fragment (HuffmanSuite.scala:777).txt" timestamp="1492337150755">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1422).regexp" timestamp="1490160202453">
         <mark key="[" line="0" column="0" />
       </file>
@@ -483,12 +524,6 @@
         <mark key="]" line="34" column="86" />
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/User.kt" timestamp="1491545870799">
         <mark key="[" line="8" column="15" />
@@ -673,10 +708,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LONG</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>LONG</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
@@ -685,31 +720,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgUi5zdHJpbmcubm9faW50ZXJuZXQsIFNuYWNrYmFyLkxFTkdUSF9MT05HKS5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLCAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm5ldHdvcmsgVGhyb3dhYmxlIiwgdC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZhaWwiLCAidHJ1ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm5ldHdvcmsgVGhyb3dhYmxlIiwgdC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZhaWwiLCAidHJ1ZSIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
+        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -736,6 +771,7 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
         <entry encoding="base64">XDx5XD4=</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -747,6 +783,7 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q!</entry>
+        <entry>w3</entry>
         <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
