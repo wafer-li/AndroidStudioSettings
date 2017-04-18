@@ -163,6 +163,12 @@
         <mark key="^" line="109" column="40" />
         <mark key="." line="167" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/List.sc" timestamp="1492540090967">
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
         <mark key="]" line="43" column="43" />
@@ -605,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="154" column="1" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -705,46 +710,47 @@
       <jump line="60" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
+      <jump line="20" column="41" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/List.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">XSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">XSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgUi5zdHJpbmcubm9faW50ZXJuZXQsIFNuYWNrYmFyLkxFTkdUSF9MT05HKS5zaG93KCkK</text>
+        <text encoding="base64">Y29uY2F0KExpc3QoKSwgTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgdiA9PiB2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLCAK</text>
+        <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm5ldHdvcmsgVGhyb3dhYmxlIiwgdC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICBjYXNlIExpc3QoYSA6OiBhcykgOjogYnMgPT4gYSA6OiBmbGF0dGVuKGFzKSA6OiBmbGF0dGVuKGJzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZhaWwiLCAidHJ1ZSIpCg==</text>
+        <text encoding="base64">ICBjYXNlIExpc3QoeCkgPT4geCA6OiBOaWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
+        <text encoding="base64">ICBjYXNlIGEgOjo6IGIgPT4gZmxhdHRlbihhKSA6OjogZmxhdHRlbihiKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIExpc3QoYSA6OiBhcykgOjogYnMgPT4gYSA6OiBmbGF0dGVuKGFzKSA6OiBmbGF0dGVuKGJzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
+        <text encoding="base64">ICBjYXNlIHkgOjogTGlzdCh6IDo6IHpzKSA9PiB5IDo6IGZsYXR0ZW4oeiA6OiB6cykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
