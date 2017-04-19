@@ -600,6 +600,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/Turple.sc" timestamp="1492541549332">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/values/strings.xml" timestamp="1490463324707">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="2" column="34" />
@@ -714,10 +720,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XSA=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XSA=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
@@ -726,19 +732,19 @@
         <text encoding="base64">Y29uY2F0KExpc3QoKSwgTGlzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgdiA9PiB2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIExpc3QoYSA6OiBhcykgOjogYnMgPT4gYSA6OiBmbGF0dGVuKGFzKSA6OiBmbGF0dGVuKGJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlIExpc3QoeCkgPT4geCA6OiBOaWwK</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIGEgOjo6IGIgPT4gZmxhdHRlbihhKSA6OjogZmxhdHRlbihiKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgdiA9PiB2Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
@@ -747,10 +753,10 @@
         <text encoding="base64">ICBjYXNlIExpc3QoYSA6OiBhcykgOjogYnMgPT4gYSA6OiBmbGF0dGVuKGFzKSA6OiBmbGF0dGVuKGJzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNlIHkgOjogeXMgPT4geSA6OiBmbGF0dGVuKHlzKQo=</text>
+        <text encoding="base64">ICBjYXNlIExpc3QoeCkgPT4geCA6OiBOaWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXNlIHkgOjogTGlzdCh6IDo6IHpzKSA9PiB5IDo6IGZsYXR0ZW4oeiA6OiB6cykK</text>
+        <text encoding="base64">ICBjYXNlIGEgOjo6IGIgPT4gZmxhdHRlbihhKSA6OjogZmxhdHRlbihiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
