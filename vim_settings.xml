@@ -596,6 +596,12 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" timestamp="1492278995057">
         <mark key="'" line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492710148668">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" timestamp="1492275761316">
         <mark key="'" line="8" column="52" />
         <mark key="[" line="34" column="41" />
@@ -748,31 +754,31 @@
         <text encoding="base64">ZW5jb2RlKGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFjaygpCg==</text>
+        <text encoding="base64">XGVuZHtlcXVhbHRpb259Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFjaygK</text>
+        <text encoding="base64">XGJlZ2lue2VxdWF0aW9ufQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhY2soeHMxIGRyb3BXaGlsZSAoZSA9PiBlID09IHgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3QoeCA6OiB4czEgdGFrZVdoaWxlKGUgPT4gZSA9PSB4KSkgKysK</text>
+        <text encoding="base64">KHhzICsrIHlzKSBtYXAgZiA9ICh4cyBtYXAgZikgKysgKHlzIG1hcCBmKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ClxiZWdpbnt0aXRsZXBhZ2V9ClxtYWtldGl0bGUKXGVuZHt0aXRsZXBhZ2V9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2soeHMxLikK</text>
+        <text encoding="base64">YW4gYSBwYWdlc2l6ZSBhbmQgZm9udHNpemUgcGFyYW1ldGVycy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhY2soeHMxLikK</text>
+        <text encoding="base64">SW4gdGhpcyBkb2N1bWVudCBzb21lIGV4dHJhIHBhY2thZ2VzIGFuZCBwYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFjayhMaXN0KCJhIiwgImEiLCAiYSIsICJiIiwgImMiLCAiYyIsICJhIikpCg==</text>
+        <text encoding="base64">d2VyZSBhZGRlZC4gVGhlcmUgaXMgYSBlbmNvZGluZyBwYWNrYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XGJlZ2lue3RpdGxlcGFnZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
