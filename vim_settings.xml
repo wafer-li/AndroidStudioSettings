@@ -74,6 +74,12 @@
         <mark key="^" line="24" column="79" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/Reduction.sc" timestamp="1492706505422">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -547,7 +553,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492353808662">
+      <file name="/Dummy.txt" timestamp="1492706521851">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -730,10 +736,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
