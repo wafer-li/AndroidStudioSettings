@@ -185,6 +185,12 @@
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1492716143198">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
         <mark key="]" line="43" column="43" />
@@ -743,31 +749,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5XD4=</text>
+        <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZW5jb2RlKGRhdGEpCg==</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIGxlZnQtc2lkZSB3aWxsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlzdC5mbGF0TWFwKCh0KSA9PiB0LnByb2R1Y3RJdGVyYXRvcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoImMiLCAyKSwoImEiLCAxKSwgTGlzdCgoImIiLCAyKSkpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -776,21 +782,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">XAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XGVuZHtlcXVhbHRpb259Cg==</text>
+        <text encoding="base64">bGlzdC5mbGF0dGVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5XD4=</last-search>
+      <last-search encoding="base64">XDwyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDwyXD4=</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute encoding="base64">XDxpaXNaZXJvXD4=</last-substitute>
+      <last-substitute encoding="base64">XDx5XD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -805,8 +811,9 @@
         <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
-        <entry encoding="base64">XDx5XD4=</entry>
         <entry encoding="base64">XDw9XD4=</entry>
+        <entry encoding="base64">XDx5XD4=</entry>
+        <entry encoding="base64">XDwyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
