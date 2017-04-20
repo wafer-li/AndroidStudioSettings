@@ -596,11 +596,11 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" timestamp="1492278995057">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492710148668">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492710884540">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" timestamp="1492275761316">
         <mark key="'" line="8" column="52" />
@@ -639,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="158" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="160" column="50" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -739,13 +738,14 @@
       <jump line="20" column="41" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/List.sc" />
       <jump line="114" column="34" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/List.scala" />
       <jump line="0" column="23" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/HighOrderList.sc" />
+      <jump line="19" column="15" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VGhlIGxlZnQtc2lkZSB3aWxsIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
@@ -754,31 +754,31 @@
         <text encoding="base64">ZW5jb2RlKGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XGVuZHtlcXVhbHRpb259Cg==</text>
+        <text encoding="base64">VGhlIGxlZnQtc2lkZSB3aWxsIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XGJlZ2lue2VxdWF0aW9ufQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHhzICsrIHlzKSBtYXAgZiA9ICh4cyBtYXAgZikgKysgKHlzIG1hcCBmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ClxiZWdpbnt0aXRsZXBhZ2V9ClxtYWtldGl0bGUKXGVuZHt0aXRsZXBhZ2V9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW4gYSBwYWdlc2l6ZSBhbmQgZm9udHNpemUgcGFyYW1ldGVycy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW4gdGhpcyBkb2N1bWVudCBzb21lIGV4dHJhIHBhY2thZ2VzIGFuZCBwYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2VyZSBhZGRlZC4gVGhlcmUgaXMgYSBlbmNvZGluZyBwYWNrYWdlCg==</text>
+        <text encoding="base64">XGVuZHtlcXVhbHRpb259Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XGJlZ2lue3RpdGxlcGFnZX0K</text>
+        <text encoding="base64">XGJlZ2lue2VxdWF0aW9ufQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
