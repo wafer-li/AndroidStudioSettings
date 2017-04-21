@@ -185,11 +185,10 @@
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1492716143198">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-        <mark key="^" line="6" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1492717010813">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
@@ -748,11 +747,11 @@
       <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -761,31 +760,31 @@
         <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhcnMgZmxhdE1hcCgoYykgPT4geyBjIH0pIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGlzdC5mbGF0TWFwKCh0KSA9PiB0LnByb2R1Y3RJdGVyYXRvcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoImMiLCAyKSwoImEiLCAxKSwgTGlzdCgoImIiLCAyKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlzdC5mbGF0TWFwKCh0KSA9PiB0LnByb2R1Y3RJdGVyYXRvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoImMiLCAyKSwoImEiLCAxKSwgTGlzdCgoImIiLCAyKSkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGlzdC5mbGF0dGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
