@@ -36,6 +36,9 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1492795692080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
@@ -338,6 +341,12 @@
         <mark key="]" line="8" column="63" />
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Kotlin Console" timestamp="1490885123574">
         <mark key="[" line="0" column="0" />
@@ -748,43 +757,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZFBhaXIyKDcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGZpbmRQYWlyMShuOiBJbnQpOiBTZXFbKEludCwgSW50KV0gPQogIDEgdW50aWwgbiBmbGF0TWFwIHsgaSA9PgogICAgMSB1bnRpbCBpIG1hcCB7IGogPT4KICAgICAgKGksIGopCiAgICB9IGZpbHRlciB7IGNhc2UgKGEsIGIpID0+IGlzUHJpbWUoYSArIGIpfQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZFBhaXIyKDcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhcnMgZmxhdE1hcCgoYykgPT4geyBjIH0pIAo=</text>
+        <text encoding="base64">ZGVmIGZpbmRQYWlyMihuOiBJbnQpOiBTZXFbKEludCwgSW50KV0gPQogIDEgdW50aWwgbiBmbGF0TWFwIHsgaSA9Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoKCJTdHJpbmciLCAxKSksIE5vbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZmlsdGVyIHsgY2FzZSAoYSwgYikgPT4gaXNQcmltZShhICsgYil9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlzdC5mbGF0TWFwKCh0KSA9PiB0LnByb2R1Y3RJdGVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgKGksIGopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGxpc3QgPSBMaXN0KExpc3QoImMiLCAyKSwoImEiLCAxKSwgTGlzdCgoImIiLCAyKSkpCg==</text>
+        <text encoding="base64">ICAgIDEgdW50aWwgaSBtYXAgeyBqID0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAxIHVudGlsIG4gZmxhdE1hcCB7IGkgPT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZpbmRQYWlyMShuOiBJbnQpOiBTZXFbKEludCwgSW50KV0gPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
