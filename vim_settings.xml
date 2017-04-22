@@ -348,7 +348,8 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492842165434">
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492855175504">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="20" column="41" />
         <mark key="]" line="20" column="41" />
         <mark key="." line="20" column="41" />
@@ -660,10 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="153" column="36" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="222" column="35" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="69" column="7" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" />
       <jump line="113" column="43" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/build.sbt" />
@@ -760,6 +757,10 @@
       <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
       <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
+      <jump line="1" column="10" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
+      <jump line="17" column="20" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
+      <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
