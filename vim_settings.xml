@@ -336,6 +336,13 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" timestamp="1492858341867">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/BaseResponse.kt" timestamp="1492256506946">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="63" />
@@ -661,8 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="7" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" />
-      <jump line="113" column="43" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/build.sbt" />
       <jump line="7" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="146" column="28" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -761,13 +766,15 @@
       <jump line="17" column="20" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
       <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
+      <jump line="1" column="23" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
+      <jump line="7" column="12" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -776,31 +783,31 @@
         <text encoding="base64">TGlzdCgiYSIsICJiIiwgImMiLCAiZCIpLnN1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIGNoYXJzID0gJ2EnIHRvICd6Jwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSBmbGF0dGVuCg==</text>
+        <text encoding="base64">ICAgIlxuIiArIChsaW5lcyBta1N0cmluZyAiXG4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHF1ZWVucy5oZWFkICE9IGNvbCArIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFZlY3RvcigiJWMlYyIuZm9ybWF0KGEsIGIpKQo=</text>
+        <text encoding="base64">ICAgIHF1ZWVucy5oZWFkICE9IGNvbCAtIDEgJiYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjaGFycyBtYXAgeyBiID0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hhcnMgbWFwIHsgYSA9Pgo=</text>
+        <text encoding="base64">cXVlZW5zKDQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChhID09IGIpIFZlY3RvcigpCg==</text>
+        <text encoding="base64">dmFsIGNoYXJzID0gJ2EnIHRvICd6Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KFZlY3RvcigxLCAyKSB6aXAgVmVjdG9yKDMsIDQpKSBtYXAgKHAgPT4gcC5fMSAqIHAuXzIpIHN1bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -811,7 +818,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwyXD4=</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute encoding="base64">XDx5XD4=</last-substitute>
+      <last-substitute encoding="base64">XDwyXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
