@@ -348,11 +348,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492836159152">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="24" column="28" />
-        <mark key="." line="24" column="28" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492837842906">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="69" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="/Kotlin Console" timestamp="1490885123574">
         <mark key="[" line="0" column="0" />
@@ -763,10 +763,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">d2l0aEZpbHRlcigoYykgPT4gYyA9PSAiMSIpLnsgYyA9PiBjLnRvSW50fQ==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">d2l0aEZpbHRlcigoYykgPT4gYyA9PSAiMSIpLnsgYyA9PiBjLnRvSW50fQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
