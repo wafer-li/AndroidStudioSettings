@@ -67,6 +67,12 @@
         <mark key="." line="29" column="80" />
         <mark key="^" line="29" column="80" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Test.kt" timestamp="1492867487731">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -362,9 +368,7 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="/Kotlin Console" timestamp="1490885123574">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Kotlin Console" timestamp="1492867577159" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="60" />
@@ -771,10 +775,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -783,31 +787,31 @@
         <text encoding="base64">TGlzdCgiYSIsICJiIiwgImMiLCAiZCIpLnN1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIlxuIiArIChsaW5lcyBta1N0cmluZyAiXG4iKQo=</text>
+        <text encoding="base64">dmFsIHggPSAiSGVsbG8gV29ybGQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1ZWVucy5oZWFkICE9IGNvbCArIDEK</text>
+        <text encoding="base64">dmFsIHcgPSBXaW5kb3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHF1ZWVucy5oZWFkICE9IGNvbCAtIDEgJiYK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LldpbmRvdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cXVlZW5zKDQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIGNoYXJzID0gJ2EnIHRvICd6Jwo=</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
