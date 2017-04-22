@@ -285,6 +285,11 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="49" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Map.sc" timestamp="1492882827505">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492257754334">
         <mark key="'" line="19" column="7" />
         <mark key="[" line="54" column="0" />
@@ -368,7 +373,6 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="/Kotlin Console" timestamp="1492867577159" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="60" />
@@ -775,10 +779,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cy5jb2xsZWN0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -787,31 +791,31 @@
         <text encoding="base64">TGlzdCgiYSIsICJiIiwgImMiLCAiZCIpLnN1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cy5jb2xsZWN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cy4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIHggPSAiSGVsbG8gV29ybGQiCg==</text>
+        <text encoding="base64">cy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIHcgPSBXaW5kb3coKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LldpbmRvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dmFsIHggPSAiSGVsbG8gV29ybGQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dmFsIHcgPSBXaW5kb3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LldpbmRvdwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
