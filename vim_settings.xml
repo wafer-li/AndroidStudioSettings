@@ -348,11 +348,10 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492837842906">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="69" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" timestamp="1492840449445">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Kotlin Console" timestamp="1490885123574">
         <mark key="[" line="0" column="0" />
@@ -762,11 +761,11 @@
       <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aEZpbHRlcigoYykgPT4gYyA9PSAiMSIpLnsgYyA9PiBjLnRvSW50fQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFsIGNoYXJzID0gJ2EnIHRvICd6Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aEZpbHRlcigoYykgPT4gYyA9PSAiMSIpLnsgYyA9PiBjLnRvSW50fQ==</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -775,31 +774,31 @@
         <text encoding="base64">TGlzdCgiYSIsICJiIiwgImMiLCAiZCIpLnN1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TGlzdCgiYSIsICJiIiwgImMiLCAiZCIpLnN1bQo=</text>
+        <text encoding="base64">dmFsIGNoYXJzID0gJ2EnIHRvICd6Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHkgPC0geXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHggPC0geHMK</text>
+        <text encoding="base64">fSBmbGF0dGVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KFZlY3RvcigxLCAyKSB6aXAgVmVjdG9yKDMsIDQpKSBtYXAgXzEgKiBfLl8yKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IHlpZWxkIHgqeQo=</text>
+        <text encoding="base64">ICAgIFZlY3RvcigiJWMlYyIuZm9ybWF0KGEsIGIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3Igewo=</text>
+        <text encoding="base64">ICBjaGFycyBtYXAgeyBiID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHkgPC0geXMK</text>
+        <text encoding="base64">Y2hhcnMgbWFwIHsgYSA9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHggPC0geHMK</text>
+        <text encoding="base64">ICAgIGlmIChhID09IGIpIFZlY3RvcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KFZlY3RvcigxLCAyKSB6aXAgVmVjdG9yKDMsIDQpKSBtYXAgKHAgPT4gcC5fMSAqIHAuXzIpIHN1bQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
