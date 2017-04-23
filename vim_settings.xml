@@ -105,11 +105,12 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" timestamp="1492888960323">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="15" column="29" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" timestamp="1492890936405">
+        <mark key="'" line="4" column="31" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/styles.xml" timestamp="1491548790150">
         <mark key="[" line="12" column="0" />
@@ -684,11 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="146" column="28" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="202" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="107" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="34" column="15" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="123" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -784,13 +780,18 @@
       <jump line="1" column="23" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
       <jump line="7" column="12" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
       <jump line="18" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Map.sc" />
+      <jump line="12" column="26" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
+      <jump line="24" column="1" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
+      <jump line="4" column="31" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -799,31 +800,31 @@
         <text encoding="base64">bmV3IFBvbHkoTWFwKDAgLT4gNS4wLCAxIC0+IDMsIDIgKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB3b3Jkcy5ncm91cEJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlcm1zICsrIChleHApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlcm1zICsrIChleHAsIChjb2VmZiArIHRlcm1zKGV4cCkpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAoZXhwLCBjb2VmZikgPSB0ZXJtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlcm1zICsrIChleHAsIChjb2VmZiArIHRlcm1zKGV4cCkpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW8uU291cmNlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmlvLlNvdXJjZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFsIGluID0gLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9IHlpZWxkIGNoYXJDb2RlKGNoYXIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdmFsIChleHAsIGNvZWZmKSA9IAo=</text>
+        <text encoding="base64">ICAgIGNoYXIgPC0gd29yZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBmb3Igewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
