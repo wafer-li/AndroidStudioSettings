@@ -375,11 +375,10 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1492928599443">
-        <mark key="[" line="76" column="57" />
-        <mark key="]" line="76" column="59" />
-        <mark key="." line="76" column="59" />
-        <mark key="^" line="76" column="59" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1492933572183">
+        <mark key="[" line="103" column="40" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
         <mark key="[" line="14" column="0" />
@@ -564,7 +563,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="/sbtShell" timestamp="1492924801235">
+      <file name="/sbtShell" timestamp="1492930457158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -799,44 +798,44 @@
       <jump line="30" column="5" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>word</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;7225247368&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgKGZvciB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGlzdCA6OiBjb21iaW5hdGlvbnMob2NjdXJyZW5jZXMudGFpbCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfSB5aWVsZCAoY2hhciwgbmV3T2NjKSkgdG9MaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdPY2MgPC0gMSB0byBvY2MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGxpc3QgPSAoZm9yIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMgZm9sZExlZnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGlzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
