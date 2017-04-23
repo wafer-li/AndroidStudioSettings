@@ -73,6 +73,12 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/.gitignore" timestamp="1492943288129">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="45" column="6" />
+        <mark key="." line="45" column="6" />
+        <mark key="^" line="45" column="6" />
+      </file>
       <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,6 +152,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1492941823854">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="48" />
+        <mark key="^" line="52" column="2" />
+        <mark key="." line="48" column="48" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1491065322308">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="246" column="43" />
@@ -200,12 +212,6 @@
         <mark key="]" line="167" column="0" />
         <mark key="^" line="109" column="40" />
         <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/List.sc" timestamp="1492540090967">
-        <mark key="'" line="20" column="41" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1492717010813">
         <mark key="[" line="10" column="0" />
@@ -375,12 +381,12 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1492934800825">
-        <mark key="'" line="108" column="33" />
-        <mark key="[" line="112" column="47" />
-        <mark key="]" line="112" column="51" />
-        <mark key="." line="112" column="51" />
-        <mark key="^" line="112" column="51" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1492943217217">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="187" column="42" />
+        <mark key="]" line="187" column="58" />
+        <mark key="." line="187" column="58" />
+        <mark key="^" line="187" column="58" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
         <mark key="[" line="14" column="0" />
@@ -565,7 +571,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="/sbtShell" timestamp="1492930457158">
+      <file name="/sbtShell" timestamp="1492941989099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -611,7 +617,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492711649349">
+      <file name="/Dummy.txt" timestamp="1492943312184">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -698,13 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="243" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
-      <jump line="13" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
-      <jump line="19" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
@@ -798,46 +797,53 @@
       <jump line="4" column="28" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
       <jump line="30" column="5" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
       <jump line="108" column="33" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="150" column="7" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="116" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="71" column="47" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="24" column="40" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="168" column="20" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="188" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWFwIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmlkZWEvKiovbW9uZ29TZXR0aW5ncy54bWwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwIA==</text>
+        <text>getOrElse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKGZvciB7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDIpKSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">LmlkZWEvKiovbW9uZ29TZXR0aW5ncy54bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSB5aWVsZCAoY2hhciwgbmV3T2NjKSBjb21iaW5hdGlvbnMoMikgdG9MaXN0Cg==</text>
+        <text encoding="base64">IyBNb25nbyBFeHBsb3JlciBwbHVnaW46Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdPY2MgPC0gMSB0byBvbGRPY2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoY2hhciwgb2xkT2NjKSA8LSBvY2N1cnJlbmNlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciB7Cg==</text>
+        <text encoding="base64">LmlkZWEvKiovbGlicmFyaWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LmlkZWEvKiovZ3JhZGxlLnhtbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBHcmFkbGU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdPY2MgCg==</text>
+        <text encoding="base64">LmlkZWEvKiovdWlEZXNpZ25lci54bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -873,13 +879,13 @@
         <entry>s/N/S</entry>
         <entry>s/S/W/g</entry>
         <entry>s/W/E/g</entry>
-        <entry>wq</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q!</entry>
         <entry>w3</entry>
         <entry>ew</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
