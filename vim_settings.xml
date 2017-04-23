@@ -105,8 +105,8 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" timestamp="1492923888946">
-        <mark key="'" line="4" column="28" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" timestamp="1492924662256">
+        <mark key="'" line="30" column="5" />
         <mark key="[" line="47" column="10" />
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="10" />
@@ -369,6 +369,12 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1492925544218">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -552,7 +558,7 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="/sbtShell" timestamp="1490966713792">
+      <file name="/sbtShell" timestamp="1492924801235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -685,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="123" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="243" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -785,13 +790,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
       <jump line="24" column="1" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
       <jump line="4" column="28" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
+      <jump line="30" column="5" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;7225247368&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>toSet</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -800,31 +806,31 @@
         <text>&quot;7225247368&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAoIGNoYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3b3Jkcy5ncm91cEJ5Cg==</text>
+        <text encoding="base64">ICAgIHcgZ3JvdXBCeShjaGFyID0+IHcuY291bnQoYyA9PiBjID09IGNoYXIpKSBtYXAge2Nhc2UgKGksIHMpID0+IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW8uU291cmNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmlvLlNvdXJjZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIGluID0gLgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICB3b3Jkcy5ncm91cEJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
