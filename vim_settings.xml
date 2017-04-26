@@ -20,9 +20,6 @@
         <mark key="." line="31" column="84" />
         <mark key="^" line="31" column="84" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/build.gradle" timestamp="1490461685559">
-        <mark key="'" line="15" column="21" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/java/com/wafer/scpviewer/MainActivity.kt" timestamp="1489853871728">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="19" column="40" />
@@ -42,21 +39,12 @@
       <file name="/LLDB" timestamp="1489850997932">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetReader.scala" timestamp="1490956501311">
-        <mark key="'" line="69" column="7" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PatternMatching.sc" timestamp="1492277373156">
-        <mark key="'" line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/application/TestData.java" timestamp="1490263773653">
         <mark key="'" line="191" column="40" />
         <mark key="[" line="195" column="84" />
         <mark key="]" line="195" column="84" />
         <mark key="." line="195" column="84" />
         <mark key="^" line="195" column="87" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/List.scala" timestamp="1492579488325">
-        <mark key="'" line="114" column="34" />
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
         <mark key="[" line="0" column="0" />
@@ -187,17 +175,11 @@
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1490866471153">
-        <mark key="'" line="502" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/build.gradle" timestamp="1492353293566">
-        <mark key="'" line="17" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1491243473774">
         <mark key="'" line="0" column="2" />
@@ -250,6 +232,7 @@
         <mark key="." line="83" column="62" />
         <mark key="^" line="83" column="62" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/JavaCode.java" timestamp="1493209445610" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="55" />
@@ -446,9 +429,6 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/WikidotParser.kt" timestamp="1490537197813">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/AccessPoint.java" timestamp="1490193015517">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="47" column="33" />
@@ -471,12 +451,6 @@
       </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1368).regexp" timestamp="1490118165818">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/objsets/build.sbt" timestamp="1490957887834">
-        <mark key="'" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/androidTest/kotlin/com/wafer/moral/ExampleInstrumentedTest.kt" timestamp="1491551098508">
-        <mark key="'" line="23" column="0" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
@@ -602,6 +576,12 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493209990224">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Empty.java" timestamp="1491282432340">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -670,9 +650,6 @@
         <mark key="." line="222" column="38" />
         <mark key="^" line="222" column="38" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" timestamp="1492278995057">
-        <mark key="'" line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492711636751">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="13" column="7" />
@@ -717,7 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
@@ -817,13 +793,14 @@
       <jump line="188" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/TestProject/src/a.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>TODO()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -832,31 +809,31 @@
         <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDIpKSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5jb2xvciA9IEJMQUNLOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzRW1wdHkoKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDpgJLlvZLnu5PmnZ/vvIzlsIbmoLnoioLngrnmgaLlpI3popzoibIgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNiLmFwcGVuZCgiWyIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNiLmFwcGVuZCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb290ID0gZGVsZXRlTWluKHJvb3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY2MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaC5sZWZ0ID09IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5kZXgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTm9kZSBkZWxldGVNaW4oTm9kZSBoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
