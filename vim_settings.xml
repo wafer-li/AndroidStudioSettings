@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/HTML Fragment (WikidotParser.kt:1841).html" timestamp="1490120447149">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" timestamp="1492315667718">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="4" />
@@ -33,21 +30,12 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1492795692080">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1489850997932">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/application/TestData.java" timestamp="1490263773653">
         <mark key="'" line="191" column="40" />
         <mark key="[" line="195" column="84" />
         <mark key="]" line="195" column="84" />
         <mark key="." line="195" column="84" />
         <mark key="^" line="195" column="87" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:326).regexp" timestamp="1490025072990">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/MoralLookingActivity.kt" timestamp="1492353763958">
         <mark key="[" line="29" column="76" />
@@ -67,9 +55,6 @@
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
       </file>
-      <file name="/HTML Fragment (WikidotParser.kt:1790).html" timestamp="1490121413496">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/EventAdapter.kt" timestamp="1492255379840">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="8" column="0" />
@@ -82,9 +67,6 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
-      </file>
-      <file name="/HTML Fragment (WikidotParser.kt:1660).html" timestamp="1490160935988">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/A.kt" timestamp="1492927673754">
         <mark key="[" line="9" column="0" />
@@ -117,9 +99,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:1749).regexp" timestamp="1490121184985">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Cons.java" timestamp="1491282606906">
         <mark key="[" line="9" column="25" />
@@ -164,9 +143,6 @@
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:351).regexp" timestamp="1490117971796">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/.gitignore" timestamp="1492276485720">
         <mark key="'" line="17" column="10" />
@@ -227,6 +203,7 @@
         <mark key="." line="83" column="62" />
         <mark key="^" line="83" column="62" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/JavaCode.java" timestamp="1493218836497" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="55" />
@@ -263,9 +240,6 @@
         <mark key="]" line="16" column="41" />
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
-        <mark key="[" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" timestamp="1492278544966">
         <mark key="'" line="45" column="19" />
@@ -315,11 +289,23 @@
         <mark key="^" line="57" column="12" />
         <mark key="." line="74" column="67" />
       </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:2278).regexp" timestamp="1490164038793">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task12/src/Task.kt" timestamp="1493220590199">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="5" column="20" />
       </file>
-      <file name="/HTML Fragment (WikidotParser.kt:2561).html" timestamp="1490164379465">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task10/src/Task.kt" timestamp="1493219824247">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="78" />
+        <mark key="^" line="1" column="78" />
+        <mark key="." line="1" column="78" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" timestamp="1492259229689">
         <mark key="'" line="46" column="0" />
@@ -334,9 +320,6 @@
         <mark key="]" line="254" column="105" />
         <mark key="." line="254" column="105" />
         <mark key="^" line="254" column="105" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:2662).regexp" timestamp="1490162034135">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" timestamp="1490322710480">
         <mark key="'" line="4" column="0" />
@@ -378,6 +361,11 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task13/src/Task.kt" timestamp="1493220630252">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="60" />
@@ -395,9 +383,6 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
-      </file>
-      <file name="/HTML Fragment (WikidotParser.kt:1631).html" timestamp="1490160364164">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
         <mark key="[" line="8" column="23" />
@@ -443,20 +428,11 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:1368).regexp" timestamp="1490118165818">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/NonEmpty.java" timestamp="1491282446392">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:2690).regexp" timestamp="1490162130635">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/array.xml" timestamp="1492246300191">
         <mark key="[" line="7" column="14" />
@@ -488,20 +464,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="vim_settings.xml" timestamp="1489397644773">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task5/src/Task.kt" timestamp="1493218941288">
+        <mark key="[" line="0" column="74" />
+        <mark key="]" line="0" column="83" />
+        <mark key="." line="0" column="83" />
+        <mark key="^" line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task5/src/Task.kt" timestamp="1493216108167">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task4/src/Task.kt" timestamp="1493218753839">
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task4/src/Task.kt" timestamp="1493218914918">
         <mark key="[" line="0" column="60" />
-        <mark key="]" line="0" column="67" />
-        <mark key="^" line="0" column="67" />
-        <mark key="." line="0" column="67" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task6/src/Task.kt" timestamp="1493219267439">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values-en/strings.xml" timestamp="1489644318198">
         <mark key="'" line="296" column="57" />
@@ -510,20 +489,23 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task3/src/Task.kt" timestamp="1493218713600">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="54" />
-        <mark key="." line="0" column="54" />
-        <mark key="^" line="0" column="54" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task3/src/Task.kt" timestamp="1493218889314">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task7/src/Task.kt" timestamp="1493219323196">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/proguard-rules.pro" timestamp="1490461751304">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="10" />
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
-      </file>
-      <file name="/HTML Fragment (WikidotParser.kt:2082).html" timestamp="1490121745860">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" timestamp="1490466102672">
         <mark key="'" line="0" column="0" />
@@ -543,12 +525,6 @@
         <mark key="]" line="9" column="107" />
         <mark key="^" line="9" column="107" />
         <mark key="." line="9" column="107" />
-      </file>
-      <file name="/Plain text Fragment (HuffmanSuite.scala:777).txt" timestamp="1492337150755">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:1422).regexp" timestamp="1490160202453">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/LocatorFileUtil.java" timestamp="1490279392436">
         <mark key="'" line="32" column="8" />
@@ -588,20 +564,17 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493217078641">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493218850878">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Empty.java" timestamp="1491282432340">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="/RegExp Fragment (WikidotParser.kt:1818).regexp" timestamp="1490160644984">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/SensorUtil.java" timestamp="1490278567496">
         <mark key="[" line="34" column="72" />
@@ -615,18 +588,15 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" timestamp="1493216891649">
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" timestamp="1493218804596">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="26" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1492943312184">
         <mark key="e" line="0" column="7" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Console" timestamp="1490956687096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
@@ -648,12 +618,6 @@
         <mark key="]" line="23" column="68" />
         <mark key="." line="23" column="68" />
         <mark key="^" line="23" column="68" />
-      </file>
-      <file name="/a.regexp" timestamp="1490089312028">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML Fragment (WikidotParser.kt:2003).html" timestamp="1490121701759">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490956542250">
         <mark key="'" line="2" column="0" />
@@ -695,14 +659,23 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task9/src/Task.kt" timestamp="1493219752144">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="55" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task8/src/Task.kt" timestamp="1493219649644">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/res/values/strings.xml" timestamp="1490463324707">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
-      </file>
-      <file name="/fragment.java" timestamp="1492259977978">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -809,10 +782,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>//TODO(&quot;return the list sorted in descending order&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>//TODO(&quot;return the list sorted in descending order&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -821,31 +794,31 @@
         <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDIpKSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoeCA+IHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG8xID09IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uLmFueSB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG8xKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIGEoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAobzIgPiBvMSkgLTEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG8xPm8yKSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -882,12 +855,12 @@
         <entry>s/S/W/g</entry>
         <entry>s/W/E/g</entry>
         <entry>we</entry>
-        <entry>qw</entry>
         <entry>q!</entry>
         <entry>w3</entry>
-        <entry>ew</entry>
         <entry>e</entry>
         <entry>wq</entry>
+        <entry>qw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
