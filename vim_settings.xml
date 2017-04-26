@@ -227,7 +227,6 @@
         <mark key="." line="83" column="62" />
         <mark key="^" line="83" column="62" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/JavaCode.java" timestamp="1493209445610" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="55" />
@@ -511,11 +510,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task3/src/Task.kt" timestamp="1493215845151">
-        <mark key="[" line="0" column="80" />
-        <mark key="]" line="0" column="93" />
-        <mark key="." line="0" column="93" />
-        <mark key="^" line="0" column="93" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task3/src/Task.kt" timestamp="1493217128983">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/proguard-rules.pro" timestamp="1490461751304">
         <mark key="[" line="25" column="0" />
@@ -589,10 +588,11 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493213071447">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493217078641">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Empty.java" timestamp="1491282432340">
         <mark key="[" line="7" column="18" />
@@ -615,11 +615,11 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" timestamp="1493209337536">
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" timestamp="1493216891649">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1492943312184">
@@ -809,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29sbGVjdGkg</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sbGVjdGkg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -821,31 +821,31 @@
         <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMiksICgnYycsIDIpKSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uLmFueSB7ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuIGEoKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhY2MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbGxlY3Rpb24ucmVkdWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uLmFueSB7ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbGxlY3Rpb24ucmVkdQo=</text>
+        <text encoding="base64">ZnVuIGEoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
