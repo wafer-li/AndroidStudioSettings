@@ -623,6 +623,13 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" timestamp="1493209337536">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1492943312184">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
@@ -710,7 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
@@ -810,13 +816,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="188" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/TestProject/src/a.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task1/src/Task.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
