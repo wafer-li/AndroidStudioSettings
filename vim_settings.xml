@@ -73,6 +73,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/hehe.java" timestamp="1493318279054">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="31" column="65" />
+        <mark key="." line="31" column="65" />
+        <mark key="^" line="31" column="65" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/MoralLookingActivity.kt" timestamp="1492353763958">
         <mark key="[" line="29" column="76" />
         <mark key="]" line="29" column="80" />
@@ -196,11 +202,6 @@
         <mark key="]" line="4" column="89" />
         <mark key="." line="4" column="89" />
         <mark key="^" line="4" column="89" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task6/src/Task.kt" timestamp="1493279082551">
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="64" />
-        <mark key="." line="1" column="64" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/.gitignore" timestamp="1492334392823">
         <mark key="[" line="0" column="46" />
@@ -521,10 +522,8 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task13/src/Task.kt" timestamp="1493220630252">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="/Kotlin Console" timestamp="1493315649604">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
@@ -606,6 +605,12 @@
         <mark key="." line="42" column="84" />
         <mark key="^" line="42" column="84" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/TroublingTimes.java" timestamp="1493318994225">
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="85" />
+        <mark key="." line="9" column="85" />
+        <mark key="^" line="9" column="85" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/List.java" timestamp="1491283216583">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="44" />
@@ -660,6 +665,12 @@
         <mark key="]" line="26" column="10" />
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/TroublingTimes.kt" timestamp="1493318781715">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ApiManager.kt" timestamp="1490466102672">
         <mark key="'" line="0" column="0" />
@@ -755,6 +766,9 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493319000326">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
         <mark key="[" line="22" column="19" />
@@ -938,11 +952,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+      <register name="&quot;" type="4">
+        <text>https://dmoj.ca/problem/anct1}</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>https://dmoj.ca/problem/anct1}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -951,25 +965,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZCB7ICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpcgo=</text>
+        <text encoding="base64">ICogVGhpcyBpcyB0aGUgVHJvdWJsaW5nVGltZXMgY2xhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1013,11 +1027,12 @@
         <entry>we</entry>
         <entry>q!</entry>
         <entry>w3</entry>
-        <entry>e</entry>
         <entry>wq</entry>
         <entry>ew</entry>
         <entry>qw</entry>
         <entry>W</entry>
+        <entry>sw</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
