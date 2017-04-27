@@ -3,11 +3,47 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task3/src/Task.kt" timestamp="1493290861113">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task12/src/Task.kt" timestamp="1493290083135">
+        <mark key="[" line="6" column="62" />
+        <mark key="]" line="6" column="87" />
+        <mark key="^" line="6" column="87" />
+        <mark key="." line="6" column="87" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task4/src/Task.kt" timestamp="1493291182151">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/BLEPeakDetectionProvider.java" timestamp="1490329054485">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" timestamp="1493290823929">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task5/src/Task.kt" timestamp="1493292583749">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/MoralLookingActivity.kt" timestamp="1492353763958">
         <mark key="[" line="29" column="76" />
@@ -44,13 +80,6 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task4/src/Task.kt" timestamp="1493276332879">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task8/src/Task.kt" timestamp="1493279264329">
         <mark key="[" line="1" column="62" />
@@ -147,9 +176,6 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task2/src/MyDate.kt" timestamp="1493277845008">
-        <mark key="[" line="0" column="70" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="41" />
@@ -234,6 +260,30 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task2/src/Task.kt" timestamp="1493291537597">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task3/src/Task.kt" timestamp="1493291601731">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task4/src/Task.kt" timestamp="1493292389426">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="64" />
+        <mark key="^" line="19" column="64" />
+        <mark key="." line="19" column="64" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490881548325">
         <mark key="[" line="74" column="67" />
         <mark key="]" line="74" column="67" />
@@ -251,6 +301,12 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task11/src/Task.kt" timestamp="1493289823949">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
         <mark key="[" line="9" column="30" />
@@ -395,6 +451,12 @@
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" timestamp="1493293211332">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/UserAuthentication.kt" timestamp="1491546176676">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="80" />
@@ -493,7 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
       <jump line="34" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
@@ -593,46 +654,47 @@
       <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task4/src/Task.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task4/src/Task.kt" />
       <jump line="4" column="66" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task9/src/Task.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckJ5QWxsLmludGVyc2VjdChjdXN0b21lci5vcmRlcnMubWFwIHsgaXQucHJvZHVjdHMgfSkK</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRlbGl2ZXJkTnVtID0gaXQub3JkZXJzLmNvdW50IHsgaXQuaXNEZWxpdmVyZWQgPT0gdHJ1ZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZCB7ICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckJ5QWxsLmludGVyc2VjdChjdXN0b21lci5vcmRlcnMubWFwIHsgaXQucHJvZHVjdHMgfSkK</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2M6IFNldDxQcm9kdWN0PiwgY3VzdG9tZXI6IEN1c3RvbWVyIC0+IAo=</text>
+        <text encoding="base64">ICAgIGZpcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2MuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsaXZlcmVkTnViID4gdW5kZWxpdmVyZWROYW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
