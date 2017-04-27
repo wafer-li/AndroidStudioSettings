@@ -146,6 +146,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" timestamp="1493320521329">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ApiManager.kt" timestamp="1492252478804">
         <mark key="'" line="22" column="18" />
         <mark key="[" line="30" column="27" />
@@ -404,6 +410,12 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/README.md" timestamp="1493320694908">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="4" column="66" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492257754334">
         <mark key="'" line="19" column="7" />
@@ -767,7 +779,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493319000326">
+      <file name="/Dummy.txt" timestamp="1493320890849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
@@ -850,8 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
-      <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/a.sc" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="17" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="13" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
@@ -950,13 +960,15 @@
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
+      <jump line="16" column="33" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://dmoj.ca/problem/anct1}</text>
+        <text>skill</text>
       </register>
       <register name="-" type="4">
-        <text>https://dmoj.ca/problem/anct1}</text>
+        <text>skill</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -965,31 +977,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZCB7ICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogVGhpcyBpcyB0aGUgVHJvdWJsaW5nVGltZXMgY2xhc3MK</text>
+        <text encoding="base64">ICogUGxlYXNlIHB1dCBzb21lIGluZm8gaGVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFuc3dlcikKICAgICAgICBhbnN3ZXIgPSByZWFkTGluZSgpISEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wCg==</text>
+        <text encoding="base64">ICAgIH0KICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHByaW50bG4oYW5zd2VyKQogICAgICAgIGFuc3dlciA9IHJlYWRMaW5lKCkhIQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFuc3dlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
