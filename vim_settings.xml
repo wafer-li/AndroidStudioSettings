@@ -42,12 +42,12 @@
         <mark key="^" line="6" column="87" />
         <mark key="." line="6" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" timestamp="1493409395146">
-        <mark key="'" line="0" column="33" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="29" column="59" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" timestamp="1493412633900">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="24" column="105" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task4/src/Task.kt" timestamp="1493291182151">
         <mark key="[" line="15" column="78" />
@@ -888,6 +888,7 @@
         <mark key="." line="4" column="98" />
         <mark key="^" line="4" column="98" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/side_nav_bar.xml" timestamp="1493413294570" />
       <file name="/sbtShell" timestamp="1492941989099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -953,7 +954,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493411685323">
+      <file name="/Dummy.txt" timestamp="1493413317159">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -1164,8 +1165,8 @@
       <jump line="79" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="14" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
-      <jump line="0" column="33" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="1" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
