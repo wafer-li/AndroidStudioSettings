@@ -315,7 +315,8 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1493357485739">
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1493359936346">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="7" column="26" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
@@ -620,9 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
-      <jump line="14" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
-      <jump line="25" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
@@ -720,6 +718,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="25" column="32" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="41" column="30" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
