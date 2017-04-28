@@ -169,7 +169,11 @@
         <mark key="." line="45" column="19" />
         <mark key="^" line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/menu/activity_main_drawer.xml" timestamp="1493405210028" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/menu/activity_main_drawer.xml" timestamp="1493405987823">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/res/values/strings.xml" timestamp="1489839266788">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="55" column="68" />
@@ -410,7 +414,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493405130815">
+      <file name="/Dummy.txt" timestamp="1493405621932">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -758,11 +762,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1493403476802">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-        <mark key="." line="12" column="42" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1493405563474">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="59" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/application/MoralApplication.kt" timestamp="1492252389943">
         <mark key="[" line="16" column="24" />
@@ -1161,7 +1165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -1173,28 +1177,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJBcHBUaGVtZS5Ob0FjdGlvbkJhciI+Cg==</text>
+        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L21lbnU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEN1c3RvbWl6ZSB5b3VyIHRoZW1lIGhlcmUuIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJTZW5kIi8+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGl0ZW0gbmFtZT0id2luZG93QWN0aW9uQmFyIj5mYWxzZTwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dOb1RpdGxlIj50cnVlPC9pdGVtPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19tZW51X3NlbmQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dBY3Rpb25CYXIiPmZhbHNlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9zZW5kIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGl0ZW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
