@@ -315,11 +315,11 @@
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1493323379865">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1493357485739">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
         <mark key="[" line="2" column="37" />
@@ -573,7 +573,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493321951881">
+      <file name="/Dummy.txt" timestamp="1493357487846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
@@ -620,9 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
-      <jump line="17" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
-      <jump line="13" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="16" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="14" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
       <jump line="25" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LoginActivity.kt" />
@@ -720,19 +717,22 @@
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
       <jump line="16" column="33" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="25" column="32" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="41" column="30" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0ID0gc3RhcnRBbmRFbmRJbmNsdXNpdmVbMF0K</text>
+        <text encoding="base64">ZnVuIGlzUHJpbWUobjogSW50KSA9IGlmIChuIDw9IDEpIGZhbHNlIGVsc2UgKDIuLk1hdGguc3FydChuLnRvRG91YmxlKCkpLnRvSW50KCkpLmFsbCB7IG4gJSBpdCAhPSAwIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -741,25 +741,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5yZWFkTGluZSgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogICAgdmFsIHJlYWRlciA9IEJ1ZmZlcmVkUmVhZGVyKElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5gaW5gKSkKICAgIHJlYWRlci51c2VMaW5lcyB7CiAgICAgICAgaXQuZHJvcCgxKS5mb3JFYWNoIHsKICAgICAgICAgICAgdmFsIHN0YXJ0QW5kRW5kSW5jbHVzaXZlID0gaXQuc3BsaXQoIiAiKQoKICAgICAgICAgICAgdmFsIHN0YXJ0ID0gc3RhcnRBbmRFbmRJbmNsdXNpdmVbMF0udG9JbnQoKQogICAgICAgICAgICB2YWwgZW5kSW5jbHVzaXZlID0gc3RhcnRBbmRFbmRJbmNsdXNpdmVbMV0udG9JbnQoKQoKICAgICAgICAgICAgdmFsIGxpc3QgPSAoMi4uMTAwMDAwKS50b0xpc3QoKQoKICAgICAgICAgICAgdmFsIHByaW1lcyA9IHNpZXZlKGxpc3QpCgogICAgICAgICAgICAoc3RhcnQuLmVuZEluY2x1c2l2ZSkuZm9yRWFjaCB7IAogICAgICAgICAgICAgICAgaWYgKGlzUHJpbWUoaXQsICkpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCmZ1biBzaWV2ZShsaXN0OiBMaXN0PEludD4pOiBMaXN0PEludD4gewogICAgaWYgKGxpc3QuaXNFbXB0eSgpKSByZXR1cm4gZW1wdHlMaXN0KCkKCiAgICB2YWwgaGVhZCA9IGxpc3QuZmlyc3QoKQogICAgdmFsIHRhaWwgPSBsaXN0LmRyb3AoMSkKCiAgICByZXR1cm4gbGlzdE9mKGhlYWQpICsgc2lldmUodGFpbC5maWx0ZXJOb3QgeyBpdCAlIGhlYWQgPT0gMCB9KQp9CgpmdW4gaXNQcmltZShuOiBJbnQpID0gaWYgKG4gPD0gMSkgZmFsc2UgZWxzZSAoMi4uTWF0aC5zcXJ0KG4udG9Eb3VibGUoKSkudG9JbnQoKSkuYWxsIHsgbiAlIGl0ICE9IDAgfQpmdW4gaXNQcmltZShuOiBJbnQsIHByaW1lczogTGlzdDxJbnQ+KSA9CiAgICAgICAgaWYgKG4gPD0gMSkgZmFsc2UKICAgICAgICBlbHNlIChwcmltZXMpLmFsbCB7IG4gJSBpdCAhPSAwIH0=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltZXMuYWRkKGl0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBbmRFbmRJbmNsdXNpdmUuZm9sZChQYWlyPEludCwgSW50PigpKSB7IGFjYzogUGFpcjxJbnQsIEludD4sIHM6IFN0cmluZyAtPgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBwcmltZXMgPSBzaWV2ZShsaXN0KS50b011dGFibGVTZXQoKSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhY2MuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
