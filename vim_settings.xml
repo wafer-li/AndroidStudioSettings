@@ -108,6 +108,13 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1493402898526">
+        <mark key="'" line="59" column="50" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="59" column="52" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1491065322308">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="246" column="43" />
@@ -331,6 +338,11 @@
         <mark key="]" line="47" column="33" />
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" timestamp="1493402801680">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/.gitignore" timestamp="1490161424234">
         <mark key="'" line="52" column="0" />
@@ -570,8 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="154" column="1" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="158" column="0" filename="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" />
@@ -670,10 +680,12 @@
       <jump line="60" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LookStudentMoralActivity.kt" />
+      <jump line="31" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
+      <jump line="60" column="50" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LONG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQtZXh0ZW5zaW9ucycK</text>
       </register>
       <register name="-" type="4">
         <text>LONG</text>
@@ -685,31 +697,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgUi5zdHJpbmcubm9faW50ZXJuZXQsIFNuYWNrYmFyLkxFTkdUSF9MT05HKS5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLCAK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQtZXh0ZW5zaW9ucycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm5ldHdvcmsgVGhyb3dhYmxlIiwgdC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZhaWwiLCAidHJ1ZSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIGwgPSBMaXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U3VjYyhaZXJvKQp2YWwgdHdvID0g</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1yZWZsZWN0OiRrb3RsaW5fdmVyc2lvbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWI6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIEtvdGxpbiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHdlZWs0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIG9uZSA9IG5ldyBTdWNjCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOmxvZ2dpbmctaW50ZXJjZXB0b3I6My4yLjAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
