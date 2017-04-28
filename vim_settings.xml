@@ -734,6 +734,9 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" timestamp="1493413604644">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/RegExp Fragment (WikidotParser.kt:1368).regexp" timestamp="1490118165818">
         <mark key="[" line="0" column="0" />
       </file>
@@ -888,7 +891,7 @@
         <mark key="." line="4" column="98" />
         <mark key="^" line="4" column="98" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/side_nav_bar.xml" timestamp="1493413294570" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/side_nav_bar.xml" timestamp="1493413451316" />
       <file name="/sbtShell" timestamp="1492941989099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -954,7 +957,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493413317159">
+      <file name="/Dummy.txt" timestamp="1493413498190">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -1067,8 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ApiManager.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ApiManager.kt" />
       <jump line="15" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/EventAdapter.kt" />
       <jump line="21" column="90" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" />
       <jump line="21" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ApiManager.kt" />
@@ -1167,6 +1168,8 @@
       <jump line="14" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="1" column="38" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_main.xml" />
       <jump line="0" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
