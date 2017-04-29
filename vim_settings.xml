@@ -595,10 +595,11 @@
         <mark key="." line="1" column="87" />
         <mark key="^" line="1" column="87" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/application/Constants.kt" timestamp="1493451570126">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/application/Constants.kt" timestamp="1493452393318">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/A.kt" timestamp="1492927673754">
         <mark key="[" line="9" column="0" />
@@ -1203,8 +1204,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PREF_OAUTH_TOKEN</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1213,7 +1214,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5UYWJJdGVtCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IlRhYjIiLz4K</text>
+        <text>PREF_OAUTH_TOKEN</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
