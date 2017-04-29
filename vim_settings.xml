@@ -231,12 +231,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1493470963271">
-        <mark key="'" line="47" column="43" />
-        <mark key="[" line="41" column="120" />
-        <mark key="]" line="41" column="120" />
-        <mark key="." line="41" column="120" />
-        <mark key="^" line="41" column="120" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1493471376886">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
         <mark key="[" line="9" column="30" />
@@ -438,7 +438,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493470770007">
+      <file name="/Dummy.txt" timestamp="1493471960988">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -1121,7 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="2" column="13" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/PeanoNumber.sc" />
@@ -1221,10 +1220,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="40" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="47" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
+      <jump line="74" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>app_name</text>
@@ -1236,31 +1236,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIudGl0bGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcuYXBwX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZfdmlldy5nZXRIZWFkZXJWaWV3KDApLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlckFkYXB0ZXIgPSBNYWluUGFnZXJBZGFwdGVyKHN1cHBvcnRGcmFnbWVudE1hbmFnZXIsIGFwcGxpY2F0aW9uQ29udGV4dCkK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuYXZfdmlldy5nZXRIZWFkZXJWaWV3KDApLgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3X3BhZ2VyLmFkYXB0ZXIgPSBwYWdlckFkYXB0ZXIKICAgICAgICB0YWJzLnNldHVwV2l0aFZpZXdQYWdlcih2aWV3X3BhZ2VyKQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
