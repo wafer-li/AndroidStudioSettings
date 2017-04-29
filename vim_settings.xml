@@ -132,6 +132,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/ItemsItem.kt" timestamp="1493488029836">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/gradle.properties" timestamp="1493448355895">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="17" column="0" />
@@ -444,7 +449,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493484354270">
+      <file name="/Dummy.txt" timestamp="1493488312966">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -532,6 +537,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/SearchResponse.kt" timestamp="1493488154744">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task12/src/Task.kt" timestamp="1493290083135">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="87" />
@@ -580,11 +591,11 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493483686031">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493488786995">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="15" />
       </file>
       <file name="/Kotlin Enum.txt.ft" timestamp="1493321665235">
         <mark key="[" line="0" column="0" />
@@ -978,6 +989,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/content_main.xml" timestamp="1493464043010">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493481964575">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="4" column="53" />
@@ -995,6 +1011,11 @@
         <mark key="]" line="7" column="15" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/Owner.kt" timestamp="1493487996029">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/List.java" timestamp="1491283216583">
         <mark key="[" line="9" column="39" />
@@ -1102,11 +1123,11 @@
       <file name="/Scala Console" timestamp="1490956687096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1493486333380">
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-        <mark key="^" line="16" column="58" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1493488709580">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/MainPagerAdapter.kt" timestamp="1493470156570">
         <mark key="[" line="40" column="41" />
@@ -1262,44 +1283,44 @@
       <jump line="14" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Call</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iaGludF91c2VybmFtZSI+VXNlcm5hbWUgb3IgRW1haWw8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRUcmVuZGluZyhAUXVlcnlNYXAoZW5jb2RlZCA9IHRydWUpcGFyYW1zOiBNYXA8U3RyaW5nLCBTdHJpbmc+KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXRyb2ZpdCA9IFJldHJvZml0LkJ1aWxkZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogUGxlYXNlIHB1dCBtb3JlIGluZm8gaGVyZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBjcmVhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBsb2dpbih1c2VybmFtZTogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
