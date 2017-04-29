@@ -425,7 +425,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493471960988">
+      <file name="/Dummy.txt" timestamp="1493477719944">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -487,7 +487,7 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1493475553312">
+      <file name="/fragment.java" timestamp="1493477273877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ApiManager.kt" timestamp="1493475543451">
@@ -951,11 +951,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493470401785">
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493477499690">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/NonEmpty.java" timestamp="1491282446392">
         <mark key="[" line="7" column="25" />
@@ -1223,7 +1223,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>app_name</text>
@@ -1235,31 +1235,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIudGl0bGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcuYXBwX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8c3RyaW5nIG5hbWU9Im5hdmlnYXRpb25fZHJhd2VyX29wZW4iPk9wZW4gbmF2aWdhdGlvbiBkcmF3ZXI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibmF2aWdhdGlvbl9kcmF3ZXJfY2xvc2UiPkNsb3NlIG5hdmlnYXRpb24gZHJhd2VyPC9zdHJpbmc+CgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fc2V0dGluZ3MiPlNldHRpbmdzPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFjdGlvbl9leGl0Ij5FeGl0PC9zdHJpbmc+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZfdmlldy5nZXRIZWFkZXJWaWV3KDApLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
