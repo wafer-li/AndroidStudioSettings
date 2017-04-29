@@ -231,12 +231,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1493470037950">
-        <mark key="'" line="44" column="43" />
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="63" />
-        <mark key="." line="48" column="63" />
-        <mark key="^" line="48" column="63" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1493470963271">
+        <mark key="'" line="47" column="43" />
+        <mark key="[" line="41" column="120" />
+        <mark key="]" line="41" column="120" />
+        <mark key="." line="41" column="120" />
+        <mark key="^" line="41" column="120" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
         <mark key="[" line="9" column="30" />
@@ -438,7 +438,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493470191899">
+      <file name="/Dummy.txt" timestamp="1493470770007">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -952,10 +952,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493464254969">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="57" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493470401785">
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/NonEmpty.java" timestamp="1491282446392">
         <mark key="[" line="7" column="25" />
@@ -1222,44 +1223,44 @@
       <jump line="47" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+        <text>app_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VyQWRhcHRlci5pbmRpY2F0b3IgPSBQYWdlSW5kaWNhdG9yLlRSRU5ESU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIudGl0bGUgPSBnZXRTdHJpbmcoUi5zdHJpbmcuYXBwX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgU25hY2tiYXIubWFrZShpdCwgImNsaWNrZWQiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlckFkYXB0ZXIgPSBNYWluUGFnZXJBZGFwdGVyKHN1cHBvcnRGcmFnbWVudE1hbmFnZXIsIGFwcGxpY2F0aW9uQ29udGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3X3BhZ2VyLmFkYXB0ZXIgPSBwYWdlckFkYXB0ZXIKICAgICAgICB0YWJzLnNldHVwV2l0aFZpZXdQYWdlcih2aWV3X3BhZ2VyKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVQYWdlU3RhdGUoaW5kaWNhdG9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuYXZfdmlldy5nZXRIZWFkZXJWaWV3KDApLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZXJBZGFwdGVyLmluZGljYXRvciA9IGluZGljYXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlckFkYXB0ZXIgPSBNYWluUGFnZXJBZGFwdGVyKHN1cHBvcnRGcmFnbWVudE1hbmFnZXIsIGFwcGxpY2F0aW9uQ29udGV4dCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFnZXJBZGFwdGVyLmluZGljYXRvciA9PSBudWxsKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICB2aWV3X3BhZ2VyLmFkYXB0ZXIgPSBwYWdlckFkYXB0ZXIKICAgICAgICB0YWJzLnNldHVwV2l0aFZpZXdQYWdlcih2aWV3X3BhZ2VyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
