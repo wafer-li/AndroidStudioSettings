@@ -463,7 +463,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493537521856">
+      <file name="/Dummy.txt" timestamp="1493539545131">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1029,11 +1029,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1493537234005">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1493537707887" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1493481964575">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="4" column="53" />
@@ -1329,11 +1325,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>@dimen/</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
