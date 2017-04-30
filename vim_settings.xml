@@ -394,11 +394,11 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/github_circle.xml" timestamp="1493481900386">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/github_circle.xml" timestamp="1493591892586">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/model/mapdata/MagneticData.java" timestamp="1490268374767">
         <mark key="'" line="16" column="51" />
@@ -439,7 +439,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493590480128">
+      <file name="/Dummy.txt" timestamp="1493592521897">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -456,6 +456,12 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/attrs.xml" timestamp="1493592102598">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490334896205">
         <mark key="'" line="230" column="0" />
@@ -1140,6 +1146,12 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/colors.xml" timestamp="1493591847406">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/User.kt" timestamp="1491545870799">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="51" />
@@ -1157,11 +1169,10 @@
         <mark key="." line="29" column="65" />
         <mark key="^" line="29" column="65" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/styles.xml" timestamp="1493545452870">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="9" column="114" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/styles.xml" timestamp="1493592382889">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/objsets/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1490956542250">
         <mark key="'" line="2" column="0" />
@@ -1300,43 +1311,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmRyYXdhYmxlVGludCIK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXI/LmJpbmRDb250cmlidXRvcnModHJlbmRpbmdDYXJkc1twb3NpdGlvbl0uY29udHJpYnV0b3JzKQo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJpY29uX3RpbnRfbGlnaHQiPiMyMTIxMjE8L2NvbG9yPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmRyYXdhYmxlVGludCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckljb25UaW50Ij5AY29sb3IvaWNvbl90aW50X2xpZ2h0PC9pdGVtPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2F0dHI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJlbmRpbmdDYXJkcy5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0icmlnaHQiIHZhbHVlPSIxIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0ibGVmdCIgdmFsdWU9IjAiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbVZpZXcuc3RhcnNfdGltZV9pbnRlcnZhbC50ZXh0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJsYWJlbFBvc2l0aW9uIiBmb3JtYXQ9ImVudW0iPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzCg==</text>
+        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJzaG93VGV4dCIgZm9ybWF0PSJib29sZWFuIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpbnRNb2RlPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
