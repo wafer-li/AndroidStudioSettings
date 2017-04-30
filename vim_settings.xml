@@ -110,12 +110,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" timestamp="1493557863805">
-        <mark key="'" line="17" column="105" />
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="82" />
-        <mark key="." line="17" column="82" />
-        <mark key="^" line="17" column="82" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" timestamp="1493560130899">
+        <mark key="'" line="18" column="69" />
+        <mark key="[" line="18" column="85" />
+        <mark key="]" line="18" column="90" />
+        <mark key="." line="18" column="90" />
+        <mark key="^" line="18" column="90" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493558039795">
         <mark key="'" line="87" column="4" />
@@ -615,11 +615,11 @@
         <mark key="." line="136" column="54" />
         <mark key="^" line="136" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493558023944">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="45" column="7" />
-        <mark key="." line="45" column="7" />
-        <mark key="^" line="45" column="7" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493560331887">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1489893442490">
         <mark key="'" line="28" column="4" />
@@ -1056,7 +1056,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493558384760">
+      <file name="/Dummy.txt" timestamp="1493560335581">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1174,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
       <jump line="89" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" />
       <jump line="1" column="10" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
       <jump line="17" column="20" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
@@ -1274,13 +1273,14 @@
       <jump line="17" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" />
       <jump line="47" column="10" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" />
       <jump line="34" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" />
+      <jump line="20" column="69" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>html</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
