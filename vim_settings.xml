@@ -351,12 +351,12 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493565537550">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493565962542">
         <mark key="'" line="17" column="22" />
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="69" column="58" />
-        <mark key="." line="69" column="58" />
-        <mark key="^" line="69" column="58" />
+        <mark key="[" line="75" column="32" />
+        <mark key="]" line="76" column="19" />
+        <mark key="." line="76" column="19" />
+        <mark key="^" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -736,6 +736,10 @@
         <mark key="]" line="21" column="38" />
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1493565600146">
+        <mark key="[" line="0" column="0" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
@@ -1283,10 +1287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
