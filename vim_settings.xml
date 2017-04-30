@@ -351,12 +351,11 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493565962542">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="75" column="32" />
-        <mark key="]" line="76" column="19" />
-        <mark key="." line="76" column="19" />
-        <mark key="^" line="76" column="19" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493571253851">
+        <mark key="[" line="51" column="55" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -615,11 +614,11 @@
         <mark key="." line="136" column="54" />
         <mark key="^" line="136" column="54" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493560331887">
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493569649796">
+        <mark key="[" line="88" column="52" />
+        <mark key="]" line="88" column="60" />
+        <mark key="." line="88" column="60" />
+        <mark key="^" line="88" column="60" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/network/ApiServices.java" timestamp="1489893442490">
         <mark key="'" line="28" column="4" />
@@ -747,11 +746,10 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" timestamp="1493534502404">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="50" />
-        <mark key="." line="9" column="28" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" timestamp="1493570893326">
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" timestamp="1493482486186">
         <mark key="[" line="16" column="83" />
@@ -1066,7 +1064,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493560335581">
+      <file name="/Dummy.txt" timestamp="1493569706295">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1184,8 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
-      <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/FlatMapAndForExpression.sc" />
       <jump line="1" column="23" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
       <jump line="7" column="12" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/NQuenes.sc" />
       <jump line="18" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Map.sc" />
@@ -1284,34 +1280,36 @@
       <jump line="27" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="17" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="43" column="44" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="14" column="44" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRDb21wbGV0ZSgpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBBcGlNYW5hZ2VyLmNyZWF0ZVRyZW5kaW5nU2VydmljZShUcmVuZGluZzo6Y2xhc3MuamF2YSkKICAgICAgICAgICAgICAgIC5nZXRUcmVuZGluZyhzaW5jZSA9IHNpbmNlKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5pc1N1Y2Nlc3NmdWwgfQogICAgICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgICAgIC8vIE1hcCB0aGUgSFRNTCBzb3VyY2UgdG8gUmVwb3MKICAgICAgICAgICAgICAgICAgICBGbG93YWJsZS5mcm9tSXRlcmFibGUoSnNvdXAucGFyc2UoaXQuYm9keSgpLnN0cmluZygpKS5zZWxlY3QoIm9sLnJlcG8tbGlzdCIpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLm1hcCB7CiAgICAgICAgICAgICAgICAgICAgLy8gYGl0YCBpcyB0aGUgcmVwby1saXN0IGl0ZW0sIHBhcnRpY3VsYXJseSA8bGk+CiAgICAgICAgICAgICAgICAgICAgdmFsIHJlcG9BRWxlbWVudCA9IGl0LnNlbGVjdCgiaDMgPiBhIikuZmlyc3QoKQogICAgICAgICAgICAgICAgICAgIHZhbCByZXBvTGluayA9IHJlcG9BRWxlbWVudC5hdHRyKCJocmVmIikKCiAgICAgICAgICAgICAgICAgICAgdmFsIHJlcG9UaXRsZSA9IHJlcG9BRWxlbWVudC50ZXh0KCkKICAgICAgICAgICAgICAgICAgICB2YWwgbGFuZyA9IGl0LnNlbGVjdCgiW2l0ZW1wcm9wPXByb2dyYW1taW5nTGFuZ3VhZ2VdIikuZmlyc3QoKS50ZXh0KCkKICAgICAgICAgICAgICAgICAgICB2YWwgc3RhcnMgPSBpdC5zZWxlY3QoImFbaHJlZj0kcmVwb0xpbmsvc3RhcmdhemVyc10iKS5maXJzdCgpLnRleHQoKS5maWx0ZXIgeyBpdC5pc0RpZ2l0KCkgfS50b0ludCgpCiAgICAgICAgICAgICAgICAgICAgdmFsIGZvcmtzID0gaXQuc2VsZWN0KCJhW2hyZWY9JHJlcG9MaW5rL25ldHdvcmtdIikuZmlyc3QoKS50ZXh0KCkuZmlsdGVyIHsgaXQuaXNEaWdpdCgpIH0udG9JbnQoKQoKICAgICAgICAgICAgICAgICAgICB2YWwgY29udHJpYnV0b3JzID0gaXQuc2VsZWN0KCJhW2hyZWY9JHJlcG9MaW5rL2dyYXBocy9jb250cmlidXRvcnNdIikuZmlyc3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNoaWxkcmVuKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0IGlzIHRoZSBjb250cmlidXRvcidzIGF2YXRhcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1c2VyTmFtZSA9IGl0LmF0dHIoImFsdCIpLmFwcGx5IHsgZHJvcCgxKSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGF2YXRhclVybCA9IGl0LmF0dHIoInNyYyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXNlcih1c2VyTmFtZSA9IHVzZXJOYW1lLCBhdmF0YXJVcmwgPSBhdmF0YXJVcmwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIHZhbCByZXBvID0gUmVwbyhmdWxsTmFtZSA9IHJlcG9UaXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgPSByZXBvVGl0bGUuc3BsaXQoIi8iKVsxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gbGFuZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJnYXplcnNDb3VudCA9IHN0YXJzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9ya3NDb3VudCA9IGZvcmtzKQoKICAgICAgICAgICAgICAgICAgICBUcmVuZGluZ0NhcmQocmVwbywgY29udHJpYnV0b3JzKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1320,10 +1318,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGNsYXNzIFZpZXdIb2xkZXIocm9vdFZpZXc6IFZpZXcpIDogUmVjeWNsZXJWaWV3LlZpZXdIb2xkZXIocm9vdFZpZXcpIHsKCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1361,11 +1359,11 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry>q!</entry>
-        <entry>qw</entry>
         <entry>aw</entry>
         <entry>W</entry>
         <entry>ew</entry>
         <entry>w]</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
