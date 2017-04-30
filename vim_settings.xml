@@ -603,12 +603,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493494983847">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="65" column="53" />
-        <mark key="]" line="65" column="64" />
-        <mark key="." line="65" column="64" />
-        <mark key="^" line="65" column="64" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493532923617">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Kotlin Enum.txt.ft" timestamp="1493321665235">
         <mark key="[" line="0" column="0" />
@@ -1220,7 +1220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" />
       <jump line="28" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
       <jump line="27" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
@@ -1320,28 +1319,29 @@
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="39" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/NestedContentFragment.kt" />
       <jump line="22" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/MainContentFragment.kt" />
+      <jump line="38" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuTmF0aXZlRGF0ZS5nZXRUaW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyXD4=</text>
+        <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiLCBMb2NhbGUuZ2V0RGVmYXVsdCgpKS5mb3JtYXQoZGF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuTmF0aXZlRGF0ZS5nZXRUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHByZWYgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLm9iamVjdHMuTmF0aXZlRGF0ZS5nZXRUaW1lCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1353,22 +1353,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRvZGF5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1haW5UaXRsZXMgPSByZXNvdXJjZXMuZ2V0U3RyaW5nQXJyYXkoUi5hcnJheS5tYWluX3RhYl90aXRsZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRvZGF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyXD4=</last-search>
+      <last-search encoding="base64">XDx2YXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YXJcPg==</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDwyXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1387,6 +1387,7 @@
         <entry encoding="base64">XDxTdWNjXD4=</entry>
         <entry encoding="base64">XDx5XD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
+        <entry encoding="base64">XDx2YXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
