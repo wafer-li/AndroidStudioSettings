@@ -878,11 +878,12 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1490337481688">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/NestedContentFragment.kt" timestamp="1493498418919">
-        <mark key="[" line="21" column="86" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/NestedContentFragment.kt" timestamp="1493528459313">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
@@ -1206,7 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="45" column="19" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/excerise/src/main/scala/week4/PeanoNumber.sc" />
       <jump line="42" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/.gitignore" />
       <jump line="28" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/PatternMatching.sc" />
@@ -1306,46 +1306,47 @@
       <jump line="18" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="25" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
+      <jump line="39" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/NestedContentFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgTU9OVEhfSU5fTVMgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>mainTitles</text>
+        <text encoding="base64">Rm9ybWVudCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZWVkTWFpblRpdGxlKG1haW5UaXRsZXMuaW5kZXhPZihwYWdlVGl0bGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgREFZX0lOX01TID0gKDEwMDAgKiA2MCAqIDYwICogMjQpLnRvTG9uZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgTU9OVEhfSU5fTVMgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRvZGF5ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIsIExvY2FsZS5nZXREZWZhdWx0KCkpLmZvcm1hdChEYXRlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgREFZX0lOX01TID0gKDEwMDAgKiA2MCAqIDYwICogMjQpLnRvTG9uZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgd2Vlawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlID0gU2ltcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKG1haW5UaXRsZXMuY29udGFpbnMocGFnZVRpdGxlKSkgewogICAgICAgIH0gZWxzZSBpZiAodHJlbmRpbmdUaXRsZXMuY29udGFpbnMocGFnZVRpdGxlKSkgewoKICAgICAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRvZGF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqampqampqampqago=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHRvZGF5ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIsIExvY2FsZS5nZXREZWZhdWx0KCkpLmZvcm1hdChEYXRlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
