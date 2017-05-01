@@ -509,9 +509,6 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1493554142905">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ApiManager.kt" timestamp="1493475543451">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="9" column="3" />
@@ -586,12 +583,11 @@
         <mark key="." line="18" column="103" />
         <mark key="^" line="18" column="103" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493558039795">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1493625130118">
         <mark key="'" line="87" column="4" />
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="62" />
-        <mark key="^" line="32" column="62" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task1/src/Task.kt" timestamp="1493223375099">
         <mark key="[" line="1" column="47" />
@@ -853,9 +849,6 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1493557989743">
-        <mark key="[" line="4" column="65" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/application/MoralApplication.kt" timestamp="1492252389943">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="41" />
@@ -964,11 +957,12 @@
         <mark key="." line="24" column="55" />
         <mark key="^" line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/CacheInterceptor.kt" timestamp="1493494931201">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="35" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/CacheInterceptor.kt" timestamp="1493624594402">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
@@ -1001,9 +995,6 @@
         <mark key="]" line="206" column="47" />
         <mark key="." line="206" column="47" />
         <mark key="^" line="206" column="47" />
-      </file>
-      <file name="/fragment.kt" timestamp="1493585056878">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/content_main.xml" timestamp="1493620147511">
         <mark key="[" line="2" column="66" />
@@ -1213,7 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="40" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="168" column="20" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="188" column="0" filename="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/Anagrams.scala" />
@@ -1313,13 +1303,14 @@
       <jump line="164" column="27" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" />
       <jump line="116" column="48" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="16" column="36" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/CacheInterceptor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5pc1N1Y2Nlc3NmdWwgJiYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2FjaGUoY2FjaGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>mContext</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
@@ -1328,31 +1319,31 @@
         <text encoding="base64">b3ZlcnJpZGUgZnVuIG9uU3Vic2NyaWJlKGQ6IERpc3Bvc2FibGU/KSB7CiAgICAgICAgICAgICAgICBMb2cuZCgib25TdWJzY3JpYmUiLCAiUyEiKQoKICAgICAgICAgICAgICAgIGlmICghaXNMb2FkZWQpCiAgICAgICAgICAgICAgICAgICAgdHJlbmRpbmdDYXJkcy5jbGVhcigpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkNvbXBsZXRlKCkgewogICAgICAgICAgICAgICAgTG9nLmQoIm9uQ29tcGxldGUiLCAiQyEiKQogICAgICAgICAgICAgICAgdHJlbmRpbmdDb250ZW50QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCiAgICAgICAgICAgICAgICBpc0xvYWRlZCA9IHRydWUKICAgICAgICAgICAgICAgIHN3aXBlX3JlZnJlc2guaXNSZWZyZXNoaW5nID0gZmFsc2UKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTmV4dCh0OiBUcmVuZGluZ0NhcmQ/KSB7CiAgICAgICAgICAgICAgICBMb2cuZCgib25OZXh0IiwgIk4hIikKICAgICAgICAgICAgICAgIGlmICh0ICE9IG51bGwgJiYgIWlzTG9hZGVkKSB7CiAgICAgICAgICAgICAgICAgICAgdHJlbmRpbmdDYXJkcy5hZGQodCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRXJyb3IodDogVGhyb3dhYmxlPykgewogICAgICAgICAgICAgICAgTG9nLmQoIm9uRVJST1IiLCAiRSEiKQogICAgICAgICAgICAgICAgdD8ucHJpbnRTdGFja1RyYWNlKCkKCiAgICAgICAgICAgICAgICB3aGVuICh0KSB7CiAgICAgICAgICAgICAgICAgICAgaXMgSHR0cEV4Y2VwdGlvbiAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UocmVjeWNsZXIucm9vdFZpZXcsICJOZXR3b3JrIEVycm9yOiAke3QuY29kZSgpfSAke3QubWVzc2FnZSgpfSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU25hY2tiYXIuTEVOR1RIX0xPTkcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNob3coKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbHNlIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UocmVjeWNsZXIucm9vdFZpZXcsICJQYXJzZSBFcnJvciIsIFNuYWNrYmFyLkxFTkdUSF9MT05HKS5zaG93KCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5pc1N1Y2Nlc3NmdWwgJiYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2FjaGUoY2FjaGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5pc1N1Y2Nlc3NmdWwgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkSW50ZXJjZXB0b3IoQ2FjaGVJbnRlcmNlcHRvcihjYWNoZUNvbnRyb2wpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaW4ucHJvY2VlZChyZXF1ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2FjaGVDb250cm9sKGNhY2hlQ29udHJvbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdCA9IHJlcXVlc3QubmV3QnVpbGRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
