@@ -652,11 +652,7 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="2" column="88" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/kotlin/com/wafer/toy/githubclient/ExampleUnitTest.kt" timestamp="1493659538467">
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-        <mark key="^" line="2" column="55" />
-      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/kotlin/com/wafer/toy/githubclient/ExampleUnitTest.kt" timestamp="1493662019390" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/dimens.xml" timestamp="1493582273345">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -744,12 +740,8 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493659866756">
-        <mark key="'" line="152" column="15" />
-        <mark key="[" line="130" column="77" />
-        <mark key="]" line="130" column="78" />
-        <mark key="." line="130" column="78" />
-        <mark key="^" line="130" column="78" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493661255674">
+        <mark key="'" line="149" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -967,8 +959,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Kotlin Console" timestamp="1493658559512">
-        <mark key="[" line="0" column="0" />
+      <file name="/Kotlin Console" timestamp="1493661864523">
         <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
@@ -1315,43 +1306,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Observer</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>Observer</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigiZXJyb3IiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbi5yZXF1ZXN0KDEpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEludGVycnVwdGVkRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIExvZy53KCJUQUciLCAiLS0tLT4iICsgYUxvbmchISkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3Vic2NyaWJlKGQ6IERpc3Bvc2FibGU/KSB7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">b2JqZWN0IDogQWN0aW9uMTxMb25nPigpIHsKICAgICAgICAgICAgICAgIGZ1biBjYWxsKGFMb25nOiBMb25nPykgewogICAgICAgICAgICAgICAgICAgIHRyeSB7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHRlc3RTdWJzY3JpYmVyLikK</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b2JqZWN0IDogU3Vic2NyaWJlcjxJbnQ+IHsKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25FcnJvcih0OiBUaHJvd2FibGU/KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4oImVycm9yIikKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbk5leHQodDogSW50PykgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJuZXh0IikKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkNvbXBsZXRlKCkgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJjb21wbGV0ZSIpCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25TdWJzY3JpYmUoczogU3Vic2NyaXB0aW9uPykgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJzdWJzY3JpYmUiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBUaHJvd3MoRXhjZXB0aW9uOjpjbGFzcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      <register name="9" type="4">
+        <text>} catch (e: InterruptedException) {
+                    e.printStackTrace();
+                }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
