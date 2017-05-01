@@ -750,12 +750,12 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493590413968">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1493616055552">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="61" column="24" />
-        <mark key="]" line="62" column="11" />
-        <mark key="." line="62" column="11" />
-        <mark key="^" line="62" column="11" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -919,11 +919,11 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493580944075">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="62" column="88" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/androidTest/kotlin/com/wafer/toy/githubclient/TrendingApiTest.kt" timestamp="1493616157670">
+        <mark key="[" line="84" column="53" />
+        <mark key="]" line="84" column="69" />
+        <mark key="." line="84" column="69" />
+        <mark key="^" line="84" column="69" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490881548325">
         <mark key="[" line="74" column="67" />
@@ -1311,7 +1311,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmRyYXdhYmxlVGludCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -1323,31 +1323,31 @@
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJpY29uX3RpbnRfbGlnaHQiPiMyMTIxMjE8L2NvbG9yPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmRyYXdhYmxlVGludCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckljb25UaW50Ij5AY29sb3IvaWNvbl90aW50X2xpZ2h0PC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzTG9hZGVkKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2F0dHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmRyYXdhYmxlVGludCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0icmlnaHQiIHZhbHVlPSIxIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckljb25UaW50Ij5AY29sb3IvaWNvbl90aW50X2xpZ2h0PC9pdGVtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0ibGVmdCIgdmFsdWU9IjAiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJsYWJlbFBvc2l0aW9uIiBmb3JtYXQ9ImVudW0iPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2F0dHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJzaG93VGV4dCIgZm9ybWF0PSJib29sZWFuIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0icmlnaHQiIHZhbHVlPSIxIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpbnRNb2RlPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVudW0gbmFtZT0ibGVmdCIgdmFsdWU9IjAiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
