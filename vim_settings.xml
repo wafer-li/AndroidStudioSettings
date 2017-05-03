@@ -434,7 +434,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493815083187">
+      <file name="/Dummy.txt" timestamp="1493833613364">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -504,6 +504,7 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" timestamp="1493834030422" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ApiManager.kt" timestamp="1493475543451">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="9" column="3" />
@@ -639,6 +640,9 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" timestamp="1493833461861">
+        <mark key="'" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ApiManager.kt" timestamp="1492252478804">
         <mark key="'" line="22" column="18" />
@@ -793,6 +797,7 @@
         <mark key="." line="83" column="62" />
         <mark key="^" line="83" column="62" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" timestamp="1493833913905" />
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/Test1.kt" timestamp="1493321948639">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="40" />
@@ -1106,6 +1111,7 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" timestamp="1493833925529" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_description.xml" timestamp="1493585507043">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="40" />
@@ -1188,7 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
       <jump line="16" column="33" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
@@ -1288,6 +1293,7 @@
       <jump line="3704" column="91" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/e11f8b99796174be4f0f255d717f295d5e49a53b/rxjava-2.1.0-sources.jar!/io/reactivex/Observable.java" />
       <jump line="136" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="2262" column="64" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/View.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
