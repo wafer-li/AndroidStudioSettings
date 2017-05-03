@@ -284,7 +284,6 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/688e83f961c0e35573c7829de28e04a3b5d05856/adapter-rxjava2-2.2.0-sources.jar!/retrofit2/adapter/rxjava2/BodyObservable.java" timestamp="1493676823225" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" timestamp="1493617703529">
         <mark key="'" line="22" column="64" />
         <mark key="[" line="48" column="25" />
@@ -341,7 +340,6 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/688e83f961c0e35573c7829de28e04a3b5d05856/adapter-rxjava2-2.2.0-sources.jar!/retrofit2/adapter/rxjava2/CallExecuteObservable.java" timestamp="1493710997072" />
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/List.sc" timestamp="1492318023848">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="59" />
@@ -378,7 +376,6 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/688e83f961c0e35573c7829de28e04a3b5d05856/adapter-rxjava2-2.2.0-sources.jar!/retrofit2/adapter/rxjava2/ResultObservable.java" timestamp="1493678443168" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkResponses.kt" timestamp="1492250511186">
         <mark key="[" line="9" column="109" />
         <mark key="]" line="9" column="107" />
@@ -437,7 +434,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/688e83f961c0e35573c7829de28e04a3b5d05856/adapter-rxjava2-2.2.0-sources.jar!/retrofit2/adapter/rxjava2/Result.java" timestamp="1493678508850" />
       <file name="/Dummy.txt" timestamp="1493675017050">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
@@ -657,7 +653,6 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="2" column="88" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/kotlin/com/wafer/toy/githubclient/ExampleUnitTest.kt" timestamp="1493662019390" />
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/Mnemonics.sc" timestamp="1492924662256">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="47" column="10" />
@@ -1014,6 +1009,9 @@
         <mark key="^" line="8" column="98" />
         <mark key="." line="8" column="98" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/View.java" timestamp="1493811954880">
+        <mark key="'" line="2262" column="64" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/MainContentFragement.kt" timestamp="1493532205326">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="27" />
@@ -1078,8 +1076,6 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/CacheRewriteRequestOfflineInterceptor.kt" timestamp="1493673439280" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/688e83f961c0e35573c7829de28e04a3b5d05856/adapter-rxjava2-2.2.0-sources.jar!/retrofit2/adapter/rxjava2/RxJava2CallAdapter.java" timestamp="1493677705508" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/UserAuthentication.kt" timestamp="1491546176676">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="80" />
@@ -1192,7 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="66" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task9/src/Task.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson6/task1/src/Task.kt" />
@@ -1292,6 +1287,7 @@
       <jump line="19" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/TrendingApi.kt" />
       <jump line="3704" column="91" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/e11f8b99796174be4f0f255d717f295d5e49a53b/rxjava-2.1.0-sources.jar!/io/reactivex/Observable.java" />
       <jump line="136" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="2262" column="64" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/View.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
