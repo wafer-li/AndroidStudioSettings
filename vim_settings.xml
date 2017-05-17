@@ -190,7 +190,13 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/service/impl/SelectCourseServiceImpl.java" timestamp="1494385618820">
         <mark key="'" line="100" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1494989521838" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1494991718615">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
         <mark key="[" line="136" column="35" />
@@ -1213,8 +1219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="68" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="79" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
@@ -1313,10 +1317,12 @@
       <jump line="132" column="25" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
       <jump line="142" column="65" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
       <jump line="210" column="16" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
+      <jump line="75" column="27" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
+      <jump line="126" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>registerAction</text>
@@ -1328,31 +1334,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WaWV3LnN0YXJfY291bnRfdGltZV9pbnRlcnZhbF9pY29uLnZpc2liaWxpdHkgPSBWaWV3LlZJU0lCTEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjOmlmCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyog5LiL6Z2i5LiA6KGM5a6e6ZmF5LiK5piv5rKh5pyJ5oSP5LmJ55qEICovCg==</text>
+        <text encoding="base64">PGM6aWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2VydmxldEFjdGlvbkNvbnRleHQuZ2V0UmVxdWVzdCgpLnNldEF0dHJpYnV0ZSgibG9naW5Nc2ciLCAi55m75YWl5oiQ5Yqf77yBIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2VydmxldEFjdGlvbkNvbnRleHQuZ2V0UmVxdWVzdCgpLnNldEF0dHJpYnV0ZSgibG9naW5Nc2ciLCAi5a+55LiN6LW377yM6K+l55So5oi35LiN5a2Y5Zyo5oiW5a+G56CB6L6T5YWl6ZSZ6K+v77yBIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2FsZXJ0KCLnmbvlhaVz77yBIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2FsZXJ0KCLnmbvlhaXmiJDlip/vvIEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyog5LiL6Z2i5LiA6KGM5a6e6ZmF5LiK5piv5rKh5pyJ5oSP5LmJ55qEICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyog5LiL6Z2i5LiA6KGM5a6e6ZmF5LiK5piv5rKh5pyJ5oSP5LmJ55qEICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2VydmxldEFjdGlvbkNvbnRleHQuZ2V0UmVxdWVzdCgpLnNldEF0dHJpYnV0ZSgibG9naW5Nc2ciLCAi55m75YWl5oiQ5Yqf77yBIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
