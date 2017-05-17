@@ -190,11 +190,7 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/service/impl/SelectCourseServiceImpl.java" timestamp="1494385618820">
         <mark key="'" line="100" column="8" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1494970933777">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1494989521838" />
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
         <mark key="[" line="136" column="35" />
@@ -528,7 +524,6 @@
         <mark key="." line="31" column="84" />
         <mark key="^" line="31" column="84" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/service/impl/UserServiceImpl.java" timestamp="1494967649152" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task3/src/Task.kt" timestamp="1493290861113">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="44" />
@@ -773,6 +768,12 @@
         <mark key="]" line="45" column="6" />
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" timestamp="1494988937677">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
         <mark key="[" line="2" column="0" />
@@ -1073,12 +1074,6 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/LoginAction.java" timestamp="1494967953794">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task4/src/Task.kt" timestamp="1493218914918">
         <mark key="[" line="0" column="60" />
         <mark key="]" line="1" column="41" />
@@ -1218,11 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="30" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/TransformExpression.kt" />
       <jump line="19" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="68" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/MainActivity.kt" />
@@ -1318,13 +1308,18 @@
       <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/TheNextPalindrome.kt" />
       <jump line="78" column="4" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/TheNextPalindrome.kt" />
       <jump line="21" column="25" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/dwr/util.js" />
+      <jump line="67" column="7" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
+      <jump line="57" column="26" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
+      <jump line="132" column="25" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
+      <jump line="142" column="65" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
+      <jump line="210" column="16" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHdyVXRpbC5yZWdpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ctx</text>
+        <text>registerAction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
@@ -1333,31 +1328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WaWV3LnN0YXJfY291bnRfdGltZV9pbnRlcnZhbF9pY29uLnZpc2liaWxpdHkgPSBWaWV3LlZJU0lCTEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHdyVXRpbC5yZWdpcwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRFdSQWN0aW9uVXRpbAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU1VDQ0VTUzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZXJyb3IoIuW8gOWni+S/neWtmOaVsOaNriIpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyog5LiL6Z2i5LiA6KGM5a6e6ZmF5LiK5piv5rKh5pyJ5oSP5LmJ55qEICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2VydmxldEFjdGlvbkNvbnRleHQuZ2V0UmVxdWVzdCgpLnNldEF0dHJpYnV0ZSgibG9naW5Nc2ciLCAi55m75YWl5oiQ5Yqf77yBIik7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2VydmxldEFjdGlvbkNvbnRleHQuZ2V0UmVxdWVzdCgpLnNldEF0dHJpYnV0ZSgibG9naW5Nc2ciLCAi5a+55LiN6LW377yM6K+l55So5oi35LiN5a2Y5Zyo5oiW5a+G56CB6L6T5YWl6ZSZ6K+v77yBIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2FsZXJ0KCLnmbvlhaVz77yBIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2FsZXJ0KCLnmbvlhaXmiJDlip/vvIEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyog5LiL6Z2i5LiA6KGM5a6e6ZmF5LiK5piv5rKh5pyJ5oSP5LmJ55qEICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
