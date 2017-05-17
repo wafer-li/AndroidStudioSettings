@@ -339,6 +339,7 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1495059309135" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LoginActivity.kt" timestamp="1492353759468">
         <mark key="[" line="42" column="80" />
         <mark key="]" line="42" column="84" />
@@ -1026,6 +1027,9 @@
         <mark key="]" line="207" column="47" />
         <mark key="." line="207" column="47" />
         <mark key="^" line="207" column="47" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/app/build.gradle" timestamp="1495059257132">
+        <mark key="[" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/content_main.xml" timestamp="1493620147511">
         <mark key="[" line="2" column="66" />
