@@ -197,6 +197,11 @@
         <mark key="." line="154" column="115" />
         <mark key="^" line="154" column="115" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/build.gradle" timestamp="1495060098373">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1490874504464">
         <mark key="'" line="138" column="2" />
         <mark key="[" line="136" column="35" />
@@ -339,7 +344,7 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1495059309135" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1495060628055" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LoginActivity.kt" timestamp="1492353759468">
         <mark key="[" line="42" column="80" />
         <mark key="]" line="42" column="84" />
@@ -1331,7 +1336,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>post</text>
@@ -1343,31 +1348,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WaWV3LnN0YXJfY291bnRfdGltZV9pbnRlcnZhbF9pY29uLnZpc2liaWxpdHkgPSBWaWV3LlZJU0lCTEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3VhcmRGaWxlcyBnZXREZWZhdWx0UHJvZ3VhcmRGaWxlKCdwcm9ndWFyZC1hbmRyb2lkLnR4dCcpLCAncHJvZ3VhcmQtcnVsZXMucHJvJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewo=</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjOnJlZGlyZWN0IHVybD0iIi8+Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVHlwZXMgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxjOnJlZGlyZWN0IHVybD0iIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
