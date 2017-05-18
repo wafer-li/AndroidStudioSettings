@@ -143,6 +143,8 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495126641103" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/user/UserViewModel.java" timestamp="1495126769146" />
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -346,6 +348,7 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/NavigationController.java" timestamp="1495127013427" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/ui/activity/LoginActivity.kt" timestamp="1492353759468">
         <mark key="[" line="42" column="80" />
         <mark key="]" line="42" column="84" />
@@ -467,7 +470,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495107645080">
+      <file name="/Dummy.txt" timestamp="1495126378184">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -525,6 +528,7 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.0.0-alpha1/d7fc7235cfed1e6dfd2168710b60a13824e8724f/extensions-1.0.0-alpha1-sources.jar!/android/arch/lifecycle/LiveData.java" timestamp="1495125921529" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -817,6 +821,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/res/layout/search_fragment.xml" timestamp="1495127472675">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/MoralLookingActivity.kt" timestamp="1492259198369">
         <mark key="[" line="41" column="10" />
         <mark key="]" line="43" column="43" />
@@ -1072,6 +1082,7 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/user/UserFragment.java" timestamp="1495126882667" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/TrendingApi.kt" timestamp="1493675872321">
         <mark key="'" line="19" column="21" />
         <mark key="[" line="19" column="45" />
@@ -1096,6 +1107,12 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1495127691545">
+        <mark key="[" line="21" column="71" />
+        <mark key="]" line="21" column="68" />
+        <mark key="^" line="21" column="71" />
+        <mark key="." line="21" column="68" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task4/src/Task.kt" timestamp="1493218914918">
         <mark key="[" line="0" column="60" />
@@ -1344,11 +1361,11 @@
       <jump line="46" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Fragment</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
