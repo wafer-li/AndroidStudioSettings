@@ -143,8 +143,6 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495140501022" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/build.gradle" timestamp="1495190216278" />
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -496,6 +494,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/ApiResponse.java" timestamp="1495211526359" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490334896205">
         <mark key="'" line="230" column="0" />
         <mark key="[" line="21" column="43" />
@@ -510,8 +509,7 @@
         <mark key="." line="23" column="68" />
         <mark key="^" line="23" column="68" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/util/RateLimiter.java" timestamp="1495151848762" />
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495141014694" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495211684645" />
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492711636751">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="13" column="7" />
@@ -655,7 +653,6 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1-sources.jar!/android/support/annotation/WorkerThread.java" timestamp="1495140683501" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task8/src/Task.kt" timestamp="1493279264329">
         <mark key="[" line="1" column="62" />
         <mark key="]" line="1" column="87" />
@@ -750,7 +747,6 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/repo/RepoFragment.java" timestamp="1495135141889" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task1/src/Task.kt" timestamp="1493278025850">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="62" />
@@ -945,7 +941,7 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/util/LiveDataCallAdapter.java" timestamp="1495138316276">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/util/LiveDataCallAdapter.java" timestamp="1495211481998">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -1076,7 +1072,6 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/user/UserFragment.java" timestamp="1495141059006" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/TrendingApi.kt" timestamp="1493675872321">
         <mark key="'" line="19" column="21" />
         <mark key="[" line="19" column="45" />
@@ -1195,7 +1190,6 @@
         <mark key="." line="13" column="62" />
         <mark key="^" line="13" column="62" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/7ebc06b0cc7c2752a4883747e2c70b2b301df9c0/okhttp-3.6.0-sources.jar!/okhttp3/Cache.java" timestamp="1495151074516" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/colors.xml" timestamp="1493591847406">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="7" column="33" />
