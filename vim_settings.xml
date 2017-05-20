@@ -143,7 +143,11 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495216023571" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495278239420">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -500,7 +504,6 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/ApiResponse.java" timestamp="1495214879202" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/BayesLocator.java" timestamp="1490334896205">
         <mark key="'" line="230" column="0" />
         <mark key="[" line="21" column="43" />
@@ -515,7 +518,6 @@
         <mark key="." line="23" column="68" />
         <mark key="^" line="23" column="68" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495216650381" />
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week5/ProffMap.tex" timestamp="1492711636751">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="13" column="7" />
@@ -530,7 +532,6 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.0.0-alpha1/d7fc7235cfed1e6dfd2168710b60a13824e8724f/extensions-1.0.0-alpha1-sources.jar!/android/arch/lifecycle/MediatorLiveData.java" timestamp="1495216089508" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -935,6 +936,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/.android/build-cache/a25540242b4786126b31d13a0edc4a9ff5776caf/output/jars/classes.jar!/android/arch/persistence/room/RoomDatabase.class" timestamp="1495278275312" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/LookStudentMoralActivity.kt" timestamp="1492257754334">
         <mark key="'" line="19" column="7" />
         <mark key="[" line="54" column="0" />
@@ -942,7 +944,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/DataBoundListAdapter.java" timestamp="1495213196513" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="44" />
@@ -1069,6 +1070,7 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/7ebc06b0cc7c2752a4883747e2c70b2b301df9c0/okhttp-3.6.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1495277945155" />
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/NonEmpty.java" timestamp="1491282446392">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="38" />
@@ -1341,7 +1343,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5lbmRUcmFuc2FjdGlvbigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1353,31 +1355,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WaWV3LnN0YXJfY291bnRfdGltZV9pbnRlcnZhbF9pY29uLnZpc2liaWxpdHkgPSBWaWV3LlZJU0lCTEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5lbmRUcmFuc2FjdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcG9EYW8uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvSWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25pbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvSWQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
