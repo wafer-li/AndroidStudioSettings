@@ -319,7 +319,6 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="kotlinDecompiled/Test.decompiled.java" timestamp="1495479287892" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
         <mark key="]" line="294" column="41" />
@@ -338,11 +337,11 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495309978108">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495549850404">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
@@ -743,6 +742,12 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="16" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.kt" timestamp="1495549781398">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493218850878">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="1" />
@@ -968,10 +973,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
@@ -980,31 +985,31 @@
         <text encoding="base64">ICAgICAgICBmbG93YWJsZS5zdWJzY3JpYmUoc3ViamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWl0IHsK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBzY3JhdGNoZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwMDApOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
