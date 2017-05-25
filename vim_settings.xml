@@ -331,7 +331,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495286095487">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495719578133">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="75" column="7" />
         <mark key="." line="75" column="7" />
@@ -406,7 +406,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/7ebc06b0cc7c2752a4883747e2c70b2b301df9c0/okhttp-3.6.0-sources.jar!/okhttp3/internal/cache/CacheStrategy.java" timestamp="1495156644126">
         <mark key="'" line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/DataBoundListAdapter.java" timestamp="1495522088364" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="44" />
@@ -426,7 +425,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/FetchNextSearchPageTask.java" timestamp="1495542138997" />
       <file name="$USER_HOME$/Programming/IdeaProjects/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1490881548325">
         <mark key="[" line="74" column="67" />
         <mark key="]" line="74" column="67" />
@@ -507,7 +505,6 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/RepoListAdapter.java" timestamp="1495522188750" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="70" />
@@ -826,14 +823,17 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/ApiResponse.java" timestamp="1495545273721" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/MainPagerAdapter.kt" timestamp="1493639687851">
         <mark key="[" line="42" column="39" />
         <mark key="]" line="43" column="52" />
         <mark key="." line="43" column="52" />
         <mark key="^" line="43" column="52" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495546089414" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495719603234">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -981,10 +981,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmJvZHk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Action() {</text>
+        <text>(RequestType) new Object();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
@@ -993,31 +993,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgiTGlmZWN5Y2xlIiwgIk9uQ3JlYXRlVmlldyEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmJvZHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuYm9keSA9PSBudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEludGVycnVwdGVkRXhjZXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMjAwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChSZXF1ZXN0VHlwZSkgbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuYm9keSA9PSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuYm9keSA9IG5ldyBSZXF1ZXN0VHlwZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsb3dhYmxlID0gRmxvd2FibGUuanVzdCgxMDAsIDIwMCwgMzAwKS5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpLm9ic2VydmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
