@@ -45,6 +45,12 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/search/SearchFragment.java" timestamp="1495522255353">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="44" />
+        <mark key="." line="39" column="44" />
+        <mark key="^" line="39" column="44" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task2/src/Task.kt" timestamp="1493290823929">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="6" column="25" />
@@ -56,6 +62,12 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -87,12 +99,6 @@
         <mark key="." line="1" column="47" />
         <mark key="^" line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/Test.kt" timestamp="1495793476596">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Test.kt" timestamp="1493218536430">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="23" />
@@ -116,6 +122,12 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1495549651658">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task8/src/Task.kt" timestamp="1493279264329">
         <mark key="[" line="1" column="62" />
@@ -187,13 +199,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1495586835633">
-        <mark key="'" line="20" column="41" />
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task2/src/Task.kt" timestamp="1493278106519">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="89" />
@@ -236,6 +241,12 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1495306493956">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="41" />
@@ -254,23 +265,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTestWithStatic.kt" timestamp="1495795865560">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/res/layout/search_fragment.xml" timestamp="1495189498849">
         <mark key="[" line="29" column="49" />
         <mark key="]" line="29" column="49" />
         <mark key="." line="29" column="49" />
         <mark key="^" line="29" column="49" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/app_bar_trending.xml" timestamp="1493459106360">
         <mark key="[" line="14" column="42" />
@@ -284,19 +283,12 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1492409126838">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="63" />
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/Singleton.java" timestamp="1495786350794" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="55" />
@@ -327,7 +319,6 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="kotlinDecompiled/Test.decompiled.java" timestamp="1495689697110" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
         <mark key="]" line="294" column="41" />
@@ -340,18 +331,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495286095487">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495719578133">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="75" column="7" />
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495586924201">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
@@ -428,6 +412,13 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/di/AppModule.java" timestamp="1495543081724">
+        <mark key="'" line="52" column="66" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/build.gradle" timestamp="1495065407334">
         <mark key="[" line="9" column="76" />
         <mark key="]" line="9" column="67" />
@@ -445,6 +436,11 @@
         <mark key="]" line="7" column="65" />
         <mark key="." line="7" column="65" />
         <mark key="^" line="7" column="65" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495549670373">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task12/src/Task.kt" timestamp="1493220590199">
         <mark key="[" line="6" column="24" />
@@ -470,12 +466,6 @@
         <mark key="^" line="1" column="78" />
         <mark key="." line="1" column="78" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTest.kt" timestamp="1495795564414">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="77" />
-        <mark key="." line="10" column="77" />
-        <mark key="^" line="10" column="77" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContributorAdapter.kt" timestamp="1493588208486">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="55" />
@@ -500,9 +490,6 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="/Kotlin Console" timestamp="1495587008557">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="60" />
@@ -512,29 +499,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/e11f8b99796174be4f0f255d717f295d5e49a53b/rxjava-2.1.0-sources.jar!/io/reactivex/subjects/Subject.java" timestamp="1495306949393">
         <mark key="'" line="65" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
@@ -547,9 +516,6 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1495478557352">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" timestamp="1495107552800">
         <mark key="[" line="5" column="17" />
@@ -599,6 +565,18 @@
         <mark key="^" line="8" column="99" />
         <mark key="." line="8" column="99" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1492409126838">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/MainContentFragement.kt" timestamp="1493532205326">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="27" />
@@ -646,12 +624,6 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/test/Test.kt" timestamp="1495796091524">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/List.sc" timestamp="1492318023848">
         <mark key="[" line="7" column="42" />
@@ -707,6 +679,12 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkResponses.kt" timestamp="1492250511186">
         <mark key="[" line="9" column="109" />
         <mark key="]" line="9" column="107" />
@@ -718,6 +696,12 @@
         <mark key="]" line="10" column="80" />
         <mark key="^" line="10" column="80" />
         <mark key="." line="10" column="80" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/.gitignore" timestamp="1495542521687">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491546615103">
         <mark key="[" line="18" column="35" />
@@ -767,12 +751,6 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="16" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.kt" timestamp="1495549781398">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task2/src/Task.kt" timestamp="1493218850878">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="1" />
@@ -809,6 +787,12 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="/Dummy.txt" timestamp="1495543085267">
+        <mark key="e" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-25/data/res/values/styles_material.xml" timestamp="1493545134021">
         <mark key="[" line="495" column="62" />
         <mark key="]" line="495" column="31" />
@@ -833,23 +817,22 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/MainPagerAdapter.kt" timestamp="1493639687851">
         <mark key="[" line="42" column="39" />
         <mark key="]" line="43" column="52" />
         <mark key="." line="43" column="52" />
         <mark key="^" line="43" column="52" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTest.java" timestamp="1495794495947">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1495306493956">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495719603234">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
@@ -887,7 +870,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1495794506678">
+      <file name="/fragment.java" timestamp="1495284989947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="44" />
@@ -895,8 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="53" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingFragment.kt" />
-      <jump line="63" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="18" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="53" column="19" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
@@ -995,46 +976,48 @@
       <jump line="7" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" />
       <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/kotlin/com/wafer/toy/githubclient/ExampleUnitTest.kt" />
+      <jump line="56" column="66" filename="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/di/AppModule.java" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmJvZHk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>(RequestType) new Object();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93YWJsZS5zdWJzY3JpYmUoc3ViamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTGlmZWN5Y2xlIiwgIk9uQ3JlYXRlVmlldyEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmJvZHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oRmFzdENsYXNzcGF0aFNjYW5uZXIoInRlc3QiKS5zY2FuKCkuKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuYm9keSA9PSBudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChSZXF1ZXN0VHlwZSkgbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuYm9keSA9PSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuYm9keSA9IG5ldyBSZXF1ZXN0VHlwZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRlc3QuQ09OU1RBTlQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
