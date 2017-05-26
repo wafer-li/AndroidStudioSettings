@@ -254,6 +254,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTestWithStatic.kt" timestamp="1495795865560">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/res/layout/search_fragment.xml" timestamp="1495189498849">
         <mark key="[" line="29" column="49" />
         <mark key="]" line="29" column="49" />
@@ -464,11 +470,11 @@
         <mark key="^" line="1" column="78" />
         <mark key="." line="1" column="78" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTest.kt" timestamp="1495794231890">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="74" />
-        <mark key="." line="10" column="74" />
-        <mark key="^" line="10" column="74" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/SingletonTest.kt" timestamp="1495795564414">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="77" />
+        <mark key="." line="10" column="77" />
+        <mark key="^" line="10" column="77" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContributorAdapter.kt" timestamp="1493588208486">
         <mark key="[" line="24" column="36" />
@@ -640,6 +646,12 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/test/Test.kt" timestamp="1495796091524">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/List.sc" timestamp="1492318023848">
         <mark key="[" line="7" column="42" />
@@ -986,10 +998,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;Test.CONSTANT</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>;Test.CONSTANT</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
@@ -998,13 +1010,13 @@
         <text encoding="base64">ICAgICAgICBmbG93YWJsZS5zdWJzY3JpYmUoc3ViamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oRmFzdENsYXNzcGF0aFNjYW5uZXIoInRlc3QiKS5zY2FuKCkuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oRmFzdENsYXNzcGF0aFNjYW5uZXIoInRlc3QiKS5zY2FuKCkuKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1013,16 +1025,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRlc3QuQ09OU1RBTlQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
+        <text encoding="base64">ICAgIFRlc3QuQ09OU1RBTlQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
