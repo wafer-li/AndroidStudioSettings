@@ -69,12 +69,6 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/test/java/Main.java" timestamp="1495833591433">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="26" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="22" />
@@ -331,7 +325,7 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="kotlinDecompiled/Test.decompiled.java" timestamp="1495860074763" />
+      <file name="kotlinDecompiled/Test.decompiled.java" timestamp="1495860649706" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/ui/activity/MapActivity.java" timestamp="1490349006433">
         <mark key="[" line="428" column="15" />
         <mark key="]" line="294" column="41" />
