@@ -15,6 +15,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/error/loginError.jsp" timestamp="1499699186902">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/SearchResponse.kt" timestamp="1493488154744">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="27" />
@@ -685,11 +691,10 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/Exercise/test.jsp" timestamp="1499697425471">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/Exercise/test.jsp" timestamp="1499699679352">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/CancelableLivedata.java" timestamp="1495285330807">
         <mark key="[" line="13" column="4" />
@@ -895,7 +900,7 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1499688661845">
+      <file name="/dummy.sql" timestamp="1499699831329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/User.kt" timestamp="1491545870799">
@@ -904,7 +909,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499697801767">
+      <file name="/Dummy.txt" timestamp="1499699257628">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -916,12 +921,11 @@
         <mark key="^" line="495" column="31" />
         <mark key="." line="495" column="31" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" timestamp="1499696660734">
-        <mark key="'" line="162" column="22" />
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="29" column="40" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" timestamp="1499699719516">
+        <mark key="'" line="161" column="22" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
         <mark key="[" line="22" column="19" />
@@ -1106,10 +1110,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2Vzc2lvbiA=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1118,31 +1122,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJjb21tb25TdGFjayIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjOmlmIHU+PC9jOmlmPgo=</text>
+        <text encoding="base64">ICAgIDwvYzppZj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxjOmlmPjwvYzppZj4K</text>
+        <text encoding="base64">ICAgICAgICA8YzpyZWRpcmVjdCB1cmw9IiIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9ImMiIHVyaT0iaHR0cDovL2phdmEuc3VuLmNvbS9qc3AvanN0bC9jb3JlIiAlPgo=</text>
+        <text encoding="base64">ICAgIDxjOmlmIHRlc3Q9IiR7c2Vzc2lvblNjb3BlLnVzZXIgPT0gbnVsbH0iPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxjOmlmPjwvYzppZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJuYW1lc3BhY2UiPi88L3BhcmFtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJhY3Rpb25OYW1lIj48L3BhcmFtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJ0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJuYW1lc3BhY2UiPi88L3BhcmFtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
