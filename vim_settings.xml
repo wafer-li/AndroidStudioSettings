@@ -217,12 +217,6 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/manage/configInfo.jsp" timestamp="1499659553710">
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="37" />
-        <mark key="^" line="86" column="37" />
-        <mark key="." line="86" column="37" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/patmat/.gitignore" timestamp="1492334392823">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="2" column="6" />
@@ -442,11 +436,11 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1499661499091">
-        <mark key="[" line="154" column="11" />
-        <mark key="]" line="154" column="8" />
-        <mark key="^" line="154" column="8" />
-        <mark key="." line="154" column="8" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1499661593188">
+        <mark key="[" line="223" column="20" />
+        <mark key="]" line="223" column="20" />
+        <mark key="^" line="223" column="20" />
+        <mark key="." line="223" column="20" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/build.gradle" timestamp="1495065407334">
         <mark key="[" line="9" column="76" />
@@ -703,8 +697,8 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/manage/manageUser.jsp" timestamp="1499659578750">
-        <mark key="[" line="170" column="37" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/manage/manageUser.jsp" timestamp="1499664775119">
+        <mark key="[" line="215" column="0" />
         <mark key="]" line="170" column="37" />
         <mark key="^" line="170" column="37" />
         <mark key="." line="170" column="37" />
@@ -823,7 +817,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499659647104">
+      <file name="/Dummy.txt" timestamp="1499664825557">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -865,11 +859,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" timestamp="1499659609294">
-        <mark key="[" line="247" column="24" />
-        <mark key="]" line="247" column="24" />
-        <mark key="^" line="247" column="24" />
-        <mark key="." line="247" column="24" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" timestamp="1499664763551">
+        <mark key="'" line="197" column="9" />
+        <mark key="[" line="294" column="11" />
+        <mark key="]" line="294" column="9" />
+        <mark key="^" line="294" column="9" />
+        <mark key="." line="294" column="9" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495719603234">
         <mark key="[" line="91" column="0" />
@@ -920,8 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
-      <jump line="40" column="61" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="47" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="74" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
@@ -1020,58 +1013,60 @@
       <jump line="10" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
       <jump line="288" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
       <jump line="80" column="42" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
+      <jump line="162" column="6" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" />
+      <jump line="197" column="9" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJ5b3VyU3RhY2siLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>jsp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJcPg==</text>
+        <text>div</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJ5b3VyU3RhY2siLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJ5b3VyU3RhY2siLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJkZWZhdWx0U3RhY2siLz4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJ5b3VyU3RhY2siLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZXhjbHVkZU1ldGhvZHMiPkdFVDwvcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJkZWZhdWx0U3RhY2siLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVyY2VwdG9yLXJlZiBuYW1lPSJ5b3VyU3RhY2siLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVmYXVsdC1pbnRlcmNlcHRvci1yZWYgbmFtZT0ieW91clN0YWNrIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZXhjbHVkZU1ldGhvZHMiPkdFVDwvcGFyYW0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZXhjbHVkZU1ldGhvZHMiPjwvcGFyYW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBuYW1lPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVmYXVsdC1pbnRlcmNlcHRvci1yZWYgbmFtZT0ieW91clN0YWNrIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZXhjbHVkZU1ldGhvZHMiPjwvcGFyYW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJcPg==</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJcPg==</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute encoding="base64">XDx2YXJcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1088,6 +1083,7 @@
         <entry encoding="base64">XDx5XD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
