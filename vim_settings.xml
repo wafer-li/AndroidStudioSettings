@@ -906,7 +906,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499758571181">
+      <file name="/Dummy.txt" timestamp="1499911933937">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1115,7 +1115,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwtXD4=</text>
+        <text>inter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZXNzaW9uID0gQWN0aW9uQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0U2Vzc2lvbigpOwo=</text>
@@ -1152,12 +1152,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwtXD4=</last-search>
+      <last-search>inter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwtXD4=</last-pattern>
+      <last-pattern>inter</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>session</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1178,6 +1178,7 @@
         <entry>session</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDwtXD4=</entry>
+        <entry>inter</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
