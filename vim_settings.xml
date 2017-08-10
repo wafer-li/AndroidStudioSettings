@@ -207,12 +207,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1495549651658">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task2/src/Task.kt" timestamp="1493278106519">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="89" />
@@ -304,12 +298,6 @@
         <mark key="." line="29" column="49" />
         <mark key="^" line="29" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/relogin.jsp" timestamp="1499697385484">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="28" />
@@ -328,17 +316,17 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1492409126838">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="63" />
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1495549651658">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
@@ -391,11 +379,6 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495549670373">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/IntSet.java" timestamp="1491282415385">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -413,6 +396,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="89" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
@@ -468,6 +457,12 @@
         <mark key="." line="71" column="18" />
         <mark key="^" line="71" column="18" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1502339324593">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="65" />
+        <mark key="^" line="19" column="65" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="44" />
@@ -517,12 +512,22 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts/struts2-core/2.3.32/bd489a76bc569cb0df6edaf17084775ab7f3ddf4/struts2-core-2.3.32-sources.jar!/org/apache/struts2/dispatcher/SessionMap.java" timestamp="1499758216258" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task10/src/Task.kt" timestamp="1493219824247">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="78" />
         <mark key="^" line="1" column="78" />
         <mark key="." line="1" column="78" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495549670373">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContributorAdapter.kt" timestamp="1493588208486">
         <mark key="[" line="24" column="36" />
@@ -560,12 +565,6 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
@@ -589,18 +588,6 @@
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
@@ -710,7 +697,6 @@
         <mark key="." line="42" column="84" />
         <mark key="^" line="42" column="84" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/jdbc.properties" timestamp="1499683248410" />
       <file name="$USER_HOME$/Programming/IdeaProjects/dmoj/src/TroublingTimes.java" timestamp="1493318994225">
         <mark key="[" line="9" column="78" />
         <mark key="]" line="9" column="85" />
@@ -736,11 +722,23 @@
         <mark key="." line="114" column="30" />
         <mark key="^" line="114" column="30" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1492361741152">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week4/List.sc" timestamp="1492318023848">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="59" />
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1492409126838">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1495188079577">
         <mark key="[" line="21" column="71" />
@@ -943,12 +941,6 @@
         <mark key="." line="43" column="52" />
         <mark key="^" line="43" column="52" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1495306493956">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" timestamp="1499697400436">
         <mark key="'" line="63" column="27" />
         <mark key="[" line="160" column="38" />
@@ -961,7 +953,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/jdbc.properties" timestamp="1499682674382" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1495306493956">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -997,6 +994,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/srach.java" timestamp="1491244136017">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1495284989947">
         <mark key="[" line="0" column="0" />
@@ -1109,7 +1112,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgICJodHRwOi8vYmFpZHUuY28sIgo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -1121,31 +1124,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZXNzaW9uID0gQWN0aW9uQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0U2Vzc2lvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgICJodHRwOi8vYmFpZHUuY28sIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZXNzaW9uID0gQWN0aW9uQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0U2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZXNzaW9uID0gQWN0aW9uQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0U2Vzc2lvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHNlc3Npb24gPSBBY3Rpb25Db250ZXh0LmdldENvbnRleHQoKS5nZXRTZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoKFNlc3Npb25NYXApIHNlc3Npb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHNlc3Npb24gPSBBY3Rpb25Db250ZXh0LmdldENvbnRleHQoKS5nZXRTZXNzaW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAoKFNlc3Npb25NYXApIHNlc3Npb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
