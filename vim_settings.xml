@@ -33,6 +33,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1489460324223">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/.gitignore" timestamp="1489924094780">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="10" column="4" />
@@ -51,11 +57,18 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/wikidot/lib/Text_Wiki/Text/Wiki/Parse/Default/Url.php" timestamp="1490029089149" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/KcaApplication.java" timestamp="1489644877123">
         <mark key="[" line="38" column="15" />
         <mark key="]" line="38" column="15" />
         <mark key="." line="38" column="15" />
         <mark key="^" line="38" column="16" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/wikidot/lib/Text_Wiki/Text/Wiki.php" timestamp="1490028741933">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/AndroidManifest.xml" timestamp="1489502452939">
         <mark key="[" line="7" column="70" />
@@ -98,18 +111,13 @@
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/kcanotify/app/src/main/java/com/antest1/kcanotify/SettingActivity.java" timestamp="1489646413045">
         <mark key="[" line="151" column="84" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1489460324223">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/src/main/kotlin/com/wafer/scp_syntax/reader/text/TextReader.kt" timestamp="1489931389811">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/wikidot/lib/Text_Wiki/Text/Wiki/Parse/Default/Raw.php" timestamp="1490029190204" />
       <file name="$USER_HOME$/Programming/IdeaProjects/ScpWikiSyntaxParser/build.gradle" timestamp="1489983265276">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="34" />
@@ -174,6 +182,7 @@
         <mark key="." line="75" column="91" />
         <mark key="^" line="75" column="91" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/wikidot/lib/Text_Wiki/Text/Wiki/Parse.php" timestamp="1490029293702" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1489392911780">
         <mark key="[" line="0" column="0" />
       </file>
@@ -297,11 +306,11 @@
       <jump line="0" column="12" filename="$USER_HOME$/Programming/IdeaProjects/recfun/recfun/src/main/scala/recfun/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01hdGNoXD4=</text>
