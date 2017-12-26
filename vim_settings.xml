@@ -277,11 +277,11 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/HalfOfHalf.kt" timestamp="1514213092053">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
-        <mark key="^" line="7" column="44" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/HalfOfHalf.kt" timestamp="1514261449548">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -779,6 +779,13 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/CharacterPattenArc1.kt" timestamp="1514265092491">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task3/src/Task.kt" timestamp="1493218889314">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="19" />
@@ -1070,8 +1077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/User.kt" />
-      <jump line="54" column="50" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="61" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="87" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="17" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" />
@@ -1170,13 +1175,15 @@
       <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="39" column="6" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" />
+      <jump line="31" column="60" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/CharacterPattenArc1.kt" />
+      <jump line="13" column="16" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/CharacterPattenArc1.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0cmluZy50YWtlKHN0cmluZy5sZW5ndGggLyAyKS5maWx0ZXJJbmRleGVkIHsgaW5kZXgsIF8gLT4gaW5kZXggJSAyID09IDAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cmluZy50YWtlKHN0cmluZy5sZW5ndGggLyAyKS5maWx0ZXJJbmRleGVkIHsgaW5kZXgsIF8gLT4gaW5kZXggJSAyID09IDAgfQ==</text>
+        <text encoding="base64">LnJlZHVjZSB7IGFjYywgbGlzdCAtPiA=</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -1185,31 +1192,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIlsiKTsKICAgICAgICBJdGVyYXRvcjxJbnRlZ2VyPiBpdGVyYXRvciA9IGNvbGxlY3Rpb24uaXRlcmF0b3IoKTsKICAgICAgICB3aGlsZSAoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEludGVnZXIgZWxlbWVudCA9IGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgc2IuYXBwZW5kKGVsZW1lbnQpOwogICAgICAgICAgICBpZiAoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiwgIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2IuYXBwZW5kKCJdIik7CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSBzdHJpbmcudGFrZShzdHJpbmcubGVuZ3RoIC8gMikuZmlsdGVySW5kZXhlZCB7IGluZGV4LCBfIC0+IGluZGV4ICUgMiA9PSAwIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBoYWxmU3RyaW5nID0gc3RyaW5nLnRha2Uoc3RyaW5nLmxlbmd0aCAvIDIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhhbGZTdHJpbmcuZmlsdGVyIHsgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByb3dQYXR0ZW4oKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgIi4iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAlIDIgPT0gMCkgIioiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gc3RyaW5nW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU3Rhcikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAwIHVudGlsIGhhbGYgc3RlcCAyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1220,7 +1227,7 @@
       <last-offset />
       <last-pattern>inter</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute>session</last-substitute>
+      <last-substitute>inter</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
