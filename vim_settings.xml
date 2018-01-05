@@ -171,6 +171,9 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1515165422391">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" timestamp="1493320521329">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -183,11 +186,11 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="2" column="88" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/.gitignore" timestamp="1515165215888">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/.gitignore" timestamp="1515165350034">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task2/src/Task.kt" timestamp="1493277932870">
         <mark key="[" line="1" column="51" />
@@ -918,7 +921,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499911933937">
+      <file name="/Dummy.txt" timestamp="1515165526200">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1016,8 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/User.kt" />
-      <jump line="42" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/User.kt" />
       <jump line="54" column="50" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="61" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="87" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
@@ -1116,6 +1117,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
+      <jump line="0" column="26" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
+      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
