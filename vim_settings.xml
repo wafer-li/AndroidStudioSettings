@@ -171,12 +171,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1515168381679">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="57" column="4" />
-        <mark key="^" line="61" column="71" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1515171407463">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" timestamp="1493320521329">
         <mark key="[" line="18" column="39" />
@@ -405,8 +405,8 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" timestamp="1515170615738">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" timestamp="1515170706982">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
@@ -934,7 +934,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515170550561">
+      <file name="/Dummy.txt" timestamp="1515171533299">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1014,7 +1014,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1515170344300">
+      <file name="/fragment.java" timestamp="1515171144239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="44" />
@@ -1022,8 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="19" column="103" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Trending.kt" />
       <jump line="21" column="64" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
       <jump line="180" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
@@ -1122,13 +1120,15 @@
       <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pY3RjaGluYS5yc3NpZmluZGFwLm5ldHdvcmsuaW50ZXJjZXB0b3JzLkNhY2hlSW50ZXJjZXB0b3IK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29tcGlsZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">Y29tcGlsZSA=</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
