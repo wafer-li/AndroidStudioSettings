@@ -184,12 +184,6 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/card_main_recycler.xml" timestamp="1515195353865">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task7/src/Task.kt" timestamp="1493279216258">
         <mark key="[" line="2" column="90" />
         <mark key="]" line="2" column="88" />
@@ -354,17 +348,23 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/activity_main.xml" timestamp="1515194946327">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/activity_main.xml" timestamp="1515199411501">
         <mark key="[" line="9" column="43" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="63" />
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values-zh-rCN/arrays.xml" timestamp="1515201408040">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ScpViewer/app/src/main/kotlin/com/wafer/scpviewer/network/ScpApi.kt" timestamp="1490462577730">
         <mark key="[" line="15" column="52" />
@@ -408,9 +408,6 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1499684735387">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495719578133">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="75" column="7" />
@@ -442,11 +439,22 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="89" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdapter.kt" timestamp="1515201682885">
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/interceptors/CacheInterceptor.kt" timestamp="1515169088363">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1515201458188">
+        <mark key="[" line="21" column="94" />
+        <mark key="]" line="21" column="93" />
+        <mark key="." line="21" column="93" />
+        <mark key="^" line="21" column="93" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
@@ -532,6 +540,12 @@
         <mark key="]" line="2" column="44" />
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdpater.kt" timestamp="1515201672846">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="30" column="111" />
+        <mark key="." line="30" column="111" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1499688067512">
         <mark key="'" line="219" column="12" />
@@ -847,7 +861,13 @@
         <mark key="^" line="10" column="80" />
         <mark key="." line="10" column="80" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1515195607631">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values/arrays.xml" timestamp="1515201363314">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1515201256082">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="3" column="46" />
         <mark key="^" line="3" column="46" />
@@ -949,16 +969,13 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1499733959628">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/User.kt" timestamp="1491545870799">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="51" />
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515195789766">
+      <file name="/Dummy.txt" timestamp="1515203382503">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1149,43 +1166,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdpby5yZWFjdGl2ZXgucnhqYXZhMjpyeGFuZHJvaWQ6Mi4wLjEnCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHN0cmluZy1hcnJheSBuYW1lPSJtYWluX3JlY3ljbGVyIj4KICAgICAgICA8aXRlbT5DYWxjdWxhdGlvbjwvaXRlbT4KICAgICAgICA8aXRlbT5UcmFpbmluZzwvaXRlbT4KICAgIDwvc3RyaW5nLWFycmF5Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i6K6t57uDIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pY3RjaGluYS5yc3NpZmluZGFwLm5ldHdvcmsuaW50ZXJjZXB0b3JzLkNhY2hlSW50ZXJjZXB0b3IK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0ibWFpbl8iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY20uaXNBY3RpdmVOZXR3b3JrTWV0ZXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy50ZXh0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY20uYWN0aXZlTmV0d29ya0luZm8K</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
