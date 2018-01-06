@@ -232,12 +232,12 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/build.gradle" timestamp="1515209483837">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/build.gradle" timestamp="1515244876226">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="40" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/manage/configInfo.jsp" timestamp="1499697546520">
         <mark key="[" line="55" column="31" />
@@ -1177,10 +1177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U29tZUFjdGl2aXR5IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U29tZUFjdGl2aXR5IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
