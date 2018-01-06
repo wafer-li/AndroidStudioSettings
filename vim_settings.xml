@@ -439,10 +439,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="89" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdapter.kt" timestamp="1515201682885">
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdapter.kt" timestamp="1515204189281">
+        <mark key="[" line="19" column="80" />
+        <mark key="]" line="19" column="86" />
+        <mark key="^" line="19" column="86" />
+        <mark key="." line="19" column="86" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/interceptors/CacheInterceptor.kt" timestamp="1515169088363">
         <mark key="[" line="8" column="0" />
@@ -1165,8 +1166,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1178,31 +1179,31 @@
         <text encoding="base64">PHN0cmluZy1hcnJheSBuYW1lPSJtYWluX3JlY3ljbGVyIj4KICAgICAgICA8aXRlbT5DYWxjdWxhdGlvbjwvaXRlbT4KICAgICAgICA8aXRlbT5UcmFpbmluZzwvaXRlbT4KICAgIDwvc3RyaW5nLWFycmF5Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0ibWFpbl8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0ibWFpbl8iCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy50ZXh0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy50ZXh0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
