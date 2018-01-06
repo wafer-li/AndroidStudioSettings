@@ -439,11 +439,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="89" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdapter.kt" timestamp="1515204189281">
-        <mark key="[" line="19" column="80" />
-        <mark key="]" line="19" column="86" />
-        <mark key="^" line="19" column="86" />
-        <mark key="." line="19" column="86" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdapter.kt" timestamp="1515205745712">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/interceptors/CacheInterceptor.kt" timestamp="1515169088363">
         <mark key="[" line="8" column="0" />
@@ -747,6 +746,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/Exercise/test.jsp" timestamp="1499699679352">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/CancelableLivedata.java" timestamp="1495285330807">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -867,6 +871,11 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/Exercise/test.htm" timestamp="1499697073743">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1515201256082">
         <mark key="[" line="1" column="11" />
@@ -1020,6 +1029,16 @@
         <mark key="^" line="160" column="38" />
         <mark key="." line="160" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" timestamp="1495549670373">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.java" timestamp="1495719603234">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1490191486622">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -1166,44 +1185,44 @@
       <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuZXIub24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHN0cmluZy1hcnJheSBuYW1lPSJtYWluX3JlY3ljbGVyIj4KICAgICAgICA8aXRlbT5DYWxjdWxhdGlvbjwvaXRlbT4KICAgICAgICA8aXRlbT5UcmFpbmluZzwvaXRlbT4KICAgIDwvc3RyaW5nLWFycmF5Pg==</text>
+        <text encoding="base64">IG9uQ2xpY2tMaXN0ZW5lcg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuZXIub24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuZXIub24K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0ibWFpbl8iCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy50ZXh0Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
