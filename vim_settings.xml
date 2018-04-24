@@ -469,11 +469,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524549517966">
-        <mark key="'" line="31" column="3" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524551011311">
+        <mark key="'" line="39" column="68" />
+        <mark key="[" line="114" column="81" />
+        <mark key="]" line="115" column="75" />
+        <mark key="^" line="115" column="75" />
+        <mark key="." line="115" column="75" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1524538143110" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
@@ -1095,9 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="149" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="19" column="21" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/TrendingApi.kt" />
       <jump line="3704" column="91" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/e11f8b99796174be4f0f255d717f295d5e49a53b/rxjava-2.1.0-sources.jar!/io/reactivex/Observable.java" />
       <jump line="136" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="2262" column="64" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/View.java" />
@@ -1195,10 +1193,13 @@
       <jump line="33" column="52" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="89" column="31" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="35" column="3" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="80" column="7" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="117" column="7" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="39" column="68" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXB2aWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>or</text>
@@ -1210,31 +1211,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgc2Vuc29yTWFuYWdlcjogU2Vuc29yTWFuYWdlciA9IGdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5TRU5TT1JfU0VSVklDRSkgYXMgU2Vuc29yTWFuYWdlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXB2aWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXRoLnNpbigpbWFwdmlldy5jdXJyZW50Um90YXRlRGVncmVlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LnNlbnNvci50eXBlID09IFNlbnNvci5UWVBFX1NURVBfREVURUNUT1IgLT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5jb250ZW50Vmlldwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIHNuYWNrYmFyKG1hcHZpZXcsICJTdGVwIGRldGVjdCEiKS5zaG93KCkKICAgICAgICAgICAgICAgICAgICB2YWwgZGVncmVlID0gTWF0aC50b1JhZGlhbnMobWFwdmlldy5jdXJyZW50Um90YXRlRGVncmVlcy50b0RvdWJsZSgpKQogICAgICAgICAgICAgICAgICAgIHZhbCB4ID0gbG9jYXRpb25MYXllci5jdXJyZW50UG9zaXRpb24ueCArIDZGICogTWF0aC5zaW4oZGVncmVlKQogICAgICAgICAgICAgICAgICAgIHZhbCB5ID0gbG9jYXRpb25MYXllci5jdXJyZW50UG9zaXRpb24ueSArIDZGICogTWF0aC5jb3MoZGVncmVlKQoKICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbkxheWVyLmN1cnJlbnRQb3NpdGlvbiA9IFBvaW50Rih4LnRvRmxvYXQoKSwgeS50b0Zsb2F0KCkp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uTGF5ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgeCA9IGxvY2F0aW9uTGF5ZXIuY3VycmVudFBvc2l0aW9uLnggKyA2RiAqIE1hdGguc2luKGRlZ3JlZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZGVncmVlID0gTWF0aC50b1JhZGlhbnMobWFwdmlldy5jdXJyZW50Um90YXRlRGVncmVlcy50b0RvdWJsZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
