@@ -195,11 +195,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1524537125125">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1524537977474">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="31" column="85" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" timestamp="1493320521329">
         <mark key="[" line="18" column="39" />
@@ -242,6 +243,12 @@
         <mark key="]" line="11" column="38" />
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/mapview/build.gradle" timestamp="1524538017604">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task2/src/Task.kt" timestamp="1493278106519">
         <mark key="[" line="4" column="57" />
@@ -359,8 +366,11 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/activity_main.xml" timestamp="1524536347247">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/activity_main.xml" timestamp="1524538146732">
         <mark key="[" line="7" column="64" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
@@ -459,11 +469,13 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524536274426">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524541578607">
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="55" column="98" />
+        <mark key="." line="55" column="98" />
+        <mark key="^" line="55" column="98" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1524538143110" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -986,7 +998,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524536668992">
+      <file name="/Dummy.txt" timestamp="1524538155395">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1036,6 +1048,9 @@
         <mark key="^" line="160" column="38" />
         <mark key="." line="160" column="38" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/settings.gradle" timestamp="1524537980788">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1524537087662">
         <mark key="[" line="109" column="40" />
         <mark key="]" line="110" column="3" />
@@ -1080,8 +1095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="104" column="14" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="116" column="46" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="57" column="15" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
@@ -1180,46 +1193,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
       <jump line="1" column="17" filename="$USER_HOME$/Programming/IdeaProjects/LeetCode/.gitignore" />
       <jump line="18" column="0" filename="$USER_HOME$/Programming/IdeaProjects/LeetCode/.gitignore" />
+      <jump line="64" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="33" column="52" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25MYXllci5jb21wYXNzSW5kaWNhdG9yQXJyb3dSb3RhdGVEZWdyZWUgPSAtZGVncmVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmFua286YW5rby1jb21tb25zOiRhbmtvX3ZlcnNpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2Vuc29yTWFuYWdlcjogU2Vuc29yTWFuYWdlciA9IGdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5TRU5TT1JfU0VSVklDRSkgYXMgU2Vuc29yTWFuYWdlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25MYXllci5jb21wYXNzSW5kaWNhdG9yQXJyb3dSb3RhdGVEZWdyZWUgPSAtZGVncmVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzptYXB2aWV3JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25MYXllci5jb21wYXNzSW5kaWNhdG9yQ2lyY2xlUm90YXRlRGVncmVlID0gLWRlZ3JlZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2NhdGlvbkxheWVyOiBMb2NhdGlvbkxheWVyID0gTG9jYXRpb25MYXllcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5nUmVjeWNsZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb2NhdGlvbkxheWVyID0gTG9jYXRpb25MYXllcihtYXB2aWV3LCBQb2ludEYoMTAwLjBGLCAxMDAuMEYpLCB0cnVlKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5zb3JNYW5hZ2VyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
