@@ -468,12 +468,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524561191823">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="351" column="36" />
-        <mark key="]" line="352" column="19" />
-        <mark key="^" line="352" column="19" />
-        <mark key="." line="352" column="19" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524563860775">
+        <mark key="'" line="253" column="22" />
+        <mark key="[" line="325" column="71" />
+        <mark key="]" line="325" column="70" />
+        <mark key="^" line="325" column="70" />
+        <mark key="." line="325" column="70" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1524538143110" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
@@ -1001,7 +1001,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524560272187">
+      <file name="/Dummy.txt" timestamp="1524564302424">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1098,9 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/e11f8b99796174be4f0f255d717f295d5e49a53b/rxjava-2.1.0-sources.jar!/io/reactivex/subjects/Subject.java" />
-      <jump line="16" column="41" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-      <jump line="7" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" />
       <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/test/kotlin/com/wafer/toy/githubclient/ExampleUnitTest.kt" />
       <jump line="56" column="66" filename="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/di/AppModule.java" />
@@ -1198,55 +1195,58 @@
       <jump line="253" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="264" column="81" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="162" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="307" column="23" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="18" column="25" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="255" column="22" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9sZENvbXBhc3MgPSAxODAuMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>orientation</text>
+        <text>fab</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgc2Vuc29yTWFuYWdlcjogU2Vuc29yTWFuYWdlciA9IGdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5TRU5TT1JfU0VSVklDRSkgYXMgU2Vuc29yTWFuYWdlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9sZENvbXBhc3MgPSAxODAuMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFicyhvbGRDb21wYXNzIC0gMTgwKSA8IDMwIHx8IGFicyhvbGRDb21wYXNzICsgMTgwKSA8IDMwKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB2YXIgU21vb3RoRmFjdG9yQ29tcGFzcyA9IDAuNQogICAgICAgIHZhciBTbW9vdGhUaHJlc2hvbGRDb21wYXNzID0gMzAuMAogICAgICAgIHZhciBvbGRDb21wYXNzID0gMC4wCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0U2Vuc29yKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wVGltZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZ3JlZSA9IGxvY2F0aW9uTGF5ZXIuY29tcGFzc0luZGljYXRvckFycm93Um90YXRlRGVncmVlLnRvRG91YmxlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFicyhkZWdyZWUgLSBsb2NhdGlvbkxheWVyLmNvbXBhc3NJbmRpY2F0b3JBcnJvd1JvdGF0ZURlZ3JlZSkgPCAzMCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRlZ3JlZVF1ZXVlOiBRdWV1ZTxEb3VibGU+ID0gTGlua2VkTGlzdDxEb3VibGU+KCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGluaXRUaW1lcigpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>orientation</last-search>
+      <last-search>fab</last-search>
       <last-offset />
-      <last-pattern>orientation</last-pattern>
+      <last-pattern>fab</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>onmap</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>W</entry>
         <entry encoding="base64">XDxvbGRaXD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
@@ -1274,6 +1273,7 @@
         <entry>initmap</entry>
         <entry>init</entry>
         <entry>orientation</entry>
+        <entry>fab</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
