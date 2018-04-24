@@ -468,11 +468,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524567918827">
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="330" column="34" />
-        <mark key="." line="330" column="34" />
-        <mark key="^" line="330" column="34" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524568870048">
+        <mark key="[" line="343" column="38" />
+        <mark key="]" line="343" column="37" />
+        <mark key="." line="343" column="37" />
+        <mark key="^" line="343" column="37" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1524538143110" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
@@ -1003,7 +1003,7 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524565504799">
+      <file name="/Dummy.txt" timestamp="1524569400336">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1203,7 +1203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigyOTlGLCAzNTNGKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigzMjJGLCA0NzJGKSkK</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1212,34 +1212,34 @@
         <text>fab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigyOTlGLCAzNTNGKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigzMjJGLCA0NzJGKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigyNTlGLCA1NTlGKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya0xheWVyLnNldE1hcmtJc0NsaWNrTGlzdGVuZXIgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKDI1MkYsIDM1M0YpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya0xheWVyID0gTWFya0xheWVyKG1hcHZpZXcsIG1hcmtzLCBsaXN0T2YoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya0xheWVyLnNldE1hcmtJc0NsaWNrTGlzdGVuZXIgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya0xheWVyID0gTWFya0xheWVyKG1hcHZpZXcsIG1hcmtzLCBsaXN0T2YoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXJrcy5hZGQoUG9pbnRGKGNvb3Jkc1swXS50b0Zsb2F0KCkgKiA2LCBjb29yZHNbMV0udG9GbG9hdCgpICogKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb29yZHNbMF0udG9Eb3VibGUoKSAhPSAwLjAgJiYgY29vcmRzWzFdLnRvRG91YmxlKCkgIT0gMC4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjb29yZHMgPSBpdC5zcGxpdCgiLCIpLnRha2UoMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXJrcy5hZGQoUG9pbnRGKGNvb3Jkc1swXS50b0Zsb2F0KCkgKiA2LCBjb29yZHNbMV0udG9GbG9hdCgpICogKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
