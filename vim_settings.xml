@@ -366,11 +366,6 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/layout/activity_main.xml" timestamp="1524552020083">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkModel.kt" timestamp="1492250253751">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="63" />
@@ -468,13 +463,13 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524571901437">
-        <mark key="[" line="264" column="67" />
-        <mark key="]" line="264" column="67" />
-        <mark key="." line="264" column="67" />
-        <mark key="^" line="264" column="67" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1524627576842">
+        <mark key="'" line="404" column="85" />
+        <mark key="[" line="467" column="23" />
+        <mark key="]" line="467" column="22" />
+        <mark key="^" line="467" column="22" />
+        <mark key="." line="467" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_map.xml" timestamp="1524538143110" />
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -532,11 +527,11 @@
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/mapview/src/main/java/com/onlylemi/mapview/library/layer/MarkLayer.java" timestamp="1524566693717">
         <mark key="'" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/AndroidManifest.xml" timestamp="1515169995779">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="4" column="75" />
-        <mark key="^" line="4" column="75" />
-        <mark key="." line="4" column="75" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/AndroidManifest.xml" timestamp="1524623713280">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="75" />
+        <mark key="^" line="6" column="75" />
+        <mark key="." line="6" column="75" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1502340192996">
         <mark key="'" line="17" column="0" />
@@ -1003,8 +998,9 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524572327535">
+      <file name="/Dummy.txt" timestamp="1524626991174">
         <mark key="e" line="0" column="7" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1100,19 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="23" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="273" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="281" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="10" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="288" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="80" column="42" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="162" column="6" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" />
-      <jump line="197" column="9" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" />
-      <jump line="219" column="12" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" />
-      <jump line="78" column="12" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/RegisterAction.java" />
-      <jump line="26" column="29" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/domain/User.java" />
-      <jump line="157" column="10" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/domain/User.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/domain/User.java" />
       <jump line="54" column="17" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
@@ -1187,7 +1170,6 @@
       <jump line="87" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="38" column="61" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="75" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="60" column="61" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="203" column="40" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="253" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
@@ -1200,25 +1182,39 @@
       <jump line="315" column="12" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="334" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/mapview/src/main/java/com/onlylemi/mapview/library/layer/MarkLayer.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="328" column="30" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="74" column="56" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="373" column="65" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="42" column="50" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="350" column="38" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="342" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="386" column="7" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="75" column="56" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="392" column="64" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="437" column="9" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="26" column="42" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="404" column="85" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>object : LocationListener {</text>
       </register>
       <register name="/" type="4">
         <text>fab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya3MuYWRkKFBvaW50RigzMjJGLCA0NzJGKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdwc194LnRleHQgPSBsb2NhdGlvbj8ubG9uZ2l0dWRlLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcHZpZXcucmVmcmVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJvdmlkZXJEaXNhYmxlZChwMDogU3RyaW5nPykgewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1227,19 +1223,19 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJvdmlkZXJFbmFibGVkKHAwOiBTdHJpbmc/KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3RhdHVzQ2hhbmdlZChwMDogU3RyaW5nPywgcDE6IEludCwgcDI6IEJ1bmRsZT8pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2xkQ29tcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1290,8 +1286,8 @@
         <entry>ws</entry>
         <entry>wq</entry>
         <entry>sw</entry>
-        <entry>ew</entry>
         <entry>we</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
