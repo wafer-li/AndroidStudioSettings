@@ -463,8 +463,8 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1527175283889">
-        <mark key="'" line="404" column="85" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1527720859424">
+        <mark key="'" line="415" column="8" />
         <mark key="[" line="467" column="23" />
         <mark key="]" line="467" column="22" />
         <mark key="^" line="467" column="22" />
@@ -1096,10 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/domain/User.java" />
-      <jump line="54" column="17" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" />
       <jump line="46" column="41" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/LoginAction.java" />
       <jump line="50" column="13" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/interceptor/MethodCacheInterceptor.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/interceptor/MethodCacheInterceptor.java" />
@@ -1196,6 +1192,10 @@
       <jump line="437" column="9" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="26" column="42" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="404" column="85" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="411" column="87" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="413" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="414" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="415" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1205,7 +1205,7 @@
         <text>object : LocationListener {</text>
       </register>
       <register name="/" type="4">
-        <text>fab</text>
+        <text>sensor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdwc194LnRleHQgPSBsb2NhdGlvbj8ubG9uZ2l0dWRlLnRvU3RyaW5nKCkK</text>
@@ -1242,9 +1242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fab</last-search>
+      <last-search>sensor</last-search>
       <last-offset />
-      <last-pattern>fab</last-pattern>
+      <last-pattern>sensor</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>onmap</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,8 +1252,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbGRaXD4=</entry>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxTdWNjXD4=</entry>
@@ -1272,6 +1270,8 @@
         <entry>init</entry>
         <entry>orientation</entry>
         <entry>fab</entry>
+        <entry>sensorma</entry>
+        <entry>sensor</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
