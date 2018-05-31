@@ -426,7 +426,7 @@
         <mark key="." line="75" column="7" />
         <mark key="^" line="75" column="7" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" timestamp="1515170706982">
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" timestamp="1527725483776">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="17" />
@@ -463,12 +463,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1527720859424">
-        <mark key="'" line="415" column="8" />
-        <mark key="[" line="467" column="23" />
-        <mark key="]" line="467" column="22" />
-        <mark key="^" line="467" column="22" />
-        <mark key="." line="467" column="22" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1527727113030">
+        <mark key="[" line="367" column="24" />
+        <mark key="]" line="367" column="23" />
+        <mark key="." line="367" column="23" />
+        <mark key="^" line="367" column="23" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
@@ -612,6 +611,9 @@
         <mark key="]" line="1" column="78" />
         <mark key="^" line="1" column="78" />
         <mark key="." line="1" column="78" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/Api.kt" timestamp="1527725675009">
+        <mark key="[" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContributorAdapter.kt" timestamp="1493588208486">
         <mark key="[" line="24" column="36" />
@@ -1096,23 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="41" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/LoginAction.java" />
-      <jump line="50" column="13" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/interceptor/MethodCacheInterceptor.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/interceptor/MethodCacheInterceptor.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/interceptor/SSOInterceptor.java" />
-      <jump line="159" column="22" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="63" column="27" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" />
-      <jump line="121" column="17" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="119" column="12" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="238" column="16" filename="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" />
-      <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" />
-      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="8" column="18" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="34" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="38" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
       <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="19" column="18" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
@@ -1191,48 +1176,65 @@
       <jump line="37" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="437" column="9" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="26" column="42" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="404" column="85" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="411" column="87" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="413" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="414" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="415" column="8" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="358" column="31" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="394" column="14" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="401" column="34" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="403" column="78" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="404" column="53" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="423" column="25" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="424" column="38" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="425" column="39" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="428" column="25" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="449" column="51" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="459" column="17" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="460" column="14" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="461" column="42" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="464" column="17" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="465" column="14" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="467" column="14" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="13" column="23" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="372" column="78" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlc0Rpci5kZWxldGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>object : LocationListener {</text>
+        <text encoding="base64">fSwg</text>
       </register>
       <register name="/" type="4">
-        <text>sensor</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdwc194LnRleHQgPSBsb2NhdGlvbj8ubG9uZ2l0dWRlLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbDEgPSBhcnJheUxpc3RPZjxJbnQ+KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlc0Rpci5kZWxldGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJvdmlkZXJEaXNhYmxlZChwMDogU3RyaW5nPykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRXJyb3IoZTogVGhyb3dhYmxlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUHJvdmlkZXJFbmFibGVkKHAwOiBTdHJpbmc/KSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3RhdHVzQ2hhbmdlZChwMDogU3RyaW5nPywgcDE6IEludCwgcDI6IEJ1bmRsZT8pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTmV4dCh0OiBJbnQpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1242,9 +1244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sensor</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern>sensor</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>onmap</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,9 +1254,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpaXNaZXJvXD4=</entry>
-        <entry encoding="base64">XDxpZlw+</entry>
-        <entry encoding="base64">XDxTdWNjXD4=</entry>
         <entry encoding="base64">XDx5XD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
@@ -1272,6 +1271,9 @@
         <entry>fab</entry>
         <entry>sensorma</entry>
         <entry>sensor</entry>
+        <entry>oncreate</entry>
+        <entry>on</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
