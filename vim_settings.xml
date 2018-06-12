@@ -463,11 +463,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1527750633987">
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="328" column="19" />
-        <mark key="." line="328" column="19" />
-        <mark key="^" line="328" column="19" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" timestamp="1528777156170">
+        <mark key="'" line="94" column="46" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson2/task6/src/Task.kt" timestamp="1493277515708">
         <mark key="[" line="0" column="0" />
@@ -1098,8 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="19" column="18" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
@@ -1127,7 +1125,6 @@
       <jump line="39" column="68" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="116" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="89" column="29" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="98" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="99" column="39" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="86" column="19" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
@@ -1198,55 +1195,58 @@
       <jump line="467" column="14" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="13" column="23" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="372" column="78" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="322" column="4" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="95" column="40" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="98" column="46" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlc0Rpci5kZWxldGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSwg</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>onCreate</text>
+        <text>aplist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbDEgPSBhcnJheUxpc3RPZjxJbnQ+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Mud3JpdGUoYXBMaXN0Lm1hcCB7IGl0LnRvU3RyaW5nKCkgfS5yZWR1Y2UgeyBhY2MsIHMgLT4gYWNjICsgIlxuIiArIHMgfS50b0J5dGVBcnJheSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlc0Rpci5kZWxldGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRXJyb3IoZTogVGhyb3dhYmxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKGFwTGlzdC5tYXAgeyBpdC50b1N0cmluZygpIH0ucmVkdWNlIHsgYWNjLCBzIC0+IGFjYyArICJcbiIgKyBzIH0udG9CeXRlQXJyYXkoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuRmlsZU91dHB1dCgiJGdwc194LCRncHNfeSIsICBDb250ZXh0Lk1PREVfUFJJVkFURSkudXNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Mud3JpdGUod2lmaU1hbmFnZXIuZ2V0U2NhblJlc3VsdHMoKS5zdWJ0cmFjdChhcExpc3QpLnRvQnl0ZUFycmF5KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTmV4dCh0OiBJbnQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5GaWxlT3V0cHV0KERhdGUodG9TdHJpbmcoKSwgIENvbnRleHQuTU9ERV9QUklWQVRFKS51c2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVzRGlyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onCreate</last-search>
+      <last-search>aplist</last-search>
       <last-offset />
-      <last-pattern>onCreate</last-pattern>
+      <last-pattern>aplist</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>onmap</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1254,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx5XD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry>div</entry>
@@ -1274,6 +1273,7 @@
         <entry>oncreate</entry>
         <entry>on</entry>
         <entry>onCreate</entry>
+        <entry>aplist</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -1284,12 +1284,12 @@
         <entry>aw</entry>
         <entry>W</entry>
         <entry>w]</entry>
-        <entry>qw</entry>
         <entry>ws</entry>
         <entry>wq</entry>
         <entry>sw</entry>
-        <entry>we</entry>
         <entry>ew</entry>
+        <entry>qw</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
