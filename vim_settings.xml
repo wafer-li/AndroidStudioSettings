@@ -69,6 +69,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545688210973">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="22" />
@@ -354,8 +360,11 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratusbaMutiplication.kt" timestamp="1545687436508">
-        <mark key="[" line="5" column="3" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratusbaMutiplication.kt" timestamp="1545687463755">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values-zh-rCN/arrays.xml" timestamp="1515201408040">
         <mark key="[" line="4" column="14" />
@@ -1204,43 +1213,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB4U3RyID0geC50b1N0cmluZygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Mud3JpdGUoYXBMaXN0Lm1hcCB7IGl0LnRvU3RyaW5nKCkgfS5yZWR1Y2UgeyBhY2MsIHMgLT4gYWNjICsgIlxuIiArIHMgfS50b0J5dGVBcnJheSgpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB4U3RyID0geC50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHgudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKGFwTGlzdC5tYXAgeyBpdC50b1N0cmluZygpIH0ucmVkdWNlIHsgYWNjLCBzIC0+IGFjYyArICJcbiIgKyBzIH0udG9CeXRlQXJyYXkoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuRmlsZU91dHB1dCgiJGdwc194LCRncHNfeSIsICBDb250ZXh0Lk1PREVfUFJJVkFURSkudXNlIHsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Mud3JpdGUod2lmaU1hbmFnZXIuZ2V0U2NhblJlc3VsdHMoKS5zdWJ0cmFjdChhcExpc3QpLnRvQnl0ZUFycmF5KCkpCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5GaWxlT3V0cHV0KERhdGUodG9TdHJpbmcoKSwgIENvbnRleHQuTU9ERV9QUklWQVRFKS51c2Ugewo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVzRGlyLgo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
