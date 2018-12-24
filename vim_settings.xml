@@ -69,11 +69,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545693370558">
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545694989682">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="53" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -1113,9 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="22" column="74" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
@@ -1213,13 +1211,16 @@
       <jump line="322" column="4" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="95" column="40" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="98" column="46" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
+      <jump line="46" column="11" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="41" column="10" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="9" column="1" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>37493127492384791238479213874231947892347912&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>37493127492384791238479213874231947892347912&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
@@ -1228,28 +1229,28 @@
         <text encoding="base64">ICAgIHZhbCBjID0geVN0ci50YWtlKG4gLyAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5maXggZnVuIExvbmcuYCoqYChleHA6IEludCkK</text>
+        <text encoding="base64">54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpY2hvbmdfODcvYXJ0aWNsZS9kZXRhaWxzLzY4NjAzMjkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">5p2l5rqQ77yaQ1NETgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEudG9pbnQK</text>
+        <text encoding="base64">5L2c6ICF77yabGljaG9uZ184Nwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
