@@ -69,12 +69,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545787353207">
-        <mark key="'" line="81" column="43" />
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="57" column="44" />
-        <mark key="^" line="57" column="44" />
-        <mark key="." line="57" column="44" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545797730504">
+        <mark key="'" line="35" column="23" />
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -652,7 +652,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="/Kotlin Console" timestamp="1545692258772">
+      <file name="/Kotlin Console" timestamp="1545797649923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
@@ -1114,8 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
@@ -1214,46 +1212,48 @@
       <jump line="41" column="10" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="9" column="1" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="58" column="43" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="95" column="12" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="35" column="23" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlMS5yZWR1Y2VJbmRleGVkQ2FycnkgeyBjYXJyeSwgaW5kZXgsIGFjYywgYyAtPgogICAgICAgICAgICB2YWwgYWRkID0gYy50b0ludCgpICsgcmV2ZXJzZTJbaW5kZXhdLnRvSW50KCkgKyBjYXJyeQogICAgICAgICAgICB2YWwgbmV3Q2FycnkgPSBhZGQgLyAxMAogICAgICAgICAgICB2YWwgcmVzdWx0ID0gYWRkICUgMTAKICAgICAgICAgICAgdmFsIG5ld0FjYyA9IHJlc3VsdC50b1N0cmluZygpICsgYWNjCgogICAgICAgICAgICBQYWlyKG5ld0NhcnJ5LCBuZXdBY2MpCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydFJlc3VsdCA9IHJldmVyc2UyLnJlZHVjZUluZGV4ZWRDYXJyeSB7IGNhcnJ5LCBpbmRleCwgYWNjLCBjIC0+CiAgICAgICAgICAgICAgICB2YWwgbWludXMgPSByZXZlcnNlMVtpbmRleF0udG9TdHJpbmcoKS50b0ludCgpIC0gYy50b0ludCgpIC0gY2FycnkKICAgICAgICAgICAgICAgIHZhbCBuZXdDYXJyeSA9IGlmIChtaW51cyA8IDApIDEgZWxzZSAwCiAgICAgICAgICAgICAgICB2YWwgcmVzdWx0ID0gaWYgKG1pbnVzIDwgMCkgbWludXMgKyAxMCBlbHNlIG1pbnVzCiAgICAgICAgICAgICAgICB2YWwgbmV3QWNjID0gcmVzdWx0LnRvU3RyaW5nKCkgKyBhY2MKCiAgICAgICAgICAgICAgICBQYWlyKG5ld0NhcnJ5LCBuZXdBY2MpCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhbHNka2YgPSBiZGQgbWludXMgYWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV2ZXJzZTIudGFrZUxhc3QoZGlmZikgKyBwYXJ0UmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiAocmV2ZXJzZTEubGVuZ3RoID4gcmV2ZXJzZTIubGVuZ3RoKSByZXZlcnNlMS50YWtlTGFzdChkaWZmKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwYXJ0UmVzdWx0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlMi5yZWR1Y2VJbmRleGVkQ2FycnkgeyBjYXJyeSwgaW5kZXgsIGFjYywgYyAtPiAK</text>
+        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
