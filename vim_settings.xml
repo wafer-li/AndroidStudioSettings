@@ -69,12 +69,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545799771290">
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545801646602">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="72" column="61" />
-        <mark key="." line="72" column="61" />
-        <mark key="^" line="72" column="61" />
+        <mark key="[" line="96" column="10" />
+        <mark key="]" line="96" column="11" />
+        <mark key="^" line="96" column="11" />
+        <mark key="." line="96" column="11" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -1217,43 +1217,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
+        <text encoding="base64">ICAgIGVsc2UgcC5zZWNvbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldmVyc2UyLnRha2VMYXN0KGRpZmYgLSAxKSArIHAuc2Vjb25kCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGlmIChyZXZlcnNlMS5sZW5ndGggPiByZXZlcnNlMi5sZW5ndGgpIHsKICAgICAgICBpZiAocC5maXJzdCA9PSAwKQogICAgICAgICAgICByZXZlcnNlMS50YWtlTGFzdChkaWZmKSArIHAuc2Vjb25kCiAgICAgICAgZWxzZSAocmV2ZXJzZTJbcmV2ZXJzZTEubGVuZ3RoIC0gZGlmZl0udG9TdHJpbmcoKS50b0ludCgpICsgcC5maXJzdCkudG9TdHJpbmcoKSArCiAgICAgICAgICAgICAgICByZXZlcnNlMi50YWtlTGFzdChkaWZmIC0gMSkgKyBwLnNlY29uZAogICAgfQogICAgZWxzZSBwLnNlY29uZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
+        <text encoding="base64">ICAgIGVsc2UgcC5zZWNvbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldmVyc2UyLnRha2VMYXN0KGRpZmYgLSAxKSArIHAuc2Vjb25kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIChyZXZlcnNlMltyZXZlcnNlMS5sZW5ndGggLSBkaWZmXS50b1N0cmluZygpLnRvSW50KCkgKyBwLmZpcnN0KS50b1N0cmluZygpICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlMS50YWtlTGFzdChkaWZmKSArIHAuc2Vjb25kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocC5maXJzdCA9PSAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGlmIChyZXZlcnNlMS5sZW5ndGggPiByZXZlcnNlMi5sZW5ndGgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbHNka2YgPSBiZGQgbWludXMgYWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
