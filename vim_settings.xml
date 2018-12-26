@@ -69,11 +69,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545786067594">
-        <mark key="'" line="10" column="1" />
-        <mark key="[" line="64" column="33" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545787061369">
+        <mark key="'" line="76" column="43" />
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="21" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -1113,7 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="74" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
@@ -1213,46 +1213,47 @@
       <jump line="46" column="11" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="41" column="10" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="9" column="1" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="58" column="43" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoY2FycnksIGFjYykgPSBvcChjYXJyeSwgaSwgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>,src[0].toString()</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FycnkgPSBhZGQgLyAxMAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICByZXZlcnNlMS5yZWR1Y2VJbmRleGVkQ2FycnkgeyBjYXJyeSwgaW5kZXgsIGFjYywgYyAtPgogICAgICAgICAgICB2YWwgYWRkID0gYy50b0ludCgpICsgcmV2ZXJzZTJbaW5kZXhdLnRvSW50KCkgKyBjYXJyeQogICAgICAgICAgICB2YWwgbmV3Q2FycnkgPSBhZGQgLyAxMAogICAgICAgICAgICB2YWwgcmVzdWx0ID0gYWRkICUgMTAKICAgICAgICAgICAgdmFsIG5ld0FjYyA9IHJlc3VsdC50b1N0cmluZygpICsgYWNjCgogICAgICAgICAgICBQYWlyKG5ld0NhcnJ5LCBuZXdBY2MpCiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoY2FycnksIGFjYykgPSBvcChjYXJyeSwgaSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWlyCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXJyeSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXZlcnNlMi5yZWR1Y2VJbmRleGVkQ2FycnkgeyBjYXJyeSwgaW5kZXgsIGFjYywgYyAtPiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2UgewogICAgICAgIHJldmVyc2UyLnJlZHVjZUluZGV4ZWRDYXJyeSB7IGNhcnJ5LCBpbmRleCwgYWNjLCBjIC0+IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAwLi5zcmMubGFzdEluZGV4KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWlyPSBvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA9IG9wKGNhcnJ5LCBpLCBhY2MsIHNyY1tpXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXZlcnNlMi5yZWR1Y2VJbmRleGVkQ2FycnkgeyBpLCBpLCBzLCBjIC0+IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1263,7 +1264,7 @@
       <last-offset />
       <last-pattern>aplist</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute>onmap</last-substitute>
+      <last-substitute>aplist</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1300,11 +1301,11 @@
         <entry>W</entry>
         <entry>w]</entry>
         <entry>ws</entry>
-        <entry>wq</entry>
         <entry>sw</entry>
         <entry>ew</entry>
         <entry>qw</entry>
         <entry>we</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
