@@ -69,11 +69,11 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545785164333">
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545786067594">
         <mark key="'" line="10" column="1" />
-        <mark key="[" line="51" column="44" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="64" column="33" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -1216,43 +1216,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAoY2FycnksIGFjYykgPSBvcChjYXJyeSwgaSwgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Char</text>
+        <text>,src[0].toString()</text>
       </register>
       <register name="/" type="4">
         <text>aplist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNhcnJ5ID0gYWRkIC8gMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FycnkgPSBhZGQgLyAxMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAoY2FycnksIGFjYykgPSBvcChjYXJyeSwgaSwgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWlyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlMS5yZWR1Y2UgeyBhY2MsIGMgLT4K</text>
+        <text encoding="base64">ICAgIHZhbCBjYXJyeSA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaSBpbiAwLi5zcmMubGFzdEluZGV4KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gMC4ucmV2ZXJzZTEubGVuZ3RoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWlyPSBvcCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVkdWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICA9IG9wKGNhcnJ5LCBpLCBhY2MsIHNyY1tpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
