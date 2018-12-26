@@ -69,12 +69,11 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545801646602">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="11" />
-        <mark key="^" line="96" column="11" />
-        <mark key="." line="96" column="11" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545809501155">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
@@ -123,6 +122,13 @@
         <mark key="]" line="95" column="59" />
         <mark key="^" line="95" column="59" />
         <mark key="." line="95" column="59" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" timestamp="1545808228741">
+        <mark key="'" line="37" column="14" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Test.kt" timestamp="1493218536430">
         <mark key="[" line="13" column="26" />
@@ -481,6 +487,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberAdd.kt" timestamp="1545809307006">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task4/src/Task.kt" timestamp="1493292389426">
         <mark key="[" line="19" column="64" />
@@ -1114,19 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="40" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="17" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="53" column="12" filename="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/RepoListAdapter.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="31" column="28" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="14" column="9" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="36" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" />
-      <jump line="1" column="17" filename="$USER_HOME$/Programming/IdeaProjects/LeetCode/.gitignore" />
-      <jump line="18" column="0" filename="$USER_HOME$/Programming/IdeaProjects/LeetCode/.gitignore" />
       <jump line="33" column="52" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="35" column="3" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="117" column="7" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
@@ -1214,55 +1214,68 @@
       <jump line="35" column="23" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="71" column="16" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="83" column="53" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="133" column="16" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="97" column="33" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="33" column="23" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="72" column="27" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberAdd.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="9" column="23" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="10" column="8" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="11" column="15" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="14" column="19" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="20" column="27" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
+      <jump line="33" column="14" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2UgcC5zZWNvbmQK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>aplist</text>
+        <text>x</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGlmIChyZXZlcnNlMS5sZW5ndGggPiByZXZlcnNlMi5sZW5ndGgpIHsKICAgICAgICBpZiAocC5maXJzdCA9PSAwKQogICAgICAgICAgICByZXZlcnNlMS50YWtlTGFzdChkaWZmKSArIHAuc2Vjb25kCiAgICAgICAgZWxzZSAocmV2ZXJzZTJbcmV2ZXJzZTEubGVuZ3RoIC0gZGlmZl0udG9TdHJpbmcoKS50b0ludCgpICsgcC5maXJzdCkudG9TdHJpbmcoKSArCiAgICAgICAgICAgICAgICByZXZlcnNlMi50YWtlTGFzdChkaWZmIC0gMSkgKyBwLnNlY29uZAogICAgfQogICAgZWxzZSBwLnNlY29uZA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXZlcnNlID0gdGhpcy5yZXZlcnNlZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UgcC5zZWNvbmQK</text>
+        <text encoding="base64">ICAgIHZhbCBhID0geC50YWtlKE4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIjEyMzQ4NzEyMzk0ODIxNzM0OTEyNzM4OTQiIGFkZCAiMTIzOTg0NzEyMzg5NDcxMjM5MzIxNDIxOTM0OCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldmVyc2UyLnRha2VMYXN0KGRpZmYgLSAxKSArIHAuc2Vjb25kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIChyZXZlcnNlMltyZXZlcnNlMS5sZW5ndGggLSBkaWZmXS50b1N0cmluZygpLnRvSW50KCkgKyBwLmZpcnN0KS50b1N0cmluZygpICsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
+        <text encoding="base64">ICAgIHZhbCBuID0gbWF4KHgubGVuZ3RoLCB5Lmxlbmd0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocC5maXJzdCA9PSAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGlmIChyZXZlcnNlMS5sZW5ndGggPiByZXZlcnNlMi5sZW5ndGgpIHsK</text>
+        <text encoding="base64">ICAgIGVsc2UgaWYgKHguaXNFbXB0eSgpIHx8IHkuaXNFbXB0eSgpIHx8IHggPT0gIjAiIHx8IHkgPT0gIjAiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJzZTEudGFrZUxhc3QoZGlmZikgKyBwLnNlY29uZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHgudG9JbnQoKSAqIHkudG9JbnQoKSkudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh4Lmxlbmd0aCA9PSAxICYmIHkubGVuZ3RoID09IDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aplist</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>aplist</last-pattern>
+      <last-pattern>x</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>aplist</last-substitute>
       <last-dir>1</last-dir>
@@ -1270,8 +1283,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyXD4=</entry>
-        <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry>div</entry>
         <entry>session</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -1290,6 +1301,8 @@
         <entry>on</entry>
         <entry>onCreate</entry>
         <entry>aplist</entry>
+        <entry>pad</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -1302,10 +1315,10 @@
         <entry>w]</entry>
         <entry>ws</entry>
         <entry>sw</entry>
-        <entry>ew</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
