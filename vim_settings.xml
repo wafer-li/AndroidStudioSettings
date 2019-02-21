@@ -149,6 +149,9 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar!/com/google/gson/Gson.java" timestamp="1550740715434">
+        <mark key="'" line="744" column="4" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495719578133">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="75" column="7" />
@@ -184,6 +187,9 @@
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/mapview/src/main/java/com/onlylemi/mapview/library/layer/MarkLayer.java" timestamp="1524566693717">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/AndroidManifest.xml" timestamp="1524623713280">
         <mark key="[" line="6" column="75" />
@@ -598,12 +604,11 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1550737553079">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="73" column="40" />
-        <mark key="]" line="73" column="64" />
-        <mark key="." line="73" column="64" />
-        <mark key="^" line="73" column="64" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" timestamp="1550740658151">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1490883835570">
         <mark key="[" line="1" column="33" />
@@ -768,11 +773,11 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1550733741070">
-        <mark key="[" line="157" column="70" />
-        <mark key="]" line="157" column="70" />
-        <mark key="." line="157" column="70" />
-        <mark key="^" line="157" column="61" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1550740475730">
+        <mark key="[" line="137" column="27" />
+        <mark key="]" line="137" column="34" />
+        <mark key="." line="137" column="34" />
+        <mark key="^" line="137" column="34" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -963,17 +968,20 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" timestamp="1550739271417">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" timestamp="1550740948393">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="114" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/MessageAction.java" timestamp="1499702244780">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/RepoListAdapter.java" timestamp="1515206238676">
+        <mark key="'" line="53" column="12" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
@@ -1183,8 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="38" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="425" column="39" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="428" column="25" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="449" column="51" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="459" column="17" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
@@ -1222,7 +1228,6 @@
       <jump line="22" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="34" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="38" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
-      <jump line="108" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="99" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="14" column="29" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" />
       <jump line="27" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" />
@@ -1283,13 +1288,16 @@
       <jump line="31" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout-v26/activity_login.xml" />
       <jump line="85" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="76" column="47" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
+      <jump line="108" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
+      <jump line="744" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar!/com/google/gson/Gson.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ch</text>
+        <text encoding="base64">PSAg</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -1298,31 +1306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXJuYW1lID0gbG9naW5fdXNlcm5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnc29uLm5ld0pzb25SZWFkZXIoKS4K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCBub3RlOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgibm90ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEdlbmVyYXRlZCgiY29tLnJvYm9ob3JzZS5yb2JvcG9qb2dlbmVyYXRvciIpCg==</text>
+        <text encoding="base64">CXZhbCBub3RlOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgibm90ZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1333,7 +1341,7 @@
       <last-offset />
       <last-pattern>button</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
