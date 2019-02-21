@@ -659,10 +659,11 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/AuthRequest.kt" timestamp="1550741816833">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/AuthRequest.kt" timestamp="1550742812698">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson3/task8/src/Task.kt" timestamp="1493279264329">
         <mark key="[" line="1" column="62" />
@@ -1294,7 +1295,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>secret</text>
@@ -1306,28 +1307,28 @@
         <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgiY2xpZW50X3NlY3JldCIpCgl2YWwgY2xpZW50U2VjcmV0OiBTdHJpbmc/ID0gbnVsbCwKCglAZmllbGQ6U2VyaWFsaXplZE5hbWUoInNjb3BlcyIpCgl2YWwgc2NvcGVzOiBMaXN0PFN0cmluZz8+PyA9IG51bGw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBzY29wZXM6IExpc3Q8U3RyaW5nPz4/ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgic2NvcGVzIikK</text>
+        <text encoding="base64">CXZhbCBzY29wZXM6IExpc3Q8U3RyaW5nPz4/ID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgic2NvcGVzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50SWQ6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZDpTCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50SWQ6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBmaWVsZDpTCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
