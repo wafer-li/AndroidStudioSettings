@@ -1015,6 +1015,7 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/Request.java" timestamp="1550787218613" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1550774840444">
         <mark key="'" line="158" column="18" />
         <mark key="[" line="181" column="0" />
