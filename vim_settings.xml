@@ -276,7 +276,10 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/load/model/GenericLoaderFactory.java" timestamp="1550779851093" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/load/model/GenericLoaderFactory.java" timestamp="1550780347999">
+        <mark key="[" line="139" column="30" />
+        <mark key="]" line="139" column="30" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/CommonHeaderInterceptor.kt" timestamp="1550746826124">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
@@ -429,6 +432,7 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/load/model/stream/StreamStringLoader.java" timestamp="1550780614550" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/drawable/github_circle.xml" timestamp="1493591892586">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="4" column="40" />
@@ -1317,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>io</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>io</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>recycler</text>
