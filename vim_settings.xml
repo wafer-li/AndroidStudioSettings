@@ -70,6 +70,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_two_factor_auth_input.xml" timestamp="1550752421763">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/styles.xml" timestamp="1491548790150">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -106,6 +112,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" timestamp="1550751729411">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/gradle.properties" timestamp="1493448355895">
         <mark key="[" line="19" column="13" />
@@ -272,12 +284,6 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" timestamp="1550696258787">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
@@ -429,11 +435,6 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/MainContentFragment.kt" timestamp="1550696693821">
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="76" />
-        <mark key="." line="33" column="76" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Empty.java" timestamp="1491282432340">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -446,7 +447,7 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550735903923">
+      <file name="/Dummy.txt" timestamp="1550752459155">
         <mark key="e" line="0" column="7" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -516,7 +517,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1515330924150">
+      <file name="/fragment.java" timestamp="1550751428021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="44" />
@@ -852,6 +853,12 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/AndroidManifest.xml" timestamp="1550751650262">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/application/MoralApplication.kt" timestamp="1492252389943">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="41" />
@@ -961,12 +968,12 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" timestamp="1550749486010">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="64" column="59" />
-        <mark key="." line="64" column="59" />
-        <mark key="^" line="64" column="59" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" timestamp="1550751751209">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="69" column="84" />
+        <mark key="]" line="70" column="39" />
+        <mark key="." line="70" column="39" />
+        <mark key="^" line="70" column="39" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/MessageAction.java" timestamp="1499702244780">
         <mark key="[" line="33" column="32" />
@@ -1068,6 +1075,9 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Headers.java" timestamp="1550750938652">
+        <mark key="'" line="115" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/UserAuthentication.kt" timestamp="1491546176676">
         <mark key="[" line="10" column="49" />
@@ -1185,12 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="40" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="98" column="46" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
-      <jump line="46" column="11" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
-      <jump line="41" column="10" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
-      <jump line="9" column="1" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
-      <jump line="58" column="43" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="95" column="12" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="71" column="16" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" />
@@ -1285,55 +1289,61 @@
       <jump line="175" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="40" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="51" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="115" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Headers.java" />
+      <jump line="94" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
+      <jump line="254" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
+      <jump line="289" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
+      <jump line="69" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>395dp</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>395dp</text>
       </register>
       <register name="/" type="4">
-        <text>observer</text>
+        <text>task</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CUBmaWVsZDpTZXJpYWxpemVkTmFtZSgiY2xpZW50X3NlY3JldCIpCgl2YWwgY2xpZW50U2VjcmV0OiBTdHJpbmc/ID0gbnVsbCwKCglAZmllbGQ6U2VyaWFsaXplZE5hbWUoInNjb3BlcyIpCgl2YWwgc2NvcGVzOiBMaXN0PFN0cmluZz8+PyA9IG51bGw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUubWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUubWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRva2VuLgo=</text>
+        <text encoding="base64">CiAgICA8IS0tIExvZ2luIHByb2dyZXNzIC0tPgogICAgPFByb2dyZXNzQmFyCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9naW5fcHJvZ3Jlc3MiCiAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL3Byb2dyZXNzQmFyU3R5bGVMYXJnZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iOGRwIgogICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLz4KCiAgICA8U2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2xvZ2luX2Zvcm0iCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCiAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9lbWFpbF9sb2dpbl9mb3JtIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKICAgICAgICAgICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50ZXh0ZmllbGQuVGV4dElucHV0TGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+CgogICAgICAgICAgICAgICAgPEF1dG9Db21wbGV0ZVRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9IkBzdHJpbmcvcHJvbXB0X2VtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dEVtYWlsQWRkcmVzcyIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDptYXhMaW5lcz0iMSIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIi8+CgogICAgICAgICAgICA8L2NvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50ZXh0ZmllbGQuVGV4dElucHV0TGF5b3V0PgoKICAgICAgICAgICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50ZXh0ZmllbGQuVGV4dElucHV0TGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+CgogICAgICAgICAgICAgICAgPEVkaXRUZXh0CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9IkBzdHJpbmcvcHJvbXB0X3Bhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmltZUFjdGlvbklkPSI2IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmltZUFjdGlvbkxhYmVsPSJAc3RyaW5nL2FjdGlvbl9zaWduX2luX3Nob3J0IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmltZU9wdGlvbnM9ImFjdGlvblVuc3BlY2lmaWVkIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dFBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1heExpbmVzPSIxIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiLz4KCiAgICAgICAgICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLnRleHRmaWVsZC5UZXh0SW5wdXRMYXlvdXQ+CgogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9lbWFpbF9zaWduX2luX2J1dHRvbiIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6dGV4dEFwcGVhcmFuY2VTbWFsbCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYWN0aW9uX3NpZ25faW4iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiLz4KCiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICA8L1Njcm9sbFZpZXc+CjwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0b2tlbiA9IEFwaU1hbmFnZXIuZ3Nvbgo=</text>
+        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIKICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgICAgICAgICAgIHRvb2xzOmNvbnRleHQ9Ii51aS5hY3Rpdml0eS5Ud29GYWN0b3JBdXRoSW5wdXQiPgoKICAgIDwhLS0gTG9naW4gcHJvZ3Jlc3MgLS0+CiAgICA8UHJvZ3Jlc3NCYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9sb2dpbl9wcm9ncmVzcyIKICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvcHJvZ3Jlc3NCYXJTdHlsZUxhcmdlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI4ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIvPgoKICAgIDxTY3JvbGxWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9naW5fZm9ybSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2VtYWlsX2xvZ2luX2Zvcm0iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CgogICAgICAgICAgICA8Y29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLnRleHRmaWVsZC5UZXh0SW5wdXRMYXlvdXQKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCiAgICAgICAgICAgICAgICA8QXV0b0NvbXBsZXRlVGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9lbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iQHN0cmluZy9wcm9tcHRfZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJ0ZXh0RW1haWxBZGRyZXNzIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1heExpbmVzPSIxIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiLz4KCiAgICAgICAgICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLnRleHRmaWVsZC5UZXh0SW5wdXRMYXlvdXQ+CgogICAgICAgICAgICA8Y29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLnRleHRmaWVsZC5UZXh0SW5wdXRMYXlvdXQKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCiAgICAgICAgICAgICAgICA8RWRpdFRleHQKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wYXNzd29yZCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iQHN0cmluZy9wcm9tcHRfcGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW1lQWN0aW9uSWQ9IjYiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW1lQWN0aW9uTGFiZWw9IkBzdHJpbmcvYWN0aW9uX3NpZ25faW5fc2hvcnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uVW5zcGVjaWZpZWQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJ0ZXh0UGFzc3dvcmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bWF4TGluZXM9IjEiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2luZ2xlTGluZT0idHJ1ZSIvPgoKICAgICAgICAgICAgPC9jb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwudGV4dGZpZWxkLlRleHRJbnB1dExheW91dD4KCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2VtYWlsX3NpZ25faW5fYnV0dG9uIgogICAgICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDp0ZXh0QXBwZWFyYW5jZVNtYWxsIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9hY3Rpb25fc2lnbl9pbiIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIvPgoKICAgICAgICA8L0xpbmVhckxheW91dD4KICAgIDwvU2Nyb2xsVmlldz4KPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>observer</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>observer</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
@@ -1341,8 +1351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initmap</entry>
-        <entry>init</entry>
         <entry>orientation</entry>
         <entry>fab</entry>
         <entry>sensorma</entry>
@@ -1361,6 +1369,8 @@
         <entry>button</entry>
         <entry>pref</entry>
         <entry>observer</entry>
+        <entry>onfailure</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
