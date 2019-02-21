@@ -436,7 +436,7 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550695570454">
+      <file name="/Dummy.txt" timestamp="1550723080055">
         <mark key="e" line="0" column="7" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -967,12 +967,12 @@
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1550697120397">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1550722818016">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="144" column="34" />
+        <mark key="]" line="144" column="40" />
+        <mark key="^" line="144" column="40" />
+        <mark key="." line="144" column="40" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/content_main.xml" timestamp="1493620147511">
         <mark key="[" line="2" column="66" />
@@ -1160,7 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="65" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="42" column="50" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="350" column="38" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
       <jump line="342" column="0" filename="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/MainActivity.kt" />
@@ -1258,18 +1257,19 @@
       <jump line="36" column="20" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
       <jump line="187" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
       <jump line="1" column="17" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
-      <jump line="206" column="3" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
+      <jump line="206" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
+      <jump line="87" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiPjwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.ConstraintLayout</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>support</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGhvbGRlcj8uYmluZFJlcG9JbmZvKHRyZW5kaW5nQ2FyZHNbcG9zaXRpb25dLnJlcG8pCiAgICAgICAgaG9sZGVyPy5iaW5kQ29udHJpYnV0b3JzKHRyZW5kaW5nQ2FyZHNbcG9zaXRpb25dLmNvbnRyaWJ1dG9ycykKICAgICAgICBob2xkZXI/LmJpbmRTdGFyc1RpbWVJbnRlcnZhbCh0cmVuZGluZ0NhcmRzW3Bvc2l0aW9uXS5zdGFyc1RpbWVJbnRlcnZhbCk=</text>
@@ -1306,9 +1306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>support</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>support</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -1316,7 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
         <entry>oncrea</entry>
         <entry>onmap</entry>
         <entry>map</entry>
@@ -1336,6 +1335,7 @@
         <entry>kotlin</entry>
         <entry>context</entry>
         <entry>auth</entry>
+        <entry>support</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
