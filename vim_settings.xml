@@ -74,6 +74,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/UndergroundNav/app/build.gradle" timestamp="1550809736235">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Cons.java" timestamp="1491282606906">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="11" column="38" />
@@ -271,6 +276,9 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1550810208163">
+        <mark key="'" line="89" column="17" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
@@ -465,6 +473,11 @@
         <mark key="]" line="84" column="43" />
         <mark key="^" line="84" column="42" />
         <mark key="." line="84" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/UndergroundNav/build.gradle" timestamp="1550809583751">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/settings.gradle" timestamp="1524537980788">
         <mark key="[" line="1" column="0" />
@@ -1042,6 +1055,13 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/BLEPeakDetectionProvider.java" timestamp="1550810111499">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_login.xml" timestamp="1491546615103">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="45" />
@@ -1143,11 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="70" column="41" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="22" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="97" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
       <jump line="31" column="42" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout-v26/activity_login.xml" />
       <jump line="85" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="76" column="47" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
@@ -1243,55 +1258,60 @@
       <jump line="56" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="0" column="4" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
+      <jump line="0" column="8" filename="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/BLEPeakDetectionProvider.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="224" column="34" filename="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="172" column="17" filename="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
+      <jump line="89" column="17" filename="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text>consume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBhcGk6IEFwaQo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIMOpwofCh8OmwqDCt8OmwpXCsMOmwo3CrsOlwpvCnsOowrDCgwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgKiDDqcKHwofDpcKIwrDDpMK4P8Omwp3CocOmwqDCt8OmwpzCrMOmwpXCsMOmwo0/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcGlNYW5hZ2VyLnRva2VuCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWtlCg==</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3IgRXRoYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nav</last-search>
+      <last-search>consume</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern>consume</last-pattern>
       <last-replace>E</last-replace>
       <last-substitute>task</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,7 +1319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCreate</entry>
         <entry>aplist</entry>
         <entry>pad</entry>
         <entry>x</entry>
@@ -1319,6 +1338,7 @@
         <entry>recycler</entry>
         <entry>trending</entry>
         <entry>nav</entry>
+        <entry>consume</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
