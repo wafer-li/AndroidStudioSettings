@@ -505,6 +505,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/mdzz-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1550805060166">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task3/src/Task.kt" timestamp="1493290861113">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="44" />
@@ -1243,7 +1249,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
@@ -1255,7 +1261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
@@ -1264,19 +1270,19 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNC4wLjMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcGlNYW5hZ2VyLnRva2VuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWtlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcGlNYW5hZ2VyLnRva2VuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWtlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
