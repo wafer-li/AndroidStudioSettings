@@ -45,13 +45,6 @@
         <mark key="." line="41" column="22" />
         <mark key="^" line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/build.gradle" timestamp="1524537977474">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="85" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-        <mark key="^" line="33" column="35" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/LifeUniverseAndEverything.kt" timestamp="1493320521329">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -109,13 +102,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" timestamp="1550783761531">
         <mark key="'" line="703" column="38" />
-      </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" timestamp="1550773161329">
-        <mark key="'" line="63" column="17" />
-        <mark key="[" line="78" column="87" />
-        <mark key="]" line="78" column="95" />
-        <mark key="." line="78" column="95" />
-        <mark key="^" line="78" column="95" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/gradle.properties" timestamp="1493448355895">
         <mark key="[" line="19" column="13" />
@@ -207,25 +193,11 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="75" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/spoj/src/PrimeGenerator.kt" timestamp="1502340192996">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/ui/adapters/MainRecyclerAdpater.kt" timestamp="1515201672846">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="30" column="111" />
         <mark key="." line="30" column="111" />
         <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/register.jsp" timestamp="1499688067512">
-        <mark key="'" line="219" column="12" />
-        <mark key="[" line="64" column="52" />
-        <mark key="]" line="64" column="40" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="64" column="40" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/MyApplication/build.gradle" timestamp="1495065407334">
         <mark key="[" line="9" column="76" />
@@ -245,12 +217,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1550774041552">
-        <mark key="'" line="46" column="30" />
-        <mark key="[" line="46" column="31" />
-        <mark key="]" line="46" column="49" />
-        <mark key="." line="46" column="49" />
-        <mark key="^" line="46" column="49" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1550793896970">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
         <mark key="[" line="9" column="30" />
@@ -316,13 +288,6 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" timestamp="1550416827241">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/GithubService.java" timestamp="1495285537123">
         <mark key="[" line="48" column="42" />
         <mark key="]" line="48" column="42" />
@@ -341,12 +306,12 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="26" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" timestamp="1550754094791">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" timestamp="1550793833607">
         <mark key="'" line="11" column="57" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="27" column="50" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="27" column="60" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
         <mark key="[" line="0" column="0" />
@@ -476,13 +441,6 @@
         <mark key="^" line="495" column="31" />
         <mark key="." line="495" column="31" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/resources/struts/struts-common.xml" timestamp="1499702253887">
-        <mark key="'" line="238" column="16" />
-        <mark key="[" line="128" column="55" />
-        <mark key="]" line="128" column="51" />
-        <mark key="." line="128" column="51" />
-        <mark key="^" line="128" column="51" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/Api.kt" timestamp="1492256395989">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="18" />
@@ -501,13 +459,6 @@
         <mark key="]" line="84" column="43" />
         <mark key="^" line="84" column="42" />
         <mark key="." line="84" column="43" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/course/courseSelect.jsp" timestamp="1499697400436">
-        <mark key="'" line="63" column="27" />
-        <mark key="[" line="160" column="38" />
-        <mark key="]" line="160" column="38" />
-        <mark key="^" line="160" column="38" />
-        <mark key="." line="160" column="38" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/settings.gradle" timestamp="1524537980788">
         <mark key="[" line="1" column="0" />
@@ -600,13 +551,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" timestamp="1550782356190">
         <mark key="'" line="455" column="33" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/KaratsubaMutiplication.kt" timestamp="1545881901833">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="72" column="1" />
-        <mark key="^" line="67" column="49" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson4/task1/src/Task.kt" timestamp="1493290230122">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="22" />
@@ -643,13 +587,6 @@
         <mark key="]" line="95" column="59" />
         <mark key="^" line="95" column="59" />
         <mark key="." line="95" column="59" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberMinus.kt" timestamp="1545813598729">
-        <mark key="'" line="40" column="14" />
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/TestProject/src/Test.kt" timestamp="1493218536430">
         <mark key="[" line="13" column="26" />
@@ -750,13 +687,6 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/build.gradle" timestamp="1515244876226">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/webapp/jsp/manage/configInfo.jsp" timestamp="1499697546520">
         <mark key="[" line="55" column="31" />
         <mark key="]" line="55" column="31" />
@@ -809,13 +739,6 @@
         <mark key="." line="10" column="85" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/util/DwrUtil.java" timestamp="1499688576627">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="37" />
-        <mark key="." line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/res/layout/search_fragment.xml" timestamp="1495189498849">
         <mark key="[" line="29" column="49" />
         <mark key="]" line="29" column="49" />
@@ -864,13 +787,6 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/ApiManager.kt" timestamp="1527725483776">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="36" column="17" />
-        <mark key="^" line="36" column="17" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/application/MoralApplication.kt" timestamp="1492252389943">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="41" />
@@ -912,13 +828,6 @@
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/AlgorithmsExample/src/BigNumberAdd.kt" timestamp="1545813618281">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task4/src/Task.kt" timestamp="1493292389426">
         <mark key="[" line="19" column="64" />
@@ -1008,13 +917,6 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" timestamp="1550765767758">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/Request.java" timestamp="1550787218613" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/repo_card.xml" timestamp="1550774840444">
         <mark key="'" line="158" column="18" />
@@ -1032,11 +934,11 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1550762602410">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="6" column="62" />
-        <mark key="^" line="6" column="62" />
-        <mark key="." line="6" column="62" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/values/strings.xml" timestamp="1550793741300">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/model/network/TrendingCard.kt" timestamp="1493923064344">
         <mark key="[" line="8" column="99" />
@@ -1073,13 +975,6 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/LoginAction.java" timestamp="1499758354633">
-        <mark key="'" line="54" column="41" />
-        <mark key="[" line="113" column="57" />
-        <mark key="]" line="114" column="30" />
-        <mark key="." line="114" column="30" />
-        <mark key="^" line="114" column="30" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1495188079577">
         <mark key="[" line="21" column="71" />
@@ -1180,8 +1075,8 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1550764125277">
-        <mark key="[" line="18" column="20" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1550794039871">
+        <mark key="[" line="20" column="5" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
@@ -1221,8 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="26" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
-      <jump line="22" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="32" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="24" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
       <jump line="30" column="7" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
@@ -1321,13 +1214,15 @@
       <jump line="703" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" />
       <jump line="455" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
       <jump line="22" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/target/GlideDrawableImageViewTarget.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
+      <jump line="111" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>recycler</text>
@@ -1336,31 +1231,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZCgiTG9naW4gRXJyb3IiLCBlLm1lc3NhZ2UoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAudG9Kc29uVHJlZShpdC5zdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0UHJvcGVydHkoInRva2VuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0VmlldyIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJhbmRyb2lkLnN0dWRpb0BhbmRyb2lkLmNvbSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgIDxUZXh0Vmlldwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
