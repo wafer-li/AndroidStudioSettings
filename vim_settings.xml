@@ -416,6 +416,13 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" timestamp="1550827648265">
+        <mark key="'" line="18" column="34" />
+        <mark key="[" line="53" column="40" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/mdzz-android/app/src/main/java/com/mdzz/loveandroid/ui/activity/find/FindZoneActivity.java" timestamp="1550813566303">
         <mark key="[" line="110" column="37" />
         <mark key="]" line="111" column="27" />
@@ -1173,9 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
-      <jump line="744" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar!/com/google/gson/Gson.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
       <jump line="42" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="115" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="119" column="67" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
@@ -1273,46 +1277,49 @@
       <jump line="11" column="15" filename="$USER_HOME$/Desktop/mdzz-android/app/build.gradle" />
       <jump line="58" column="6" filename="$USER_HOME$/Desktop/UndergroundNav/app/build.gradle" />
       <jump line="38" column="41" filename="$USER_HOME$/Desktop/mdzz-android/app/build.gradle" />
+      <jump line="43" column="7" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
+      <jump line="42" column="8" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
+      <jump line="18" column="34" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja1RvUHJldmlvdXNBY3RpY2l0eSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>consume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja1RvUHJldmlvdXNBY3RpY2l0eSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOmxvZ2dpbmctaW50ZXJjZXB0b3I6My4yLjAnCg==</text>
+        <text encoding="base64">ICAgIG9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246Mi4xLjAnCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6cmV0cm9maXQ6Mi4xLjAnCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25LZXlTaG9ydGN1dChrZXlDb2RlLCBldmVudCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qIFJldHJvZml0IDIgKi8K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbktleVNob3J0Y3V0KGtleUNvZGU6IEludCwgZXZlbnQ6IEtleUV2ZW50Pyk6IEJvb2xlYW4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
