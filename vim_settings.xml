@@ -87,8 +87,8 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1550737596853">
-        <mark key="'" line="76" column="47" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" timestamp="1551361320332">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="24" />
         <mark key="^" line="62" column="28" />
@@ -234,8 +234,8 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1550800889403">
-        <mark key="'" line="57" column="7" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1551361067729">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="151" column="49" />
         <mark key="]" line="152" column="47" />
         <mark key="." line="152" column="47" />
@@ -322,6 +322,12 @@
         <mark key="]" line="24" column="39" />
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/services/TrendingClawIntentService.kt" timestamp="1551361270515">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1491243510673">
         <mark key="[" line="0" column="0" />
@@ -486,9 +492,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/settings.gradle" timestamp="1524537980788">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/build.gradle" timestamp="1524537087662">
         <mark key="[" line="109" column="40" />
@@ -754,12 +757,12 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1550796794007">
-        <mark key="'" line="59" column="28" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="126" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1551361149060">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="119" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -905,9 +908,6 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/java/com/ictchina/rssifindap/network/Api.kt" timestamp="1527725675009">
-        <mark key="[" line="13" column="4" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContributorAdapter.kt" timestamp="1550775812639">
         <mark key="[" line="27" column="48" />
         <mark key="]" line="39" column="14" />
@@ -919,9 +919,6 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1545882424014">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/layout/activity_moral_looking.xml" timestamp="1491547519046">
         <mark key="[" line="7" column="61" />
@@ -954,9 +951,6 @@
         <mark key="]" line="181" column="0" />
         <mark key="^" line="11" column="61" />
         <mark key="." line="181" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1550797567644">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/content_main.xml" timestamp="1493620147511">
         <mark key="[" line="2" column="66" />
@@ -1153,10 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
-      <jump line="115" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="119" column="67" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="122" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="125" column="59" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="175" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="40" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
@@ -1203,7 +1193,6 @@
       <jump line="22" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="40" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="46" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="39" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
       <jump line="460" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" />
@@ -1253,13 +1242,18 @@
       <jump line="43" column="7" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
       <jump line="42" column="8" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
       <jump line="18" column="34" filename="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/ictchina/myapplication/MainActivity.kt" />
+      <jump line="61" column="24" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/services/TrendingClawIntentService.kt" />
+      <jump line="36" column="28" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/services/TrendingClawIntentService.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwaU1hbmFnZXIudHJlbmRpbmdBcGkuZ2V0VHJlbmRpbmcoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>consume</text>
@@ -1268,31 +1262,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwaU1hbmFnZXIudHJlbmRpbmdBcGkuZ2V0VHJlbmRpbmcoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvblN1YnNjcmliZSIsICJTISIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25LZXlTaG9ydGN1dChrZXlDb2RlLCBldmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkNvbXBsZXRlIiwgIkMhIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbktleVNob3J0Y3V0KGtleUNvZGU6IEludCwgZXZlbnQ6IEtleUV2ZW50Pyk6IEJvb2xlYW4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkVSUk9SIiwgIkUhIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbk5leHQiLCAiTiEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkVSUk9SIiwgIkUhIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
