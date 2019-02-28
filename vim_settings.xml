@@ -111,9 +111,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" timestamp="1550783761531">
-        <mark key="'" line="703" column="38" />
-      </file>
       <file name="$USER_HOME$/Desktop/mdzz-android/app/build.gradle" timestamp="1550813829111">
         <mark key="'" line="43" column="41" />
         <mark key="[" line="11" column="5" />
@@ -128,7 +125,6 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/utils/AccessPointSmoother.java" timestamp="1550816854966" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/gradle.properties" timestamp="1493448355895">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="17" column="0" />
@@ -171,9 +167,6 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar!/com/google/gson/Gson.java" timestamp="1550740715434">
-        <mark key="'" line="744" column="4" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.java" timestamp="1495719578133">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="75" column="7" />
@@ -209,9 +202,6 @@
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/mapview/src/main/java/com/onlylemi/mapview/library/layer/MarkLayer.java" timestamp="1524566693717">
-        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/AndroidManifest.xml" timestamp="1524623713280">
         <mark key="[" line="6" column="75" />
@@ -280,7 +270,7 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1550810208163">
+      <file name="$USER_HOME$/Desktop/UndergroundNav/app/src/main/java/edu/bupt/sse/undergroundnav/services/DataService.java" timestamp="1551351165988">
         <mark key="'" line="89" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
@@ -589,9 +579,6 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" timestamp="1550782356190">
-        <mark key="'" line="455" column="33" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/application/ToyGitHubClientApplication.kt" timestamp="1550748546510">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -676,9 +663,6 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0-alpha04/870733dc7b6530396cd37e2c52808e2a438f1f82/fragment-1.1.0-alpha04-sources.jar!/androidx/fragment/app/FragmentActivity.java" timestamp="1550763315508">
-        <mark key="'" line="883" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/forcomp/src/main/scala/forcomp/A.kt" timestamp="1492927673754">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="8" />
@@ -756,9 +740,6 @@
         <mark key="]" line="4" column="85" />
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/target/GlideDrawableImageViewTarget.java" timestamp="1550782843399">
-        <mark key="'" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/CourseAction.java" timestamp="1499702216713">
         <mark key="[" line="46" column="31" />
@@ -960,9 +941,6 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/ui/common/RepoListAdapter.java" timestamp="1515206238676">
-        <mark key="'" line="53" column="12" />
-      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/TestData.kt" timestamp="1491546204589">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="70" />
@@ -1050,9 +1028,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Headers.java" timestamp="1550750938652">
-        <mark key="'" line="115" column="17" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/UserAuthentication.kt" timestamp="1491546176676">
         <mark key="[" line="10" column="49" />
@@ -1156,9 +1131,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="75" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/DrawableTypeRequest.java" timestamp="1550774910200">
-        <mark key="'" line="56" column="8" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task8/src/Task.kt" timestamp="1493219649644">
         <mark key="[" line="3" column="4" />
