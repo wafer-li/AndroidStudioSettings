@@ -9,11 +9,11 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/util/CredentialHelper.java" timestamp="1551374749547">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-        <mark key="^" line="13" column="53" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/util/CredentialHelper.java" timestamp="1551377110825">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+        <mark key="^" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/app_bar_main.xml" timestamp="1550753545266">
         <mark key="[" line="20" column="0" />
@@ -1277,10 +1277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3JldEtleS4K</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>tabs</text>
@@ -1289,31 +1289,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3JldEtleS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3JldEtleS5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHByZWYuZ2V0U3RyaW5nKENvbnN0YW50cy5QUkVGX09BVVRIX1RPS0VOLCAiIikhIS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgIENpcGhlciBjaXBoZXIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgIEtleUdlbmVyYXRvciBnZW5lcmF0b3IgPSBLZXlHZW5lcmF0b3IuZ2V0SW5zdGFuY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NlcnZpY2U+Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NUT1JFID0gImNvbS53YWZlci50b3kuZ2l0aHViY2xpZW50K0tleVN0b3JlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
