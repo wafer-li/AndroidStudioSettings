@@ -234,12 +234,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1551366348947">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="151" column="49" />
-        <mark key="]" line="152" column="47" />
-        <mark key="." line="152" column="47" />
-        <mark key="^" line="152" column="47" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" timestamp="1551367614072">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="148" column="47" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson1/task11/src/Task.kt" timestamp="1493220333190">
         <mark key="[" line="9" column="30" />
@@ -757,12 +757,11 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1551366205092">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="126" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" timestamp="1551367880546">
+        <mark key="'" line="133" column="16" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/strings.xml" timestamp="1492353397821">
         <mark key="[" line="3" column="19" />
@@ -1153,13 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="31" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="40" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="51" column="39" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="115" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Headers.java" />
-      <jump line="94" column="6" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
-      <jump line="254" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
-      <jump line="40" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
       <jump line="289" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/TwoFactorAuthInput.kt" />
       <jump line="11" column="57" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/nav_header_main.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
@@ -1253,13 +1245,20 @@
       <jump line="27" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/build.gradle" />
       <jump line="56" column="25" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="87" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
+      <jump line="124" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="110" column="27" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="91" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="146" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="58" column="34" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="114" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
+      <jump line="129" column="16" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createTrendingService(TrendingApi::class.java)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>createTrendingService(TrendingApi::class.java)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>tabs</text>
@@ -1268,31 +1267,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwaU1hbmFnZXIudHJlbmRpbmdBcGkuZ2V0VHJlbmRpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvblN1YnNjcmliZSIsICJTISIpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3BlbkxvYWQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkNvbXBsZXRlIiwgIkMhIikK</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3BlbkxvYWQpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkVSUk9SIiwgIkUhIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZERhdGEoc2luY2UsICFpc0xvYWRlZCwgb2JzZXJ2ZXIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbk5leHQiLCAiTiEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNGcmFnbWVudFZpc2libGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJvbkVSUk9SIiwgIkUhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1303,7 +1302,7 @@
       <last-offset />
       <last-pattern>tabs</last-pattern>
       <last-replace>E</last-replace>
-      <last-substitute>task</last-substitute>
+      <last-substitute>tabs</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
