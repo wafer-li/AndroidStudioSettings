@@ -74,6 +74,7 @@
         <mark key="^" line="38" column="62" />
         <mark key="." line="38" column="62" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/http/HttpCodec.java" timestamp="1552253412312" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/styles.xml" timestamp="1491548790150">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -538,7 +539,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1551373981241">
+      <file name="/fragment.java" timestamp="1552253307411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="44" />
@@ -1141,7 +1142,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/AuthenticationInterceptor.kt" timestamp="1550769271932">
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/interceptors/AuthenticationInterceptor.kt" timestamp="1552253524739">
         <mark key="[" line="16" column="70" />
         <mark key="]" line="16" column="69" />
         <mark key="." line="16" column="69" />
