@@ -74,7 +74,6 @@
         <mark key="^" line="38" column="62" />
         <mark key="." line="38" column="62" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/http/HttpCodec.java" timestamp="1552253412312" />
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/res/values/styles.xml" timestamp="1491548790150">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -299,6 +298,11 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/build.gradle" timestamp="1552630982614">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/android-architecture-components/GithubBrowserSample/app/src/main/java/com/android/example/github/api/GithubService.java" timestamp="1495285537123">
         <mark key="[" line="48" column="42" />
