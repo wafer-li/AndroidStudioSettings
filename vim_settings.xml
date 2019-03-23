@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" timestamp="1551992128886">
-        <mark key="'" line="23" column="15" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="37" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" timestamp="1553310902323">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -16,13 +15,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;A man, a plan, a canal: Panama&quot;);</text>
+        <text>P</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;A man, a plan, a canal: Panama&quot;);</text>
+        <text>P</text>
       </register>
     </registers>
     <search>
@@ -30,9 +29,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
