@@ -3,19 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" timestamp="1553318128569">
-        <mark key="[" line="70" column="3" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+      <file name="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" timestamp="1553346162171">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
     </filemarks>
     <jumps>
       <jump line="23" column="15" filename="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGludFtdW10gYSA9IHt7MSwgMiwgM30sIHs0LCA1LCA2fX07Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludFtdW10gYSA9IHt7MSwgMiwgM30sIHs0LCA1LCA2fX07Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5ldyBTb2x1dGlvbigpLmxvd2VzdENvbW1vbkFuY2VzdG9yKHJvb3QsIHJvb3QubGVmdCwgcm9vdC5sZWZ0LnJpZ2h0LnJpZ2h0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJvb3QubGVmdC5yaWdodC5yaWdodCA9IG5ldyBUcmVlTm9kZSg0KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJvb3QubGVmdC5yaWdodCA9IG5ldyBUcmVlTm9kZSgyKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJvb3QubGVmdCA9IG5ldyBUcmVlTm9kZSg1KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFRyZWVOb2RlIHJvb3QgPSBuZXcgVHJlZU5vZGUoMyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
