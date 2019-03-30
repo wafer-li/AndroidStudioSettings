@@ -275,6 +275,9 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" timestamp="1553915211762">
+        <mark key="'" line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/UndergroundNav/app/src/main/res/layout/activity_bayesian.xml" timestamp="1490191544653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="39" />
@@ -1170,11 +1173,10 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1553914264039">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1553915133725">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/LeetCode/src/1.TwoSum.kt" timestamp="1515331123470">
         <mark key="[" line="5" column="3" />
@@ -1214,13 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
-      <jump line="34" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="92" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
-      <jump line="103" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
-      <jump line="22" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
-      <jump line="41" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="46" column="30" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/MainActivity.kt" />
       <jump line="39" column="43" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
@@ -1314,10 +1309,17 @@
       <jump line="1044" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/cache/DiskLruCache.java" />
       <jump line="32" column="18" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="125" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
+      <jump line="61" column="56" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
+      <jump line="70" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/adapter/TrendingContentAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gdWkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>androidx.constraintlayout.widget.ConstraintLayout</text>
@@ -1329,31 +1331,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gdWkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gdWkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczp0ZXh0PSJoZWhlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczp0ZXh0PSJoZWhlIgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsYXlvdXRNYW5hZ2VyPSJhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LkxpbmVhckxheW91dE1hbmFnZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvUmlnaHRPZj0iQCtpZC9idWlsdF9ieV90ZXh0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsYXlvdXRNYW5hZ2VyPSJhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LkxpbmVhckxheW91dE1hbmFnZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsaXN0aXRlbT0iQGxheW91dC9hY3Rpdml0eV9sb2dpbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvUmlnaHRPZj0iQCtpZC9idWlsdF9ieV90ZXh0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsaXN0aXRlbT0iQGxheW91dC9hY3Rpdml0eV9sb2dpbiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
