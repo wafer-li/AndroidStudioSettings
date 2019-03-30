@@ -22,11 +22,10 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/untitled/src/com/wafer/Solution.java" timestamp="1553785157867">
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
+      <file name="$USER_HOME$/Desktop/untitled/src/com/wafer/Solution.java" timestamp="1553914219754">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/test/src/com/wafer/Main.java" timestamp="1553576603072">
         <mark key="[" line="3" column="6" />
@@ -40,8 +39,8 @@
       <jump line="27" column="40" filename="$USER_HOME$/Programming/IdeaProjects/Java. Introduction/Intro/Theory/src/Task.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gaGVhZCArIDE7CiAgICAgICAgICAgICAgICB3aGlsZSAoaSA8IG4gJiYgbnVtc1tpXSA9PSAwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -50,30 +49,30 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29uc3RydWN0b3IiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cmljdGZwIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gaGVhZCArIDE7CiAgICAgICAgICAgICAgICB3aGlsZSAoaSA8IG4gJiYgbnVtc1tpXSA9PSAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVxdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmljdGZwIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIE8K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>public A() {
-    System.out.println(&quot;Constructor&quot;);
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>public A() {
+    System.out.println(&quot;Constructor&quot;);
+  }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
