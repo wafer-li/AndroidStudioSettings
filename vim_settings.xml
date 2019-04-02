@@ -130,6 +130,12 @@
         <mark key="." line="80" column="39" />
         <mark key="^" line="80" column="39" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/res/values/strings.xml" timestamp="1554221266538">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="170" column="48" />
+        <mark key="." line="170" column="48" />
+        <mark key="^" line="170" column="48" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/gradle.properties" timestamp="1493448355895">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="17" column="0" />
@@ -259,6 +265,12 @@
         <mark key="]" line="1" column="78" />
         <mark key="^" line="1" column="78" />
         <mark key="." line="1" column="78" />
+      </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/res/layout/activity_perfect_info.xml" timestamp="1554220514529">
+        <mark key="[" line="292" column="16" />
+        <mark key="]" line="296" column="56" />
+        <mark key="." line="292" column="0" />
+        <mark key="^" line="292" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/model/response/BaseResponse.kt" timestamp="1492256506946">
         <mark key="[" line="8" column="43" />
@@ -419,6 +431,12 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/res/layout/fragment_vehicle_extra.xml" timestamp="1554223478540">
+        <mark key="[" line="332" column="25" />
+        <mark key="]" line="333" column="59" />
+        <mark key="^" line="333" column="59" />
+        <mark key="." line="333" column="59" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/Moral/app/src/main/kotlin/com/wafer/moral/NetworkResponses.kt" timestamp="1492250511186">
         <mark key="[" line="9" column="109" />
         <mark key="]" line="9" column="107" />
@@ -450,6 +468,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/res/layout/layout_vehicle_credentials_photo.xml" timestamp="1554222367379">
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="37" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/RssiFindAP/app/src/main/res/values/strings.xml" timestamp="1515195602447">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="34" />
@@ -479,7 +502,7 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554098825173">
+      <file name="/Dummy.txt" timestamp="1554223485136">
         <mark key="e" line="0" column="7" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -922,6 +945,9 @@
         <mark key="." line="71" column="18" />
         <mark key="^" line="71" column="18" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/java/com/wulianshuntong/driver/components/personalcenter/personalinfo/PerfectInfoActivity.java" timestamp="1554218909377">
+        <mark key="'" line="133" column="22" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/KotlinKoans/lesson5/task1/src/Task.kt" timestamp="1493291233650">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="44" />
@@ -1177,6 +1203,12 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/Api.kt" timestamp="1550794068356">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+      </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/LeetCode/src/1.TwoSum.kt" timestamp="1515331123470">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="5" column="3" />
@@ -1215,7 +1247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
       <jump line="34" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
       <jump line="92" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
@@ -1315,46 +1346,47 @@
       <jump line="8" column="23" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/build.gradle" />
       <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/build.gradle" />
       <jump line="183" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/build.gradle" />
+      <jump line="133" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/java/com/wulianshuntong/driver/components/personalcenter/personalinfo/PerfectInfoActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
+      <register name="&quot;" type="4">
+        <text>visible</text>
       </register>
       <register name="-" type="4">
-        <text>androidx.constraintlayout.widget.ConstraintLayout</text>
+        <text>visible</text>
       </register>
       <register name="/" type="4">
         <text>recycler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgib25TYXZlSW5zdGFuY2UiLCAic2F2ZUluc3RhbmNlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2hhc19jb21tZXJjaWFsX2luc3VyYW5jZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczp0ZXh0PSJoZWhlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9ob3Jpem9udGFsX21hcmdpbiIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsYXlvdXRNYW5hZ2VyPSJhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LkxpbmVhckxheW91dE1hbmFnZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvRGl2aWRlci5Ib3Jpem9udGFsIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvUmlnaHRPZj0iQCtpZC9idWlsdF9ieV90ZXh0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sczpsaXN0aXRlbT0iQGxheW91dC9hY3Rpdml0eV9sb2dpbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2hhc19jb21tZXJjaWFsX2luc3VyYW5jZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b29sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2XyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
