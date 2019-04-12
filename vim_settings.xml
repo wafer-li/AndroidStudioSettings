@@ -164,6 +164,11 @@
         <mark key="." line="292" column="0" />
         <mark key="^" line="292" column="0" />
       </file>
+      <file name="D:/Programming/IdeaProjects/example-mcmod/build.gradle" timestamp="1555107656315">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_two_factor_auth_input.xml" timestamp="1550756486572">
         <mark key="[" line="37" column="59" />
         <mark key="]" line="38" column="62" />
@@ -314,7 +319,7 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1555106032572">
+      <file name="/HTML File.txt.ft" timestamp="1555107130117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/junk-spm/src/main/java/com/buptsse/spm/action/PreAction.java" timestamp="1499702079628">
@@ -434,6 +439,9 @@
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="3" />
+      </file>
+      <file name="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" timestamp="1555107171378">
+        <mark key="'" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
         <mark key="[" line="14" column="0" />
@@ -585,7 +593,7 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554223485136">
+      <file name="/Dummy.txt" timestamp="1555108082201">
         <mark key="e" line="0" column="7" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1250,10 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
-      <jump line="34" column="37" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="92" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/res/layout/activity_login.xml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/network/ApiManager.kt" />
       <jump line="103" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
       <jump line="22" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
@@ -1350,10 +1354,14 @@
       <jump line="46" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/build.gradle" />
       <jump line="183" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/build.gradle" />
       <jump line="133" column="22" filename="$USER_HOME$/Programming/AndroidStudioProjects/driver_Android/app/src/main/java/com/wulianshuntong/driver/components/personalcenter/personalinfo/PerfectInfoActivity.java" />
+      <jump line="35" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
+      <jump line="112" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
+      <jump line="67" column="35" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
+      <jump line="84" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>visible</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>visible</text>
@@ -1374,22 +1382,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9ob3Jpem9udGFsX21hcmdpbiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvRGl2aWRlci5Ib3Jpem9udGFsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9ob3Jpem9udGFsX21hcmdpbiIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2hhc19jb21tZXJjaWFsX2luc3VyYW5jZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvRGl2aWRlci5Ib3Jpem9udGFsIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2XyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2hhc19jb21tZXJjaWFsX2luc3VyYW5jZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
