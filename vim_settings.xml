@@ -440,8 +440,8 @@
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="3" />
       </file>
-      <file name="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" timestamp="1555107171378">
-        <mark key="'" line="84" column="0" />
+      <file name="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" timestamp="1555144639770">
+        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/IdeaProjects/scala-coursera/exercise/src/main/scala/week6/SeqHighOrder.sc" timestamp="1492797126975">
         <mark key="[" line="14" column="0" />
@@ -1258,7 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/activity/LoginActivity.kt" />
       <jump line="22" column="40" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient/app/src/main/kotlin/com/wafer/toy/githubclient/ui/fragment/TrendingContentFragment.kt" />
@@ -1358,6 +1357,7 @@
       <jump line="112" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
       <jump line="67" column="35" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
       <jump line="84" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
+      <jump line="27" column="0" filename="D:/Programming/IdeaProjects/example-mcmod/src/main/java/li/wafer/example/Example.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
