@@ -1,11 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
     <option name="overrideAccentColor" value="true" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-61b4fbda:16a137d2173:-8000" />
-    <option name="version" value="3.9.0.3" />
+    <option name="version" value="3.9.4" />
   </component>
 </application>
