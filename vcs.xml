@@ -58,6 +58,10 @@
           <option name="url" value="git@47.94.217.232:client/driver_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:wafer-li/mcd-101.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Programming/AndroidStudioProjects" />
