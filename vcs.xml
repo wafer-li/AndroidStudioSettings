@@ -62,7 +62,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Programming/AndroidStudioProjects" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Programming/AndroidStudioProjects/ToyGitHubClient" />
-  </component>
 </application>
